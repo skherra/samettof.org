@@ -3,14 +3,14 @@
 <!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"> <![endif]-->
 <html lang="en">
 
-    {% include head.html %}
+    {% include_relative /head.html %}
 
     <body>
       <!-- Full Body Container -->
       <div id="container">
-          {% include header.html %}
+          {% include_relative /header.html %}
           {{ content }}
-          {% include footer.html %}
+          {% include_relative /footer.html %}
       </div>
       <!-- End Full Body Container -->
 
