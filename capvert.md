@@ -3,5 +3,5 @@ layout: default
 permalink: /capvert
 ---
 
-{% include_relative /banierepays.html %}
-{% include_relative /pays/lanzarote.html %}
+{% include_relative /template/baniereatlantique.html %}
+{% include_relative /pays/capvert.html %}
