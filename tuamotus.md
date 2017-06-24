@@ -4,4 +4,4 @@ permalink: /tuamotus
 ---
 
 {% include_relative /banierepays.html %}
-{% include_relative /faka.html %}
+{% include_relative /pays/faka.html %}

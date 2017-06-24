@@ -4,4 +4,4 @@ permalink: /canaries
 ---
 
 {% include_relative /banierepays.html %}
-{% include_relative /lanzarote.html %}
+{% include_relative /pays/lanzarote.html %}

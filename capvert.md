@@ -4,4 +4,4 @@ permalink: /capvert
 ---
 
 {% include_relative /banierepays.html %}
-{% include_relative /saovicente.html %}
+{% include_relative /pays/lanzarote.html %}
