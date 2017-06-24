@@ -1,0 +1,12 @@
+.section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.project-slider.item img {
+    width: auto;
+    height: 225px;
+    max-height: 225px;
+    border-width: 1px;
+    border-color: red;
+}
