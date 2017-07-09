@@ -1,12 +1,19 @@
 .section {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
-.project-slider.item img {
-    width: auto;
-    height: 225px;
-    max-height: 225px;
-    border-width: 1px;
-    border-color: red;
+.touch-slider {
+  height: 350px;
+  display: block;
+}
+
+.touch-slider img {
+  max-height: 350px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: block;
 }
