@@ -1,4 +1,30 @@
 
+/* Banners ------------------------------------------------------------------ */
+
+#banner-default {
+  padding: 40px 0;
+  background: url(/images/banner/bleu.gif) center #f9f9f9;
+}
+#banner-pacifique {
+  padding: 40px 0;
+  background: url(/images/banner/pacifique.jpg) center #f9f9f9;
+}
+#banner-caraibes {
+  padding: 40px 0;
+  background: url(/images/banner/caraibes.jpg) center #f9f9f9;
+}
+#banner-indien {
+  padding: 40px 0;
+  background: url(/images/banner/indien.jpg) center #f9f9f9;
+}
+#banner-atlantique {
+  padding: 40px 0;
+  background: url(/images/banner/atlantique.jpg) center #f9f9f9;
+}
+
+
+/* -------------------------------------------------------------------------- */
+
 /* Fix sections */
 
 .section {
@@ -57,4 +83,9 @@ footer {
   border-top: 0;
   border-bottom: 0;
   background: #f9f9f9;
+}
+
+.page-banner h2 {
+  color: white;
+	text-shadow: 0px 0px 20px #36353A;
 }
