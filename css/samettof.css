@@ -7,13 +7,15 @@
 }
 
 /* Fix footer */
-
+body {
+  background: #222;
+}
 footer {
-    padding-top: 0px;
+  padding-top: 0px;
 }
 
 .copyright-section {
-    padding: 0px 0;
+  padding: 0px 0;
 }
 
 /* Home page Caroussel */
