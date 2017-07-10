@@ -17,3 +17,14 @@
   margin-bottom: auto;
   display: block;
 }
+
+#portfolio-list li img {
+  overflow: hidden;
+  height: 100%;
+}
+
+#parallax-one {
+  border-top: 0;
+  border-bottom: 0;
+  background: #f9f9f9;
+}
