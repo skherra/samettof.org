@@ -28,3 +28,11 @@
   border-bottom: 0;
   background: #f9f9f9;
 }
+
+footer {
+    padding-top: 0px;
+}
+
+.copyright-section {
+    padding: 0px 0;
+}
