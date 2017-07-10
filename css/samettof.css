@@ -1,7 +1,60 @@
+
+/* Banners ------------------------------------------------------------------ */
+
+#banner-default {
+  padding: 40px 0;
+  background: url(/images/banner/bleu.gif) center #f9f9f9;
+}
+#banner-pacifique {
+  padding: 40px 0;
+  background: url(/images/banner/pacifique.jpg) center #f9f9f9;
+}
+#banner-caraibes {
+  padding: 40px 0;
+  background: url(/images/banner/caraibes.jpg) center #f9f9f9;
+}
+#banner-indien {
+  padding: 40px 0;
+  background: url(/images/banner/indien.jpg) center #f9f9f9;
+}
+#banner-atlantique {
+  padding: 40px 0;
+  background: url(/images/banner/atlantique.jpg) center #f9f9f9;
+}
+
+
+/* -------------------------------------------------------------------------- */
+
+/* Fix sections */
+
 .section {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+/* Fix footer */
+body {
+  background: #222;
+}
+footer {
+  padding-top: 0px;
+}
+
+.copyright-section {
+  padding: 0px 0;
+}
+
+/* Home page Caroussel */
+
+#main-slide .slider-content h2 {
+	text-shadow: 0px 0px 20px #36353A;
+}
+
+#main-slide .slider-content h3 {
+	text-shadow: 0px 0px 20px #36353A;
+}
+
+/* Page pays photos slider */
 
 .touch-slider {
   height: 350px;
@@ -16,4 +69,23 @@
   margin-top: auto;
   margin-bottom: auto;
   display: block;
+}
+
+
+/* Others */
+
+#portfolio-list li img {
+  overflow: hidden;
+  height: 100%;
+}
+
+#parallax-one {
+  border-top: 0;
+  border-bottom: 0;
+  background: #f9f9f9;
+}
+
+.page-banner h2 {
+  color: white;
+	text-shadow: 0px 0px 20px #36353A;
 }
