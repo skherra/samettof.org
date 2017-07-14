@@ -92,3 +92,11 @@ footer {
   color: white;
 	text-shadow: 0px 0px 20px #36353A;
 }
+
+.service-icon .icon-large {
+  color:#00afd1;
+}
+
+.service-icon .icon-large:hover {
+  color:#666;
+}
