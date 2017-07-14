@@ -21,7 +21,10 @@
   padding: 40px 0;
   background: url(/images/banner/atlantique.jpg) center #f9f9f9;
 }
-
+#banner-bulles {
+  padding: 40px 0;
+  background: url(/images/banner/sky.png) center #f9f9f9;
+}
 
 /* -------------------------------------------------------------------------- */
 
