@@ -102,8 +102,12 @@ footer {
 }
 
 #world-map {
-  height: 500px;
+  height: 600px;
+  float: none;
+  position: relative;
+}
+.leaflet-pane {
+  z-index: 0;
 }
 #world-end {
-  height: 3000px;
 }
