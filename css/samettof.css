@@ -103,7 +103,10 @@ footer {
 
 #world-map {
   height: 500px;
+  /* overflow: scroll; */
+}
+.leaflet-pane {
+  z-index: 0;
 }
 #world-end {
-  height: 3000px;
 }
