@@ -100,3 +100,10 @@ footer {
 .service-icon .icon-large:hover {
   color:#666;
 }
+
+#world-map {
+  height: 500px;
+}
+#world-end {
+  height: 3000px;
+}
