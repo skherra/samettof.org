@@ -111,3 +111,60 @@ footer {
 }
 #world-end {
 }
+/*
+ * Nivo Lightbox Default Theme v1.0
+ * http://dev7studios.com/nivo-lightbox
+ */
+
+.nivo-lightbox-theme-default.nivo-lightbox-overlay {
+	background: #666;
+	background: rgba(0,0,0,0.8);
+}
+.nivo-lightbox-theme-default .nivo-lightbox-content.nivo-lightbox-loading { background:  no-repeat 50% 50%; }
+
+.nivo-lightbox-theme-default .nivo-lightbox-nav {
+	top: 10%;
+	width: 8%;
+	height: 80%;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	opacity: 0.5;
+	transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+.nivo-lightbox-theme-default .nivo-lightbox-nav:hover {
+	opacity: 1;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.nivo-lightbox-theme-default .nivo-lightbox-prev {
+	background-image: block;
+	border-radius: 0 3px 3px 0;
+	-webkit-border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -o-border-radius: 0 3px 3px 0;
+}
+.nivo-lightbox-theme-default .nivo-lightbox-next {
+	background-image: block;
+	border-radius: 3px 0 0 3px;
+	-webkit-border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -o-border-radius: 3px 0 0 3px;
+
+}
+.nivo-lightbox-theme-default .nivo-lightbox-close {
+	display: block;
+	background:  no-repeat 5px 5px;
+	width: 16px;
+	height: 16px;
+	text-indent: -9999px;
+	padding: 5px;
+	opacity: 0.5;
+}
+/* mouse grab icon */
+.grabbing {
+    cursor: 8 8, move;
+}
