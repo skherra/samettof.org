@@ -11,6 +11,43 @@
         'Imagery © <a href="http://mapbox.com">Mapbox</a>',
         id: 'mapbox.streets'
       }).addTo(mymap);
+
+      // For dev purpose only
+      var popup = L.popup();
+      function onMapClick(e) {
+        popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(mymap);
+      }
+      mymap.on('click', onMapClick);
+      // End of For dev purpose only
+
+      var diveFlagIcon = L.icon({
+        iconUrl: '/images/map/popup-flag.png',
+        iconSize:     [20, 17], // size of the icon
+        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        /* TODO : Cast a shadow
+        shadowUrl: '/images/map/todo.png',
+        shadowSize:   [50, 64], // size of the shadow
+        shadowAnchor: [4, 62],  // the same for the shadow
+        */
+      });
+
+      var canariesMarker = L.marker([28.92047, -13.66094], {icon: diveFlagIcon}).addTo(mymap);
+      canariesMarker.bindPopup("<b><a href=\"/canaries\">Canaries</a></b><br>Visité en septembre 2014.");
+
+      var capVertMarker = L.marker([16.88671, -24.98924], {icon: diveFlagIcon}).addTo(mymap);
+      capVertMarker.bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b><br>Visité en septembre 2016.");
+
+      var belize01Marker = L.marker([17.42665, -87.84393], {icon: diveFlagIcon}).addTo(mymap);
+      belize01Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> Turneffe Atoll<br>Visité en mai 2015.");
+      var belize02Marker = L.marker([17.39389, -87.51503], {icon: diveFlagIcon}).addTo(mymap);
+      belize02Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> Lighthouse Reef<br>Visité en mai 2015.");
+      var belize03Marker = L.marker([16.8098, -87.83157], {icon: diveFlagIcon}).addTo(mymap);
+      belize03Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> Glover Reef<br>Visité en mai 2015.");
+
       </script>
     </div>
   </div>
