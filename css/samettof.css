@@ -102,9 +102,7 @@ footer {
 }
 
 #world-map {
-  height: 500px;
-  float: none;
-  position: relative;
+  height: 550px;
 }
 .leaflet-pane {
   z-index: 0;
