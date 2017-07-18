@@ -17,121 +17,279 @@
       }).addTo(mymap);
 
       // For dev purpose only
-      /*
       var popup = L.popup();
       function onMapClick(e) {
-      popup
-      .setLatLng(e.latlng)
-      .setContent("You clicked the map at " + e.latlng.toString())
-      .openOn(mymap);
-    }
-    mymap.on('click', onMapClick);
-    */
-    // End of For dev purpose only
+        popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(mymap);
+      }
+      mymap.on('click', onMapClick);
+      // End of For dev purpose only
 
-    var diveFlagIcon = L.icon({
-      iconUrl: '/images/map/popup-flag.png',
-      iconSize:     [20, 17], // size of the icon
-      iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
-      popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-      /* TODO : Cast a shadow
-      shadowUrl: '/images/map/todo.png',
-      shadowSize:   [50, 64], // size of the shadow
-      shadowAnchor: [4, 62],  // the same for the shadow
+      var diveFlagIcon = L.icon({
+        iconUrl: '/images/map/popup-flag.png',
+        iconSize:     [20, 17], // size of the icon
+        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        /* TODO : Cast a shadow
+        shadowUrl: '/images/map/todo.png',
+        shadowSize:   [50, 64], // size of the shadow
+        shadowAnchor: [4, 62],  // the same for the shadow
+        */
+      });
+      var greyDiveFlagIcon = L.icon({
+        iconUrl: '/images/map/popup-flag-grey.png',
+        iconSize:     [20, 17], // size of the icon
+        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        /* TODO : Cast a shadow
+        shadowUrl: '/images/map/todo.png',
+        shadowSize:   [50, 64], // size of the shadow
+        shadowAnchor: [4, 62],  // the same for the shadow
+        */
+      });
+      var eyeIcon = L.icon({
+        iconUrl: '/images/map/popup-eye.png',
+        iconSize:     [20, 17], // size of the icon
+        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        /* TODO : Cast a shadow
+        shadowUrl: '/images/map/todo.png',
+        shadowSize:   [50, 64], // size of the shadow
+        shadowAnchor: [4, 62],  // the same for the shadow
+        */
+      });
+
+      /*
+      * Dives with page =====================================================================================================================
       */
-    });
-    var greyDiveFlagIcon = L.icon({
-      iconUrl: '/images/map/popup-flag-grey.png',
-      iconSize:     [20, 17], // size of the icon
-      iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
-      popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-      /* TODO : Cast a shadow
-      shadowUrl: '/images/map/todo.png',
-      shadowSize:   [50, 64], // size of the shadow
-      shadowAnchor: [4, 62],  // the same for the shadow
+
+      var martiniqueMarker = L.marker([14.54025, -61.03604], {icon: diveFlagIcon}).addTo(mymap);
+      martiniqueMarker.bindPopup("<b><a href=\"/martinique\">Martinique</a></b><br>Avril 2005.");
+
+      var japon01Marker = L.marker([26.19364, 127.32159], {icon: diveFlagIcon}).addTo(mymap);
+      japon01Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Kerama<br>Mai 2014.");
+      var japon02Marker = L.marker([30.24353, 130.58641], {icon: diveFlagIcon}).addTo(mymap);
+      japon02Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Yakushima<br>Mai 2014.");
+      var japon03Marker = L.marker([24.4368, 123.77744], {icon: diveFlagIcon}).addTo(mymap);
+      japon03Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Iriomote<br>Mai 2014.");
+
+      var canariesMarker = L.marker([28.92047, -13.66094], {icon: diveFlagIcon}).addTo(mymap);
+      canariesMarker.bindPopup("<b><a href=\"/canaries\">Canaries</a></b><br>Septembre 2014.");
+
+      var belize01Marker = L.marker([17.42665, -87.84393], {icon: diveFlagIcon}).addTo(mymap);
+      belize01Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Turneffe Atoll<br>Mai 2015.");
+      var belize02Marker = L.marker([17.39389, -87.51503], {icon: diveFlagIcon}).addTo(mymap);
+      belize02Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Lighthouse Reef<br>Mai 2015.");
+      var belize03Marker = L.marker([16.8098, -87.83157], {icon: diveFlagIcon}).addTo(mymap);
+      belize03Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Glover Reef<br>Mai 2015.");
+
+      var tanzanieMarker = L.marker([-5.29197, 39.65826], {icon: diveFlagIcon}).addTo(mymap);
+      tanzanieMarker.bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Pemba<br>Septembre 2015.");
+
+      var maldivesMarker = L.marker([4.37859, 73.50815], {icon: diveFlagIcon}).addTo(mymap);
+      maldivesMarker.bindPopup("<b><a href=\"/maldives\">Maldives</a></b><br>Décembre 2015.");
+
+      var statiaMarker = L.marker([17.48031, -62.98658], {icon: diveFlagIcon}).addTo(mymap);
+      statiaMarker.bindPopup("<b><a href=\"/statia\">Statia</a></b><br>Février 2016.");
+
+      var hawaii01Marker = L.marker([19.63935, -155.99753], {icon: diveFlagIcon}).addTo(mymap);
+      hawaii01Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kona<br>Mai 2016.");
+      var hawaii02Marker = L.marker([21.88177, -159.47743], {icon: diveFlagIcon}).addTo(mymap);
+      hawaii02Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kauai<br>Mai 2016.");
+      var hawaii03Marker = L.marker([21.92664, -160.08316], {icon: diveFlagIcon}).addTo(mymap);
+      hawaii03Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Niihau<br>Mai 2016.");
+
+      var capVert01Marker = L.marker([16.88671, -24.98924], {icon: diveFlagIcon}).addTo(mymap);
+      capVert01Marker.bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b><br>Septembre 2016.");
+
+      var mexique01Marker = L.marker([20.47553, -86.97563], {icon: diveFlagIcon}).addTo(mymap);
+      mexique01Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cozumel<br>Décembre 2016.");
+      var mexique02Marker = L.marker([20.33545, -87.40551], {icon: diveFlagIcon}).addTo(mymap);
+      mexique02Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cenotes<br>Décembre 2016.");
+
+      var lesSaintesMarker = L.marker([15.86451, -61.58908], {icon: diveFlagIcon}).addTo(mymap);
+      lesSaintesMarker.bindPopup("<b><a href=\"/saintes\">Les Saintes</a></b><br>Mars 2017.");
+
+      var societeMarker = L.marker([-16.71378, -151.0359], {icon: diveFlagIcon}).addTo(mymap);
+      societeMarker.bindPopup("<b><a href=\"/societe\">Polynésie française - La Société</a></b> - Huahine<br>Mai 2017.");
+
+      var tuamotus01Marker = L.marker([-14.97182, -147.63419], {icon: diveFlagIcon}).addTo(mymap);
+      tuamotus01Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Rangiroa<br>Mai 2017.");
+      var tuamotus02Marker = L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap);
+      tuamotus02Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017.");
+      var tuamotus03Marker = L.marker([-14.40293, -145.94273], {icon: diveFlagIcon}).addTo(mymap);
+      tuamotus03Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
+      var tuamotus04Marker = L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap);
+      tuamotus04Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
+
+      /*
+      * Other dives ======================================================================================================================
       */
-    });
 
-    /*
-    * Dives with page
-    */
+      var niceMarker = L.marker([43.69633, 7.31552], {icon: greyDiveFlagIcon}).addTo(mymap);
+      niceMarker.bindPopup("<b>Nice</b><br>Juin 2005.");
 
-    var martiniqueMarker = L.marker([14.54025, -61.03604], {icon: diveFlagIcon}).addTo(mymap);
-    martiniqueMarker.bindPopup("<b><a href=\"/martinique\">Martinique</a></b><br>Avril 2005.");
+      var estartitMarker = L.marker([42.05143, 3.2003], {icon: greyDiveFlagIcon}).addTo(mymap);
+      estartitMarker.bindPopup("<b>Estartit</b><br>Septembre 2005.");
 
-    var japon01Marker = L.marker([26.19364, 127.32159], {icon: diveFlagIcon}).addTo(mymap);
-    japon01Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Kerama<br>Mai 2014.");
-    var japon02Marker = L.marker([30.24353, 130.58641], {icon: diveFlagIcon}).addTo(mymap);
-    japon02Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Yakushima<br>Mai 2014.");
-    var japon03Marker = L.marker([24.4368, 123.77744], {icon: diveFlagIcon}).addTo(mymap);
-    japon03Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Iriomote<br>Mai 2014.");
+      var ileMauriceMarker = L.marker([-20.43522, 57.32068], {icon: greyDiveFlagIcon}).addTo(mymap);
+      ileMauriceMarker.bindPopup("<b>Ile Maurice</b><br>Septembre 2013.");
 
-    var canariesMarker = L.marker([28.92047, -13.66094], {icon: diveFlagIcon}).addTo(mymap);
-    canariesMarker.bindPopup("<b><a href=\"/canaries\">Canaries</a></b><br>Septembre 2014.");
+      var phuQuocMarker = L.marker([10.21775, 103.95663], {icon: greyDiveFlagIcon}).addTo(mymap);
+      phuQuocMarker.bindPopup("<b>Phu Quoc</b><br>Décembre 2013.");
 
-    var belize01Marker = L.marker([17.42665, -87.84393], {icon: diveFlagIcon}).addTo(mymap);
-    belize01Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Turneffe Atoll<br>Mai 2015.");
-    var belize02Marker = L.marker([17.39389, -87.51503], {icon: diveFlagIcon}).addTo(mymap);
-    belize02Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Lighthouse Reef<br>Mai 2015.");
-    var belize03Marker = L.marker([16.8098, -87.83157], {icon: diveFlagIcon}).addTo(mymap);
-    belize03Marker.bindPopup("<b><a href=\"/belize\">Belize</a></b> - Glover Reef<br>Mai 2015.");
+      /*
+      * Other places =====================================================================================================================
+      */
 
-    var tanzanieMarker = L.marker([-5.29197, 39.65826], {icon: diveFlagIcon}).addTo(mymap);
-    tanzanieMarker.bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Pemba<br>Septembre 2015.");
+      var londreMarker = L.marker([51.5099, -0.13426], {icon: eyeIcon}).addTo(mymap);
+      londreMarker.bindPopup("<b>Londre</b><br>Depuis toujours.");
 
-    var maldivesMarker = L.marker([4.37859, 73.50815], {icon: diveFlagIcon}).addTo(mymap);
-    maldivesMarker.bindPopup("<b><a href=\"/maldives\">Maldives</a></b><br>Décembre 2015.");
+      // 2003 -----------------------------------------------------------------------------------------------------------------------------
+      var nyMarker = L.marker([40.71252, -74.00662], {icon: eyeIcon}).addTo(mymap);
+      nyMarker.bindPopup("<b>New York</b><br>Depuis 2003.");
 
-    var statiaMarker = L.marker([17.48031, -62.98658], {icon: diveFlagIcon}).addTo(mymap);
-    statiaMarker.bindPopup("<b><a href=\"/statia\">Statia</a></b><br>Février 2016.");
+      // 2006 -----------------------------------------------------------------------------------------------------------------------------
+      var costaRicaMarker = L.marker([9.95803, -84.12781], {icon: eyeIcon}).addTo(mymap);
+      costaRicaMarker.bindPopup("<b>Costa Rica</b><br>Mars 2006.");
+      var romeMarker = L.marker([41.89352, 12.48652], {icon: eyeIcon}).addTo(mymap);
+      romeMarker.bindPopup("<b>Rome</b><br>2006 & 2013.");
 
-    var hawaii01Marker = L.marker([19.63935, -155.99753], {icon: diveFlagIcon}).addTo(mymap);
-    hawaii01Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kona<br>Mai 2016.");
-    var hawaii02Marker = L.marker([21.88177, -159.47743], {icon: diveFlagIcon}).addTo(mymap);
-    hawaii02Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kauai<br>Mai 2016.");
-    var hawaii03Marker = L.marker([21.92664, -160.08316], {icon: diveFlagIcon}).addTo(mymap);
-    hawaii03Marker.bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Niihau<br>Mai 2016.");
+      // 2007 -----------------------------------------------------------------------------------------------------------------------------
+      var amsterdamMarker = L.marker([52.37815, 4.8998], {icon: eyeIcon}).addTo(mymap);
+      amsterdamMarker.bindPopup("<b>Amsterdam</b><br>Février2007.");
+      var grece01Marker = L.marker([37.98169, 23.74214], {icon: eyeIcon}).addTo(mymap);
+      grece01Marker.bindPopup("<b>Grèce</b> - Athène<br>Mai 2007.");
+      var grece02Marker = L.marker([38.47966, 22.49294], {icon: eyeIcon}).addTo(mymap);
+      grece02Marker.bindPopup("<b>Grèce</b> - Delphes<br>Mai 2007.");
+      var grece03Marker = L.marker([39.36237, 22.94203], {icon: eyeIcon}).addTo(mymap);
+      grece03Marker.bindPopup("<b>Grèce</b> - Volos<br>Mai 2007.");
+      var grece04Marker = L.marker([39.72184, 21.63182], {icon: eyeIcon}).addTo(mymap);
+      grece04Marker.bindPopup("<b>Grèce</b> - Meteora<br>Mai 2007.");
+      var grece05Marker = L.marker([39.66372, 20.85214], {icon: eyeIcon}).addTo(mymap);
+      grece05Marker.bindPopup("<b>Grèce</b> - Ioannina<br>Mai 2007.");
+      var pragueMarker = L.marker([50.0875, 14.42111], {icon: eyeIcon}).addTo(mymap);
+      pragueMarker.bindPopup("<b>Prague</b><br>Décembre 2007.");
 
-    var capVert01Marker = L.marker([16.88671, -24.98924], {icon: diveFlagIcon}).addTo(mymap);
-    capVert01Marker.bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b><br>Septembre 2016.");
+      // 2008 -----------------------------------------------------------------------------------------------------------------------------
+      var nz01Marker = L.marker([-36.86012, 174.75883], {icon: eyeIcon}).addTo(mymap);
+      nz01Marker.bindPopup("<b>Nouvelle Zelande</b><br>Avril 2008.");
+      var nz02Marker = L.marker([-43.53113, 172.63847], {icon: eyeIcon}).addTo(mymap);
+      nz02Marker.bindPopup("<b>Nouvelle Zelande</b><br>Avril 2008.");
+      var nz03Marker = L.marker([-45.34732, 167.03339], {icon: eyeIcon}).addTo(mymap);
+      nz03Marker.bindPopup("<b>Nouvelle Zelande</b><br>Avril 2008.");
+      var sicileMarker = L.marker([37.59247, 14.28223], {icon: eyeIcon}).addTo(mymap);
+      sicileMarker.bindPopup("<b>Sicile</b><br>2008.");
 
-    var mexique01Marker = L.marker([20.47553, -86.97563], {icon: diveFlagIcon}).addTo(mymap);
-    mexique01Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cozumel<br>Décembre 2016.");
-    var mexique02Marker = L.marker([20.33545, -87.40551], {icon: diveFlagIcon}).addTo(mymap);
-    mexique02Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cenotes<br>Décembre 2016.");
+      // 2009 -----------------------------------------------------------------------------------------------------------------------------
+      var creteMarker = L.marker([35.23216, 24.79065], {icon: eyeIcon}).addTo(mymap);
+      creteMarker.bindPopup("<b>Crète</b><br>2009.");
+      var japon04Marker = L.marker([35.68114, 139.75777], {icon: eyeIcon}).addTo(mymap);
+      japon04Marker.bindPopup("<b>Japon</b> - Tokyo<br>Septembre 2009.");
+      var japon05Marker = L.marker([35.57625, 137.59502], {icon: eyeIcon}).addTo(mymap);
+      japon05Marker.bindPopup("<b>Japon</b> - Tsumago<br>Septembre 2009.");
+      var japon06Marker = L.marker([35.01847, 135.76149], {icon: eyeIcon}).addTo(mymap);
+      japon06Marker.bindPopup("<b>Japon</b> - Kyoto<br>Septembre 2009.");
+      var japon07Marker = L.marker([34.29552, 132.32037], {icon: eyeIcon}).addTo(mymap);
+      japon07Marker.bindPopup("<b>Japon</b> - Miyajima<br>Septembre 2009.");
 
-    var lesSaintesMarker = L.marker([15.86451, -61.58908], {icon: diveFlagIcon}).addTo(mymap);
-    lesSaintesMarker.bindPopup("<b><a href=\"/saintes\">Les Saintes</a></b><br>Mars 2017.");
+      // 2010 -----------------------------------------------------------------------------------------------------------------------------
+      var istambulMarker = L.marker([41.01305, 28.96382], {icon: eyeIcon}).addTo(mymap);
+      istambulMarker.bindPopup("<b>Istambul</b><br>Mai 2010.");
+      var lisbonneMarker = L.marker([38.70708, -9.13629], {icon: eyeIcon}).addTo(mymap);
+      lisbonneMarker.bindPopup("<b>Lisbonne</b><br>2010.");
+      var mexique03Marker = L.marker([24.15271, -110.32539], {icon: eyeIcon}).addTo(mymap);
+      mexique03Marker.bindPopup("<b>Mexique</b> - La Paz<br>Décembre 2010.");
+      var mexique04Marker = L.marker([26.01321, -111.33978], {icon: eyeIcon}).addTo(mymap);
+      mexique04Marker.bindPopup("<b>Mexique</b> - Loreto<br>Décembre 2010.");
+      var mexique05Marker = L.marker([26.89188, -111.98287], {icon: eyeIcon}).addTo(mymap);
+      mexique05Marker.bindPopup("<b>Mexique</b> - Mulegé<br>Décembre 2010.");
+      var mexique06Marker = L.marker([27.28387, -112.89603], {icon: eyeIcon}).addTo(mymap);
+      mexique06Marker.bindPopup("<b>Mexique</b> - San Ignacio<br>Décembre 2010.");
 
-    var societeMarker = L.marker([-16.71378, -151.0359], {icon: diveFlagIcon}).addTo(mymap);
-    societeMarker.bindPopup("<b><a href=\"/societe\">Polynésie française - La Société</a></b> - Huahine<br>Mai 2017.");
+      // 2011 -----------------------------------------------------------------------------------------------------------------------------
+      var florenceMarker = L.marker([43.76971, 11.25558], {icon: eyeIcon}).addTo(mymap);
+      florenceMarker.bindPopup("<b>Florence</b><br>2011 & 2016.");
+      var reunionMarker = L.marker([-21.105, 55.53452], {icon: eyeIcon}).addTo(mymap);
+      reunionMarker.bindPopup("<b>La Réunion</b><br>Juin 2011.");
+      var chili01Marker = L.marker([-33.45336, -70.64638], {icon: eyeIcon}).addTo(mymap);
+      chili01Marker.bindPopup("<b>Chili</b> - Santiago du Chili<br>Décembre 2011.");
+      var chili02Marker = L.marker([-22.90964, -68.20031], {icon: eyeIcon}).addTo(mymap);
+      chili02Marker.bindPopup("<b>Chili</b> - San Pedro de Atacama<br>Décembre 2011.");
+      var chili03Marker = L.marker([-20.21855, -70.14908], {icon: eyeIcon}).addTo(mymap);
+      chili03Marker.bindPopup("<b>Chili</b> - Iquique<br>Décembre 2011.");
+      var chili04Marker = L.marker([-18.19725, -69.55869], {icon: eyeIcon}).addTo(mymap);
+      chili04Marker.bindPopup("<b>Chili</b> - Putre<br>Décembre 2011.");
+      var chili05Marker = L.marker([-27.11965, -109.36752], {icon: eyeIcon}).addTo(mymap);
+      chili05Marker.bindPopup("<b>Ile de Pâques</b><br>Décembre 2011.");
 
-    var tuamotus01Marker = L.marker([-14.97182, -147.63419], {icon: diveFlagIcon}).addTo(mymap);
-    tuamotus01Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Rangiroa<br>Mai 2017.");
-    var tuamotus02Marker = L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap);
-    tuamotus02Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017.");
-    var tuamotus03Marker = L.marker([-14.40293, -145.94273], {icon: diveFlagIcon}).addTo(mymap);
-    tuamotus03Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
-    var tuamotus04Marker = L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap);
-    tuamotus04Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
+      // 2012 -----------------------------------------------------------------------------------------------------------------------------
+      var veniseMarker = L.marker([45.43342, 12.33972], {icon: eyeIcon}).addTo(mymap);
+      veniseMarker.bindPopup("<b>Venise</b><br>2012.");
+      var washingtonMarker = L.marker([38.88953, -77.03532], {icon: eyeIcon}).addTo(mymap);
+      washingtonMarker.bindPopup("<b>Washington</b><br>Septembre 2012.");
 
-    /*
-    * Other dives
-    */
+      // 2013 -----------------------------------------------------------------------------------------------------------------------------
+      var malteMarker = L.marker([35.89951, 14.51397], {icon: eyeIcon}).addTo(mymap);
+      malteMarker.bindPopup("<b>Malte</b><br>2013.");
+      var rodriguesMarker = L.marker([-19.71645, 63.42733], {icon: eyeIcon}).addTo(mymap);
+      rodriguesMarker.bindPopup("<b>Rodrigues</b><br>Septembre 2013.");
+      var vietnam01Marker = L.marker([21.02791, 105.85108], {icon: eyeIcon}).addTo(mymap);
+      vietnam01Marker.bindPopup("<b>Vietnam</b> - Hanoi<br>Décembre 2013.");
+      var vietnam02Marker = L.marker([20.85432, 107.18536], {icon: eyeIcon}).addTo(mymap);
+      vietnam02Marker.bindPopup("<b>Vietnam</b> - Baie d'Halong<br>Décembre 2013.");
+      var vietnam03Marker = L.marker([16.47049, 107.5783], {icon: eyeIcon}).addTo(mymap);
+      vietnam03Marker.bindPopup("<b>Vietnam</b> - Hué<br>Décembre 2013.");
+      var vietnam04Marker = L.marker([15.87821, 108.32854], {icon: eyeIcon}).addTo(mymap);
+      vietnam04Marker.bindPopup("<b>Vietnam</b> - Hoi An<br>Décembre 2013.");
+      var vietnam05Marker = L.marker([9.83627, 106.21857], {icon: eyeIcon}).addTo(mymap);
+      vietnam05Marker.bindPopup("<b>Vietnam</b> - Delta du Mekong<br>Décembre 2013.");
+      var vietnam06Marker = L.marker([10.77547, 106.70188], {icon: eyeIcon}).addTo(mymap);
+      vietnam06Marker.bindPopup("<b>Vietnam</b> - Ho Chi Minh Ville<br>Décembre 2013.");
 
-    var niceMarker = L.marker([43.69633, 7.31552], {icon: greyDiveFlagIcon}).addTo(mymap);
-    niceMarker.bindPopup("<b>Nice</b><br>Juin 2005.");
+      // 2014 -----------------------------------------------------------------------------------------------------------------------------
+      var japon08Marker = L.marker([31.9003, 131.43425], {icon: eyeIcon}).addTo(mymap);
+      japon08Marker.bindPopup("<b><a href=\"/japon\">Japon</a></b> - Miyasaki<br>Mai 2014.");
+      var vienneMarker = L.marker([48.20853, 16.37259], {icon: eyeIcon}).addTo(mymap);
+      vienneMarker.bindPopup("<b>Vienne</b><br>2014.");
+      var australie01Marker = L.marker([-42.88313, 147.3313], {icon: eyeIcon}).addTo(mymap);
+      australie01Marker.bindPopup("<b>Australie</b> - Tasmanie - Hobart<br>Décembre 2014.");
+      var australie02Marker = L.marker([-37.81372, 144.96297], {icon: eyeIcon}).addTo(mymap);
+      australie02Marker.bindPopup("<b>Australie</b> - Melbourne<br>Décembre 2014.");
+      var australie03Marker = L.marker([-35.81113, 137.20825], {icon: eyeIcon}).addTo(mymap);
+      australie03Marker.bindPopup("<b>Australie</b> - Kangaroo Island<br>Décembre 2014.");
 
-    var estartitMarker = L.marker([42.05143, 3.2003], {icon: greyDiveFlagIcon}).addTo(mymap);
-    estartitMarker.bindPopup("<b>Estartit</b><br>Septembre 2005.");
+      // 2015 -----------------------------------------------------------------------------------------------------------------------------
+      var tanzanie01Marker = L.marker([-1.77401, 35.17548], {icon: eyeIcon}).addTo(mymap);
+      tanzanie01Marker.bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Serengeti<br>Septembre 2015.");
+      var tanzanie02Marker = L.marker([-4.12181, 36.07635], {icon: eyeIcon}).addTo(mymap);
+      tanzanie02Marker.bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Tarangire<br>Septembre 2015.");
+      var tanzanie03Marker = L.marker([-3.20899, 35.47829], {icon: eyeIcon}).addTo(mymap);
+      tanzanie03Marker.bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - N'Gorongoro<br>Septembre 2015.");
+      var bruxellesMarker = L.marker([50.84673, 4.35244], {icon: eyeIcon}).addTo(mymap);
+      bruxellesMarker.bindPopup("<b>Bruxelles</b><br>Octobre 2015.");
 
-    var ileMauriceMarker = L.marker([-20.43522, 57.32068], {icon: greyDiveFlagIcon}).addTo(mymap);
-    ileMauriceMarker.bindPopup("<b>Ile Maurice</b><br>Septembre 2013.");
+      // 2016 -----------------------------------------------------------------------------------------------------------------------------
+      var jerusalemMarker = L.marker([31.778, 35.23191], {icon: eyeIcon}).addTo(mymap);
+      jerusalemMarker.bindPopup("<b>Jérusalem</b><br>Mars 2016.");
+      var sfMarker = L.marker([37.79025, -122.41722], {icon: eyeIcon}).addTo(mymap);
+      sfMarker.bindPopup("<b>San Francisco</b><br>Mai 2016.");
+      var majorqueMarker = L.marker([39.57288, 2.64874], {icon: eyeIcon}).addTo(mymap);
+      majorqueMarker.bindPopup("<b>San Francisco</b><br>Juillet 2016.");
+      var capVert02Marker = L.marker([17.06926, -25.18272], {icon: eyeIcon}).addTo(mymap);
+      capVert02Marker.bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b> - Santo Antão<br>Septembre 2016.");
+      var mexique07Marker = L.marker([20.2146, -87.43092], {icon: eyeIcon}).addTo(mymap);
+      mexique07Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Tulum<br>Décembre 2016.");
+      var mexique07Marker = L.marker([20.6828, -88.56877], {icon: eyeIcon}).addTo(mymap);
+      mexique07Marker.bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Chichen Itza<br>Décembre 2016.");
 
-    var phuQuocMarker = L.marker([10.21775, 103.95663], {icon: greyDiveFlagIcon}).addTo(mymap);
-    phuQuocMarker.bindPopup("<b>Phu Quoc</b><br>Décembre 2013.");
+      // 2017 -----------------------------------------------------------------------------------------------------------------------------
+      var milanMarker = L.marker([45.46424, 9.18869], {icon: eyeIcon}).addTo(mymap);
+      milanMarker.bindPopup("<b>Milan</b><br>2017.");
 
-    </script>
+      </script>
+    </div>
   </div>
-</div>
 </section>
