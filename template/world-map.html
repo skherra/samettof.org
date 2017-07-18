@@ -40,6 +40,17 @@
       shadowAnchor: [4, 62],  // the same for the shadow
       */
     });
+    var greyDiveFlagIcon = L.icon({
+      iconUrl: '/images/map/popup-flag-grey.png',
+      iconSize:     [20, 17], // size of the icon
+      iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+      popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+      /* TODO : Cast a shadow
+      shadowUrl: '/images/map/todo.png',
+      shadowSize:   [50, 64], // size of the shadow
+      shadowAnchor: [4, 62],  // the same for the shadow
+      */
+    });
 
     /*
     * Dives with page
@@ -103,6 +114,22 @@
     tuamotus03Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
     var tuamotus04Marker = L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap);
     tuamotus04Marker.bindPopup("<b><a href=\"/tuamotus\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
+
+    /*
+    * Other dives
+    */
+
+    var niceMarker = L.marker([43.69633, 7.31552], {icon: greyDiveFlagIcon}).addTo(mymap);
+    niceMarker.bindPopup("<b>Nice</b><br>Juin 2005.");
+
+    var estartitMarker = L.marker([42.05143, 3.2003], {icon: greyDiveFlagIcon}).addTo(mymap);
+    estartitMarker.bindPopup("<b>Estartit</b><br>Septembre 2005.");
+
+    var ileMauriceMarker = L.marker([-20.43522, 57.32068], {icon: greyDiveFlagIcon}).addTo(mymap);
+    ileMauriceMarker.bindPopup("<b>Ile Maurice</b><br>Septembre 2013.");
+
+    var phuQuocMarker = L.marker([10.21775, 103.95663], {icon: greyDiveFlagIcon}).addTo(mymap);
+    phuQuocMarker.bindPopup("<b>Phu Quoc</b><br>Décembre 2013.");
 
     </script>
   </div>
