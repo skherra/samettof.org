@@ -32,22 +32,18 @@
         iconSize:     [20, 17], // size of the icon
         iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-        /* TODO : Cast a shadow
-        shadowUrl: '/images/map/todo.png',
-        shadowSize:   [50, 64], // size of the shadow
-        shadowAnchor: [4, 62],  // the same for the shadow
-        */
       });
       var eyeIcon = L.icon({
         iconUrl: '/images/map/popup-eye.png',
         iconSize:     [20, 17], // size of the icon
         iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
         popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-        /* TODO : Cast a shadow
-        shadowUrl: '/images/map/todo.png',
-        shadowSize:   [50, 64], // size of the shadow
-        shadowAnchor: [4, 62],  // the same for the shadow
-        */
+      });
+      var homeIcon = L.icon({
+        iconUrl: '/images/map/home.png',
+        iconSize:     [20, 21], // size of the icon
+        iconAnchor:   [10, 21], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
       });
 
       /*
@@ -102,6 +98,8 @@
       /*
       * Other places =====================================================================================================================
       */
+
+      L.marker([48.85334, 2.34886], {icon: homeIcon}).addTo(mymap).bindPopup("<b>Home sweet home :-)</b>");
 
       L.marker([34.03552, -5.00994], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Fès<br>");
       L.marker([33.88125, -5.56458], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Meknes<br>");
