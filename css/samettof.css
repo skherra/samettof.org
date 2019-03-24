@@ -25,6 +25,10 @@
   padding: 40px 0;
   background: url(/images/banner/bulles.jpg) center #f9f9f9;
 }
+#banner-bonus {
+  padding: 40px 0;
+  background: url(/images/banner/bonus.jpg) center #f9f9f9;
+}
 
 /* -------------------------------------------------------------------------- */
 
