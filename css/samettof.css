@@ -29,6 +29,10 @@
   padding: 40px 0;
   background: url(/images/banner/bonus.jpg) center #f9f9f9;
 }
+#banner-faq {
+  padding: 40px 0;
+  background: url(/images/banner/faq.jpg) center #f9f9f9;
+}
 
 /* -------------------------------------------------------------------------- */
 
