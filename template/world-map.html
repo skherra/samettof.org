@@ -24,7 +24,7 @@
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(mymap);
       }
-       //mymap.on('click', onMapClick);
+      // mymap.on('click', onMapClick);
       // End of For dev purpose only
 
       var diveFlagIcon = L.icon({
@@ -291,6 +291,10 @@
       L.marker([63.85671, -22.0475], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Bjarnagjá Crack 2019");
 
       L.marker([0.23842, 6.76026], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/saotome\">Sao Tomé</a></b> - Santana 2019");
+
+      L.marker([5.55151, -87.04116], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Cocos</a> <br>Septembre 2019.");
+      L.marker([10.56242, -83.51635], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Tortuguero</a> <br>Septembre 2019.");
+
       </script>
     </div>
   </div>
