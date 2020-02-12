@@ -119,7 +119,15 @@ footer {
   z-index: 0;
 }
 
-.dive-map-tooltip {
+.dive-map-tooltip-done {
+  all: unset;
+  position: absolute;
+  white-space: nowrap;
+  padding-left: 75px;
+  color: white;
+
+}
+.dive-map-tooltip-grey {
   all: unset;
   position: absolute;
   white-space: nowrap;
