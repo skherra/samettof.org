@@ -112,6 +112,25 @@ footer {
 #world-map {
   height: 550px;
 }
+#palau-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
+}
+
+.dive-map-tooltip-done {
+  all: unset;
+  position: absolute;
+  white-space: nowrap;
+  padding-left: 75px;
+  color: white;
+
+}
+.dive-map-tooltip-grey {
+  all: unset;
+  position: absolute;
+  white-space: nowrap;
+  padding-left: 75px;
+
 }
