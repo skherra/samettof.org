@@ -24,7 +24,7 @@
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(mymap);
       }
-       //mymap.on('click', onMapClick);
+       mymap.on('click', onMapClick);
       // End of For dev purpose only
 
       var diveFlagIcon = L.icon({
@@ -303,6 +303,9 @@
       L.marker([7.12608, 134.28039], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - German Chanel</a> <br>Février 2020.");
       L.marker([7.33666, 134.21533], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Siaes Corner</a> <br>Février 2020.");
       L.marker([6.97865, 134.2225], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Peleliu Wall</a> <br>Février 2020.");
+
+      L.marker([9.51788, 138.12178], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Colonia</a> <br>Février 2020.");
+
 
       </script>
     </div>
