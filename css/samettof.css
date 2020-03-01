@@ -115,6 +115,9 @@ footer {
 #palau-map {
   height: 550px;
 }
+#yap-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
