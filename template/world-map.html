@@ -24,7 +24,8 @@
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(mymap);
       }
-       //mymap.on('click', onMapClick);
+       mymap.on('click', onMapClick);
+
       // End of For dev purpose only
 
       var diveFlagIcon = L.icon({
@@ -276,10 +277,10 @@
       L.marker([-2.94257, -79.2031], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Cuenca</a></b> - Equateur<br>Mai 2018.");
       L.marker([-2.31701, -80.2468], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Guayalquil</a></b> - Equateur<br>Mai 2018.");
 
-      L.marker([-16.78574, -180.05825], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Tavenui</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-18.84567, -181.46284], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Kadavu</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-18.07647, -180.71028], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Ngau</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-17.61654, -181.01074], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Wakaya</a></b> - Fidji<br>Septembre 2018.");
+      L.marker([-16.78574, 180.05825], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Tavenui</a></b> - Fidji<br>Septembre 2018.");
+      L.marker([-18.84567, 181.46284], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Kadavu</a></b> - Fidji<br>Septembre 2018.");
+      L.marker([-18.07647, 180.71028], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Ngau</a></b> - Fidji<br>Septembre 2018.");
+      L.marker([-17.61654, 181.01074], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Wakaya</a></b> - Fidji<br>Septembre 2018.");
 
       L.marker([-13.32229, 48.16094], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Nosy Be</a></b> - Madagascar<br>Décembre 2018.");
       L.marker([-14.36354, 47.64461], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Radama</a></b> - Madagascar<br>Décembre 2018.");
@@ -300,9 +301,16 @@
       L.marker([25.05326, 121.539], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Taipei</b><br>Février 2020.");
 
       L.marker([7.34408, 134.47369], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Koror</a> <br>Février 2020.");
-      L.marker([7.12608, 134.28039], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - German Chanel</a> <br>Février 2020.");
       L.marker([7.33666, 134.21533], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Siaes Corner</a> <br>Février 2020.");
       L.marker([6.97865, 134.2225], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Peleliu Wall</a> <br>Février 2020.");
+
+      L.marker([9.51788, 138.12178], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
+      L.marker([9.44094, 138.05549],{icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
+
+      L.marker([7.34666, 151.88999], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Chuuk</b> - Micronésie</a> <br>Mars 2020.");
+
+      L.marker([6.96266, 158.20355], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
+      L.marker([6.86676, 158.10536], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
 
       </script>
     </div>
