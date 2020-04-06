@@ -127,6 +127,9 @@ footer {
 #cocos-map {
   height: 550px;
 }
+#galapagos-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
