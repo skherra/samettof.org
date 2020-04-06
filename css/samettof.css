@@ -130,6 +130,9 @@ footer {
 #galapagos-map {
   height: 550px;
 }
+#martinique-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
