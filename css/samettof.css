@@ -136,7 +136,15 @@ footer {
 .leaflet-pane {
   z-index: 0;
 }
-
+#indo-map {
+  height: 550px;
+}
+#fiji-map {
+  height: 550px;
+}
+.leaflet-pane {
+  z-index: 0;
+}
 .dive-map-tooltip-done {
   all: unset;
   position: absolute;
