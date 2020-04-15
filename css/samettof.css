@@ -139,6 +139,9 @@ footer {
 #indo-map {
   height: 550px;
 }
+#fiji-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
