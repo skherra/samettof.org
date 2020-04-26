@@ -235,7 +235,11 @@
               <!-- Testimonial 1 -->
               <div class="classic-testimonials item">
                 <div class="testimonial-content">
-                  <p>Equipés sur le parking, nous attendons notre ordre de passage, la faille étant petite et la traversée en sens unique, le parc nationnal a mis en place ce système plutôt ingénieux car on plonge à 4 uniquement. La fraîcheur nous saisit mais elle est vite oubliée par la clareté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique ! Nous parcourons la faille, le trou, la cathédrale grandiose entre les deux plaques américaine et eurasiatique pour finir dans un lagon aux couleurs caraïbes qui est le point de sortie de Silfra.</p>
+                  <p>Equipés sur le parking, nous attendons notre ordre de passage, la faille étant petite et la traversée en sens unique, le parc nationnal a mis en place ce système plutôt ingénieux car on plonge à 4 uniquement.
+                    </p>
+                    <p>La fraîcheur nous saisit mais elle est vite oubliée par la clareté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique !
+                      </p>
+                      <p> Nous parcourons la faille, le trou, la cathédrale grandiose entre les deux plaques américaine et eurasiatique pour finir dans un lagon aux couleurs caraïbes qui est le point de sortie de Silfra.</p>
                 </div>
                 <div class="testimonial-author"><span>Sam</span> - Silfra - 13/03/2019</div>
               </div>
@@ -297,6 +301,62 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+  <section id="carte">
+    <div id="map-content">
+      <div class=".container-fluid">
+        <div id="isl-map"></div>
+
+        <script>
+          var mymap = L.map('isl-map').setView([64.79362, -18.221777],6);
+          L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 18,
+            attribution: '&copy; <a href="http://www.esri.com/">Esri</a>, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+          }).addTo(mymap);
+
+
+          // For dev purpose only
+        /*  var popup = L.popup();
+          function onMapClick(e) {
+            popup
+            .setLatLng(e.latlng)
+            .setContent("You clicked the map at " + e.latlng.toString())
+            .openOn(mymap);
+          }
+          mymap.on('click', onMapClick);
+*/
+          // End of For dev purpose only
+
+          var diveFlagIcon = L.icon({
+            iconUrl: '/images/map/popup-flag.png',
+            iconSize:     [20, 17], // size of the icon
+            iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+            popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+          });
+
+          var diveFlagIconGrey = L.icon({
+            iconUrl: '/images/map/popup-flag-grey.png',
+            iconSize:     [20, 17], // size of the icon
+            iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+            popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+          });
+
+          L.marker([63.82765, -22.47465], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Bjarnagjá</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([64.25496, -21.11722], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Silfra</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([64.2391, -21.04736], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>David’s crack</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+
+
+          L.marker([65.83694, -18.11916], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Strytan</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+          L.marker([63.9145, -21.99737], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Kleifarvatn lake</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+          L.marker([64.02735, -22.23675], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Minni-Vatnesleysa</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+          L.marker([64.07482, -22.64266], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Garður</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+          L.marker([65.04665, -13.9801], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Ell Grillo Shipwreck</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+          L.marker([65.09136, -22.78633], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Birgisklettur</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+
+        </script>
+
       </div>
     </div>
   </section>

@@ -142,6 +142,9 @@ footer {
 #fiji-map {
   height: 550px;
 }
+#isl-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
