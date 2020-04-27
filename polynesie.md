@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /societe
+permalink: /polynesie
 ---
 
 {% include_relative /template/banierepacifique.html %}
-{% include_relative /pays/societe.html %}
+{% include_relative /pays/polynesie.html %}

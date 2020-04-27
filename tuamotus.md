@@ -1,7 +1,0 @@
----
-layout: default
-permalink: /tuamotus
----
-
-{% include_relative /template/banierepacifique.html %}
-{% include_relative /pays/tuamotus.html %}
