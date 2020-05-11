@@ -142,6 +142,18 @@ footer {
 #fiji-map {
   height: 550px;
 }
+#isl-map {
+  height: 550px;
+}
+#mexique-map {
+  height: 550px;
+}
+#tuamotus-map {
+  height: 550px;
+}
+#societe-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
