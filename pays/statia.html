@@ -262,3 +262,62 @@
   </div>
   <!-- End Content -->
 </section>
+<section id="carte">
+  <div id="map-content">
+    <div class=".container-fluid">
+      <div id="statia-map"></div>
+
+      <script>
+        var mymap = L.map('statia-map').setView([17.49323, -62.97845],13);
+        L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+          maxZoom: 18,
+          attribution: '&copy; <a href="http://www.esri.com/">Esri</a>, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+        }).addTo(mymap);
+
+
+        // For dev purpose only
+      /* var popup = L.popup();
+        function onMapClick(e) {
+          popup
+          .setLatLng(e.latlng)
+          .setContent("You clicked the map at " + e.latlng.toString())
+          .openOn(mymap);
+        }
+        mymap.on('click', onMapClick);
+      */
+        // End of For dev purpose only
+
+
+        var diveFlagIcon = L.icon({
+          iconUrl: '/images/map/popup-flag.png',
+          iconSize:     [20, 17], // size of the icon
+          iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+          popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        });
+
+        var diveFlagIconGrey = L.icon({
+          iconUrl: '/images/map/popup-flag-grey.png',
+          iconSize:     [20, 17], // size of the icon
+          iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+          popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        });
+
+        L.marker([17.48425, -62.99716], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Stenapa</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46348, -62.978], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>The Humps</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.48351, -62.99791], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Chien Tong</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46813, -62.99158], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Barracuda reef</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.47986, -62.99401], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Double wreck</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46399, -62.9933], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Charles L Brown</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46399, -62.98508], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>The blocks</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46156, -62.9777], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Grand Canyon</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.46451, -62.98578], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Hanghover</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+        L.marker([17.52515, -63.00006], {icon: diveFlagIcon}).addTo(mymap).bindTooltip("<b>Gibraltar</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+
+        L.marker([17.51015, -63.00861], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Doobie's crack</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+        L.marker([17.51683, -63.0035], {icon: diveFlagIconGrey}).addTo(mymap).bindTooltip("<b>Twin sisters</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-grey', direction: "center"}).openTooltip();
+
+      </script>
+
+    </div>
+  </div>
+</section>
