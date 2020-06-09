@@ -154,6 +154,9 @@ footer {
 #societe-map {
   height: 550px;
 }
+#statia-map {
+  height: 550px;
+}
 .leaflet-pane {
   z-index: 0;
 }
