@@ -17,7 +17,7 @@
       }).addTo(mymap);
 
       // For dev purpose only
-      var popup = L.popup();
+    /*  var popup = L.popup();
       function onMapClick(e) {
         popup
         .setLatLng(e.latlng)
@@ -25,7 +25,7 @@
         .openOn(mymap);
       }
        mymap.on('click', onMapClick);
-
+*/
       // End of For dev purpose only
 
       var diveFlagIcon = L.icon({
@@ -83,7 +83,8 @@
       L.marker([-16.71378, -151.0359], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - La Société</a></b> - Huahine<br>Mai 2017.");
 
       L.marker([-14.97182, -147.63419], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Rangiroa<br>Mai 2017.");
-      L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017.");
+      L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017 et Juillet 2020.");
+      L.marker([-15.459134, -146.336973], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Apataki<br>Mai 2017.");
       L.marker([-14.40293, -145.94273], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
       L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
 
@@ -311,6 +312,10 @@
 
       L.marker([6.96266, 158.20355], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
       L.marker([6.86676, 158.10536], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
+
+      L.marker([-15.9100537, -145.8975259], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Toao<br>Mai 2017 et Juillet 2020.");
+      L.marker([-15.9547991, -145.1783076], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Kauehi<br>Juillet 2020.");
+      L.marker([-17.65449, -149.45198], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Tahiti</a>Juillet 2020.");
 
       </script>
     </div>
