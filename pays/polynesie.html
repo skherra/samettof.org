@@ -448,7 +448,7 @@
           L.marker([-15.9167, -145.89029], {icon: diveFlagIcon}).addTo(tuamotusmap).bindTooltip("<b>Passe d'Otugi</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
           L.marker([-15.9520948, -145.1787083], {icon: diveFlagIcon}).addTo(tuamotusmap).bindTooltip("<b>Passe d'Arikitamiro</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
 
-          var societemap = L.map('societe-map').setView([-16.75428, -151.213], 10);
+          var societemap = L.map('societe-map').setView([-16.75428, -151.213], 8);
           L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
             maxZoom: 18,
             attribution: '&copy; <a href="http://www.esri.com/">Esri</a>, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
@@ -462,6 +462,18 @@
           L.marker([-16.73818, -151.50535], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Les roses<br>et Miri Miri</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
           L.marker([-16.74596, -151.41863], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>La passe de <br>Teava piti</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
           L.marker([-16.64931, -151.42376], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Le piton de Céran</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+
+          L.marker([-17.48848, -149.92358], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Le Tiki</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.48886, -149.89133], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Le passage des raies</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.47504, -149.83677], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Eden Park</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.4791543, -149.8555967], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Mamaru</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.4852140, -149.8590980], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>La vallée<br> des citrons</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.4852105, -149.8586688], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>La virgule</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.4827702, -149.8929226], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>Tao Toï</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+          L.marker([-17.4856147, -149.8944086], {icon: diveFlagIcon}).addTo(societemap).bindTooltip("<b>La passe de Tao Toï</b>", {sticky: true, permanent: true, interactive: true, offset: [10, -10], className: 'dive-map-tooltip-done', direction: "center"}).openTooltip();
+
+
+
           /* // For dev purpose only
           var popup = L.popup();
           function onMapClick(e) {
