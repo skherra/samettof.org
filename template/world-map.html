@@ -4,315 +4,321 @@
       <div id="world-map"></div>
       <script>
 
-      /*
-      * Setup
-      */
-      var mymap = L.map('world-map').setView([0, 0], 2);
-      L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-        maxZoom: 18,
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-        'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-        id: 'mapbox.streets'
-      }).addTo(mymap);
+        /*
+        * Setup
+        */
+        var mymap = L.map('world-map').setView([0, 0], 2);
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+          maxZoom: 18,
+          attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+          '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+          'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+          id: 'mapbox.streets'
+        }).addTo(mymap);
 
-      // For dev purpose only
-      var popup = L.popup();
-      function onMapClick(e) {
-        popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(mymap);
-      }
-       mymap.on('click', onMapClick);
+        // For dev purpose only
+        /*
+        var popup = L.popup();
+        function onMapClick(e) {
+          popup
+          .setLatLng(e.latlng)
+          .setContent("You clicked the map at " + e.latlng.toString())
+          .openOn(mymap);
+        }
+        mymap.on('click', onMapClick);
+        */
+        // End of For dev purpose only
 
-      // End of For dev purpose only
+        var diveFlagIcon = L.icon({
+          iconUrl: '/images/map/popup-flag.png',
+          iconSize:     [20, 17], // size of the icon
+          iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+          popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        });
+        var eyeIcon = L.icon({
+          iconUrl: '/images/map/popup-eye.png',
+          iconSize:     [20, 17], // size of the icon
+          iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
+          popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
+        });
+        var homeIcon = L.icon({
+          iconUrl: '/images/map/home.png',
+          iconSize:     [20, 21], // size of the icon
+          iconAnchor:   [10, 21], // point of the icon which will correspond to marker's location
+          popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
+        });
 
-      var diveFlagIcon = L.icon({
-        iconUrl: '/images/map/popup-flag.png',
-        iconSize:     [20, 17], // size of the icon
-        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
-        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-      });
-      var eyeIcon = L.icon({
-        iconUrl: '/images/map/popup-eye.png',
-        iconSize:     [20, 17], // size of the icon
-        iconAnchor:   [10, 17], // point of the icon which will correspond to marker's location
-        popupAnchor:  [0, -17] // point from which the popup should open relative to the iconAnchor
-      });
-      var homeIcon = L.icon({
-        iconUrl: '/images/map/home.png',
-        iconSize:     [20, 21], // size of the icon
-        iconAnchor:   [10, 21], // point of the icon which will correspond to marker's location
-        popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
-      });
+        /*
+        * Dives with page =====================================================================================================================
+        */
 
-      /*
-      * Dives with page =====================================================================================================================
-      */
+        L.marker([14.54025, -61.03604], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/martinique\">Martinique</a></b><br>Avril 2005.");
 
-      L.marker([14.54025, -61.03604], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/martinique\">Martinique</a></b><br>Avril 2005.");
+        L.marker([26.19364, 127.32159], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Kerama<br>Mai 2014.");
+        L.marker([30.24353, 130.58641], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Yakushima<br>Mai 2014.");
+        L.marker([24.4368, 123.77744], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Iriomote<br>Mai 2014.");
 
-      L.marker([26.19364, 127.32159], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Kerama<br>Mai 2014.");
-      L.marker([30.24353, 130.58641], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Yakushima<br>Mai 2014.");
-      L.marker([24.4368, 123.77744], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Iriomote<br>Mai 2014.");
+        L.marker([28.92047, -13.66094], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/canaries\">Canaries</a></b><br>Septembre 2014.");
 
-      L.marker([28.92047, -13.66094], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/canaries\">Canaries</a></b><br>Septembre 2014.");
+        L.marker([17.42665, -87.84393], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Turneffe Atoll<br>Mai 2015.");
+        L.marker([17.39389, -87.51503], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Lighthouse Reef<br>Mai 2015.");
+        L.marker([16.8098, -87.83157], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Glover Reef<br>Mai 2015.");
 
-      L.marker([17.42665, -87.84393], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Turneffe Atoll<br>Mai 2015.");
-      L.marker([17.39389, -87.51503], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Lighthouse Reef<br>Mai 2015.");
-      L.marker([16.8098, -87.83157], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - Glover Reef<br>Mai 2015.");
+        L.marker([-5.29197, 39.65826], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Pemba<br>Septembre 2015.");
 
-      L.marker([-5.29197, 39.65826], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Pemba<br>Septembre 2015.");
+        L.marker([4.37859, 73.50815], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/maldives\">Maldives</a></b><br>Décembre 2015.");
 
-      L.marker([4.37859, 73.50815], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/maldives\">Maldives</a></b><br>Décembre 2015.");
+        L.marker([17.48031, -62.98658], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/statia\">Statia</a></b><br>Février 2016.");
 
-      L.marker([17.48031, -62.98658], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/statia\">Statia</a></b><br>Février 2016.");
+        L.marker([19.63935, -155.99753], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kona<br>Mai 2016.");
+        L.marker([21.88177, -159.47743], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kauai<br>Mai 2016.");
+        L.marker([21.92664, -160.08316], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Niihau<br>Mai 2016.");
 
-      L.marker([19.63935, -155.99753], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kona<br>Mai 2016.");
-      L.marker([21.88177, -159.47743], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Kauai<br>Mai 2016.");
-      L.marker([21.92664, -160.08316], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Niihau<br>Mai 2016.");
+        L.marker([16.88671, -24.98924], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b><br>Septembre 2016.");
 
-      L.marker([16.88671, -24.98924], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b><br>Septembre 2016.");
+        L.marker([20.47553, -86.97563], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cozumel<br>Décembre 2016.");
+        L.marker([20.33545, -87.40551], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cenotes<br>Décembre 2016.");
 
-      L.marker([20.47553, -86.97563], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cozumel<br>Décembre 2016.");
-      L.marker([20.33545, -87.40551], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Cenotes<br>Décembre 2016.");
+        L.marker([15.86451, -61.58908], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/saintes\">Les Saintes</a></b><br>Mars 2017.");
 
-      L.marker([15.86451, -61.58908], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/saintes\">Les Saintes</a></b><br>Mars 2017.");
+        L.marker([7.33666, 134.21533], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Siaes Corner</a> <br>Février 2020.");
+        L.marker([6.97865, 134.2225], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Peleliu Wall</a> <br>Février 2020.");
+        L.marker([9.44094, 138.05549],{icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
+        L.marker([7.34666, 151.88999], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Chuuk</b> - Micronésie</a> <br>Mars 2020.");
+        L.marker([6.86676, 158.10536], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
 
-      L.marker([-16.71378, -151.0359], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - La Société</a></b> - Huahine<br>Mai 2017.");
+        L.marker([-16.71378, -151.0359], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - La Société</a></b> - Huahine<br>Mai 2017.");
+        L.marker([-14.97182, -147.63419], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Rangiroa<br>Mai 2017.");
+        L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017 et Juillet 2020.");
+        L.marker([-15.459134, -146.336973], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Apataki<br>Mai 2017.");
+        L.marker([-14.40293, -145.94273], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
+        L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
+        L.marker([-15.9100537, -145.8975259], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Toao<br>Mai 2017 et Juillet 2020.");
+        L.marker([-15.9547991, -145.1783076], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Kauehi<br>Juillet 2020.");
+        L.marker([-16.74596, -151.41863], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - La Société </a></b> - Raiatea<br>Août 2020.");
+        L.marker([-17.48848, -149.92358], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - La Société</a></b> - Moorea<br>Août 2020.");
 
-      L.marker([-14.97182, -147.63419], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Rangiroa<br>Mai 2017.");
-      L.marker([-16.3208, -145.60249], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Fakarava<br>Mai 2017.");
-      L.marker([-14.40293, -145.94273], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Manihi<br>Mai 2017.");
-      L.marker([-15.00183, -148.18291], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Tuamotus</a></b> - Tikehau<br>Mai 2017.");
+        L.marker([-8.23256, 117.48127], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Satonda<br>Septembre 2017.");
+        L.marker([-8.71238, 115.4512], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Nusa Penida<br>Septembre 2017.");
+        L.marker([-8.13469, 119.09935], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Sangeang<br>Septembre 2017.");
+        L.marker([-8.52161, 119.59202], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Komodo<br>Septembre 2017.");
 
-      L.marker([-8.23256, 117.48127], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Satonda<br>Septembre 2017.");
-      L.marker([-8.71238, 115.4512], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Nusa Penida<br>Septembre 2017.");
-      L.marker([-8.13469, 119.09935], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Sangeang<br>Septembre 2017.");
-      L.marker([-8.52161, 119.59202], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonesie</a></b> - Komodo<br>Septembre 2017.");
+        /*
+        * Other dives ======================================================================================================================
+        */
 
-      /*
-      * Other dives ======================================================================================================================
-      */
+        L.marker([43.51818, 7.04842], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Ile de Lerins</b><br>Juin 2005.");
+        L.marker([42.05143, 3.2003], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Estartit</b><br>Septembre 2005.");
+        L.marker([-20.43522, 57.32068], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Ile Maurice</b><br>Septembre 2013.");
+        L.marker([10.21775, 103.95663], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Phu Quoc<br>Décembre 2013.");
 
-      L.marker([43.51818, 7.04842], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Ile de Lerins</b><br>Juin 2005.");
-      L.marker([42.05143, 3.2003], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Estartit</b><br>Septembre 2005.");
-      L.marker([-20.43522, 57.32068], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Ile Maurice</b><br>Septembre 2013.");
-      L.marker([10.21775, 103.95663], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Phu Quoc<br>Décembre 2013.");
+        /*
+        * Other places =====================================================================================================================
+        */
 
-      /*
-      * Other places =====================================================================================================================
-      */
+        L.marker([48.85334, 2.34886], {icon: homeIcon}).addTo(mymap).bindPopup("<b>Home sweet home :-)</b>");
 
-      L.marker([48.85334, 2.34886], {icon: homeIcon}).addTo(mymap).bindPopup("<b>Home sweet home :-)</b>");
+        L.marker([34.03552, -5.00994], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Fès<br>");
+        L.marker([33.88125, -5.56458], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Meknes<br>");
+        L.marker([30.41878, -9.59484], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Agadir<br>");
+        L.marker([31.49968, -9.76281], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Essaouira<br>");
+        L.marker([31.62581, -7.98914], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Marrakech<br>");
+        L.marker([33.59518, -7.6252], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Casablanca<br>");
+        L.marker([34.02478, -6.82938], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Rabat<br>");
+        L.marker([51.5099, -0.13426], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Londre</b><br>");
+        L.marker([41.58999, 9.28302], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Corse</b> - Porto Vecchio");
+        L.marker([42.68144, 9.30151], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Corse</b> - Saint Florent");
+        L.marker([37.18412, -3.60455], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Grenade");
+        L.marker([38.34166, -0.48649], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Alicante");
 
-      L.marker([34.03552, -5.00994], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Fès<br>");
-      L.marker([33.88125, -5.56458], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Meknes<br>");
-      L.marker([30.41878, -9.59484], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Agadir<br>");
-      L.marker([31.49968, -9.76281], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Essaouira<br>");
-      L.marker([31.62581, -7.98914], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Marrakech<br>");
-      L.marker([33.59518, -7.6252], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Casablanca<br>");
-      L.marker([34.02478, -6.82938], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Maroc</b> - Rabat<br>");
-      L.marker([51.5099, -0.13426], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Londre</b><br>");
-      L.marker([41.58999, 9.28302], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Corse</b> - Porto Vecchio");
-      L.marker([42.68144, 9.30151], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Corse</b> - Saint Florent");
-      L.marker([37.18412, -3.60455], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Grenade");
-      L.marker([38.34166, -0.48649], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Alicante");
+        // 2003 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([40.71252, -74.00662], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>New York</b><br>Depuis 2003.");
 
-      // 2003 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([40.71252, -74.00662], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>New York</b><br>Depuis 2003.");
+        // 2004 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([53.34789, -6.25397], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Dublin<br>Septembre 2004.");
+        L.marker([53.32629, -7.98616], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Clonmacnoise<br>Septembre 2004.");
+        L.marker([53.01607, -9.37795], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Doolin<br>Septembre 2004.");
 
-      // 2004 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([53.34789, -6.25397], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Dublin<br>Septembre 2004.");
-      L.marker([53.32629, -7.98616], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Clonmacnoise<br>Septembre 2004.");
-      L.marker([53.01607, -9.37795], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Irlande</b> - Doolin<br>Septembre 2004.");
+        // 2005 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([41.37597, 2.17795], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Barcelone<br>Septembre 2005.");
 
-      // 2005 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([41.37597, 2.17795], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Espagne</b> - Barcelone<br>Septembre 2005.");
+        // 2006 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([41.89352, 12.48652], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Rome</b><br>2006 & 2013.");
+        L.marker([10.4608, -84.71077], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Arenal <br>Mars 2006.");
+        L.marker([10.8124, -85.3315], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Rincon dela Vieja <br>Mars 2006.");
+        L.marker([10.32978, -85.30609], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Monte Verde <br>Mars 2006.");
+        L.marker([8.6893, -83.68286], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Drake Bay <br>Mars 2006.");
 
-      // 2006 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([41.89352, 12.48652], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Rome</b><br>2006 & 2013.");
-      L.marker([10.4608, -84.71077], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Arenal <br>Mars 2006.");
-      L.marker([10.8124, -85.3315], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Rincon dela Vieja <br>Mars 2006.");
-      L.marker([10.32978, -85.30609], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Monte Verde <br>Mars 2006.");
-      L.marker([8.6893, -83.68286], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Costa Rica</b> - Drake Bay <br>Mars 2006.");
-
-      L.marker([64.14371, -21.94382], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Reykjavik<br>Septembre 2006.");
-      L.marker([63.61618, -19.99409], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Sejalandsfoss<br>Septembre 2006.");
-      L.marker([63.98726, -19.06334], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Landmannalaugar<br>Septembre 2006.");
-      L.marker([64.30763, -20.11236], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Tindfjallajokull<br>Septembre 2006.");
-      L.marker([64.01893, -16.95396], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Savrtifoss<br>Septembre 2006.");
-      L.marker([64.0722, -16.21994], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Jokulsarlon<br>Septembre 2006.");
-
-
-      // 2007 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([52.37815, 4.8998], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Amsterdam</b><br>Février2007.");
-      L.marker([37.98169, 23.74214], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Athène<br>Mai 2007.");
-      L.marker([38.47966, 22.49294], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Delphes<br>Mai 2007.");
-      L.marker([39.36237, 22.94203], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Volos<br>Mai 2007.");
-      L.marker([39.72184, 21.63182], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Meteora<br>Mai 2007.");
-      L.marker([39.66372, 20.85214], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Ioannina<br>Mai 2007.");
-      L.marker([50.0875, 14.42111], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Prague</b><br>Décembre 2007.");
-
-      // 2008 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([-36.86012, 174.75883], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Auckland<br>Avril 2008.");
-      L.marker([-38.15184, 176.24542], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Roturoa<br>Avril 2008.");
-      L.marker([-38.69837, 176.09711], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Taupo<br>Avril 2008.");
-      L.marker([-40.88756, 172.9509], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Abel Tasman Park<br>Avril 2008.");
-      L.marker([-43.53113, 172.63847], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Christchurch<br>Avril 2008.");
-      L.marker([-45.34732, 167.03339], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Doubtful sound<br>Avril 2008.");
-      L.marker([-45.88618, 170.53528], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Dunedin<br>Avril 2008.");
-
-      L.marker([-46.66287, 169.01041], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Slope Point<br>Avril 2008.");
+        L.marker([64.14371, -21.94382], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Reykjavik<br>Septembre 2006.");
+        L.marker([63.61618, -19.99409], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Sejalandsfoss<br>Septembre 2006.");
+        L.marker([63.98726, -19.06334], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Landmannalaugar<br>Septembre 2006.");
+        L.marker([64.30763, -20.11236], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Tindfjallajokull<br>Septembre 2006.");
+        L.marker([64.01893, -16.95396], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Savrtifoss<br>Septembre 2006.");
+        L.marker([64.0722, -16.21994], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Jokulsarlon<br>Septembre 2006.");
 
 
-      L.marker([37.59247, 14.28223], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Sicile</b><br>2008.");
-      L.marker([16.131, -61.76986], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Guadeloupe</b><br>Décembre 2008.");
+        // 2007 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([52.37815, 4.8998], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Amsterdam</b><br>Février2007.");
+        L.marker([37.98169, 23.74214], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Athène<br>Mai 2007.");
+        L.marker([38.47966, 22.49294], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Delphes<br>Mai 2007.");
+        L.marker([39.36237, 22.94203], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Volos<br>Mai 2007.");
+        L.marker([39.72184, 21.63182], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Meteora<br>Mai 2007.");
+        L.marker([39.66372, 20.85214], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Grèce</b> - Ioannina<br>Mai 2007.");
+        L.marker([50.0875, 14.42111], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Prague</b><br>Décembre 2007.");
 
-      // 2009 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([35.23216, 24.79065], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Crète</b><br>2009.");
-      L.marker([35.68114, 139.75777], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Tokyo<br>Septembre 2009.");
-      L.marker([36.72017, 139.69391], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Nikko<br>Septembre 2009.");
+        // 2008 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([-36.86012, 174.75883], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Auckland<br>Avril 2008.");
+        L.marker([-38.15184, 176.24542], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Roturoa<br>Avril 2008.");
+        L.marker([-38.69837, 176.09711], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Taupo<br>Avril 2008.");
+        L.marker([-40.88756, 172.9509], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Abel Tasman Park<br>Avril 2008.");
+        L.marker([-43.53113, 172.63847], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Christchurch<br>Avril 2008.");
+        L.marker([-45.34732, 167.03339], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Doubtful sound<br>Avril 2008.");
+        L.marker([-45.88618, 170.53528], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Dunedin<br>Avril 2008.");
 
-      L.marker([35.57625, 137.59502], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Tsumago<br>Septembre 2009.");
-      L.marker([35.01847, 135.76149], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Kyoto<br>Septembre 2009.");
-      L.marker([34.29552, 132.32037], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Miyajima<br>Septembre 2009.");
-
-      // 2010 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([41.01305, 28.96382], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Istambul</b><br>Mai 2010.");
-      L.marker([38.70708, -9.13629], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Lisbonne</b><br>2010.");
-      L.marker([55.95074, -3.19376], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Edinburgh<br>Juillet 2010.");
-      L.marker([56.12068, -3.93705], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Stirling<br>Juillet 2010.");
-      L.marker([57.3299, -3.60935], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Grantown On Spey<br>Juillet 2010.");
-      L.marker([56.90938, -5.84619], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Arisaig<br>Juillet 2010.");
-      L.marker([24.15271, -110.32539], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - La Paz<br>Décembre 2010.");
-      L.marker([26.01321, -111.33978], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - Loreto<br>Décembre 2010.");
-      L.marker([26.89188, -111.98287], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - Mulegé<br>Décembre 2010.");
-      L.marker([27.28387, -112.89603], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - San Ignacio<br>Décembre 2010.");
-
-      // 2011 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([43.76971, 11.25558], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Florence</b><br>2011 & 2016.");
-      L.marker([-21.105, 55.53452], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>La Réunion</b><br>Juin 2011.");
-      L.marker([-33.45336, -70.64638], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Santiago du Chili<br>Décembre 2011.");
-      L.marker([-22.90964, -68.20031], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - San Pedro de Atacama<br>Décembre 2011.");
-      L.marker([-20.21855, -70.14908], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Iquique<br>Décembre 2011.");
-      L.marker([-18.19725, -69.55869], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Putre<br>Décembre 2011.");
-      L.marker([-27.11965, -109.36752], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ile de Pâques</b><br>Décembre 2011.");
-
-      // 2012 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([45.43342, 12.33972], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Venise</b><br>2012.");
-      L.marker([38.88953, -77.03532], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Washington</b><br>Septembre 2012.");
-      L.marker([13.85775, -61.0603], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Sainte Lucie</b><br>Décembre 2012.");
-      L.marker([13.15605, -61.23058], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Saint Vicent et Les Grenadines</b><br>Décembre 2012.");
-      L.marker([12.88009, -61.1875], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Moustique</b><br>Décembre 2012.");
-
-      // 2013 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([35.89951, 14.51397], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Malte</b><br>2013.");
-      L.marker([-19.71645, 63.42733], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Rodrigues</b><br>Septembre 2013.");
-      L.marker([21.02791, 105.85108], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hanoi<br>Décembre 2013.");
-      L.marker([20.85432, 107.18536], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Baie d'Halong<br>Décembre 2013.");
-      L.marker([20.23385, 106.02905], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Baie d'Halong Terrestre<br>Décembre 2013.");
-
-      L.marker([16.47049, 107.5783], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hué<br>Décembre 2013.");
-      L.marker([15.87821, 108.32854], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hoi An<br>Décembre 2013.");
-      L.marker([9.83627, 106.21857], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Delta du Mekong<br>Décembre 2013.");
-      L.marker([10.77547, 106.70188], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Ho Chi Minh Ville<br>Décembre 2013.");
-
-      // 2014 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([31.9003, 131.43425], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Miyasaki<br>Mai 2014.");
-      L.marker([48.20853, 16.37259], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vienne</b><br>2014.");
-      L.marker([22.27861, 114.1658], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Honk Kong</b><br>Décembre 2014.");
-      L.marker([-42.88313, 147.3313], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Hobart<br>Décembre 2014.");
-      L.marker([-42.62992, 148.11218], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Maria Island<br>Décembre 2014.");
-      L.marker([-42.19597, 148.3065], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Freycinet<br>Décembre 2014.");
-      L.marker([-41.15643, 148.28453], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Bay of Fires<br>Décembre 2014.");
-      L.marker([-38.38257, 144.89182], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Mornigton Peninsula<br>Décembre 2014.");
-      L.marker([-38.69944, 143.12714], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Great Ocean Road<br>Décembre 2014.");
+        L.marker([-46.66287, 169.01041], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Nouvelle Zelande</b> - Slope Point<br>Avril 2008.");
 
 
-      L.marker([-37.81372, 144.96297], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Melbourne<br>Décembre 2014.");
-      L.marker([-35.81113, 137.20825], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Kangaroo Island<br>Décembre 2014.");
+        L.marker([37.59247, 14.28223], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Sicile</b><br>2008.");
+        L.marker([16.131, -61.76986], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Guadeloupe</b><br>Décembre 2008.");
 
-      // 2015 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([17.15375, -89.07406], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - San Igniacio<br>Mai 2015.");
-      L.marker([17.12078, -88.89244], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - ATM (Actun Tunichil Muknal)<br>Mai 2015.");
-      L.marker([17.21951, -89.62646], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Guatemala</a></b> - Tikal<br>Mai 2015.");
-      L.marker([17.07467, -89.40262], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Guatemala</a></b> - Yaxha<br>Mai 2015.");
-      L.marker([-1.77401, 35.17548], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Serengeti<br>Septembre 2015.");
-      L.marker([-4.12181, 36.07635], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Tarangire<br>Septembre 2015.");
-      L.marker([-3.20899, 35.47829], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - N'Gorongoro<br>Septembre 2015.");
-      L.marker([-3.62992, 35.80856], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Manyara<br>Septembre 2015.");
+        // 2009 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([35.23216, 24.79065], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Crète</b><br>2009.");
+        L.marker([35.68114, 139.75777], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Tokyo<br>Septembre 2009.");
+        L.marker([36.72017, 139.69391], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Nikko<br>Septembre 2009.");
 
-      L.marker([50.84673, 4.35244], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Bruxelles</b><br>2005 & 2015.");
+        L.marker([35.57625, 137.59502], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Tsumago<br>Septembre 2009.");
+        L.marker([35.01847, 135.76149], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Kyoto<br>Septembre 2009.");
+        L.marker([34.29552, 132.32037], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Japon</b> - Miyajima<br>Septembre 2009.");
 
-      // 2016 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([31.778, 35.23191], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Jérusalem</b><br>Mars 2016.");
-      L.marker([37.79025, -122.41722], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>San Francisco</b><br>Mai 2016.");
-      L.marker([19.81984, -155.47122], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Mauna Kea<br>Mai 2016.");
-      L.marker([19.4186, -155.90964], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Pu'uhonua o Honaunau<br>Mai 2016.");
-      L.marker([22.20942, -159.59805], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Na pali coast<br>Mai 2016.");
-      L.marker([39.57288, 2.64874], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Majorque</b><br>Juillet 2016.");
-      L.marker([17.06926, -25.18272], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b> - Santo Antão<br>Septembre 2016.");
-      L.marker([20.2146, -87.43092], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Tulum<br>Décembre 2016.");
-      L.marker([20.6828, -88.56877], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Chichen Itza<br>Décembre 2016.");
+        // 2010 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([41.01305, 28.96382], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Istambul</b><br>Mai 2010.");
+        L.marker([38.70708, -9.13629], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Lisbonne</b><br>2010.");
+        L.marker([55.95074, -3.19376], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Edinburgh<br>Juillet 2010.");
+        L.marker([56.12068, -3.93705], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Stirling<br>Juillet 2010.");
+        L.marker([57.3299, -3.60935], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Grantown On Spey<br>Juillet 2010.");
+        L.marker([56.90938, -5.84619], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ecosse</b> - Arisaig<br>Juillet 2010.");
+        L.marker([24.15271, -110.32539], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - La Paz<br>Décembre 2010.");
+        L.marker([26.01321, -111.33978], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - Loreto<br>Décembre 2010.");
+        L.marker([26.89188, -111.98287], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - Mulegé<br>Décembre 2010.");
+        L.marker([27.28387, -112.89603], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Mexique</b> - San Ignacio<br>Décembre 2010.");
 
-      // 2017 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([45.46424, 9.18869], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Milan</b><br>2017.");
-      L.marker([-8.5699, 119.50069], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonésie</a></b> - Komodo<br>Septembre 2017.");
-      L.marker([-8.38136, 115.44022], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonésie</a></b> - Bali<br>Septembre 2017.");
-      L.marker([48.12577, 11.54114], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Berlin</b><br>Novembre 2017.");
+        // 2011 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([43.76971, 11.25558], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Florence</b><br>2011 & 2016.");
+        L.marker([-21.105, 55.53452], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>La Réunion</b><br>Juin 2011.");
+        L.marker([-33.45336, -70.64638], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Santiago du Chili<br>Décembre 2011.");
+        L.marker([-22.90964, -68.20031], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - San Pedro de Atacama<br>Décembre 2011.");
+        L.marker([-20.21855, -70.14908], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Iquique<br>Décembre 2011.");
+        L.marker([-18.19725, -69.55869], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Chili</b> - Putre<br>Décembre 2011.");
+        L.marker([-27.11965, -109.36752], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Ile de Pâques</b><br>Décembre 2011.");
 
-      // 2018 -----------------------------------------------------------------------------------------------------------------------------
-      L.marker([-30.20694, 30.7988], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/afsud\">Afrique du Sud</a></b> - Aliwal Sohal<br>Février 2018.");
-      L.marker([-28.37743, 32.41456], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/afsud\">Afrique du Sud</a></b> - Sainte Lucie<br>Février 2018.");
-      L.marker([-26.841, 32.88478], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mozambique\">Mozambique</a></b> - Ponta do Oro<br>Février 2018.");
+        // 2012 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([45.43342, 12.33972], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Venise</b><br>2012.");
+        L.marker([38.88953, -77.03532], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Washington</b><br>Septembre 2012.");
+        L.marker([13.85775, -61.0603], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Sainte Lucie</b><br>Décembre 2012.");
+        L.marker([13.15605, -61.23058], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Saint Vicent et Les Grenadines</b><br>Décembre 2012.");
+        L.marker([12.88009, -61.1875], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Moustique</b><br>Décembre 2012.");
 
-      L.marker([1.67692, -92.00247], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Darwin</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([1.3826, -91.81566], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Wolf</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([-0.0000, -91.58849], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Isabela</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([-0.32591, -91.65294], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Fernandina</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([-0.74855, -90.3127], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Puerto Aroya</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([-0.28642, -90.55558], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Bartolomé</a></b> - Galapagos<br>Mai 2018.");
-      L.marker([-2.94257, -79.2031], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Cuenca</a></b> - Equateur<br>Mai 2018.");
-      L.marker([-2.31701, -80.2468], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Guayalquil</a></b> - Equateur<br>Mai 2018.");
+        // 2013 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([35.89951, 14.51397], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Malte</b><br>2013.");
+        L.marker([-19.71645, 63.42733], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Rodrigues</b><br>Septembre 2013.");
+        L.marker([21.02791, 105.85108], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hanoi<br>Décembre 2013.");
+        L.marker([20.85432, 107.18536], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Baie d'Halong<br>Décembre 2013.");
+        L.marker([20.23385, 106.02905], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Baie d'Halong Terrestre<br>Décembre 2013.");
 
-      L.marker([-16.78574, 180.05825], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Tavenui</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-18.84567, 181.46284], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Kadavu</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-18.07647, 180.71028], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Ngau</a></b> - Fidji<br>Septembre 2018.");
-      L.marker([-17.61654, 181.01074], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Wakaya</a></b> - Fidji<br>Septembre 2018.");
+        L.marker([16.47049, 107.5783], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hué<br>Décembre 2013.");
+        L.marker([15.87821, 108.32854], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Hoi An<br>Décembre 2013.");
+        L.marker([9.83627, 106.21857], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Delta du Mekong<br>Décembre 2013.");
+        L.marker([10.77547, 106.70188], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vietnam</b> - Ho Chi Minh Ville<br>Décembre 2013.");
 
-      L.marker([-13.32229, 48.16094], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Nosy Be</a></b> - Madagascar<br>Décembre 2018.");
-      L.marker([-14.36354, 47.64461], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Radama</a></b> - Madagascar<br>Décembre 2018.");
-      L.marker([-14.06732, 47.78023], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Radama</a></b> - Madagascar<br>Décembre 2018.");
+        // 2014 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([31.9003, 131.43425], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/japon\">Japon</a></b> - Miyasaki<br>Mai 2014.");
+        L.marker([48.20853, 16.37259], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Vienne</b><br>2014.");
+        L.marker([22.27861, 114.1658], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Honk Kong</b><br>Décembre 2014.");
+        L.marker([-42.88313, 147.3313], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Hobart<br>Décembre 2014.");
+        L.marker([-42.62992, 148.11218], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Maria Island<br>Décembre 2014.");
+        L.marker([-42.19597, 148.3065], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Freycinet<br>Décembre 2014.");
+        L.marker([-41.15643, 148.28453], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Tasmanie - Bay of Fires<br>Décembre 2014.");
+        L.marker([-38.38257, 144.89182], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Mornigton Peninsula<br>Décembre 2014.");
+        L.marker([-38.69944, 143.12714], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Great Ocean Road<br>Décembre 2014.");
 
-      // 2019 -----------------------------------------------------------------------------------------------------------------------------
 
-      L.marker([64.25517, -21.11656], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Silfra 2019");
-      L.marker([63.85671, -22.0475], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Bjarnagjá Crack 2019");
+        L.marker([-37.81372, 144.96297], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Melbourne<br>Décembre 2014.");
+        L.marker([-35.81113, 137.20825], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Australie</b> - Kangaroo Island<br>Décembre 2014.");
 
-      L.marker([0.23842, 6.76026], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/saotome\">Sao Tomé</a></b> - Santana 2019");
+        // 2015 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([17.15375, -89.07406], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - San Igniacio<br>Mai 2015.");
+        L.marker([17.12078, -88.89244], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Belize</a></b> - ATM (Actun Tunichil Muknal)<br>Mai 2015.");
+        L.marker([17.21951, -89.62646], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Guatemala</a></b> - Tikal<br>Mai 2015.");
+        L.marker([17.07467, -89.40262], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/belize\">Guatemala</a></b> - Yaxha<br>Mai 2015.");
+        L.marker([-1.77401, 35.17548], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Serengeti<br>Septembre 2015.");
+        L.marker([-4.12181, 36.07635], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Tarangire<br>Septembre 2015.");
+        L.marker([-3.20899, 35.47829], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - N'Gorongoro<br>Septembre 2015.");
+        L.marker([-3.62992, 35.80856], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/tanzanie\">Tanzanie</a></b> - Manyara<br>Septembre 2015.");
 
-      L.marker([5.55151, -87.04116], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Cocos</a> <br>Septembre 2019.");
-      L.marker([10.56242, -83.51635], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Tortuguero</a> <br>Septembre 2019.");
+        L.marker([50.84673, 4.35244], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Bruxelles</b><br>2005 & 2015.");
 
-      // 2020 -----------------------------------------------------------------------------------------------------------------------------
+        // 2016 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([31.778, 35.23191], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Jérusalem</b><br>Mars 2016.");
+        L.marker([37.79025, -122.41722], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>San Francisco</b><br>Mai 2016.");
+        L.marker([19.81984, -155.47122], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Mauna Kea<br>Mai 2016.");
+        L.marker([19.4186, -155.90964], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Pu'uhonua o Honaunau<br>Mai 2016.");
+        L.marker([22.20942, -159.59805], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/hawaii\">Hawaii</a></b> - Na pali coast<br>Mai 2016.");
+        L.marker([39.57288, 2.64874], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Majorque</b><br>Juillet 2016.");
+        L.marker([17.06926, -25.18272], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/capvert\">Cap Vert</a></b> - Santo Antão<br>Septembre 2016.");
+        L.marker([20.2146, -87.43092], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Tulum<br>Décembre 2016.");
+        L.marker([20.6828, -88.56877], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/mexique\">Mexique</a></b> - Chichen Itza<br>Décembre 2016.");
 
-      L.marker([25.05326, 121.539], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Taipei</b><br>Février 2020.");
+        // 2017 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([45.46424, 9.18869], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Milan</b><br>2017.");
+        L.marker([-8.5699, 119.50069], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonésie</a></b> - Komodo<br>Septembre 2017.");
+        L.marker([-8.38136, 115.44022], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/indonesie\">Indonésie</a></b> - Bali<br>Septembre 2017.");
+        L.marker([48.12577, 11.54114], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Berlin</b><br>Novembre 2017.");
 
-      L.marker([7.34408, 134.47369], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Koror</a> <br>Février 2020.");
-      L.marker([7.33666, 134.21533], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Siaes Corner</a> <br>Février 2020.");
-      L.marker([6.97865, 134.2225], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Peleliu Wall</a> <br>Février 2020.");
+        // 2018 -----------------------------------------------------------------------------------------------------------------------------
+        L.marker([-30.20694, 30.7988], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/afsud\">Afrique du Sud</a></b> - Aliwal Sohal<br>Février 2018.");
+        L.marker([-28.37743, 32.41456], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/afsud\">Afrique du Sud</a></b> - Sainte Lucie<br>Février 2018.");
+        L.marker([-26.841, 32.88478], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mozambique\">Mozambique</a></b> - Ponta do Oro<br>Février 2018.");
 
-      L.marker([9.51788, 138.12178], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
-      L.marker([9.44094, 138.05549],{icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
+        L.marker([1.67692, -92.00247], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Darwin</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([1.3826, -91.81566], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Wolf</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([-0.0000, -91.58849], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Isabela</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([-0.32591, -91.65294], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Fernandina</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([-0.74855, -90.3127], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Puerto Aroya</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([-0.28642, -90.55558], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Bartolomé</a></b> - Galapagos<br>Mai 2018.");
+        L.marker([-2.94257, -79.2031], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Cuenca</a></b> - Equateur<br>Mai 2018.");
+        L.marker([-2.31701, -80.2468], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/galapagos\">Guayalquil</a></b> - Equateur<br>Mai 2018.");
 
-      L.marker([7.34666, 151.88999], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Chuuk</b> - Micronésie</a> <br>Mars 2020.");
+        L.marker([-16.78574, 180.05825], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Tavenui</a></b> - Fidji<br>Septembre 2018.");
+        L.marker([-18.84567, 181.46284], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Kadavu</a></b> - Fidji<br>Septembre 2018.");
+        L.marker([-18.07647, 180.71028], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Ngau</a></b> - Fidji<br>Septembre 2018.");
+        L.marker([-17.61654, 181.01074], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/fidji\">Wakaya</a></b> - Fidji<br>Septembre 2018.");
 
-      L.marker([6.96266, 158.20355], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
-      L.marker([6.86676, 158.10536], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
+        L.marker([-13.32229, 48.16094], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Nosy Be</a></b> - Madagascar<br>Décembre 2018.");
+        L.marker([-14.36354, 47.64461], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Radama</a></b> - Madagascar<br>Décembre 2018.");
+        L.marker([-14.06732, 47.78023], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/mada\">Radama</a></b> - Madagascar<br>Décembre 2018.");
 
-      </script>
+        // 2019 -----------------------------------------------------------------------------------------------------------------------------
+
+        L.marker([64.25517, -21.11656], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Silfra 2019");
+        L.marker([63.85671, -22.0475], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/islande\">Islande</a></b> - Bjarnagjá Crack 2019");
+
+        L.marker([0.23842, 6.76026], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/saotome\">Sao Tomé</a></b> - Santana 2019");
+
+        L.marker([5.55151, -87.04116], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Cocos</a> <br>Septembre 2019.");
+        L.marker([10.56242, -83.51635], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/cocos\">Costa Rica</b> - Tortuguero</a> <br>Septembre 2019.");
+
+        // 2020 -----------------------------------------------------------------------------------------------------------------------------
+
+        L.marker([25.05326, 121.539], {icon: eyeIcon}).addTo(mymap).bindPopup("<b>Taipei</b><br>Février 2020.");
+        L.marker([7.34408, 134.47369], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/palau\">Palau</b> - Koror</a> <br>Février 2020.");
+        L.marker([9.51788, 138.12178], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Yap</b> - Micronésie</a> <br>Février 2020.");
+        L.marker([6.96266, 158.20355], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/micronesie\">Pohnpei</b> - Micronésie</a> <br>Mars 2020.");
+
+        L.marker([-17.65449, -149.45198], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Tahiti</a> <brJuillet 2020.");
+        L.marker([-9.77538, -139.02649], {icon: diveFlagIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Marquises</a></b> - Hiva Oa<br>Septembre 2020.");
+        L.marker([-8.86879, -140.14023], {icon: eyeIcon}).addTo(mymap).bindPopup("<b><a href=\"/polynesie\">Polynésie française - Les Marquises</a></b> - Nuku Hiva<br>Septembre 2020.");
+
+        </script>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
