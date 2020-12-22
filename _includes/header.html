@@ -1,4 +1,5 @@
-<nav class="navbar navbar-light bg-light fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
   {% if page.lang == "fr" %}
     {% assign home = '/' %}
   {% endif %}
@@ -8,10 +9,50 @@
   <div class="navbar-brand">
     <a href="{{ home }}"><img src="/img/dive-flag.jpg" class="rounded-circle profile-picture" width="40" height="40" alt="" loading="lazy"></a>
   </div>
-  <div id="lang">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      {% for item in site.data.menu %}
+        {% if item.sublabels %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {% if page.lang == "fr" %}
+              {{ item.fr-label }}
+            {% endif %}
+            {% if page.lang == "en" %}
+              {{ item.en-label }}
+            {% endif %}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            {% for subitem in item.sublabels %}
+              {% if page.lang == "fr" %}
+                <a class="dropdown-item" href="{{ subitem.fr-link }}">{{ subitem.fr-label }}</a>
+              {% endif %}
+              {% if page.lang == "en" %}
+                <a class="dropdown-item" href="{{ subitem.en-link }}">{{ subitem.en-label }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </li>
+        {% else %}
+        <li class="nav-item">
+          {% if page.lang == "fr" %}
+            <a class="nav-link" href="{{ item.fr-link }}">{{ item.fr-label }}</a>
+          {% endif %}
+          {% if page.lang == "en" %}
+            <a class="nav-link" href="{{ item.en-link }}">{{ item.en-label }}</a>
+          {% endif %}
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <span class="navbar-text" id="lang">
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
     {% for page in pages %}
         &nbsp;<a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang-flag }}</a>&nbsp;
     {% endfor %}
-  </div>
+  </span>
 </nav>

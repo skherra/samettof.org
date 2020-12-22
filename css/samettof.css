@@ -1,20 +1,18 @@
 html, body{
   height: 100%;
   font-family: Ubuntu, sans-serif;
-  font-size: 13px;
-  line-height: 21px;
   color: #666;
 }
 body {
   background-color: #FFF;
 }
+main {
+  font-size: 13px;
+  line-height: 21px;
+}
 
 .profile-picture {
   box-shadow: 1px 1px 2px black;
-}
-
-#lang {
-  font-size: 20px;
 }
 
 #homeManifest {

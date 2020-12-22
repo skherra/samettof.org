@@ -1,0 +1,132 @@
+- fr-label: Carte
+  fr-link: /carte/
+  en-label: Map
+  en-link: /en/map/
+- fr-label: Atlantique
+  fr-link: /atlantique/
+  en-label: Atlantic
+  en-link: /en/atlantic/
+  sublabels:
+    - fr-label: Canaries
+      fr-link: /atlantique/canaries/
+      en-label: Canary Islands
+      en-link: /en/atlantic/canary-islands/
+    - fr-label: Cap Vert
+      fr-link: /atlantique/cap-vert
+      en-label: Cape Verde
+      en-link: /en/atlantic/cape-verde/
+    - fr-label: Islande
+      fr-link: /atlantique/islande/
+      en-label: Iceland
+      en-link: /en/atlantic/iceland/
+    - fr-label: São Tomé
+      fr-link: /atlantique/sao-tome/
+      en-label: São Tomé
+      en-link: /en/atlantic/sao-tome/
+- fr-label: Caraïbes
+  fr-link: /caraibes/
+  en-label: Caribbean
+  en-link: /en/caribbean//
+  sublabels:
+    - fr-label: Belize
+      fr-link: /caraibes/belize/
+      en-label: Belize
+      en-link: /en/caribbean/belize/
+    - fr-label: Martinique
+      fr-link: /caraibes/martinique/
+      en-label: Martinique
+      en-link: /en/caribbean/martinique/
+    - fr-label: Mexique
+      fr-link: /caraibes/mexique/
+      en-label: Mexico
+      en-link: /en/caribbean/mexico/
+    - fr-label: Les Saintes
+      fr-link: /caraibes/les-saintes/
+      en-label: Les Saintes
+      en-link: /en/caribbean/les-saintes/
+    - fr-label: Statia
+      fr-link: /caraibes/statia/
+      en-label: Statia
+      en-link: /en/caribbean/statia/
+- fr-label: Indien
+  fr-link: /indien/
+  en-label: Indian
+  en-link: /en/indian//
+  sublabels:
+    - fr-label: Afrique du Sud
+      fr-link: /indien/afrique-du-sud/
+      en-label: South Africa
+      en-link: /en/indian/south-africa/
+    - fr-label: Indonésie
+      fr-link: /indien/indonesie/
+      en-label: Indonesia
+      en-link: /en/indian/indonesia/
+    - fr-label: Madagascar
+      fr-link: /indien/madagascar/
+      en-label: Madagascar
+      en-link: /en/indian/madagascar/
+    - fr-label: Maldives
+      fr-link: /indien/maldives/
+      en-label: Maldives
+      en-link: /en/indian/maldives/
+    - fr-label: Mozambique
+      fr-link: /indien/mozambique/
+      en-label: Mozambique
+      en-link: /en/indian/mozambique/
+    - fr-label: Tanzanie
+      fr-link: /indien/tanzanie/
+      en-label: Tanzania
+      en-link: /en/indian/tanzania/
+- fr-label: Pacifique
+  fr-link: /pacifique/
+  en-label: Pacific
+  en-link: /en/pacific//
+  sublabels:
+    - fr-label: Costa Rica - Cocos
+      fr-link: /pacifique/costa-rica-cocos/
+      en-label: Costa Rica - Cocos
+      en-link: /en/pacific/costa-rica-cocos/
+    - fr-label: Fidji
+      fr-link: /pacifique/fidji/
+      en-label: Fiji
+      en-link: /en/pacific/fiji/
+    - fr-label: Galápagos
+      fr-link: /pacifique/galapagos/
+      en-label: Galapagos
+      en-link: /en/pacific/galapagos/
+    - fr-label: Hawaii
+      fr-link: /pacifique/hawaii/
+      en-label: Hawaii
+      en-link: /en/pacific/hawaii/
+    - fr-label: Japon
+      fr-link: /pacifique/japon/
+      en-label: Japan
+      en-link: /en/pacific/japan/
+    - fr-label: Micronésie
+      fr-link: /pacifique/micronesie/
+      en-label: Micronesia
+      en-link: /en/pacific/micronesia/
+    - fr-label: Palaos
+      fr-link: /pacifique/palaos/
+      en-label: Palau
+      en-link: /en/pacific/palau/
+    - fr-label: Polynésie Française
+      fr-link: /pacifique/polynesie-francaise
+      en-label: French Polynesia
+      en-link: /en/pacific/french-polynesia/
+- fr-label: Prochaines bulles
+  fr-link: /prochaines-bulles/
+  en-label: Next bubbles
+  en-link: /en/next-bubbles/
+- fr-label: Inspiration
+  fr-link: /inspiration/
+  en-label: Inspiration
+  en-link: /en/inspiration/
+- fr-label: FAQ
+  fr-link: /faq/
+  en-label: FAQ
+  en-link: /en/faq/
+- fr-label: Bonus
+  fr-link: /bonus/
+  en-label: Bonus
+  en-link: /en/bonus/
