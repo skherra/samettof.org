@@ -1,7 +1,0 @@
----
-layout: default
-permalink: /bulles
----
-
-{% include_relative /template/banierepays.html %}
-{% include_relative /template/bulles.html %}
