@@ -1,0 +1,23 @@
+<div class="col-md-6">
+  <h2><span>Log Book</span></h2>
+  <div id="logCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+    {% for item in page.log-books %}
+      <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
+        <div class="log-book">
+          {{ item.text }}
+          {{ item.author }} - {{ item.place }} - {{ item.date }}
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#logCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#logCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div><!-- /.col -->

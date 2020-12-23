@@ -1,0 +1,39 @@
+<div class="col-md-6">
+  {% assign gallery-path = "photos/" | append: page.ref %}
+  {% assign gallery-as-string = "" %}
+  {% for image in site.static_files %}
+    {% if image.path contains gallery-path %}
+      {% unless image.path contains '-th.' %}
+        {% assign gallery-as-string = gallery-as-string | append: image.path | append: ";" %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% assign gallery = gallery-as-string | split: ";" %}
+  <div id="photosCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+    {% for image in gallery %}
+      <li data-target="#photosCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.index0 == 0 %} class="active"{% endif %}></li>
+    {% endfor %}
+    </ol>
+    <div class="carousel-inner">
+      {% for image in gallery %}
+      <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
+        <a href="{{ image }}">
+        <img src="{{ image | replace: ".jpg", "-th.jpg" }}" class="d-block w-100" alt="...">
+        </a>
+        <div class="carousel-caption d-none d-md-block">
+          <p></p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#photosCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#photosCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>

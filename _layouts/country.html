@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <main role="main">
+    {% include page-banner.html %}
+    <div class="page-content">
+      <div class="container">
+        <div class="row">
+          {% include country-about.html %}
+          {% include country-carousel.html %}
+        </div><!-- /.row -->
+      </div>
+      <div class="container">
+        <div class="row">
+          {% include country-opinion.html %}
+          {% include country-practical.html %}
+        </div><!-- /.row -->
+      </div>
+      <div class="container">
+        <div class="row">
+          {% include country-logbook.html %}
+          {% include country-good-to-know.html %}
+        </div><!-- /.row -->
+      </div>
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
+
+{% include scripts.html %}
+
+</html>

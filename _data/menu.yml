@@ -26,7 +26,7 @@
 - fr-label: Caraïbes
   fr-link: /caraibes/
   en-label: Caribbean
-  en-link: /en/caribbean//
+  en-link: /en/caribbean/
   sublabels:
     - fr-label: Belize
       fr-link: /caraibes/belize/
@@ -51,7 +51,7 @@
 - fr-label: Indien
   fr-link: /indien/
   en-label: Indian
-  en-link: /en/indian//
+  en-link: /en/indian/
   sublabels:
     - fr-label: Afrique du Sud
       fr-link: /indien/afrique-du-sud/
@@ -80,7 +80,7 @@
 - fr-label: Pacifique
   fr-link: /pacifique/
   en-label: Pacific
-  en-link: /en/pacific//
+  en-link: /en/pacific/
   sublabels:
     - fr-label: Costa Rica - Cocos
       fr-link: /pacifique/costa-rica-cocos/

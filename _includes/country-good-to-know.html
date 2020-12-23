@@ -1,0 +1,62 @@
+<div class="col-md-6">
+  <h2><span>{% if page.lang == "fr" %}A savoir{% elsif page.lang == "en" %}Good to know{% endif %}</span></h2>
+
+  <div class="row">
+
+    <div class="col-md-6 service-box service-icon-left-more">
+      <div class="service-icon">
+        <i class="fa fa-tint fa-3x"></i>
+      </div>
+      <div class="service-content">
+        <h3>{% if page.lang == "fr" %}Température de l'eau{% elsif page.lang == "en" %}Water temperature{% endif %}</h3>
+        {% if page.lang == "fr" %}
+        <p>{{ site.data.countries[page.ref].fr-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ site.data.countries[page.ref].water-temperature }} °C</strong>.</p>
+        {% elsif page.lang == "en" %}
+        <p>{{ site.data.countries[page.ref].en-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ site.data.countries[page.ref].water-temperature }} °C</strong>.</p>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="col-md-6 service-box service-icon-left-more">
+      <div class="service-icon">
+        <i class="fa fa-sun-o fa-3x"></i>
+      </div>
+      <div class="service-content">
+        <h3>{% if page.lang == "fr" %}Meilleure période{% elsif page.lang == "en" %}Best season{% endif %}</h3>
+        {% if page.lang == "fr" %}
+        <p>Entre <strong class="accent-color">{{ site.data.countries[page.ref].fr-best-season-from }}</strong> et <strong class="accent-color">{{ site.data.countries[page.ref].fr-best-season-to }}</strong>.</p>
+        {% elsif page.lang == "en" %}
+        <p>From <strong class="accent-color">{{ site.data.countries[page.ref].en-best-season-from }}</strong> to <strong class="accent-color">{{ site.data.countries[page.ref].en-best-season-to }}</strong>.</p>
+        {% endif %}
+      </div>
+    </div>
+
+
+    {% assign fauna-list = "" %}
+    {% for item in site.data.countries[page.ref].fauna %}
+      {% if page.lang == "fr" %}
+        {% assign fauna = item.fr-name %}
+      {% elsif page.lang == "en" %}
+        {% assign fauna = item.en-name %}
+      {% endif %}
+      {% if item.strong %}
+        {% assign fauna = "<strong>" | append: fauna | append: "</strong>" %}
+      {% endif %}
+      {% assign fauna-list = fauna-list | append: fauna | append: "&nbsp;; " %}
+    {% endfor %}
+    {% assign fauna-list = fauna-list | append: "..." %}
+
+    <div class="col-md-12 service-box service-icon-left-more">
+      <div class="service-icon">
+        <i class="fa fa fa-eye fa-3x"></i>
+      </div>
+      <div class="service-content">
+        <h3>{% if page.lang == "fr" %}Faune et Flore{% elsif page.lang == "en" %}Fauna and Flora{% endif %}</h3>
+        <p>{{ fauna-list }}</p>
+      </div>
+    </div>
+
+  </div>
+
+
+</div><!-- /.col -->
