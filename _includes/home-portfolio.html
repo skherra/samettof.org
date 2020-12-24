@@ -1,0 +1,18 @@
+<div id="homePortfolio">
+  <div class="row">
+    {% for item in site.data.portfolio %}
+    {% assign targets = site.pages | where : "ref", item.page-ref | where : "lang", page.lang %}
+
+    <div class="col-md-4 p-0 m-0 text-center">
+      <span>
+        <img src="/photos/home-portfolio/{{ item.img }}" alt="{% if page.lang == "fr" %}{{ item.fr-title }}{% elsif page.lang == "en" %}{{ item.en-title }}{% endif %}" />
+        <div class="portfolio-item-content">
+          <a href="{{ targets[0].url }}"><h3>{% if page.lang == "fr" %}{{ item.fr-title }}{% elsif page.lang == "en" %}{{ item.en-title }}{% endif %}</h3></a>
+          <p>{% if page.lang == "fr" %}{{ item.fr-date }}{% elsif page.lang == "en" %}{{ item.en-date }}{% endif %}</p>
+        </div>
+      </span>
+    </div><!-- /.col -->
+
+    {% endfor %}
+  </div><!-- /.row -->
+</div>
