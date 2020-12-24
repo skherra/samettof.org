@@ -1,0 +1,84 @@
+difficulty: 70
+visibility: 70
+diversity: 90
+atmosphere: 90
+
+fr-water-temperature-period: En septembre
+en-water-temperature-period: In September
+water-temperature: 22-26
+
+fr-best-season-from: août
+fr-best-season-to: octobre
+en-best-season-from: August
+en-best-season-to: October
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anges royaux
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Frog fish
+    en-name:
+    strong: true
+  - fr-name: Mérous
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Cigales de mer
+    en-name:
+    strong: false
+  - fr-name: Box crab
+    en-name:
+    strong: false
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Requins galapagos
+    en-name:
+    strong: true
+  - fr-name: Requins tigre
+    en-name:
+    strong: true
+  - fr-name: Requins soyeux
+    en-name:
+    strong: true
+  - fr-name: Requins pointes blanches de recifs
+    en-name:
+    strong: false
+  - fr-name: Requins pointe noires
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches océaniques
+    en-name:
+    strong: true
+  - fr-name: Carangues
+    en-name:
+    strong: false
+  - fr-name: Thons jaunes
+    en-name:
+    strong: false
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Raies Manta
+    en-name:
+    strong: true
+  - fr-name: Raies Mobula
+    en-name:
+    strong: true
+  - fr-name: Poissons scorpions
+    en-name:
+    strong: false
+  - fr-name: Labre rasoir masqué juvénile
+    en-name:
+    strong: false
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
