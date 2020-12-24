@@ -19,7 +19,7 @@
       {% for image in gallery %}
       <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
         <a href="{{ image }}">
-        <img src="{{ image | replace: ".jpg", "-th.jpg" }}" class="d-block w-100" alt="..." />
+        <img src="{{ image | replace: ".jpg", "-th.jpg" }}" alt="..." />
         </a>
         <div class="carousel-caption d-none d-md-block">
           <p></p>

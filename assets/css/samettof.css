@@ -59,7 +59,7 @@ a:hover {
   text-shadow: 0px 0px 20px #36353A;
 }
 
-#homeCarousel .active {
+#homeCarousel .carousel-indicators .active {
   background-color: #033298;
 }
 
@@ -324,6 +324,25 @@ a:hover {
 #country-about p {
   text-align: justify;
   line-height: 24px;
+}
+
+#photosCarousel .carousel-item {
+  height: 400px;
+}
+
+#photosCarousel .carousel-item img {
+  max-height: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#photosCarousel .carousel-indicators .active {
+  background-color: #033298;
 }
 
 .log-book {
