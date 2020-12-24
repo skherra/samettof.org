@@ -2,47 +2,47 @@
   name: Sam
   likes:
     - fr-label: La nature et les grands espaces
-      en-label:
+      en-label: Nature and the great outdoors
       grade: 90
     - fr-label: La plongée dans les mers chaudes
-      en-label:
+      en-label: Scuba diving in warm seas
       grade: 96
     - fr-label: Le Yoga
-      en-label:
+      en-label: Yoga
       grade: 88
     - fr-label: L'histoire de l'art et l'opéra
-      en-label:
+      en-label: Art history and opera
       grade: 70
   insta: samettof
 - img: tof.jpg
   name: Tof
   likes:
-    - fr-label: La nature et les grands espaces
-      en-label:
+    - fr-label: Les voyages
+      en-label: Travels
       grade: 90
     - fr-label: La plongée dans les mers chaudes
-      en-label:
-      grade: 96
-    - fr-label: Le Yoga
-      en-label:
-      grade: 88
-    - fr-label: L'histoire de l'art et l'opéra
-      en-label:
-      grade: 70
+      en-label: Scuba diving in warm seas
+      grade: 95
+    - fr-label: La photographie sous-marine
+      en-label: Underwater photography
+      grade: 80
+    - fr-label: La musique
+      en-label: Music
+      grade: 75
   insta: christophe.uw
 - img: ticrab.jpg
   name: Ti' Crab
   likes:
-    - fr-label: La nature et les grands espaces
-      en-label:
+    - fr-label: La mer
+      en-label: The sea
       grade: 90
     - fr-label: La plongée dans les mers chaudes
-      en-label:
+      en-label: Scuba diving in warm seas
       grade: 96
-    - fr-label: Le Yoga
-      en-label:
-      grade: 88
-    - fr-label: L'histoire de l'art et l'opéra
-      en-label:
+    - fr-label: Les voyages
+      en-label: Travels
+      grade: 80
+    - fr-label: Les photos
+      en-label: Photos
       grade: 70
   insta: TiCrab_travels
