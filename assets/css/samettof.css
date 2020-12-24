@@ -185,8 +185,52 @@ main {
 }
 
 #homeTeam h1 {
+  font-size: 32px;
   font-weight: bolder;
+  color: #444;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+#homeTeam .member-name {
+  width: 100%;
+  text-align: right;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #FFF;
+  text-shadow: 0px 0px 20px #36353A;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  margin-top: -30px;
+}
+
+#homeTeam .member-social {
+  width: 100%;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #FFF;
+  text-shadow: 0px 0px 20px #36353A;
+  padding-left: 25px;
+  margin-top: -50px;
+}
+
+#homeTeam .member-social a {
+  color: #FFF;
+}
+
+#homeTeam p {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#homeTeam .progress-bar {
+  background-color: #033298;
+}
+
+#homeTeam .progress {
+  height: .5rem;
 }
 
 /* Counters ------------------------------------------------------------------*/
