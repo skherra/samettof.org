@@ -179,6 +179,10 @@ main {
   background: url(/assets/img/banner/atlantic.jpg) center #f9f9f9;
 }
 
+.banner-caribbean {
+  background: url(/assets/img/banner/caribbean.jpg) center #f9f9f9;
+}
+
 .page-content {
   padding: 20px 0;
 }
