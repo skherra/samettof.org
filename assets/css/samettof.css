@@ -183,6 +183,10 @@ main {
   background: url(/assets/img/banner/caribbean.jpg) center #f9f9f9;
 }
 
+.banner-indian {
+  background: url(/assets/img/banner/indian.jpg) center #f9f9f9;
+}
+
 .page-content {
   padding: 20px 0;
 }

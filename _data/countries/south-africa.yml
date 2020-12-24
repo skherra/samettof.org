@@ -1,0 +1,45 @@
+difficulty: 70
+visibility: 40
+diversity: 60
+atmosphere: 70
+
+fr-water-temperature-period: En février
+en-water-temperature-period: In February
+water-temperature: 17-20
+
+fr-best-season-from: avril
+fr-best-season-to: août
+en-best-season-from: April
+en-best-season-to: August
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anémones
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Requins pointes noires océaniques
+    en-name:
+    strong: true
+  - fr-name: Requins taureaux "Raggies"
+    en-name:
+    strong: true
+  - fr-name: Thons
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Tortues
+    en-name:
+    strong: true
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Mérous
+    en-name:
+    strong: true
