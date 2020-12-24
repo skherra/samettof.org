@@ -76,15 +76,16 @@ main {
 /* Portfolio -----------------------------------------------------------------*/
 
 #homePortfolio {
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 #homePortfolio h3 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bolder;
   color: #FFF;
   margin-top: 20px;
   margin-bottom: 10px;
+  text-shadow: 0px 0px 20px #36353A;
 }
 
 #homePortfolio a {
@@ -93,6 +94,7 @@ main {
 
 #homePortfolio p {
   color: #FFF;
+  text-shadow: 0px 0px 20px #36353A;
 }
 
 #homePortfolio span {
