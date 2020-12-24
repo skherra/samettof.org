@@ -236,25 +236,25 @@ main {
 /* Counters ------------------------------------------------------------------*/
 
 #homeCounters {
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 #homeCounters i {
-  color: #444;
+  color: #033298;
 }
 
 #homeCounters .timer {
   font-size: 64px;
   font-weight: bolder;
-  color: #444;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  color: #033298;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 #homeCounters p {
   font-size: 16px;
   text-transform: uppercase;
-  color: #444;
+  font-weight: bolder;
 }
 
 /*----------------------------------------------------------------------------*/
