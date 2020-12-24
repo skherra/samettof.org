@@ -130,6 +130,30 @@ main {
   padding-top: 20px;
 }
 
+#homeCounters {
+  padding-top: 40px;
+}
+
+#homeCounters i {
+  color: #444;
+}
+
+#homeCounters .timer {
+  font-size: 64px;
+  font-weight: bolder;
+  color: #444;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#homeCounters p {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #444;
+}
+
+
+
 #homeTeam img {
   width: 100%;
 }
