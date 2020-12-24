@@ -126,6 +126,19 @@ main {
   opacity:1;
 }
 
+#homeTeam {
+  padding-top: 20px;
+}
+
+#homeTeam img {
+  width: 100%;
+}
+
+#homeTeam h1 {
+  font-weight: bolder;
+  text-align: center;
+}
+
 .page-banner {
   padding: 10px 0;
 }

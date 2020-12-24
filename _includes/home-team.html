@@ -1,0 +1,22 @@
+<div id="homeTeam" class="container">
+  <h1>Bubbles Makers</h1>
+  <div class="row">
+    {% for item in site.data.home-team %}
+    <div class="col-md-4">
+      <div class="team-member">
+        <!-- Memebr Photo, Name & Position -->
+        <div class="member-photo">
+          <img alt="" src="/photos/home-team/{{ item.img }}" />
+          <div class="member-name">{{ item.name }} <span>{% if page.lang == "fr" %}aime{% elsif page.lang == "en" %}likes{% endif %}</span></div>
+        </div>
+        {% for like in item.likes %}
+        <p>{% if page.lang == "fr" %}{{ like.fr-label }}{% elsif page.lang == "en" %}{{ like.en-label }}{% endif %}</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: {{ like.grade }}%;" aria-valuenow="{{ like.grade }}" aria-valuemin="0" aria-valuemax="100"></div></div>
+        {% endfor %}
+        <!-- Memebr Social Links -->
+        <div class="member-socail"><a href="https://www.instagram.com/{{ item.insta }}/" target="_blank"><i class="fa fa-instagram"></i></a></div>
+      </div>
+    </div><!-- /.col -->
+    {% endfor %}
+  </div><!-- /.row -->
+</div>

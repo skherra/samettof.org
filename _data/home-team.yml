@@ -1,0 +1,48 @@
+- img: sam.jpg
+  name: Sam
+  likes:
+    - fr-label: La nature et les grands espaces
+      en-label:
+      grade: 90
+    - fr-label: La plongée dans les mers chaudes
+      en-label:
+      grade: 96
+    - fr-label: Le Yoga
+      en-label:
+      grade: 88
+    - fr-label: L'histoire de l'art et l'opéra
+      en-label:
+      grade: 70
+  insta: samettof
+- img: tof.jpg
+  name: Tof
+  likes:
+    - fr-label: La nature et les grands espaces
+      en-label:
+      grade: 90
+    - fr-label: La plongée dans les mers chaudes
+      en-label:
+      grade: 96
+    - fr-label: Le Yoga
+      en-label:
+      grade: 88
+    - fr-label: L'histoire de l'art et l'opéra
+      en-label:
+      grade: 70
+  insta: christophe.uw
+- img: ticrab.jpg
+  name: Ti' Crab
+  likes:
+    - fr-label: La nature et les grands espaces
+      en-label:
+      grade: 90
+    - fr-label: La plongée dans les mers chaudes
+      en-label:
+      grade: 96
+    - fr-label: Le Yoga
+      en-label:
+      grade: 88
+    - fr-label: L'histoire de l'art et l'opéra
+      en-label:
+      grade: 70
+  insta: TiCrab_travels
