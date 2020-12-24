@@ -14,8 +14,8 @@ body {
 }
 
 main {
-  font-size: 13px;
-  line-height: 21px;
+  font-size: 14px;
+  line-height: 20px;
   margin-top: 70px;
   padding-bottom: 100px;
 }
@@ -62,11 +62,15 @@ main {
 }
 
 #homeManifest h3 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bolder;
   color: #444;
   margin-top: 20px;
   margin-bottom: 10px;
+}
+
+#homeManifest p {
+  text-align: justify;
 }
 
 /* Portfolio -----------------------------------------------------------------*/
