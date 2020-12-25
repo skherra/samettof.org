@@ -381,9 +381,37 @@ a:hover {
   text-align: justify;
 }
 
-.log-book {
+#countryLogbook #control {
+  width: 100%;
+  text-align: right;
+  font-size: 18px;
+  margin-top: -45px;
+  margin-bottom: 30px;
+}
+
+#countryLogbook #control a {
+  color: #444;
+}
+
+#countryLogbook #control a:hover {
+  color: #033298;
+}
+
+#countryLogbook #quote-mark {
+  width: 100%;
+  text-align: left;
+  font-size: 64px;
+  margin-bottom: -40px;
+  margin-top: 20px;
+  color: #033298;
+}
+
+#countryLogbook .log-book {
   width:100%;
   min-width:100%;
   overflow:hidden;
   display:block;
+  text-align: justify;
+  padding-left: 40px;
+  font-style: italic;
 }
