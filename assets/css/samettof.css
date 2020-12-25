@@ -233,12 +233,12 @@ a:hover {
   margin-bottom: 5px;
 }
 
-#homeTeam .progress-bar {
-  background-color: #033298;
-}
-
 #homeTeam .progress {
   height: .5rem;
+}
+
+#homeTeam .progress-bar {
+  background-color: #033298;
 }
 
 /* Counters ------------------------------------------------------------------*/
@@ -343,6 +343,22 @@ a:hover {
 
 #photosCarousel .carousel-indicators .active {
   background-color: #033298;
+}
+
+#countryOpinion .progress {
+  height: 1.5rem;
+}
+
+#countryOpinion .progress-bar {
+  background-color: #033298;
+  font-weight: bolder;
+  text-align: right;
+  padding-right: 10px;
+}
+
+#countryOpinion p {
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
 
 .log-book {
