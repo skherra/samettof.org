@@ -361,6 +361,26 @@ a:hover {
   margin-bottom: 5px;
 }
 
+#countryPractical .card {
+}
+
+#countryPractical .card-header {
+  padding: 0px;
+}
+
+#countryPractical .card-header h2 {
+  padding: 0px;
+}
+
+#countryPractical .card-header h2 button {
+  color: #033298;
+  text-decoration: none;
+}
+
+#countryPractical .card-body {
+  text-align: justify;
+}
+
 .log-book {
   width:100%;
   min-width:100%;
