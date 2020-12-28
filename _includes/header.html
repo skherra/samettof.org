@@ -27,23 +27,15 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             {% for subitem in item.sublabels %}
-              {% if page.lang == "fr" %}
-                <a class="dropdown-item" href="{{ subitem.fr-link }}">{{ subitem.fr-label }}</a>
-              {% endif %}
-              {% if page.lang == "en" %}
-                <a class="dropdown-item" href="{{ subitem.en-link }}">{{ subitem.en-label }}</a>
-              {% endif %}
+              {% assign pages=site.pages | where:"ref", subitem.ref | where:"lang", page.lang %}
+              <a class="dropdown-item" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>
             {% endfor %}
           </div>
         </li>
         {% else %}
         <li class="nav-item">
-          {% if page.lang == "fr" %}
-            <a class="nav-link" href="{{ item.fr-link }}">{{ item.fr-label }}</a>
-          {% endif %}
-          {% if page.lang == "en" %}
-            <a class="nav-link" href="{{ item.en-link }}">{{ item.en-label }}</a>
-          {% endif %}
+          {% assign pages=site.pages | where:"ref", item.ref | where:"lang", page.lang %}
+          <a class="nav-link" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>
         </li>
         {% endif %}
       {% endfor %}
