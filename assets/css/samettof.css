@@ -415,3 +415,18 @@ a:hover {
   padding-left: 40px;
   font-style: italic;
 }
+
+#countryGoodToKnow h3 {
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#countryGoodToKnow .service-icon {
+  color: #033298;
+  margin-top: 10px;
+}
+
+#countryGoodToKnow .service-content {
+  padding-left: 45px;
+  margin-top: -25px;
+}
