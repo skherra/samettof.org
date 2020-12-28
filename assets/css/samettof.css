@@ -1,5 +1,12 @@
 
 /*----------------------------------------------------------------------------*/
+/* Blue : #033298                                                             */
+/* Grey : #666                                                                */
+/* Dark grey : #444                                                           */
+/*----------------------------------------------------------------------------*/
+
+
+/*----------------------------------------------------------------------------*/
 /* General                                                                    */
 /*----------------------------------------------------------------------------*/
 
@@ -277,16 +284,16 @@ a:hover {
   padding-top: 20px;
   margin-bottom: 16px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 2px solid #eee;
   font-weight: bolder;
-  font-size: 16px;
-  line-height: 18px;
+  color: #444;
+  font-size: 20px;
 }
 
 .page-content h2 span {
   padding-bottom: 8px;
-  border-bottom: 1px solid;
-  border-bottom-color: #00afd1;
+  border-bottom: 2px solid;
+  border-bottom-color: #033298;
 }
 
 /* Banners -------------------------------------------------------------------*/
@@ -297,7 +304,7 @@ a:hover {
 
 .page-banner h1 {
   font-size: 20px;
-  color: white;
+  color: #FFF;
   text-shadow: 0px 0px 20px #36353A;
   font-weight: bolder;
   text-transform: uppercase;
@@ -390,7 +397,7 @@ a:hover {
 }
 
 #countryLogbook #control a {
-  color: #444;
+  color: #666;
 }
 
 #countryLogbook #control a:hover {
@@ -419,6 +426,8 @@ a:hover {
 #countryGoodToKnow h3 {
   font-size: 16px;
   line-height: 18px;
+  font-weight: bolder;
+  color: #444;
 }
 
 #countryGoodToKnow .service-icon {

@@ -4,8 +4,8 @@
 {% if page.lang == "en" %}
   {% assign dataset = site.data.home-manifest-en %}
 {% endif %}
-<div id="homeManifest" class="container">
-  <div class="row">
+<div id="homeManifest" class="container-fluid">
+  <div class="row pl-5 pr-5">
   {% for item in dataset %}
     <div class="col-md-3 col-sm-6 mt-5 text-center">
       <i class="{{ item.icon }} fa-3x accent-color"></i>

@@ -1,4 +1,4 @@
-<div class="col-md-6" id="countryGoodToKnow">
+<div class="col-md-6 pl-4 pr-4" id="countryGoodToKnow">
   <h2><span>{% if page.lang == "fr" %}A savoir{% elsif page.lang == "en" %}Good to know{% endif %}</span></h2>
 
   <div class="row">
@@ -40,7 +40,7 @@
         {% assign fauna = item.en-name %}
       {% endif %}
       {% if item.strong %}
-        {% assign fauna = "<strong>" | append: fauna | append: "</strong>" %}
+        {% assign fauna = '<strong class="accent-color">' | append: fauna | append: '</strong>' %}
       {% endif %}
       {% assign fauna-list = fauna-list | append: fauna | append: "&nbsp;; " %}
     {% endfor %}
