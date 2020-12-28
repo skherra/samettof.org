@@ -1,9 +1,10 @@
+/*----------------------------------------------------------------------------*/
+/* Global variables                                                           */
+/*----------------------------------------------------------------------------*/
 
-/*----------------------------------------------------------------------------*/
-/* Blue : #033298                                                             */
-/* Grey : #666                                                                */
-/* Dark grey : #444                                                           */
-/*----------------------------------------------------------------------------*/
+@blue-flag: #033298;
+@grey: #666;
+@dark-grey: #444;
 
 
 /*----------------------------------------------------------------------------*/
@@ -13,7 +14,7 @@
 html, body{
   height: 100%;
   font-family: Ubuntu, sans-serif;
-  color: #666;
+  color: @grey;
 }
 
 body {
@@ -28,15 +29,15 @@ main {
 }
 
 .accent-color {
-  color: #033298;
+  color: @blue-flag;
 }
 
 a {
-  color: #033298;
+  color: @blue-flag;
 }
 
 a:hover {
-  color: #033298;
+  color: @blue-flag;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -67,7 +68,7 @@ a:hover {
 }
 
 #homeCarousel .carousel-indicators .active {
-  background-color: #033298;
+  background-color: @blue-flag;
 }
 
 /* Manifest ------------------------------------------------------------------*/
@@ -79,7 +80,7 @@ a:hover {
 #homeManifest h3 {
   font-size: 20px;
   font-weight: bolder;
-  color: #444;
+  color: @dark-grey;
   margin-top: 20px;
   margin-bottom: 10px;
 }
@@ -202,7 +203,7 @@ a:hover {
 #homeTeam h1 {
   font-size: 32px;
   font-weight: bolder;
-  color: #444;
+  color: @dark-grey;
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
@@ -245,7 +246,7 @@ a:hover {
 }
 
 #homeTeam .progress-bar {
-  background-color: #033298;
+  background-color: @blue-flag;
 }
 
 /* Counters ------------------------------------------------------------------*/
@@ -255,13 +256,13 @@ a:hover {
 }
 
 #homeCounters i {
-  color: #033298;
+  color: @blue-flag;
 }
 
 #homeCounters .timer {
   font-size: 64px;
   font-weight: bolder;
-  color: #033298;
+  color: @blue-flag;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -286,14 +287,14 @@ a:hover {
   padding-bottom: 8px;
   border-bottom: 2px solid #eee;
   font-weight: bolder;
-  color: #444;
+  color: @dark-grey;
   font-size: 20px;
 }
 
 .page-content h2 span {
   padding-bottom: 8px;
   border-bottom: 2px solid;
-  border-bottom-color: #033298;
+  border-bottom-color: @blue-flag;
 }
 
 /* Banners -------------------------------------------------------------------*/
@@ -333,27 +334,30 @@ a:hover {
   line-height: 24px;
 }
 
-#photosCarousel .carousel-item {
-  height: 400px;
-}
-
-#photosCarousel .carousel-item img {
-  max-height: 100%;
-  max-width: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
-
-#photosCarousel .carousel-indicators li {
-  background-color: #444;
-}
-
-#photosCarousel .carousel-indicators .active {
-  background-color: #033298;
+#photosCarousel {
+  .carousel-item {
+    height: 400px;
+    img {
+      max-height: 100%;
+      max-width: 100%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+    }
+  }
+  .carousel-indicators {
+    li {
+      background-color: @dark-grey;
+    }
+  }
+  .carousel-indicators {
+    .active {
+      background-color: @blue-flag;
+    }
+  }
 }
 
 #photosModal {
@@ -361,151 +365,136 @@ a:hover {
   width: 100%;
   padding: 0px;
   margin: 0px;
-}
-
-#photosModal .modal-dialog {
-  height: 100%;
-  width: auto;
-  max-width: 100%;
-  padding: 0px;
-  margin: 0px;
-}
-
-#photosModal .modal-content {
-  height: 100%;
-  background-color: rgba(68, 68, 68, 0.75);
-  border: none;
-  border-radius: 0rem;
-}
-
-#photosModal .modal-body {
-  padding: 0px;
-}
-
-#photosModal .modal-header {
-  position: absolute;
-  right: 0px;
-  padding: 10px 10px 0px 0px;
-  border-bottom: none;
-}
-
-#photosModal .modal-header a {
-  color: #FFF;
+  .modal-dialog {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+  .modal-content {
+    height: 100%;
+    background-color: rgba(68, 68, 68, 0.75);
+    border: none;
+    border-radius: 0rem;
+  }
+  .modal-body {
+    padding: 0px;
+  }
+  .modal-header {
+    position: absolute;
+    right: 0px;
+    padding: 10px 10px 0px 0px;
+    border-bottom: none;
+    a {
+      color: #FFF;
+    }
+  }
 }
 
 #modalCarousel {
   height: 100%;
+  .carousel-control-prev, .carousel-control-next {
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .carousel-inner {
+    height: 100%;
+  }
+  .carousel-item {
+    height: 100%;
+    img {
+      max-height: 100%;
+      max-width: 100%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+    }
+  }
 }
 
-#modalCarousel .carousel-control-prev, #modalCarousel .carousel-control-next {
-  height: 50%;
-  margin-top: auto;
-  margin-bottom: auto;
+#countryOpinion {
+  .progress {
+    height: 1.5rem;
+  }
+  .progress-bar {
+    background-color: @blue-flag;
+    font-weight: bolder;
+    text-align: right;
+    padding-right: 10px;
+  }
+  p {
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
 }
 
-#modalCarousel .carousel-inner {
-  height: 100%;
+#countryPractical {
+  .card-header {
+    padding: 0px;
+    h2 {
+      padding: 0px;
+      button {
+        color: @blue-flag;
+        text-decoration: none;
+      }
+    }
+  }
+  .card-body {
+    text-align: justify;
+  }
 }
 
-#modalCarousel .carousel-item {
-  height: 100%;
+#countryLogbook {
+  #control {
+    width: 100%;
+    text-align: right;
+    font-size: 18px;
+    margin-top: -45px;
+    margin-bottom: 30px;
+    a {
+      color: @grey;
+    }
+    a:hover {
+      color: @blue-flag;
+    }
+  }
+  #quote-mark {
+    width: 100%;
+    text-align: left;
+    font-size: 64px;
+    margin-bottom: -40px;
+    margin-top: 20px;
+    color: @blue-flag;
+  }
+  .log-book {
+    width:100%;
+    min-width:100%;
+    overflow:hidden;
+    display:block;
+    text-align: justify;
+    padding-left: 40px;
+    font-style: italic;
+  }
 }
 
-#modalCarousel .carousel-item img {
-  max-height: 100%;
-  max-width: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
-
-#countryOpinion .progress {
-  height: 1.5rem;
-}
-
-#countryOpinion .progress-bar {
-  background-color: #033298;
-  font-weight: bolder;
-  text-align: right;
-  padding-right: 10px;
-}
-
-#countryOpinion p {
-  margin-top: 20px;
-  margin-bottom: 5px;
-}
-
-#countryPractical .card {
-}
-
-#countryPractical .card-header {
-  padding: 0px;
-}
-
-#countryPractical .card-header h2 {
-  padding: 0px;
-}
-
-#countryPractical .card-header h2 button {
-  color: #033298;
-  text-decoration: none;
-}
-
-#countryPractical .card-body {
-  text-align: justify;
-}
-
-#countryLogbook #control {
-  width: 100%;
-  text-align: right;
-  font-size: 18px;
-  margin-top: -45px;
-  margin-bottom: 30px;
-}
-
-#countryLogbook #control a {
-  color: #666;
-}
-
-#countryLogbook #control a:hover {
-  color: #033298;
-}
-
-#countryLogbook #quote-mark {
-  width: 100%;
-  text-align: left;
-  font-size: 64px;
-  margin-bottom: -40px;
-  margin-top: 20px;
-  color: #033298;
-}
-
-#countryLogbook .log-book {
-  width:100%;
-  min-width:100%;
-  overflow:hidden;
-  display:block;
-  text-align: justify;
-  padding-left: 40px;
-  font-style: italic;
-}
-
-#countryGoodToKnow h3 {
-  font-size: 16px;
-  line-height: 18px;
-  font-weight: bolder;
-  color: #444;
-}
-
-#countryGoodToKnow .service-icon {
-  color: #033298;
-  margin-top: 10px;
-}
-
-#countryGoodToKnow .service-content {
-  padding-left: 45px;
-  margin-top: -25px;
+#countryGoodToKnow {
+  h3 {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: bolder;
+    color: @dark-grey;
+  }
+  .service-icon {
+    color: @blue-flag;
+    margin-top: 10px;
+  }
+  .service-content {
+    padding-left: 45px;
+    margin-top: -25px;
+  }
 }
