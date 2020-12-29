@@ -1,0 +1,21 @@
+difficulty: 50
+visibility: 100
+diversity: 30
+atmosphere: 90
+
+fr-water-temperature-period: En mars
+en-water-temperature-period: In March
+water-temperature: 1 - 4
+
+fr-best-season-from: janvier
+fr-best-season-to: décembre
+en-best-season-from: January
+en-best-season-to: December
+
+fauna:
+  - fr-name: Failles et lagons aux algues multi colores
+    en-name:
+    strong: false
+  - fr-name: salmo trutta (truites)
+    en-name:
+    strong: true
