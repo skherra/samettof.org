@@ -7,7 +7,6 @@
 @dark-grey: #444;
 
 @navbar-full-height: 66px;
-@footer-full-height: 56px;
 
 /*----------------------------------------------------------------------------*/
 /* General                                                                    */
@@ -25,7 +24,7 @@ body {
 main {
   font-size: 14px;
   line-height: 20px;
-  margin-top: 70px;
+  margin-top: @navbar-full-height;
 }
 
 .accent-color {
@@ -497,4 +496,15 @@ a:hover {
     padding-left: 45px;
     margin-top: -25px;
   }
+}
+
+/* World map -----------------------------------------------------------------*/
+
+#worldMapContainer {
+  margin:0px;
+  padding:0px;
+}
+
+#worldMap {
+  height: calc(~"100vh - @{navbar-full-height}");
 }
