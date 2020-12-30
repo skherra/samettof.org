@@ -1,0 +1,63 @@
+difficulty: 60
+visibility: 80
+diversity: 80
+atmosphere: 80
+
+fr-water-temperature-period: En septembre
+en-water-temperature-period: In September
+water-temperature: 26
+
+fr-best-season-from: décembre
+fr-best-season-to: mai
+en-best-season-from: December
+en-best-season-to: May
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Monnaie caraïbes
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Lambis
+    en-name:
+    strong: false
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Cigales de mer
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Chevaliers ponctués juvéniles
+    en-name:
+    strong: true
+  - fr-name: Peroquets célestes
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Raies Léopards
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true
