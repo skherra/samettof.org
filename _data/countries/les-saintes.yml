@@ -1,0 +1,54 @@
+difficulty: 50
+visibility: 60
+diversity: 60
+atmosphere: 60
+
+fr-water-temperature-period: En mars
+en-water-temperature-period: In March
+water-temperature: 27
+
+fr-best-season-from: décembre
+fr-best-season-to: mai
+en-best-season-from: December
+en-best-season-to: May
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Monnaies caraïbes
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Balistes
+    en-name:
+    strong: false
+  - fr-name: Barracuda géant
+    en-name:
+    strong: true
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+  - fr-name: Anges français
+    en-name:
+    strong: true
+  - fr-name: Anges royaux
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: false
