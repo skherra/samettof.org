@@ -1,0 +1,78 @@
+difficulty: 50
+visibility: 60
+diversity: 80
+atmosphere: 80
+
+fr-water-temperature-period: En mars
+en-water-temperature-period: In March
+water-temperature: 27
+
+fr-best-season-from: novembre
+fr-best-season-to: juillet
+en-best-season-from: November
+en-best-season-to: July
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Monnaies caraïbes
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Balistes
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Vives tropicales
+    en-name:
+    strong: false
+  - fr-name: Tortues vertes
+    en-name:
+    strong: false
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: false
+  - fr-name: Chevaliers ponctués juvéniles et adultes
+    en-name:
+    strong: true
+  - fr-name: Coraux noirs
+    en-name:
+    strong: true
+  - fr-name: Requins nourices
+    en-name:
+    strong: true
+  - fr-name: Barracuda géant
+    en-name:
+    strong: true
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+  - fr-name: Anges français
+    en-name:
+    strong: true
+  - fr-name: Anges royaux
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Marionnettes à tête dorée
+    en-name:
+    strong: true
