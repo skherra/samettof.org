@@ -1,0 +1,57 @@
+difficulty: 40
+visibility: 80
+diversity: 60
+atmosphere: 60
+
+fr-water-temperature-period: En avril
+en-water-temperature-period: In April
+water-temperature: 25
+
+fr-best-season-from: octobre
+fr-best-season-to: mai
+en-best-season-from: October
+en-best-season-to: May
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Sources volcaniques
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+  - fr-name: Monnaie caraïbes
+    en-name:
+    strong: false
+  - fr-name: Tortues vertes
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Tazars
+    en-name:
+    strong: true
+  - fr-name: Chatrous
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
