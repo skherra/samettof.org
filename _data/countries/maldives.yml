@@ -1,0 +1,57 @@
+difficulty: 70
+visibility: 60
+diversity: 80
+atmosphere: 70
+
+fr-water-temperature-period: En décembre
+en-water-temperature-period: In December
+water-temperature: 30
+
+fr-best-season-from: décembre
+fr-best-season-to: avril
+en-best-season-from: December
+en-best-season-to: April
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Poissons clown
+    en-name:
+    strong: false
+  - fr-name: Crevettes Mantes
+    en-name:
+    strong: false
+  - fr-name: Requins baleines
+    en-name:
+    strong: true
+  - fr-name: Requins nourices
+    en-name:
+    strong: false
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches océaniques
+    en-name:
+    strong: true
+  - fr-name: Raies leopards
+    en-name:
+    strong: true
+  - fr-name: Raies Mantas
+    en-name:
+    strong: true
+  - fr-name: Raies Pastenagues
+    en-name:
+    strong: false
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Ribon eels
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
