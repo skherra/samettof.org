@@ -1,0 +1,75 @@
+difficulty: 60
+visibility: 60
+diversity: 95
+atmosphere: 90
+
+fr-water-temperature-period: En mai
+en-water-temperature-period: In May
+water-temperature: 18-24
+
+fr-best-season-from: décembre
+fr-best-season-to: juin
+en-best-season-from: December
+en-best-season-to: June
+
+fauna:
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Poisson tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Tortues vertes
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches de recif
+    en-name:
+    strong: false
+  - fr-name: Requins Galapagos
+    en-name:
+    strong: true
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Raies Mantas océaniques
+    en-name:
+    strong: true
+  - fr-name: Raies électriques
+    en-name:
+    strong: true
+  - fr-name: Batfish
+    en-name:
+    strong: true
+  - fr-name: Orques
+    en-name:
+    strong: true
+  - fr-name: Requins bullhead Galapagos
+    en-name:
+    strong: true
+  - fr-name: Iguanes marines
+    en-name:
+    strong: true
+  - fr-name: Pingouins
+    en-name:
+    strong: true
+  - fr-name: Otaries
+    en-name:
+    strong: true
