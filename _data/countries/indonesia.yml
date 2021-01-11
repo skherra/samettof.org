@@ -1,0 +1,91 @@
+difficulty: 70
+visibility: 70
+diversity: 90
+atmosphere: 80
+
+fr-water-temperature-period: En septembre
+en-water-temperature-period: In September
+water-temperature: 27
+
+fr-best-season-from: mars
+fr-best-season-to: octobre
+en-best-season-from: March
+en-best-season-to: October
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Une incroyable diversité de nudibranches
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Poissons clown
+    en-name:
+    strong: false
+
+  - fr-name: Crevettes mantes
+    en-name:
+    strong: true
+  - fr-name: Devil Pipefish
+    en-name:
+    strong: true
+  - fr-name: Flamboyant cutlefish
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches
+    en-name:
+    strong: false
+  - fr-name: Requins pointes noires
+    en-name:
+    strong: false
+  - fr-name: Requins nourices
+    en-name:
+    strong: false
+  - fr-name: Requins bambou juvenile
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Carrangues géantes
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Raies mobula
+    en-name:
+    strong: true
+  - fr-name: Raies manta
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Tortues
+    en-name:
+    strong: true
+  - fr-name: Molas molas
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Bumphead parrotfish
+    en-name:
+    strong: true
+  - fr-name: Scorpions feuilles
+    en-name:
+    strong: true
