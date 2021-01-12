@@ -1,0 +1,69 @@
+difficulty: 60
+visibility: 60
+diversity: 70
+atmosphere: 80
+
+fr-water-temperature-period: En février&nbsp;/ mars
+en-water-temperature-period: In February/March
+water-temperature: 27-29
+
+fr-best-season-from: janvier
+fr-best-season-to: avril
+en-best-season-from: January
+en-best-season-to: April
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Raies mantas océaniques
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Scorpion leaf fishs
+    en-name:
+    strong: false
+  - fr-name: Banded pipefishs
+    en-name:
+    strong: false
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins pointe blanche
+    en-name:
+    strong: false
+  - fr-name: Requins pointe noire
+    en-name:
+    strong: false
+  - fr-name: Thons jaunes
+    en-name:
+    strong: false
+  - fr-name: Thons à dents de chien
+    en-name:
+    strong: false
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Platax
+    en-name:
+    strong: false
