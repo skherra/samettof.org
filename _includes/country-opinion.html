@@ -5,25 +5,37 @@
   <p>{% if page.lang == "fr" %}Difficulté{% elsif page.lang == "en" %}Difficulty{% endif %}</p>
   {% assign difficulty = site.data.countries[page.ref].difficulty %}
   <div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: {{ difficulty }}%;" aria-valuenow="{{ difficulty }}" aria-valuemin="0" aria-valuemax="100">{{ difficulty | divided_by: 10.0 }} / 10</div>
+    <div class="progress-bar" role="progressbar" style="width: {{ difficulty }}%;" aria-valuenow="{{ difficulty }}" aria-valuemin="0" aria-valuemax="100">
+      {% assign mod = difficulty | modulo: 10 %}
+      <span class="progress-bar-span">{% if mod != 0 %}{{ difficulty | divided_by: 10.0 }}{% else %}{{ difficulty | divided_by: 10 }}{% endif %} / 10</span>
+    </div>
   </div>
 
   <p>{% if page.lang == "fr" %}Visibilité{% elsif page.lang == "en" %}Visibility{% endif %}</p>
   {% assign visibility = site.data.countries[page.ref].visibility %}
   <div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: {{ visibility }}%;" aria-valuenow="{{ visibility }}" aria-valuemin="0" aria-valuemax="100">{{ visibility | divided_by: 10.0 }} / 10</div>
+    <div class="progress-bar" role="progressbar" style="width: {{ visibility }}%;" aria-valuenow="{{ visibility }}" aria-valuemin="0" aria-valuemax="100">
+      {% assign mod = visibility | modulo: 10 %}
+      <span class="progress-bar-span">{% if mod != 0 %}{{ visibility | divided_by: 10.0 }}{% else %}{{ visibility | divided_by: 10 }}{% endif %} / 10</span>
+    </div>
   </div>
 
   <p>{% if page.lang == "fr" %}Richesse{% elsif page.lang == "en" %}Diversity{% endif %}</p>
   {% assign diversity = site.data.countries[page.ref].diversity %}
   <div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: {{ diversity }}%;" aria-valuenow="{{ diversity }}" aria-valuemin="0" aria-valuemax="100">{{ diversity | divided_by: 10.0 }} / 10</div>
+    <div class="progress-bar" role="progressbar" style="width: {{ diversity }}%;" aria-valuenow="{{ diversity }}" aria-valuemin="0" aria-valuemax="100">
+      {% assign mod = diversity | modulo: 10 %}
+      <span class="progress-bar-span">{% if mod != 0 %}{{ diversity | divided_by: 10.0 }}{% else %}{{ diversity | divided_by: 10 }}{% endif %} / 10</span>
+    </div>
   </div>
 
   <p>{% if page.lang == "fr" %}Ambiance{% elsif page.lang == "en" %}Atmosphere{% endif %}</p>
   {% assign atmosphere = site.data.countries[page.ref].atmosphere %}
   <div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: {{ atmosphere }}%;" aria-valuenow="{{ atmosphere }}" aria-valuemin="0" aria-valuemax="100">{{ atmosphere | divided_by: 10.0 }} / 10</div>
+    <div class="progress-bar" role="progressbar" style="width: {{ atmosphere }}%;" aria-valuenow="{{ atmosphere }}" aria-valuemin="0" aria-valuemax="100">
+      {% assign mod = atmosphere | modulo: 10 %}
+      <span class="progress-bar-span">{% if mod != 0 %}{{ atmosphere | divided_by: 10.0 }}{% else %}{{ atmosphere | divided_by: 10 }}{% endif %} / 10</span>
+    </div>
   </div>
 
 </div><!-- /.col -->
