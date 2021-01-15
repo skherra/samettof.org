@@ -1,0 +1,87 @@
+difficulty: 70
+visibility: 70
+diversity: 90
+atmosphere: 90
+
+fr-water-temperature-period: En mai
+en-water-temperature-period: In May
+water-temperature: 29
+
+fr-best-season-from: avril
+fr-best-season-to: novembre
+en-best-season-from: April
+en-best-season-to: November
+
+fauna:
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Balistes titan
+    en-name:
+    strong: false
+  - fr-name: Poisson tropicaux
+    en-name:
+    strong: false
+  - fr-name: Coraux durs
+    en-name:
+    strong: false
+  - fr-name: Coraux roses
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Carangues échevelées
+    en-name:
+    strong: true
+  - fr-name: Carangues arc en ciel
+    en-name:
+    strong: false
+  - fr-name: Carangues gros yeux
+    en-name:
+    strong: false
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches de lagon
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches de récif
+    en-name:
+    strong: true
+  - fr-name: Requins pointes noires
+    en-name:
+    strong: false
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins citrons
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: false
+  - fr-name: Requins bordés
+    en-name:
+    strong: true
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies mantas
+    en-name:
+    strong: true
+  - fr-name: Raies léopards
+    en-name:
+    strong: true
+  - fr-name: Espadons voilier
+    en-name:
+    strong: true
+  - fr-name: Dauphins
+    en-name:
+    strong: true
