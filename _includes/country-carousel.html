@@ -47,15 +47,14 @@
       <li data-target="#photosCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.index0 == 0 %} class="active"{% endif %}></li>
       {% endfor %}
     </ol>
+    <a href="#photosCarousel" role="button" data-slide="prev"><i class="fa fa-angle-left fa-2x control-left"></i></a>
+    <a href="#photosCarousel" role="button" data-slide="next"><i class="fa fa-angle-right fa-2x control-right"></i></a>
     <div class="carousel-inner">
       {% for image in gallery %}
       <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
         <a href="#photosModal" role="button"  data-toggle="modal" data-target="#photosModal" onclick="$('#modalCarousel').carousel({{ forloop.index0 }});">
           <img src="{{ image | replace: ".jpg", "-th.jpg" }}" alt="..." />
         </a>
-        <div class="carousel-caption d-none d-md-block">
-          <p></p>
-        </div>
       </div>
       {% endfor %}
     </div>

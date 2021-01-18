@@ -401,6 +401,7 @@ a:hover {
 #photosCarousel {
   .carousel-item {
     height: 400px;
+    margin-top: 40px;
     img {
       max-height: 100%;
       max-width: 100%;
@@ -413,14 +414,27 @@ a:hover {
     }
   }
   .carousel-indicators {
+    position: absolute;
+    top: 440px;
+    height: 20px;
+    margin-top: 2px;
+    margin-bottom: 0px;
     li {
       background-color: @dark-grey;
     }
-  }
-  .carousel-indicators {
     .active {
       background-color: @blue;
     }
+  }
+  .control-left {
+    position: absolute;
+    top: 440px;
+    left:0px;
+  }
+  .control-right {
+    position: absolute;
+    top: 440px;
+    right:0px;
   }
 }
 
