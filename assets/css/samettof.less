@@ -390,6 +390,9 @@ a:hover {
 .banner-faq {
   background: url(/assets/img/banner/faq.jpg) center #f9f9f9;
 }
+.banner-next {
+  background: url(/assets/img/banner/next.jpg) center #f9f9f9;
+}
 
 /* Countries -----------------------------------------------------------------*/
 
@@ -566,6 +569,58 @@ a:hover {
 #inspiration img {
   max-width: 90%;
   padding-top: 20px;
+}
+
+/* Next bubbles --------------------------------------------------------------*/
+
+.post-row {
+	margin-bottom: 20px;
+  height: 100px;
+  p {
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .left-meta-post {
+  	float: left;
+  	text-align: center;
+  	margin-right: 12px;
+  	margin-bottom: 0;
+  	border-radius: 3px;
+  	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+  	overflow: hidden;
+    .date {
+    	padding: 8px 0;
+    	width: 42px;
+    	background-color: #444;
+    	color: #fff;
+      .day {
+      	font-size: 20px;
+      	font-weight: 700;
+      	display: block;
+      	letter-spacing: 1px;
+      }
+      .month {
+      	display: block;
+      	text-transform: uppercase;
+      	line-height: 14px;
+      	font-size: 11px;
+      	letter-spacing: 1px;
+      }
+    }
+    .type i {
+    	display: block;
+    	height: 40px;
+    	line-height: 39px;
+    	width: 42px;
+      background-color: @blue;
+    	color: #fff;
+    	font-size: 1.4em;
+    }
+  }
 }
 
 /* World map -----------------------------------------------------------------*/
