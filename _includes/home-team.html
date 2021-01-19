@@ -1,7 +1,7 @@
 <div id="homeTeam" class="container-fluid">
   <h1>Bubbles Makers</h1>
   <div class="row pl-5 pr-5">
-    {% for item in site.data.home-team %}
+    {% for item in site.data.home-team -%}
     <div class="col-md-4">
       <div class="team-member">
         <div class="member-photo">
@@ -11,12 +11,12 @@
           <div class="col-md-6 member-name">{{ item.name }}</div>
         </div>
       </div>
-        {% for like in item.likes %}
-        <p>{% if page.lang == "fr" %}{{ like.fr-label }}{% elsif page.lang == "en" %}{{ like.en-label }}{% endif %}</p>
+        {% for like in item.likes -%}
+        <p>{%- if page.lang == "fr" -%}{{ like.fr-label }}{%- elsif page.lang == "en" -%}{{ like.en-label }}{%- endif -%}</p>
         <div class="progress"><div class="progress-bar" role="progressbar" style="width: {{ like.grade }}%;" aria-valuenow="{{ like.grade }}" aria-valuemin="0" aria-valuemax="100"></div></div>
-        {% endfor %}
+        {% endfor -%}
       </div>
     </div><!-- /.col -->
-    {% endfor %}
+    {% endfor -%}
   </div><!-- /.row -->
 </div>

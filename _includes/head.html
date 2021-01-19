@@ -11,9 +11,9 @@
   <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
+  {%- for page in pages %}
   <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
-  {% endfor %}
+  {%- endfor %}
 
   <!-- CSS -->
   <link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">

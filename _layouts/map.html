@@ -60,7 +60,7 @@
     popupAnchor:  [0, -21] // point from which the popup should open relative to the iconAnchor
   });
 
-  {% for item in site.data.world-map %}
+  {% for item in site.data.world-map -%}
     {%- assign marker = 'L.marker([' | append: item.lat | append: ', ' | append: item.lng | append: '], {icon: ' | append: item.icon | append: '}).addTo(mymap).bindPopup("' -%}
 
     {%- assign country = '' -%}
@@ -110,7 +110,7 @@
     {%- assign marker = marker | append: '");' -%}
 
     {{ marker }}
-  {% endfor %}
+  {% endfor -%}
 
 </script>
 

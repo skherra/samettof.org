@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 
-  {% if page.lang == "fr" %}
-    {% assign home = '/' %}
-  {% endif %}
-  {% if page.lang == "en" %}
-    {% assign home = '/en/' %}
-  {% endif %}
+  {%- if page.lang == "fr" -%}
+    {%- assign home = '/' -%}
+  {%- endif -%}
+  {%- if page.lang == "en" -%}
+    {%- assign home = '/en/' -%}
+  {%- endif %}
   <div class="navbar-brand">
     <a href="{{ home }}"><img src="/assets/img/dive-flag.jpg" class="rounded-circle profile-picture" width="40" height="40" alt="" loading="lazy" /></a>
   </div>
@@ -14,37 +14,35 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
-      {% for item in site.data.menu %}
-        {% if item.sublabels %}
+      {% for item in site.data.menu -%}
+        {%- if item.sublabels -%}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {% if page.lang == "fr" %}
+            {%- if page.lang == "fr" -%}
               {{ item.fr-label }}
-            {% endif %}
-            {% if page.lang == "en" %}
-              {{ item.en-label }}
-            {% endif %}
+            {%- endif -%}
+            {%- if page.lang == "en" -%}
+              {{- item.en-label -}}
+            {%- endif -%}
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            {% for subitem in item.sublabels %}
-              {% assign pages=site.pages | where:"ref", subitem.ref | where:"lang", page.lang %}
+            {%- for subitem in item.sublabels -%}
+              {%- assign pages=site.pages | where:"ref", subitem.ref | where:"lang", page.lang -%}
               <a class="dropdown-item" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>
-            {% endfor %}
+            {% endfor -%}
           </div>
         </li>
-        {% else %}
-        <li class="nav-item">
-          {% assign pages=site.pages | where:"ref", item.ref | where:"lang", page.lang %}
-          <a class="nav-link" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>
-        </li>
-        {% endif %}
-      {% endfor %}
+        {% else -%}
+          {%- assign pages=site.pages | where:"ref", item.ref | where:"lang", page.lang -%}
+          <li class="nav-item"><a class="nav-link" href="{{ pages[0].url }}">{{ pages[0].menu }}</a></li>
+        {% endif -%}
+      {%- endfor -%}
     </ul>
   </div>
   <span class="navbar-text" id="lang">
-    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-        &nbsp;<a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang-flag }}</a>&nbsp;
-    {% endfor %}
+    {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
+    {%- for page in pages -%}
+      &nbsp;<a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang-flag }}</a>&nbsp;
+    {%- endfor -%}
   </span>
 </nav>

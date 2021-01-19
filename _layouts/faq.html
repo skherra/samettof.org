@@ -14,7 +14,7 @@
           <div class="col-md-12">
             <h2><span>FAQ</span></h2>
             <div class="accordion" id="faqAccordion">
-              {% for item in page.qa %}
+              {% for item in page.qa -%}
               <div class="card">
                 <div class="card-header" id="headingOne">
                   <h3 class="mb-0">
@@ -30,7 +30,7 @@
                   </div>
                 </div>
               </div>
-              {% endfor %}
+              {% endfor -%}
             </div>
           </div>
         </div><!-- /.row -->
@@ -40,6 +40,6 @@
 
 </body>
 
-{% include scripts.html %}
+{%- include scripts.html -%}
 
 </html>

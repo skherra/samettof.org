@@ -3,15 +3,15 @@
   <div id="control"><a href="#logCarousel" role="button" data-slide="prev"><i class="fas fa-chevron-circle-left"></i></a>&nbsp;<a href="#logCarousel" role="button" data-slide="next"><i class="fas fa-chevron-circle-right"></i></a></div>
   <div id="logCarousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
-    {% for item in page.log-books %}
-      <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
+    {% for item in page.log-books -%}
+      <div class="carousel-item{%- if forloop.index0 == 0 -%} active{%- endif -%}">
         <div id="quote-mark">&ldquo;</div>
         <div class="log-book">
           {{ item.text }}
           {{ item.author }} - {{ item.place }} - {{ item.date }}
         </div>
       </div>
-    {% endfor %}
+    {% endfor -%}
     </div>
   </div>
 </div><!-- /.col -->
