@@ -26,10 +26,6 @@ maps:
     center-lng: -18.221777
     zoom: 6
     points:
-      - lat: 9.60301
-        lng: 138.12889
-        icon: diveFlagIcon
-        place: Tzimoulis Ridge
       - lat: 63.82765
         lng: -22.47465
         icon: diveFlagIcon
