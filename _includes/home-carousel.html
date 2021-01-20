@@ -8,12 +8,12 @@
 <div id="homeCarousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
   {% for item in gallery -%}
-    <li data-target="#homeCarousel" data-slide-to="{{ forloop.index0 }}"{%- if forloop.index0 == 0 -%} class="active"{%- endif -%}></li>
+    <li data-target="#homeCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.index0 == 0 %} class="active"{% endif %}></li>
   {% endfor -%}
   </ol>
   <div class="carousel-inner">
   {% for item in gallery -%}
-    <div class="carousel-item{%- if forloop.index0 == 0 -%} active{%- endif -%}">
+    <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
       <img src="{{ item }}" class="d-block w-100" alt="..." />
       <div class="carousel-caption d-none d-md-block">
         <h1>{{ page.h1 }}</h1>
