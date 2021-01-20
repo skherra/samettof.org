@@ -1,144 +1,48 @@
 - img: polynesie2020.jpg
   page-ref: french-polynesia
-  fr-title: Polynésie Française
-  en-title: French Polynesia
-  fr-date: De juillet à septembre 2020
-  en-date: From July to September 2020
 - img: chuuk.jpg
-  page-ref:
-  fr-title: Micronésie
-  en-title:
-  fr-date: Mars 2020
-  en-date:
+  page-ref: micronesia
 - img: palau.jpg
   page-ref: palau
-  fr-title: Palaos
-  en-title: Palau
-  fr-date: Février 2020
-  en-date:
 - img: cocos.jpg
-  page-ref: cocos
-  fr-title: Cocos
-  en-title: Cocos
-  fr-date: Septembre 2019
-  en-date:
+  page-ref: costa-rica-cocos
 - img: stp.jpg
-  page-ref:
-  fr-title: São Tomé
-  en-title:
-  fr-date: Mai 2019
-  en-date:
+  page-ref: sao-tome
 - img: isl.jpg
   page-ref: iceland
-  fr-title: Islande
-  en-title: Iceland
-  fr-date: Mars 2019
-  en-date:
 - img: mada.jpg
-  page-ref:
-  fr-title: Madagascar
-  en-title:
-  fr-date: Décembre 2018
-  en-date:
+  page-ref: madagascar
 - img: fiji.jpg
-  page-ref:
-  fr-title: Fidji
-  en-title:
-  fr-date: Septembre 2018
-  en-date:
+  page-ref: fiji
 - img: gal.jpg
-  page-ref:
-  fr-title: Galapagos (Equateur)
-  en-title:
-  fr-date: Mai 2018
-  en-date:
+  page-ref: galapagos
 - img: moz.jpg
-  page-ref:
-  fr-title: Ponta de Oro (Mozambique)
-  en-title:
-  fr-date: Février 2018
-  en-date:
+  page-ref: mozambique
 - img: afsud.jpg
-  page-ref:
-  fr-title: Aliwal Shoal (Afrique du Sud)
-  en-title:
-  fr-date: Février 2018
-  en-date:
+  page-ref: south-africa
 - img: martinique.jpg
-  page-ref:
-  fr-title: Martinique
-  en-title:
-  fr-date: Décembre 2017
-  en-date:
+  page-ref: martinique
 - img: indonesie.jpg
-  page-ref:
-  fr-title: Indonésie - Komodo & Nusa Penida
-  en-title:
-  fr-date: Septembre 2017
-  en-date:
+  page-ref: indonesia
 - img: tuamotus.jpg
-  page-ref:
-  fr-title: Polynésie Française
-  en-title:
-  fr-date: Mai 2017
-  en-date:
+  page-ref: french-polynesia
 - img: les-saintes.jpg
-  page-ref:
-  fr-title: Les Saintes, Guadeloupe
-  en-title:
-  fr-date: Mars 2017
-  en-date:
+  page-ref: les-saintes
 - img: cozumel.jpg
-  page-ref:
-  fr-title: Cozumel, Mexique
-  en-title:
-  fr-date: Décembre 2016
-  en-date:
+  page-ref: mexico
 - img: cap-vert.jpg
-  page-ref:
-  fr-title: Mindelo, Cap Vert
-  en-title:
-  fr-date: Septembre 2016
-  en-date:
+  page-ref: cape-verde
 - img: hawaii.jpg
-  page-ref:
-  fr-title: Kona & Kawai, Hawaï
-  en-title:
-  fr-date: Mai 2016
-  en-date:
+  page-ref: hawaii
 - img: statia.jpg
-  page-ref:
-  fr-title: Statia, Antilles Néerlandaises
-  en-title:
-  fr-date: Février 2016
-  en-date:
+  page-ref: statia
 - img: maldives.jpg
-  page-ref:
-  fr-title: Maldives
-  en-title:
-  fr-date: Décembre 2015
-  en-date:
+  page-ref: maldives
 - img: tanzanie.jpg
-  page-ref:
-  fr-title: Pemba, Tanzanie
-  en-title:
-  fr-date: Septembre 2015
-  en-date:
+  page-ref: tanzania
 - img: belize.jpg
-  page-ref:
-  fr-title: Belize
-  en-title:
-  fr-date: Mai 2015
-  en-date:
+  page-ref: belize
 - img: lanzarote.jpg
   page-ref: canary-islands
-  fr-title: Lanzarote, Les canaries
-  en-title: Lanzarote, Canary islands
-  fr-date: Septembre 2014
-  en-date: September 2014
 - img: japon.jpg
-  page-ref:
-  fr-title: Kerama, Iriomote, Yakushima, Okinawa Japon
-  en-title:
-  fr-date: Mai 2014
-  en-date:
+  page-ref: japan
