@@ -61,3 +61,62 @@ fauna:
   - fr-name: Requins gris
     en-name:
     strong: true
+
+maps:
+  - id: martinique
+    center-lat: 20.35428
+    center-lng: -87.02827
+    zoom: 10
+    points:
+      - lat: 20.35428
+        lng: -87.02827
+        icon: diveFlagIcon
+        place: Paso del Cedral
+      - lat: 20.44075
+        lng: -87.00464
+        icon: diveFlagIcon
+        place: Tormentos reef
+      - lat: 20.36539
+        lng: -87.02676
+        icon: diveFlagIcon
+        place: Punta Santa Rosa
+      - lat: 20.33609
+        lng: -87.02742
+        icon: diveFlagIcon
+        place: Palancar Gardens
+      - lat: 20.37709
+        lng: -87.03782
+        icon: diveFlagIcon
+        place: Felipe Xicotencatl (wreck)
+      - lat: 20.4055
+        lng: -87.02119
+        icon: diveFlagIcon
+        place: Yucab reef
+      - lat: 20.47188
+        lng: -86.98146
+        icon: diveFlagIcon
+        place: Paraiso Bajo
+      - lat: 20.32684
+        lng: -87.03019
+        icon: diveFlagIcon
+        place: Palancar Cuevas
+      - lat: 20.34478
+        lng: -87.42173
+        icon: diveFlagIcon
+        place: Cenote El Pit
+      - lat: 20.48338
+        lng: -87.27719
+        icon: diveFlagIcon
+        place: Cenote Taj Mahal
+      - lat: 20.32475
+        lng: -87.39111
+        icon: diveFlagIcon
+        place: Cenote Dos Ojos
+      - lat: 20.24647
+        lng: -87.46404
+        icon: diveFlagIconGrey
+        place: Gran Cenote
+      - lat: 20.51284
+        lng: -87.24689
+        icon: diveFlagIconGrey
+        place: Chac Mool Cenote
