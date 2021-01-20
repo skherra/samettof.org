@@ -29,6 +29,7 @@
           {% for point in map.points -%}
             L.marker([{{ point.lat }}, {{ point.lng }}], {icon: {{ point.icon }}}).addTo({{ mapVar }}).bindPopup('<strong>{{ point.place }}</strong>')
           {% endfor -%}
+          less.pageLoadFinished.then(function() { {{ mapVar }}.invalidateSize(); });
         {% endfor -%}
       </script>
 {%- endif -%}

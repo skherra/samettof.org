@@ -113,6 +113,8 @@
     {{ marker }}
   {% endfor -%}
 
+  less.pageLoadFinished.then(function() { mymap.invalidateSize(); });
+
 </script>
 
 {% include scripts.html %}
