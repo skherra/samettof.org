@@ -90,7 +90,7 @@ fauna:
     strong: true
 
 maps:
-  - id: martinique
+  - id: indonesia
     center-lat: -8.24182
     center-lng: 117.46177
     zoom: 8

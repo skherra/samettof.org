@@ -63,7 +63,7 @@ fauna:
     strong: true
 
 maps:
-  - id: martinique
+  - id: mexico
     center-lat: 20.35428
     center-lng: -87.02827
     zoom: 10
