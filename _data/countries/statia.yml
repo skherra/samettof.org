@@ -76,3 +76,58 @@ fauna:
   - fr-name: Marionnettes à tête dorée
     en-name:
     strong: true
+
+maps:
+  - id: statia
+    center-lat: 17.49323
+    center-lng: -62.97845
+    zoom: 13
+    points:
+      - lat: 17.48425
+        lng: -62.99716
+        icon: diveFlagIcon
+        place: Stenapa
+      - lat: 17.46348
+        lng: -62.978
+        icon: diveFlagIcon
+        place: The Humps
+      - lat: 17.48351
+        lng: -62.99791
+        icon: diveFlagIcon
+        place: Chien Tong
+      - lat: 17.46813
+        lng: -62.99158
+        icon: diveFlagIcon
+        place: Barracuda reef
+      - lat: 17.47986
+        lng: -62.99401
+        icon: diveFlagIcon
+        place: Double wreck
+      - lat: 17.46399
+        lng: -62.9933
+        icon: diveFlagIcon
+        place: Charles L Brown
+      - lat: 17.46399
+        lng: -62.98508
+        icon: diveFlagIcon
+        place: The blocks
+      - lat: 17.46156
+        lng: -62.9777
+        icon: diveFlagIcon
+        place: Grand Canyon
+      - lat: 17.46451
+        lng: -62.98578
+        icon: diveFlagIcon
+        place: Hanghover
+      - lat: 17.52515
+        lng: -63.00006
+        icon: diveFlagIcon
+        place: Gibraltar
+      - lat: 17.51015
+        lng: -63.00861
+        icon: diveFlagIconGrey
+        place: Doobie\'s crack
+      - lat: 17.51683
+        lng: -63.0035
+        icon: diveFlagIconGrey
+        place: Twin sisters
