@@ -85,3 +85,70 @@ fauna:
   - fr-name: Anguilles jardinières
     en-name:
     strong: false
+
+maps:
+  - id: fiji
+    center-lat: -17.67992
+    center-lng: 178.85197
+    zoom: 8
+    points:
+      - lat: -18.08333
+        lng: 179.26638
+        icon: diveFlagIcon
+        place: Nigali passage
+      - lat: -16.74008
+        lng: 179.97041
+        icon: diveFlagIcon
+        place: Cabbage patch
+      - lat: -16.77898
+        lng: 179.92928
+        icon: diveFlagIcon
+        place: Jerry\'s Jelly
+      - lat: -16.77557
+        lng: 179.94739
+        icon: diveFlagIcon
+        place: Nuku reef
+      - lat: -16.77062
+        lng: 179.93285
+        icon: diveFlagIcon
+        place: Rainbow end 1
+      - lat: -16.77774
+        lng: 179.93639
+        icon: diveFlagIcon
+        place: Sam\'s point
+      - lat: -16.78038
+        lng: 179.94464
+        icon: diveFlagIcon
+        place: Fish factory
+      - lat: -16.79815
+        lng: 179.91168
+        icon: diveFlagIcon
+        place: Annie\'s bommie
+      - lat: -16.79445
+        lng: 179.87636
+        icon: diveFlagIcon
+        place: Great white wall
+      - lat: -16.79346
+        lng: 179.86329
+        icon: diveFlagIcon
+        place: Purple wall
+      - lat: -16.7875
+        lng: 179.93783
+        icon: diveFlagIcon
+        place: Jack\'s place
+      - lat: -17.06993
+        lng: 179.10818
+        icon: diveFlagIcon
+        place: North save a tack
+      - lat: -17.11199
+        lng: 179.07903
+        icon: diveFlagIcon
+        place: Chimney\'s
+      - lat: -17.97461
+        lng: 179.22327
+        icon: diveFlagIcon
+        place: Jim\'s alley
+      - lat: -18.7622
+        lng: 178.51422
+        icon: diveFlagIcon
+        place: Dravuni West
