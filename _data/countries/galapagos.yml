@@ -73,3 +73,66 @@ fauna:
   - fr-name: Otaries
     en-name:
     strong: true
+
+maps:
+  - id: galapagos
+    center-lat: -0.46766
+    center-lng: -90.61903
+    zoom: 7
+    points:
+      - lat: 1.67045
+        lng: -91.99009
+        icon: diveFlagIcon
+        place: Darwin\'s Arch
+      - lat: 1.38023
+        lng: -91.81877
+        icon: diveFlagIcon
+        place: Anchrorage
+      - lat: 1.37342
+        lng: -91.82566
+        icon: diveFlagIcon
+        place: The rock
+      - lat: -0.28101
+        lng: -90.55225
+        icon: diveFlagIcon
+        place: Cousin\'s rock
+      - lat: -0.30255
+        lng: -91.6558
+        icon: diveFlagIcon
+        place: Cabo Douglas
+      - lat: 0.13812
+        lng: -91.31878
+        icon: diveFlagIcon
+        place: Cabo Marshall
+      - lat: -0.0499
+        lng: -91.55779
+        icon: diveFlagIcon
+        place: Punta Vincete Roca
+      - lat: -0.48221
+        lng: -90.25094
+        icon: diveFlagIcon
+        place: Punta Carrion
+      - lat: -1.21661
+        lng: -90.42181
+        icon: diveFlagIconGrey
+        place: Corona del diablo
+      - lat: -1.02969
+        lng: -90.87242
+        icon: diveFlagIconGrey
+        place: Tortuga Island
+      - lat: -0.85196
+        lng: -90.80968
+        icon: diveFlagIconGrey
+        place: 4 Hermanos
+      - lat: -0.77834
+        lng: -89.51888
+        icon: diveFlagIconGrey
+        place: Kicker rock
+      - lat: -0.56699
+        lng: -90.14304
+        icon: diveFlagIconGrey
+        place: Gordon\'s Rock
+      - lat: -0.60466
+        lng: -91.08678
+        icon: diveFlagIconGrey
+        place: Elizabeth Bay
