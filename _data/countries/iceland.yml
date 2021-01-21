@@ -7,10 +7,11 @@ fr-water-temperature-period: En mars
 en-water-temperature-period: In March
 water-temperature: 1 - 4
 
-fr-best-season-from: janvier
-fr-best-season-to: décembre
-en-best-season-from: January
-en-best-season-to: December
+best-seasons:
+  - fr-best-season-from: janvier
+    fr-best-season-to: décembre
+    en-best-season-from: January
+    en-best-season-to: December
 
 fauna:
   - fr-name: Failles et lagons aux algues multi colores

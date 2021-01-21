@@ -7,10 +7,11 @@ fr-water-temperature-period: En septembre
 en-water-temperature-period: In September
 water-temperature: 29
 
-fr-best-season-from: septembre
-fr-best-season-to: mars
-en-best-season-from: September
-en-best-season-to: March
+best-seasons:
+  - fr-best-season-from: septembre
+    fr-best-season-to: mars
+    en-best-season-from: September
+    en-best-season-to: March
 
 fauna:
   - fr-name: Poissons tropicaux

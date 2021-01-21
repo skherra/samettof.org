@@ -7,10 +7,11 @@ fr-water-temperature-period: En décembre
 en-water-temperature-period: In December
 water-temperature: 27-29
 
-fr-best-season-from: juin
-fr-best-season-to: décembre
-en-best-season-from: June
-en-best-season-to: December
+best-seasons:
+  - fr-best-season-from: juin
+    fr-best-season-to: décembre
+    en-best-season-from: June
+    en-best-season-to: December
 
 fauna:
   - fr-name: Poissons tropicaux

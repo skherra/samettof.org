@@ -23,11 +23,13 @@
       </div>
       <div class="service-content">
         <h3>{%- if page.lang == "fr" -%}Meilleure période{%- elsif page.lang == "en" -%}Best season{%- endif -%}</h3>
-        {%- if page.lang == "fr" -%}
-        <p>Entre <strong class="accent-color">{{ site.data.countries[page.ref].fr-best-season-from }}</strong> et <strong class="accent-color">{{ site.data.countries[page.ref].fr-best-season-to }}</strong>.</p>
-        {%- elsif page.lang == "en" -%}
-        <p>From <strong class="accent-color">{{ site.data.countries[page.ref].en-best-season-from }}</strong> to <strong class="accent-color">{{ site.data.countries[page.ref].en-best-season-to }}</strong>.</p>
-        {%- endif -%}
+        {% for item in site.data.countries[page.ref].best-seasons -%}
+          {%- if page.lang == "fr" -%}
+            <p>Entre <strong class="accent-color">{{ item.fr-best-season-from }}</strong> et <strong class="accent-color">{{ item.fr-best-season-to }}</strong>{% if item.fr-best-season-comment %} ({{ item.fr-best-season-comment }}){% endif %}.</p>
+          {%- elsif page.lang == "en" -%}
+            <p>From <strong class="accent-color">{{ item.en-best-season-from }}</strong> to <strong class="accent-color">{{ item.en-best-season-to }}</strong>{% if item.en-best-season-comment %} ({{ item.en-best-season-comment }}){% endif %}.</p>
+          {%- endif -%}
+        {% endfor -%}
       </div>
     </div>
 

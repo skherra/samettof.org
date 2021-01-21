@@ -7,10 +7,11 @@ fr-water-temperature-period: En février
 en-water-temperature-period: In February
 water-temperature: 27-28
 
-fr-best-season-from: décembre
-fr-best-season-to: avril
-en-best-season-from: December
-en-best-season-to: April
+best-seasons:
+  - fr-best-season-from: décembre
+    fr-best-season-to: avril
+    en-best-season-from: December
+    en-best-season-to: April
 
 fauna:
   - fr-name: Barracudas

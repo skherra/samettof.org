@@ -7,10 +7,11 @@ fr-water-temperature-period: En avril
 en-water-temperature-period: In April
 water-temperature: 25
 
-fr-best-season-from: octobre
-fr-best-season-to: mai
-en-best-season-from: October
-en-best-season-to: May
+best-seasons:
+  - fr-best-season-from: octobre
+    fr-best-season-to: mai
+    en-best-season-from: October
+    en-best-season-to: May
 
 fauna:
   - fr-name: Eponges

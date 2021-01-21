@@ -7,10 +7,11 @@ fr-water-temperature-period: En février
 en-water-temperature-period: In February
 water-temperature: 27
 
-fr-best-season-from: novembre
-fr-best-season-to: mars
-en-best-season-from: November
-en-best-season-to: March
+best-seasons:
+  - fr-best-season-from: novembre
+    fr-best-season-to: mars
+    en-best-season-from: November
+    en-best-season-to: March
 
 fauna:
   - fr-name: Poissons tropicaux

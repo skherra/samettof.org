@@ -7,10 +7,11 @@ fr-water-temperature-period: En mars
 en-water-temperature-period: In March
 water-temperature: 27
 
-fr-best-season-from: novembre
-fr-best-season-to: juillet
-en-best-season-from: November
-en-best-season-to: July
+best-seasons:
+  - fr-best-season-from: novembre
+    fr-best-season-to: juillet
+    en-best-season-from: November
+    en-best-season-to: July
 
 fauna:
   - fr-name: Eponges

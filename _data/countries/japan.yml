@@ -7,10 +7,11 @@ fr-water-temperature-period: En mai
 en-water-temperature-period: In May
 water-temperature: 23
 
-fr-best-season-from: avril
-fr-best-season-to: novembre
-en-best-season-from: April
-en-best-season-to: November
+best-seasons:
+  - fr-best-season-from: avril
+    fr-best-season-to: novembre
+    en-best-season-from: April
+    en-best-season-to: November
 
 fauna:
   - fr-name: Barracudas

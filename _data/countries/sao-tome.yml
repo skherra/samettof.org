@@ -7,10 +7,11 @@ fr-water-temperature-period: En mai
 en-water-temperature-period: In May
 water-temperature: 23 - 27
 
-fr-best-season-from: septembre
-fr-best-season-to: fin mars
-en-best-season-from: September
-en-best-season-to: end of March
+best-seasons:
+  - fr-best-season-from: septembre
+    fr-best-season-to: fin mars
+    en-best-season-from: September
+    en-best-season-to: end of March
 
 fauna:
   - fr-name: Anémones jaunes et vertes
