@@ -3,9 +3,13 @@ visibility: 80
 diversity: 60
 atmosphere: 60
 
-fr-water-temperature-period: En avril
-en-water-temperature-period: In April
-water-temperature: 25
+water-temperatures:
+  - fr-water-temperature-period: En avril
+    en-water-temperature-period: In April
+    water-temperature: 25
+  - fr-water-temperature-period: En décembre
+    en-water-temperature-period: In December
+    water-temperature: 28
 
 best-seasons:
   - fr-best-season-from: octobre

@@ -3,9 +3,10 @@ visibility: 100
 diversity: 30
 atmosphere: 90
 
-fr-water-temperature-period: En mars
-en-water-temperature-period: In March
-water-temperature: 1 - 4
+water-temperatures:
+  - fr-water-temperature-period: En mars
+    en-water-temperature-period: In March
+    water-temperature: 1 - 4
 
 best-seasons:
   - fr-best-season-from: janvier

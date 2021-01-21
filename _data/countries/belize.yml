@@ -3,9 +3,10 @@ visibility: 60
 diversity: 80
 atmosphere: 70
 
-fr-water-temperature-period: En mai
-en-water-temperature-period: In May
-water-temperature: 26
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 26
 
 best-seasons:
   - fr-best-season-from: décembre

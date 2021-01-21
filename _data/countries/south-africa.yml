@@ -3,9 +3,10 @@ visibility: 40
 diversity: 60
 atmosphere: 70
 
-fr-water-temperature-period: En février
-en-water-temperature-period: In February
-water-temperature: 17-20
+water-temperatures:
+  - fr-water-temperature-period: En février
+    en-water-temperature-period: In February
+    water-temperature: 17-20
 
 best-seasons:
   - fr-best-season-from: avril

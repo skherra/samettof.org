@@ -3,9 +3,10 @@ visibility: 60
 diversity: 70
 atmosphere: 80
 
-fr-water-temperature-period: En février&nbsp;/ mars
-en-water-temperature-period: In February/March
-water-temperature: 27-29
+water-temperatures:
+  - fr-water-temperature-period: En février&nbsp;/ mars
+    en-water-temperature-period: In February/March
+    water-temperature: 27-29
 
 best-seasons:
   - fr-best-season-from: janvier

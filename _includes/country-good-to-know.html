@@ -9,11 +9,13 @@
       </div>
       <div class="service-content">
         <h3>{%- if page.lang == "fr" -%}Température de l'eau{%- elsif page.lang == "en" -%}Water temperature{%- endif -%}</h3>
-        {%- if page.lang == "fr" -%}
-        <p>{{ site.data.countries[page.ref].fr-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ site.data.countries[page.ref].water-temperature }} °C</strong>.</p>
-        {%- elsif page.lang == "en" -%}
-        <p>{{ site.data.countries[page.ref].en-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ site.data.countries[page.ref].water-temperature }} °C</strong>.</p>
-        {%- endif -%}
+        {% for item in site.data.countries[page.ref].water-temperatures -%}
+          {%- if page.lang == "fr" -%}
+            <p>{{ item.fr-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ item.water-temperature }} °C</strong>{% if item.fr-water-temperature-comment %} ({{ item.fr-water-temperature-comment }}){% endif %}.</p>
+          {%- elsif page.lang == "en" -%}
+            <p>{{ item.en-water-temperature-period }}&nbsp;: <strong class="accent-color">{{ item.water-temperature }} °C</strong>.{% if item.en-water-temperature-comment %} ({{ item.en-water-temperature-comment }}){% endif %}</p>
+          {%- endif -%}
+        {% endfor -%}
       </div>
     </div>
 

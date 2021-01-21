@@ -3,9 +3,10 @@ visibility: 80
 diversity: 80
 atmosphere: 80
 
-fr-water-temperature-period: En septembre
-en-water-temperature-period: In September
-water-temperature: 26
+water-temperatures:
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 26
 
 best-seasons:
   - fr-best-season-from: décembre
