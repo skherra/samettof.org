@@ -1,4 +1,232 @@
 # No ref -----------------------------------------------------------------------
+- lat: -42.88313
+  lng: 147.3313
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Tasmanie - Hobart
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -42.62992
+  lng: 148.11218
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Tasmanie - Maria Island
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -42.19597
+  lng: 148.3065
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Tasmanie - Freycinet
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -41.15643
+  lng: 148.28453
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Tasmanie - Bay of Fires
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -38.38257
+  lng: 144.89182
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Mornigton Peninsula
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -38.69944
+  lng: 143.12714
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Great Ocean Road
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -37.81372
+  lng: 144.96297
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Melbourne
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -35.81113
+  lng: 137.20825
+  icon: eyeIcon
+  fr-country: Australie
+  en-country: Australia
+  place: Kangaroo Island
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -33.45336
+  lng: -70.64638
+  icon: eyeIcon
+  fr-country: Chili
+  en-country: Chile
+  place: Santiago du Chili
+  fr-date: décembre 2011
+  en-date: December 2011
+- lat: -22.90964
+  lng: -68.20031
+  icon: eyeIcon
+  fr-country: Chili
+  en-country: Chile
+  place: San Pedro de Atacama
+  fr-date: décembre 2011
+  en-date: December 2011
+- lat: -20.21855
+  lng: -70.14908
+  icon: eyeIcon
+  fr-country: Chili
+  en-country: Chile
+  place: Iquique
+  fr-date: décembre 2011
+  en-date: December 2011
+- lat: -18.19725
+  lng: -69.55869
+  icon: eyeIcon
+  fr-country: Chili
+  en-country: Chile
+  place: Putre
+  fr-date: décembre 2011
+  en-date: December 2011
+- lat: 41.58999
+  lng: 9.28302
+  icon: eyeIcon
+  fr-country: Corse
+  en-country: Corsica
+  place: Porto Vecchio
+- lat: 42.68144
+  lng: 9.30151
+  icon: eyeIcon
+  fr-country: Corse
+  en-country: Corsica
+  place: Saint Florent
+- lat: 35.23216
+  lng: 24.79065
+  icon: eyeIcon
+  fr-country: Crète
+  en-country: Crete
+  fr-date: 2009
+  en-date: 2009
+- lat: 55.95074
+  lng: -3.19376
+  icon: eyeIcon
+  fr-country: Ecosse
+  en-country: Scotland
+  place: Edinburgh
+  fr-date: juillet 2010
+  en-date: July 2010
+- lat: 56.12068
+  lng: -3.93705
+  icon: eyeIcon
+  fr-country: Ecosse
+  en-country: Scotland
+  place: Stirling
+  fr-date: juillet 2010
+  en-date: July 2010
+- lat: 57.3299
+  lng: -3.60935
+  icon: eyeIcon
+  fr-country: Ecosse
+  en-country: Scotland
+  place: Grantown On Spey
+  fr-date: juillet 2010
+  en-date: July 2010
+- lat: 56.90938
+  lng: -5.84619
+  icon: eyeIcon
+  fr-country: Ecosse
+  en-country: Scotland
+  place: Arisaig
+  fr-date: juillet 2010
+  en-date: July 2010
+- lat: 41.37597
+  lng: 2.17795
+  icon: eyeIcon
+  fr-country: Espagne
+  en-country: Spain
+  place: Barcelone
+  fr-date: septembre 2005
+  en-date: September 2005
+- lat: 37.18412
+  lng: -3.60455
+  icon: eyeIcon
+  fr-country: Espagne
+  en-country: Spain
+  place: Grenade
+- lat: 38.34166
+  lng: -0.48649
+  icon: eyeIcon
+  fr-country: Espagne
+  en-country: Spain
+  place: Alicante
+- lat: 37.98169
+  lng: 23.74214
+  icon: eyeIcon
+  fr-country: Grèce
+  en-country: Greece
+  place: Athène
+  fr-date: mai 2007
+  en-date: May 2007
+- lat: 38.47966
+  lng: 22.49294
+  icon: eyeIcon
+  fr-country: Grèce
+  en-country: Greece
+  place: Delphes
+  fr-date: mai 2007
+  en-date: May 2007
+- lat: 39.36237
+  lng: 22.94203
+  icon: eyeIcon
+  fr-country: Grèce
+  en-country: Greece
+  place: Volos
+  fr-date: mai 2007
+  en-date: May 2007
+- lat: 39.72184
+  lng: 21.63182
+  icon: eyeIcon
+  fr-country: Grèce
+  en-country: Greece
+  place: Meteora
+  fr-date: mai 2007
+  en-date: May 2007
+- lat: 39.66372
+  lng: 20.85214
+  icon: eyeIcon
+  fr-country: Grèce
+  en-country: Greece
+  place: Ioannina
+  fr-date: mai 2007
+  en-date: May 2007
+- lat: 16.131
+  lng: -61.76986
+  icon: eyeIcon
+  fr-country: Guadeloupe
+  en-country: Guadeloupe
+  fr-date: décembre 2008
+  en-date: December 2008
+- lat: 22.27861
+  lng: 114.1658
+  icon: eyeIcon
+  fr-country: Honk Kong
+  en-country: Honk Kong
+  fr-date: décembre 2014
+  en-date: December 2014
+- lat: -27.11965
+  lng: -109.36752
+  icon: eyeIcon
+  fr-country: Ile de Pâques
+  en-country: Easter island
+  fr-date: décembre 2011
+  en-date: December 2011
 - lat: -20.43522
   lng: 57.32068
   icon: diveFlagIcon
@@ -6,6 +234,185 @@
   en-country: Mauritius
   fr-date: septembre 2013
   en-date: September 2013
+- lat: 53.34789
+  lng: -6.25397
+  icon: eyeIcon
+  fr-country: Irlande
+  en-country: Ireland
+  place: Dublin
+  fr-date: septembre 2004
+  en-date: September 2004
+- lat: 53.32629
+  lng: -7.98616
+  icon: eyeIcon
+  fr-country: Irlande
+  en-country: Ireland
+  place: Clonmacnoise
+  fr-date: septembre 2004
+  en-date: September 2004
+- lat: 53.01607
+  lng: -9.37795
+  icon: eyeIcon
+  fr-country: Irlande
+  en-country: Ireland
+  place: Doolin
+  fr-date: septembre 2004
+  en-date: September 2004
+- lat: -21.105
+  lng: 55.53452
+  icon: eyeIcon
+  fr-country: La Réunion
+  en-country: La Réunion
+  fr-date: juin 2011
+  en-date: June 2011
+- lat: 35.89951
+  lng: 14.51397
+  icon: eyeIcon
+  fr-country: Malte
+  en-country: Malta
+  fr-date: 2013
+  en-date: 2013
+- lat: 34.03552
+  lng: -5.00994
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Fès
+- lat: 33.88125
+  lng: -5.56458
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Meknes
+- lat: 30.41878
+  lng: -9.59484
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Agadir
+- lat: 31.49968
+  lng: -9.76281
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Essaouira
+- lat: 31.62581
+  lng: -7.98914
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Marrakech
+- lat: 33.59518
+  lng: -7.6252
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Casablanca
+- lat: 34.02478
+  lng: -6.82938
+  icon: eyeIcon
+  fr-country: Maroc
+  en-country: Morocco
+  place: Rabat
+- lat: 12.88009
+  lng: -61.1875
+  icon: eyeIcon
+  fr-country: Moustique
+  en-country: Mustique island
+  fr-date: décembre 2012
+  en-date: December 2012
+- lat: -36.86012
+  lng: 174.75883
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Auckland
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -38.15184
+  lng: 176.24542
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Roturoa
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -38.69837
+  lng: 176.09711
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Taupo
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -40.88756
+  lng: 172.9509
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Abel Tasman Park
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -43.53113
+  lng: 172.63847
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Christchurch
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -45.34732
+  lng: 167.03339
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Doubtful sound
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -45.88618
+  lng: 170.53528
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Dunedin
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -46.66287
+  lng: 169.01041
+  icon: eyeIcon
+  fr-country: Nouvelle Zelande
+  en-country: New Zealand
+  place: Slope Point
+  fr-date: avril 2008
+  en-date: April 2008
+- lat: -19.71645
+  lng: 63.42733
+  icon: eyeIcon
+  fr-country: Rodrigues
+  en-country: Rodrigues
+  fr-date: septembre 2013
+  en-date: September 2013
+- lat: 13.15605
+  lng: -61.23058
+  icon: eyeIcon
+  fr-country: Saint Vicent et Les Grenadines
+  en-country: Saint Vicent et Les Grenadines
+  fr-date: décembre 2012
+  en-date: December 2012
+- lat: 13.85775
+  lng: -61.0603
+  icon: eyeIcon
+  fr-country: Sainte Lucie
+  en-country: Sainte Lucie
+  fr-date: décembre 2012
+  en-date: December 2012
+- lat: 37.59247
+  lng: 14.28223
+  icon: eyeIcon
+  fr-country: Sicile
+  en-country: Sicily
+  fr-date: 2008
+  en-date: 2008
 - lat: 10.21775
   lng: 103.95663
   icon: diveFlagIcon
@@ -28,6 +435,14 @@
   fr-country: Vietnam
   en-country: Vietnam
   place: Baie d'Halong
+  fr-date: décembre 2013
+  en-date: December 2013
+- lat: 20.23385
+  lng: 106.02905
+  icon: eyeIcon
+  fr-country: Vietnam
+  en-country: Vietnam
+  place: Baie d'Halong Terrestre
   fr-date: décembre 2013
   en-date: December 2013
 - lat: 16.47049
@@ -62,6 +477,30 @@
   place: Ho Chi Minh Ville
   fr-date: décembre 2013
   en-date: December 2013
+- lat: 38.70708
+  lng: -9.13629
+  icon: eyeIcon
+  place: Lisbonne
+  fr-date: 2010
+  en-date: 2010
+- lat: 45.43342
+  lng: 12.33972
+  icon: eyeIcon
+  place: Venise
+  fr-date: 2012
+  en-date: 2012
+- lat: 48.20853
+  lng: 16.37259
+  icon: eyeIcon
+  place: Vienne
+  fr-date: 2014
+  en-date: 2014
+- lat: 45.46424
+  lng: 9.18869
+  icon: eyeIcon
+  place: Milan
+  fr-date: 2017
+  en-date: 2017
 - lat: 43.51818
   lng: 7.04842
   icon: diveFlagIcon
@@ -74,10 +513,84 @@
   place: Estartit
   fr-date: septembre 2005
   en-date: September 2005
+- lat: 52.37815
+  lng: 4.8998
+  icon: eyeIcon
+  place: Amsterdam
+  fr-date: février 2007
+  en-date: February 2007
+- lat: 50.0875
+  lng: 14.42111
+  icon: eyeIcon
+  place: Prague
+  fr-date: décembre 2007
+  en-date: December 2007
+- lat: 41.01305
+  lng: 28.96382
+  icon: eyeIcon
+  place: Istambul
+  fr-date: mai 2010
+  en-date: May 2010
+- lat: 38.88953
+  lng: -77.03532
+  icon: eyeIcon
+  place: Washington
+  fr-date: septembre 2012
+  en-date: September 2012
+- lat: 31.778
+  lng: 35.23191
+  icon: eyeIcon
+  place: Jérusalem
+  fr-date: mars 2016
+  en-date: March 2016
+- lat: 37.79025
+  lng: -122.41722
+  icon: eyeIcon
+  place: San Francisco
+  fr-date: mai 2016
+  en-date: May 2016
+- lat: 39.57288
+  lng: 2.64874
+  icon: eyeIcon
+  place: Majorque
+  fr-date: juillet 2016
+  en-date: July 2016
+- lat: 48.12577
+  lng: 11.54114
+  icon: eyeIcon
+  place: Berlin
+  fr-date: novembre 2017
+  en-date: November 2017
+- lat: 25.05326
+  lng: 121.539
+  icon: eyeIcon
+  place: Taipei
+  fr-date: février 2020
+  en-date: February 2020
+- lat: 50.84673
+  lng: 4.35244
+  icon: eyeIcon
+  place: Bruxelles
+- lat: 41.89352
+  lng: 12.48652
+  icon: eyeIcon
+  place: Rome
+- lat: 43.76971
+  lng: 11.25558
+  icon: eyeIcon
+  place: Florence
+- lat: 40.71252
+  lng: -74.00662
+  icon: eyeIcon
+  place: New York
 - lat: 48.85334
   lng: 2.34886
   icon: homeIcon
   place: Home sweet home :-)
+- lat: 51.5099
+  lng: -0.13426
+  icon: eyeIcon
+  place: Londres
 # With ref ---------------------------------------------------------------------
 - lat: 17.21951
   lng: -89.62646
@@ -517,6 +1030,34 @@
   lng: -61.03604
   icon: diveFlagIcon
   ref: martinique
+- lat: 24.15271
+  lng: -110.32539
+  icon: eyeIcon
+  ref: mexico
+  place: La Paz
+  fr-date: décembre 2010
+  en-date: December 2010
+- lat: 26.01321
+  lng: -111.33978
+  icon: eyeIcon
+  ref: mexico
+  place: Loreto
+  fr-date: décembre 2010
+  en-date: December 2010
+- lat: 26.89188
+  lng: -111.98287
+  icon: eyeIcon
+  ref: mexico
+  place: Mulegé
+  fr-date: décembre 2010
+  en-date: December 2010
+- lat: 27.28387
+  lng: -112.89603
+  icon: eyeIcon
+  ref: mexico
+  place: San Ignacio
+  fr-date: décembre 2010
+  en-date: December 2010
 - lat: 20.47553
   lng: -86.97563
   icon: diveFlagIcon
