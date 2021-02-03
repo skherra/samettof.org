@@ -1,0 +1,41 @@
+{%- assign mapList = site.data.countries[page.ref].maps -%}
+{%- if mapList -%}
+  {%- assign colMD = 12 | divided_by: mapList.size -%}
+    {% for map in mapList -%}
+      <div class="col-md-{{ colMD }} country-map" id="{{ map.id }}-map"></div>
+    {% endfor -%}
+
+      <script>
+        var diveFlagIcon = L.icon({
+          iconUrl: '/assets/img/map/popup-flag.png',
+          iconSize:     [16, 27], // size of the icon
+          iconAnchor:   [8, 27], // point of the icon which will correspond to marker's location
+          shadowUrl: '/assets/img/map/shadow.png',
+          shadowSize:   [19, 12],
+          shadowAnchor: [0, 12],
+          popupAnchor:  [0, -27] // point from which the popup should open relative to the iconAnchor
+        });
+        var diveFlagIconGrey = L.icon({
+          iconUrl: '/assets/img/map/popup-flag-grey.png',
+          iconSize:     [16, 27], // size of the icon
+          iconAnchor:   [8, 27], // point of the icon which will correspond to marker's location
+          shadowUrl: '/assets/img/map/shadow.png',
+          shadowSize:   [19, 12],
+          shadowAnchor: [0, 12],
+          popupAnchor:  [0, -27] // point from which the popup should open relative to the iconAnchor
+        });
+
+        {% for map in mapList -%}
+          {%- assign mapVar = map.id | append: 'map' -%}
+          var {{ mapVar }} = L.map('{{ map.id }}-map').setView([{{ map.center-lat }}, {{ map.center-lng }}], {{ map.zoom }});
+          L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            maxZoom: 18,
+            attribution: '&copy; <a href="http://www.esri.com/">Esri</a>, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+          }).addTo({{ mapVar }});
+          {% for point in map.points -%}
+            L.marker([{{ point.lat }}, {{ point.lng }}], {icon: {{ point.icon }}}).addTo({{ mapVar }}).bindPopup('<strong>{{ point.place }}</strong>')
+          {% endfor -%}
+          less.pageLoadFinished.then(function() { {{ mapVar }}.invalidateSize(); });
+        {% endfor -%}
+      </script>
+{%- endif -%}

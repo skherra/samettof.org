@@ -1,0 +1,133 @@
+difficulty: 40
+visibility: 80
+diversity: 60
+atmosphere: 60
+
+water-temperatures:
+  - fr-water-temperature-period: En avril
+    en-water-temperature-period: In April
+    water-temperature: 25
+  - fr-water-temperature-period: En décembre
+    en-water-temperature-period: In December
+    water-temperature: 28
+
+best-seasons:
+  - fr-best-season-from: octobre
+    fr-best-season-to: mai
+    en-best-season-from: October
+    en-best-season-to: May
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Sources volcaniques
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+  - fr-name: Monnaie caraïbes
+    en-name:
+    strong: false
+  - fr-name: Tortues vertes
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Tazars
+    en-name:
+    strong: true
+  - fr-name: Chatrous
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+
+maps:
+  - id: martinique
+    center-lat: 14.61627
+    center-lng: -61.13557
+    zoom: 10
+    points:
+      - lat: 14.84184
+        lng: -61.2276
+        icon: diveFlagIcon
+        place: La Perle
+      - lat: 14.49574
+        lng: -61.09017
+        icon: diveFlagIcon
+        place: Pointe Burgos
+      - lat: 14.78068
+        lng: -61.21576
+        icon: diveFlagIcon
+        place: Coucoune
+      - lat: 14.6476
+        lng: -61.15199
+        icon: diveFlagIcon
+        place: Cap enragé
+      - lat: 14.51907
+        lng: -61.09892
+        icon: diveFlagIcon
+        place: Epave du Nahon
+      - lat: 14.51851
+        lng: -61.09782
+        icon: diveFlagIcon
+        place: Pointe de la baleine
+      - lat: 14.44451
+        lng: -61.03999
+        icon: diveFlagIcon
+        place: Le diamant
+      - lat: 14.51132
+        lng: -61.0988
+        icon: diveFlagIcon
+        place: Piscine de Salomon
+      - lat: 14.51132
+        lng: -61.0988
+        icon: diveFlagIcon
+        place: Piscine de Salomon
+      - lat: 14.50871
+        lng: -61.10016
+        icon: diveFlagIcon
+        place: Pointe de Salomon
+      - lat: 14.49803
+        lng: -61.08996
+        icon: diveFlagIcon
+        place: Pointe de la lézarde
+      - lat: 14.49263
+        lng: -61.09099
+        icon: diveFlagIcon
+        place: Grande jorasses
+      - lat: 14.49229
+        lng: -61.0916
+        icon: diveFlagIcon
+        place: Crique abricot
+      - lat: 14.51436
+        lng: -61.09773
+        icon: diveFlagIcon
+        place: Grotte aux couleurs
+      - lat: 14.50713
+        lng: -61.09157
+        icon: diveFlagIcon
+        place: Petite sirène
+      - lat: 14.74051
+        lng: -61.18036
+        icon: diveFlagIconGrey
+        place: Le Roraima

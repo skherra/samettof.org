@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <main role="main">
+    {% include page-banner.html %}
+    <div class="page-content" id="faq">
+      <div class="container-fluid pl-5 pr-5">
+        <div class="row pb-4">
+          <div class="col-md-12">
+            <h2><span>FAQ</span></h2>
+            <div class="accordion" id="faqAccordion">
+              {% for item in page.qa -%}
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h3 class="mb-0">
+                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse{{ item.N }}" aria-expanded="false" aria-controls="collapse{{ item.N }}">
+                      <i class="fa {{ item.I }}"></i>&nbsp;&nbsp;&nbsp;{{ item.Q }}
+                      <i class="fa fa-angle-up control-icon"></i>
+                    </button>
+                  </h2>
+                </div>
+                <div id="collapse{{ item.N }}" class="collapse" aria-labelledby="headingOne" data-parent="#faqAccordion">
+                  <div class="card-body">
+                    {{ item.A }}
+                  </div>
+                </div>
+              </div>
+              {% endfor -%}
+            </div>
+          </div>
+        </div><!-- /.row -->
+      </div>
+    </div>
+  </main>
+
+</body>
+
+{%- include scripts.html -%}
+
+</html>

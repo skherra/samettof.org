@@ -1,0 +1,68 @@
+difficulty: 40
+visibility: 60
+diversity: 80
+atmosphere: 70
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 26
+
+best-seasons:
+  - fr-best-season-from: décembre
+    fr-best-season-to: avril
+    en-best-season-from: December
+    en-best-season-to: April
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Monnaies caraïbes
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Tarpons
+    en-name:
+    strong: false
+  - fr-name: Lambis
+    en-name:
+    strong: false
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: false
+  - fr-name: Cigales de mer
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Hippocampes rouges
+    en-name:
+    strong: true
+  - fr-name: BatFish blanc
+    en-name:
+    strong: true
+  - fr-name: Chevaliers ponctués juvéniles
+    en-name:
+    strong: true
+  - fr-name: Tortues
+    en-name:
+    strong: true
+  - fr-name: Raies léopards
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true

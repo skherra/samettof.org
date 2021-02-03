@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <main role="main">
+    {% include page-banner.html %}
+    <div class="page-content">
+      <div class="container-fluid pl-5 pr-5">
+        <div class="row pb-4" id="inspiration">
+          <div class="col-md-6">
+            <div class="item"><img alt="" src="/assets/img/inspiration.jpg"></div>
+          </div>
+          <div class="col-md-6">
+            {{ content }}
+          </div>
+        </div><!-- /.row -->
+      </div>
+    </div>
+  </main>
+
+</body>
+
+{% include scripts.html %}
+
+</html>

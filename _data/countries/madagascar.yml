@@ -1,0 +1,92 @@
+difficulty: 50
+visibility: 80
+diversity: 80
+atmosphere: 70
+
+water-temperatures:
+  - fr-water-temperature-period: En décembre
+    en-water-temperature-period: In December
+    water-temperature: 27-29
+
+best-seasons:
+  - fr-best-season-from: juin
+    fr-best-season-to: décembre
+    en-best-season-from: June
+    en-best-season-to: December
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anémones
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Requins pointe blanche
+    en-name:
+    strong: false
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Requins léopard
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Tortues
+    en-name:
+    strong: false
+  - fr-name: Anges royaux
+    en-name:
+    strong: false
+  - fr-name: Mérous géants
+    en-name:
+    strong: true
+  - fr-name: Loches marbrées
+    en-name:
+    strong: false
+  - fr-name: Carangues
+    en-name:
+    strong: false
+  - fr-name: Carangues échevelées
+    en-name:
+    strong: true
+  - fr-name: Tazars
+    en-name:
+    strong: false
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: false
+  - fr-name: Gorgones géantes
+    en-name:
+    strong: false
+  - fr-name: Frog fish
+    en-name:
+    strong: true
+  - fr-name: Labres rasoir
+    en-name:
+    strong: false
+  - fr-name: Poissons crocodiles
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false

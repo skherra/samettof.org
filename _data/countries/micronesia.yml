@@ -1,0 +1,216 @@
+difficulty: 60
+visibility: 60
+diversity: 70
+atmosphere: 80
+
+water-temperatures:
+  - fr-water-temperature-period: En février&nbsp;/ mars
+    en-water-temperature-period: In February/March
+    water-temperature: 27-29
+
+best-seasons:
+  - fr-best-season-from: janvier
+    fr-best-season-to: avril
+    en-best-season-from: January
+    en-best-season-to: April
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Raies mantas océaniques
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Scorpion leaf fishs
+    en-name:
+    strong: false
+  - fr-name: Banded pipefishs
+    en-name:
+    strong: false
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins pointe blanche
+    en-name:
+    strong: false
+  - fr-name: Requins pointe noire
+    en-name:
+    strong: false
+  - fr-name: Thons jaunes
+    en-name:
+    strong: false
+  - fr-name: Thons à dents de chien
+    en-name:
+    strong: false
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Platax
+    en-name:
+    strong: false
+
+maps:
+  - id: yap
+    center-lat: 9.53372
+    center-lng: 138.116
+    zoom: 11
+    points:
+      - lat: 9.60301
+        lng: 138.12889
+        icon: diveFlagIcon
+        place: Tzimoulis Ridge
+      - lat: 9.60496
+        lng: 138.12344
+        icon: diveFlagIcon
+        place: South Pass
+      - lat: 9.61168
+        lng: 138.13636
+        icon: diveFlagIcon
+        place: Stammtisch
+      - lat: 9.59279
+        lng: 138.11101
+        icon: diveFlagIcon
+        place: Vertigo
+      - lat: 9.52574
+        lng: 138.13157
+        icon: diveFlagIcon
+        place: Rainbow Reef
+      - lat: 9.50514
+        lng: 138.1329
+        icon: diveFlagIcon
+        place: Slow and easy
+      - lat: 9.4211
+        lng: 138.03238
+        icon: diveFlagIcon
+        place: Yap caverns
+      - lat: 9.41976
+        lng: 138.03806
+        icon: diveFlagIcon
+        place: Lyonfish wall
+      - lat: 9.45706
+        lng: 138.04055
+        icon: diveFlagIcon
+        place: Spanish wall
+      - lat: 9.47389
+        lng: 138.04533
+        icon: diveFlagIcon
+        place: Cabbage Patch
+      - lat: 9.48756
+        lng: 138.04544
+        icon: diveFlagIcon
+        place: Big Bend
+      - lat: 9.53065
+        lng: 138.07067
+        icon: diveFlagIcon
+        place: Sunset Reef
+      - lat: 9.49135
+        lng: 138.13127
+        icon: diveFlagIcon
+        place: O’Keef’s Passage
+  - id: chuuk
+    center-lat: 7.33318
+    center-lng: 151.86264
+    zoom: 11
+    points:
+      - lat: 7.40361
+        lng: 151.76805
+        icon: diveFlagIcon
+        place: Shinkoku Maru
+      - lat: 7.38444
+        lng: 151.85555
+        icon: diveFlagIcon
+        place: Heian Maru
+      - lat: 7.34666
+        lng: 151.88999
+        icon: diveFlagIcon
+        place: Fujikawa Maru
+      - lat: 7.39027
+        lng: 151.82027
+        icon: diveFlagIcon
+        place: Yamagiri Maru
+      - lat: 7.37046
+        lng: 151.84621
+        icon: diveFlagIcon
+        place: Kiyosumi Maru
+      - lat: 7.294
+        lng: 151.86599
+        icon: diveFlagIcon
+        place: Sankisan Maru
+      - lat: 7.30421
+        lng: 151.90085
+        icon: diveFlagIcon
+        place: Rio de Janiero Maru
+      - lat: 7.3225
+        lng: 151.8845
+        icon: diveFlagIcon
+        place: Unkai Maru
+      - lat: 7.37813
+        lng: 151.84752
+        icon: diveFlagIcon
+        place: Kensho Maru
+      - lat: 7.31187
+        lng: 151.89564
+        icon: diveFlagIcon
+        place: Gosei Maru
+      - lat: 7.38305
+        lng: 151.91888
+        icon: diveFlagIcon
+        place: Nippo Maru
+      - lat: 7.35075
+        lng: 151.87886
+        icon: diveFlagIcon
+        place: Betty bomber
+      - lat: 7.3606
+        lng: 151.87383
+        icon: diveFlagIcon
+        place: Emily Flying Boat
+  - id: pohnpei
+    center-lat: 6.88962
+    center-lng: 158.22029
+    zoom: 11
+    points:
+      - lat: 6.99646
+        lng: 158.29891
+        icon: diveFlagIcon
+        place: Manta Road
+      - lat: 6.96067
+        lng: 158.30903
+        icon: diveFlagIcon
+        place: Areu wall
+      - lat: 6.86676
+        lng: 158.10536
+        icon: diveFlagIcon
+        place: Pehlong corner
+      - lat: 6.90579
+        lng: 158.09027
+        icon: diveFlagIcon
+        place: Dauahk wall
+      - lat: 6.97978
+        lng: 158.12652
+        icon: diveFlagIcon
+        place: Palikir birdge
+      - lat: 7.01801
+        lng: 158.2802
+        icon: diveFlagIcon
+        place: Mwand wall

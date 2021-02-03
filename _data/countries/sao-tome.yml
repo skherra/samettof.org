@@ -1,0 +1,71 @@
+difficulty: 60
+visibility: 60
+diversity: 50
+atmosphere: 60
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 23 - 27
+
+best-seasons:
+  - fr-best-season-from: septembre
+    fr-best-season-to: fin mars
+    en-best-season-from: September
+    en-best-season-to: end of March
+
+fauna:
+  - fr-name: Anémones jaunes et vertes
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Poissons écureuils
+    en-name:
+    strong: false
+  - fr-name: Poissons chirurgiens
+    en-name:
+    strong: false
+  - fr-name: Trompettes
+    en-name:
+    strong: false
+  - fr-name: Pipefish
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Raie torpille
+    en-name:
+    strong: true
+  - fr-name: Thons
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Hippocampes
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Diodons
+    en-name:
+    strong: true
+  - fr-name: Tetradon géant
+    en-name:
+    strong: true
+  - fr-name: Mérou
+    en-name:
+    strong: true
+  - fr-name: Peroquets
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: false

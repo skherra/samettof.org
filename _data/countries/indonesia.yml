@@ -1,0 +1,206 @@
+difficulty: 70
+visibility: 70
+diversity: 90
+atmosphere: 80
+
+water-temperatures:
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 27
+    fr-water-temperature-comment: Sur Komodo
+    en-water-temperature-comment: At Komodo
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 23
+    fr-water-temperature-comment: Sur Nusa Penida
+    en-water-temperature-comment: At Nusa Penida
+
+best-seasons:
+  - fr-best-season-from: mars
+    fr-best-season-to: octobre
+    fr-best-season-comment: Saison seiche à Komodo Nord
+    en-best-season-from: March
+    en-best-season-to: October
+    en-best-season-comment: Dry season at Komodo Nord
+  - fr-best-season-from: mai
+    fr-best-season-to: septembre
+    fr-best-season-comment: A Nusa Penida
+    en-best-season-from: May
+    en-best-season-to: September
+    en-best-season-comment: At Nusa Penida
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Une incroyable diversité de nudibranches
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Poissons clown
+    en-name:
+    strong: false
+  - fr-name: Crevettes mantes
+    en-name:
+    strong: true
+  - fr-name: Devil Pipefish
+    en-name:
+    strong: true
+  - fr-name: Flamboyant cutlefish
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches
+    en-name:
+    strong: false
+  - fr-name: Requins pointes noires
+    en-name:
+    strong: false
+  - fr-name: Requins nourices
+    en-name:
+    strong: false
+  - fr-name: Requins bambou juvenile
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Carrangues géantes
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Raies mobula
+    en-name:
+    strong: true
+  - fr-name: Raies manta
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Tortues
+    en-name:
+    strong: true
+  - fr-name: Molas molas
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Bumphead parrotfish
+    en-name:
+    strong: true
+  - fr-name: Scorpions feuilles
+    en-name:
+    strong: true
+
+maps:
+  - id: indonesia
+    center-lat: -8.24182
+    center-lng: 117.46177
+    zoom: 8
+    points:
+      - lat: -8.24182
+        lng: 117.46177
+        icon: diveFlagIcon
+        place: Angel reef
+      - lat: -8.46038
+        lng: 119.56113
+        icon: diveFlagIcon
+        place: Shotgun
+      - lat: -8.43925
+        lng: 119.56649
+        icon: diveFlagIcon
+        place: Crystal rock
+      - lat: -8.48612
+        lng: 119.55433
+        icon: diveFlagIcon
+        place: Gili Lawa Darak
+      - lat: -8.58028
+        lng: 119.68436
+        icon: diveFlagIcon
+        place: Tengah
+      - lat: -8.4775
+        lng: 119.55282
+        icon: diveFlagIcon
+        place: Golden passage
+      - lat: -8.60176
+        lng: 119.51981
+        icon: diveFlagIcon
+        place: Pink beach
+      - lat: -8.62757
+        lng: 119.70737
+        icon: diveFlagIcon
+        place: Wanilu Kecil
+      - lat: -8.54418
+        lng: 119.64808
+        icon: diveFlagIcon
+        place: Siaba Besar
+      - lat: -8.51163
+        lng: 119.6434
+        icon: diveFlagIcon
+        place: Tatawa Besar
+      - lat: -8.53055
+        lng: 119.62776
+        icon: diveFlagIcon
+        place: Tatawa Kecil
+      - lat: -8.50901
+        lng: 119.59123
+        icon: diveFlagIcon
+        place: Makassar
+      - lat: -8.55634
+        lng: 119.63261
+        icon: diveFlagIcon
+        place: Mawan
+      - lat: -8.53641
+        lng: 119.61406
+        icon: diveFlagIcon
+        place: Batu Bolong
+      - lat: -8.40538
+        lng: 119.31469
+        icon: diveFlagIcon
+        place: Stargazer
+      - lat: -8.15755
+        lng: 119.11669
+        icon: diveFlagIcon
+        place: Hot rocks
+      - lat: -8.1311
+        lng: 119.07154
+        icon: diveFlagIcon
+        place: Tikno reef
+      - lat: -8.23757
+        lng: 117.46615
+        icon: diveFlagIcon
+        place: Little Angel
+      - lat: -8.24182
+        lng: 117.46177
+        icon: diveFlagIcon
+        place: Angel reef
+      - lat: -8.71545
+        lng: 115.4556
+        icon: diveFlagIcon
+        place: Crystal rock
+      - lat: -8.67166
+        lng: 115.5039
+        icon: diveFlagIcon
+        place: P.E.D
+      - lat: -8.79436
+        lng: 115.52643
+        icon: diveFlagIcon
+        place: Manta point
+      - lat: -8.44379
+        lng: 119.42267
+        icon: diveFlagIcon
+        place: Toro Moncong (Batu Monco)

@@ -1,0 +1,66 @@
+difficulty: 50
+visibility: 100
+diversity: 30
+atmosphere: 90
+
+water-temperatures:
+  - fr-water-temperature-period: En mars
+    en-water-temperature-period: In March
+    water-temperature: 1 - 4
+
+best-seasons:
+  - fr-best-season-from: janvier
+    fr-best-season-to: décembre
+    en-best-season-from: January
+    en-best-season-to: December
+
+fauna:
+  - fr-name: Failles et lagons aux algues multi colores
+    en-name:
+    strong: false
+  - fr-name: salmo trutta (truites)
+    en-name:
+    strong: true
+
+maps:
+  - id: iceland
+    center-lat: 64.79362
+    center-lng: -18.221777
+    zoom: 6
+    points:
+      - lat: 63.82765
+        lng: -22.47465
+        icon: diveFlagIcon
+        place: Bjarnagjá
+      - lat: 64.25496
+        lng: -21.11722
+        icon: diveFlagIcon
+        place: Silfra
+      - lat: 64.2391
+        lng: -21.04736
+        icon: diveFlagIcon
+        place: David’s crack
+      - lat: 65.83694
+        lng: -18.11916
+        icon: diveFlagIconGrey
+        place: Strytan
+      - lat: 63.9145
+        lng: -21.99737
+        icon: diveFlagIconGrey
+        place: Kleifarvatn lake
+      - lat: 64.02735
+        lng: -22.23675
+        icon: diveFlagIconGrey
+        place: Minni-Vatnesleysa
+      - lat: 64.07482
+        lng: -22.64266
+        icon: diveFlagIconGrey
+        place: Garður
+      - lat: 65.04665
+        lng: -13.9801
+        icon: diveFlagIconGrey
+        place: Ell Grillo Shipwreck
+      - lat: 65.09136
+        lng: -22.78633
+        icon: diveFlagIconGrey
+        place: Birgisklettur

@@ -1,0 +1,56 @@
+difficulty: 60
+visibility: 70
+diversity: 90
+atmosphere: 90
+
+water-temperatures:
+  - fr-water-temperature-period: En février
+    en-water-temperature-period: In February
+    water-temperature: 27
+
+best-seasons:
+  - fr-best-season-from: novembre
+    fr-best-season-to: mars
+    en-best-season-from: November
+    en-best-season-to: March
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anémones
+    en-name:
+    strong: false
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: King macro
+    en-name:
+    strong: false
+  - fr-name: Mérous géants
+    en-name:
+    strong: true
+  - fr-name: Requins pointes noires océaniques
+    en-name:
+    strong: true
+  - fr-name: Requins pointes blanches océaniques
+    en-name:
+    strong: true
+  - fr-name: Requins tigres
+    en-name:
+    strong: true
+  - fr-name: Requins Marteaux
+    en-name:
+    strong: true
+  - fr-name: Requins gris de recif
+    en-name:
+    strong: false
+  - fr-name: Requins bouledogues (requin du Zambèze)
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Méduses
+    en-name:
+    strong: false

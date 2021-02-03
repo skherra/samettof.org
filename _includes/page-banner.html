@@ -1,0 +1,37 @@
+<div class="page-banner banner-{{ page.sea }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        {% if page.sea == "atlantic" -%}
+          {%- if page.lang == "fr" -%}
+          <h1>Océan atlantique</h1>
+          {%- elsif page.lang == "en" -%}
+          <h1>Atlantic Ocean</h1>
+          {%- endif -%}
+        {%- elsif page.sea == "caribbean" -%}
+          {%- if page.lang == "fr" -%}
+          <h1>Mer des caraïbes</h1>
+          {%- elsif page.lang == "en" -%}
+          <h1>Caribbeans sea</h1>
+          {%- endif -%}
+        {%- elsif page.sea == "indian" -%}
+          {%- if page.lang == "fr" -%}
+          <h1>Océan indien</h1>
+          {%- elsif page.lang == "en" -%}
+          <h1>Indian ocean</h1>
+          {%- endif -%}
+        {%- elsif page.sea == "pacific" -%}
+          {%- if page.lang == "fr" -%}
+          <h1>Océan pacifique</h1>
+          {%- elsif page.lang == "en" -%}
+          <h1>Pacific Ocean</h1>
+          {%- endif -%}
+        {%- else -%}
+          <h1>&nbsp;</h1>
+        {%- endif -%}
+        <h1>{{ page.h1 }}</h1>
+      </div><!-- /.col -->
+      <div class="col-md-6"></div>
+    </div><!-- /.row -->
+  </div>
+</div>

@@ -1,0 +1,221 @@
+difficulty: 70
+visibility: 70
+diversity: 90
+atmosphere: 90
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 29
+  - fr-water-temperature-period: Hiver austral
+    en-water-temperature-period: Southern winter
+    water-temperature: 26
+
+best-seasons:
+  - fr-best-season-from: avril
+    fr-best-season-to: novembre
+    en-best-season-from: April
+    en-best-season-to: November
+
+fauna:
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Balistes titan
+    en-name:
+    strong: false
+  - fr-name: Poisson tropicaux
+    en-name:
+    strong: false
+  - fr-name: Coraux durs
+    en-name:
+    strong: false
+  - fr-name: Coraux roses
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
+  - fr-name: Carangues échevelées
+    en-name:
+    strong: true
+  - fr-name: Carangues arc en ciel
+    en-name:
+    strong: false
+  - fr-name: Carangues gros yeux
+    en-name:
+    strong: false
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches de lagon
+    en-name:
+    strong: false
+  - fr-name: Requins pointes blanches de récif
+    en-name:
+    strong: true
+  - fr-name: Requins pointes noires
+    en-name:
+    strong: false
+  - fr-name: Requins gris
+    en-name:
+    strong: false
+  - fr-name: Requins citrons
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: false
+  - fr-name: Requins bordés
+    en-name:
+    strong: true
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies mantas
+    en-name:
+    strong: true
+  - fr-name: Raies léopards
+    en-name:
+    strong: true
+  - fr-name: Espadons voilier
+    en-name:
+    strong: true
+  - fr-name: Dauphins
+    en-name:
+    strong: true
+
+maps:
+  - id: tuamotus
+    center-lat: -15.3151
+    center-lng: -146.40949
+    zoom: 7
+    points:
+      - lat: -15.00912
+        lng: -148.27843
+        icon: diveFlagIcon
+        place: Passe de Tuheiva
+      - lat: -15.08034
+        lng: -148.22202
+        icon: diveFlagIcon
+        place: Ferme Perlière
+      - lat: -14.4587
+        lng: -146.06366
+        icon: diveFlagIcon
+        place: Les roses
+      - lat: -14.45221
+        lng: -146.07361
+        icon: diveFlagIcon
+        place: La faille
+      - lat: -14.45745
+        lng: -146.06031
+        icon: diveFlagIcon
+        place: Passe de Tairapa
+      - lat: -16.51666
+        lng: -145.4619
+        icon: diveFlagIcon
+        place: Passe de Tamakohua
+      - lat: -16.07657
+        lng: -145.71879
+        icon: diveFlagIcon
+        place: Passe de Garuae
+      - lat: -14.97148
+        lng: -147.62869
+        icon: diveFlagIcon
+        place: Passe de Tiputa
+      - lat: -14.936294
+        lng: -147.709698
+        icon: diveFlagIcon
+        place: Avatoru reef
+      - lat: -15.3151
+        lng: -146.40949
+        icon: diveFlagIcon
+        place: Passe de Tehere
+      - lat: -15.9167
+        lng: -145.89029
+        icon: diveFlagIcon
+        place: Passe d\'Otugi
+      - lat: -15.9520948
+        lng: -145.1787083
+        icon: diveFlagIcon
+        place: Passe d\'Arikitamiro
+  - id: societe
+    center-lat: -16.75428
+    center-lng: -151.01
+    zoom: 8
+    points:
+      - lat: -16.72888
+        lng: -151.04118
+        icon: diveFlagIcon
+        place: L\'Aquarium
+      - lat: -16.72582
+        lng: -151.04951
+        icon: diveFlagIcon
+        place: Passe d\'Avapeihi
+      - lat: -16.73818
+        lng: -151.50535
+        icon: diveFlagIcon
+        place: Les roses<br>et Miri Miri
+      - lat: -16.74596
+        lng: -151.41863
+        icon: diveFlagIcon
+        place: La passe de <br>Teava piti
+      - lat: -16.64931
+        lng: -151.42376
+        icon: diveFlagIcon
+        place: Le piton de Céran
+      - lat: -17.48848
+        lng: -149.92358
+        icon: diveFlagIcon
+        place: Le Tiki
+      - lat: -17.48886
+        lng: -149.89133
+        icon: diveFlagIcon
+        place: Le passage des raies
+      - lat: -17.47504
+        lng: -149.83677
+        icon: diveFlagIcon
+        place: Eden Park
+      - lat: -17.4791543
+        lng: -149.8555967
+        icon: diveFlagIcon
+        place: Mamaru
+      - lat: -17.4852105
+        lng: -149.8586688
+        icon: diveFlagIcon
+        place: La virgule
+      - lat: -17.4827702
+        lng: -149.8929226
+        icon: diveFlagIcon
+        place: Tao Toï
+      - lat: -17.4856147
+        lng: -149.8944086
+        icon: diveFlagIcon
+        place: La passe de Tao Toï
+      - lat: -17.47569
+        lng: -149.82811
+        icon: diveFlagIcon
+        place: Rotui
+      - lat: -17.47655
+        lng: -149.8483
+        icon: diveFlagIcon
+        place: Les failles d\'Oponuhu
+  - id: marquises
+    center-lat: -9.815591
+    center-lng: -139.038537
+    zoom: 10
+    points:
+      - lat: -9.815591
+        lng: -139.038537
+        icon: diveFlagIcon
+        place: Ilôt Hanakee
+      - lat: -9.859230
+        lng: -139.057382
+        icon: diveFlagIcon
+        place: Tekui

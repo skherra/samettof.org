@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <main role="main">
+    {% include page-banner.html %}
+    <div class="page-content" id="next-bubles">
+      <div class="container-fluid pl-5 pr-5">
+        <div class="row pb-4">
+          <div class="col-md-2">&nbsp;</div>
+          <div class="col-md-8">
+            <h2><span>{{ page.h2 }}</span></h2>
+            {% for bubble in page.bubbles -%}
+            <div class="post-row item">
+              <div class="left-meta-post">
+                <div class="date"><span class="day">{{ bubble.day }}</span><span class="month">{{ bubble.month }}</span></div>
+                <div class="type"><i class="fa {{ bubble.icon }}"></i></div>
+              </div>
+              {{ bubble.content }}
+            </div>
+            {% endfor -%}
+          </div>
+          <div class="col-md-2">&nbsp;</div>
+        </div><!-- /.row -->
+      </div>
+    </div>
+  </main>
+
+</body>
+
+{%- include scripts.html -%}
+
+</html>

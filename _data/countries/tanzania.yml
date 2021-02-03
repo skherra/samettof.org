@@ -1,0 +1,41 @@
+difficulty: 60
+visibility: 50
+diversity: 70
+atmosphere: 70
+
+water-temperatures:
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 29
+
+best-seasons:
+  - fr-best-season-from: septembre
+    fr-best-season-to: mars
+    en-best-season-from: September
+    en-best-season-to: March
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Poissons clown
+    en-name:
+    strong: false
+  - fr-name: Poissons empereurs
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Anges français
+    en-name:
+    strong: false
+  - fr-name: Napoléons
+    en-name:
+    strong: true
+  - fr-name: Mérous
+    en-name:
+    strong: true

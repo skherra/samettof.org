@@ -1,0 +1,40 @@
+- ref: world-map
+- fr-label: Atlantique
+  en-label: Atlantic
+  sublabels:
+    - ref: canary-islands
+    - ref: cape-verde
+    - ref: iceland
+    - ref: sao-tome
+- fr-label: Caraïbes
+  en-label: Caribbean
+  sublabels:
+    - ref: belize
+    - ref: martinique
+    - ref: mexico
+    - ref: les-saintes
+    - ref: statia
+- fr-label: Indien
+  en-label: Indian
+  sublabels:
+    - ref: south-africa
+    - ref: indonesia
+    - ref: madagascar
+    - ref: maldives
+    - ref: mozambique
+    - ref: tanzania
+- fr-label: Pacifique
+  en-label: Pacific
+  sublabels:
+    - ref: costa-rica-cocos
+    - ref: fiji
+    - ref: galapagos
+    - ref: hawaii
+    - ref: japan
+    - ref: micronesia
+    - ref: palau
+    - ref: french-polynesia
+- ref: next-bubbles
+- ref: inspiration
+- ref: faq
+- ref: bonus
