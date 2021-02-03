@@ -9,12 +9,14 @@
     <a href="{{ home }}"><img src="/assets/img/dive-flag.jpg" class="rounded-circle profile-picture" width="40" height="40" alt="" loading="lazy" /></a>
   </div>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <!--
     <span class="navbar-text" id="lang">
       {%- assign pages = site.pages | where:"ref", page.ref | sort: 'lang' -%}
       {%- for p in pages -%}
         {%if p.lang != page.lang %}<a href="{{ p.url }}" class="lang-flag">{{ p.lang-flag }}</a>{% endif %}
       {%- endfor -%}
     </span>
+    -->
     <ul class="navbar-nav">
       {% for item in site.data.menu -%}
         {%- if item.sublabels -%}
