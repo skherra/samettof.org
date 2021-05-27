@@ -23,6 +23,10 @@
     - ref: maldives
     - ref: mozambique
     - ref: tanzania
+- fr-label: Méditerranée
+  en-label: mediterranean
+  sublabels:
+    - ref: france
 - fr-label: Pacifique
   en-label: Pacific
   sublabels:

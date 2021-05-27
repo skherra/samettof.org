@@ -1,0 +1,86 @@
+difficulty: 30
+visibility: 30
+diversity: 40
+atmosphere: 40
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 15
+
+best-seasons:
+  - fr-best-season-from: mai
+    fr-best-season-to: septembre
+    en-best-season-from: May
+    en-best-season-to: September
+
+fauna:
+  - fr-name: Merous
+    en-name:
+    strong: true
+  - fr-name: Rascasses
+    en-name:
+    strong: true
+  - fr-name: Mola Mola
+    en-name:
+    strong: true
+  - fr-name: Corbs
+    en-name:
+    strong: false
+  - fr-name: Mostelle
+    en-name:
+    strong: false
+  - fr-name: Girelle paon
+    en-name:
+    strong: false
+  - fr-name: Murennes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Gobies
+    en-name:
+    strong: false
+  - fr-name: Blenny
+    en-name:
+    strong: false
+  - fr-name: Ver tubicole, ver plat
+    en-name:
+    strong: false
+  - fr-name: Eponges
+    en-name:
+    strong: false
+maps:
+  - id: cerbere
+    center-lat: 42.447914
+    center-lng: 3.171583
+    zoom: 12
+    points:
+      - lat: 42.447914
+        lng: 3.171583
+        icon: diveFlagIcon
+        place: Canadelles
+      - lat: 42.434382
+        lng: 3.174588
+        icon: diveFlagIcon
+        place: Ocell
+      - lat: 42.431180
+        lng: 3.170546
+        icon: diveFlagIcon
+        place: Foradada
+      - lat: 42.478437
+        lng: 3.152082
+        icon: diveFlagIcon
+        place: Les 3 moines
+      - lat: 42.475943
+        lng: 3.155959
+        icon: diveFlagIcon
+        place: Cap Abeille Sud
+      - lat: 42.475681
+        lng: 3.155592
+        icon: diveFlagIcon
+        place: Les tinyes

@@ -68,10 +68,10 @@
   place: Ile de Lerins
   fr-date: juin 2005
   en-date: June 2005
-- lat: 42.05143
-  lng: 3.2003
+- lat: 42.045051
+  lng: 3.224359
   icon: diveFlagIcon
-  place: Estartit
+  place: Iles Medes
   fr-date: septembre 2005
   en-date: September 2005
 - lat: 48.85334
@@ -616,3 +616,8 @@
   icon: eyeIcon
   ref: tanzania
   place: Manyara
+- lat : 42.448153
+  lng: 3.170847
+  icon: diveFlagIcon
+  ref: france
+  place: Cerbère
