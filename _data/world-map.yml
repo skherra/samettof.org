@@ -14,54 +14,6 @@
   place: Phu Quoc
   fr-date: décembre 2013
   en-date: December 2013
-- lat: 21.02791
-  lng: 105.85108
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Hanoi
-  fr-date: décembre 2013
-  en-date: December 2013
-- lat: 20.85432
-  lng: 107.18536
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Baie d'Halong
-  fr-date: décembre 2013
-  en-date: December 2013
-- lat: 16.47049
-  lng: 107.5783
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Hué
-  fr-date: décembre 2013
-  en-date: December 2013
-- lat: 15.87821
-  lng: 108.32854
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Hoi An
-  fr-date: décembre 2013
-  en-date: December 2013
-- lat: 9.83627
-  lng: 106.21857
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Delta du Mekong
-  fr-date: décembre 2013
-  en-date: December 2013
-- lat: 10.77547
-  lng: 106.70188
-  icon: eyeIcon
-  fr-country: Vietnam
-  en-country: Vietnam
-  place: Ho Chi Minh Ville
-  fr-date: décembre 2013
-  en-date: December 2013
 - lat: 43.51818
   lng: 7.04842
   icon: diveFlagIcon
@@ -78,21 +30,6 @@
   lng: 2.34886
   icon: homeIcon
   place: Home sweet home :-)
-# With ref ---------------------------------------------------------------------
-- lat: 17.21951
-  lng: -89.62646
-  icon: eyeIcon
-  ref: belize
-  fr-country: Guatemala
-  en-country: Guatemala
-  place: Tikal
-- lat: 17.07467
-  lng: -89.40262
-  icon: eyeIcon
-  ref: belize
-  fr-country: Guatemala
-  en-country: Guatemala
-  place: Yaxha
 - lat: 17.42665
   lng: -87.84393
   icon: diveFlagIcon
@@ -108,78 +45,16 @@
   icon: diveFlagIcon
   ref: belize
   place: Glover Reef
-- lat: 17.15375
-  lng: -89.07406
-  icon: eyeIcon
-  ref: belize
-  place: San Igniacio
-- lat: 17.12078
-  lng: -88.89244
-  icon: eyeIcon
-  ref: belize
-  place: ATM (Actun Tunichil Muknal)
-- lat: 28.92047
-  lng: -13.66094
-  icon: diveFlagIcon
-  ref: canary-islands
 - lat: 16.88671
   lng: -24.98924
   icon: diveFlagIcon
   ref: cape-verde
-- lat: 17.06926
-  lng: -25.18272
-  icon: eyeIcon
-  ref: cape-verde
-  place: Santo Antão
 - lat: 5.55151
   lng: -87.04116
   icon: diveFlagIcon
   ref: costa-rica-cocos
   fr-country: Cocos
   en-country: Cocos
-- lat: 10.4608
-  lng: -84.71077
-  icon: eyeIcon
-  ref: costa-rica-cocos
-  fr-country: Costa Rica
-  en-country: Costa Rica
-  place: Arenal
-  fr-date: mars 2006
-  en-date: March 2006
-- lat: 10.8124
-  lng: -85.3315
-  icon: eyeIcon
-  ref: costa-rica-cocos
-  fr-country: Costa Rica
-  en-country: Costa Rica
-  place: Rincon dela Vieja
-  fr-date: mars 2006
-  en-date: March 2006
-- lat: 10.32978
-  lng: -85.30609
-  icon: eyeIcon
-  ref: costa-rica-cocos
-  fr-country: Costa Rica
-  en-country: Costa Rica
-  place: Monte Verde
-  fr-date: mars 2006
-  en-date: March 2006
-- lat: 8.6893
-  lng: -83.68286
-  icon: eyeIcon
-  ref: costa-rica-cocos
-  fr-country: Costa Rica
-  en-country: Costa Rica
-  place: Drake Bay
-  fr-date: mars 2006
-  en-date: March 2006
-- lat: 10.56242
-  lng: -83.51635
-  icon: eyeIcon
-  ref: costa-rica-cocos
-  fr-country: Costa Rica
-  en-country: Costa Rica
-  place: Tortuguero
 - lat: -16.78574
   lng: 180.05825
   icon: diveFlagIcon
@@ -256,13 +131,6 @@
   place: Les Marquises - Hiva Oa
   fr-date: septembre 2020
   en-date: September 2020
-- lat: -8.86879
-  lng: -140.14023
-  icon: eyeIcon
-  ref: french-polynesia
-  place: Les Marquises - Nuku Hiva
-  fr-date: septembre 2020
-  en-date: September 2020
 - lat: -16.3208
   lng: -145.60249
   icon: diveFlagIcon
@@ -284,27 +152,6 @@
   place: Les Tuamotus - Rangiroa
   fr-date: mai 2017 et septembre 2020
   en-date: May 2017 and September 2020
-- lat: -17.65449
-  lng: -149.45198
-  icon: eyeIcon
-  ref: french-polynesia
-  place: Tahiti
-  fr-date: mai 2017 et septembre 2020
-  en-date: May 2017 and September 2020
-- lat: -2.94257
-  lng: -79.2031
-  icon: eyeIcon
-  ref: galapagos
-  fr-country: Equateur
-  en-country: Ecuador
-  place: Cuenca
-- lat: -2.31701
-  lng: -80.2468
-  icon: eyeIcon
-  ref: galapagos
-  fr-country: Equateur
-  en-country: Ecuador
-  place: Guayalquil
 - lat: 1.67692
   lng: -92.00247
   icon: diveFlagIcon
@@ -325,16 +172,6 @@
   icon: diveFlagIcon
   ref: galapagos
   place: Fernandina
-- lat: -0.74855
-  lng: -90.3127
-  icon: eyeIcon
-  ref: galapagos
-  place: Puerto Aroya
-- lat: -0.28642
-  lng: -90.55558
-  icon: eyeIcon
-  ref: galapagos
-  place: Bartolomé
 - lat: 19.63935
   lng: -155.99753
   icon: diveFlagIcon
@@ -350,21 +187,6 @@
   icon: diveFlagIcon
   ref: hawaii
   place: Niihau
-- lat: 19.81984
-  lng: -155.47122
-  icon: eyeIcon
-  ref: hawaii
-  place: Mauna Kea
-- lat: 19.4186
-  lng: -155.90964
-  icon: eyeIcon
-  ref: hawaii
-  place: Pu'uhonua o Honaunau
-- lat: 22.20942
-  lng: -159.59805
-  icon: eyeIcon
-  ref: hawaii
-  place: Na pali coast
 - lat: 64.25517
   lng: -21.11656
   icon: diveFlagIcon
@@ -375,36 +197,6 @@
   icon: diveFlagIcon
   ref: iceland
   place: Bjarnagjá Crack
-- lat: 64.14371
-  lng: -21.94382
-  icon: eyeIcon
-  ref: iceland
-  place: Reykjavik
-- lat: 63.61618
-  lng: -19.99409
-  icon: eyeIcon
-  ref: iceland
-  place: Sejalandsfoss
-- lat: 63.98726
-  lng: -19.06334
-  icon: eyeIcon
-  ref: iceland
-  place: Landmannalaugar
-- lat: 64.30763
-  lng: -20.11236
-  icon: eyeIcon
-  ref: iceland
-  place: Tindfjallajokull
-- lat: 64.01893
-  lng: -16.95396
-  icon: eyeIcon
-  ref: iceland
-  place: Savrtifoss
-- lat: 64.0722
-  lng: -16.21994
-  icon: eyeIcon
-  ref: iceland
-  place: Jokulsarlon
 - lat: -8.23256
   lng: 117.48127
   icon: diveFlagIcon
@@ -425,51 +217,6 @@
   icon: diveFlagIcon
   ref: indonesia
   place: Komodo
-- lat: -8.5699
-  lng: 119.50069
-  icon: eyeIcon
-  ref: indonesia
-  place: Komodo
-- lat: -8.38136
-  lng: 115.44022
-  icon: eyeIcon
-  ref: indonesia
-  place: Bali
-- lat: 35.68114
-  lng: 139.75777
-  icon: eyeIcon
-  ref: japan
-  place: Tokyo
-  fr-date: septembre 2009 et mai 2014
-  en-date: September 2009 and May 2014
-- lat: 36.72017
-  lng: 139.69391
-  icon: eyeIcon
-  ref: japan
-  place: Nikko
-  fr-date: septembre 2009
-  en-date: September 2009
-- lat: 35.57625
-  lng: 137.59502
-  icon: eyeIcon
-  ref: japan
-  place: Tsumago
-  fr-date: septembre 2009
-  en-date: September 2009
-- lat: 35.01847
-  lng: 135.76149
-  icon: eyeIcon
-  ref: japan
-  place: Kyoto
-  fr-date: septembre 2009
-  en-date: September 2009
-- lat: 34.29552
-  lng: 132.32037
-  icon: eyeIcon
-  ref: japan
-  place: Miyajima
-  fr-date: septembre 2009
-  en-date: September 2009
 - lat: 26.19364
   lng: 127.32159
   icon: diveFlagIcon
@@ -485,11 +232,6 @@
   icon: diveFlagIcon
   ref: japan
   place: Iriomote
-- lat: 31.9003
-  lng: 131.43425
-  icon: eyeIcon
-  ref: japan
-  place: Miyasaki
 - lat: 15.86451
   lng: -61.58908
   icon: diveFlagIcon
@@ -527,16 +269,6 @@
   icon: diveFlagIcon
   ref: mexico
   place: Cenotes
-- lat: 20.2146
-  lng: -87.43092
-  icon: eyeIcon
-  ref: mexico
-  place: Tulum
-- lat: 20.6828
-  lng: -88.56877
-  icon: eyeIcon
-  ref: mexico
-  place: Chichen Itza
 - lat: 9.44094
   lng: 138.05549
   icon: diveFlagIcon
@@ -567,11 +299,6 @@
   icon: diveFlagIcon
   ref: palau
   place: Peleliu Wall
-- lat: 7.34408
-  lng: 134.47369
-  icon: eyeIcon
-  ref: palau
-  place: Koror
 - lat: 0.23842
   lng: 6.76026
   icon: diveFlagIcon
@@ -582,11 +309,6 @@
   icon: diveFlagIcon
   ref: south-africa
   place: Aliwal Sohal
-- lat: -28.37743
-  lng: 32.41456
-  icon: eyeIcon
-  ref: south-africa
-  place: Sainte Lucie
 - lat: 17.48031
   lng: -62.98658
   icon: diveFlagIcon
@@ -596,26 +318,6 @@
   icon: diveFlagIcon
   ref: tanzania
   place: Pemba
-- lat: -1.77401
-  lng: 35.17548
-  icon: eyeIcon
-  ref: tanzania
-  place: Serengeti
-- lat: -4.12181
-  lng: 36.07635
-  icon: eyeIcon
-  ref: tanzania
-  place: Tarangire
-- lat: -3.20899
-  lng: 35.47829
-  icon: eyeIcon
-  ref: tanzania
-  place: N'Gorongoro
-- lat: -3.62992
-  lng: 35.80856
-  icon: eyeIcon
-  ref: tanzania
-  place: Manyara
 - lat : 42.448153
   lng: 3.170847
   icon: diveFlagIcon
