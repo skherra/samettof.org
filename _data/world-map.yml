@@ -621,3 +621,8 @@
   icon: diveFlagIcon
   ref: france
   place: Cerbère
+- lat: 43.176719
+  lng: 5.370283
+  icon: diveFlagIcon
+  ref: france
+  place: Riou

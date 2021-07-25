@@ -1,10 +1,10 @@
-difficulty: 30
-visibility: 30
-diversity: 40
-atmosphere: 40
+difficulty: 40
+visibility: 50
+diversity: 70
+atmosphere: 60
 
 water-temperatures:
-  - fr-water-temperature-period: En mai
+  - fr-water-temperature-period: En mai et juin
     en-water-temperature-period: In May
     water-temperature: 15
 
@@ -18,18 +18,24 @@ fauna:
   - fr-name: Merous
     en-name:
     strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
   - fr-name: Rascasses
+    en-name:
+    strong: true
+  - fr-name: Chapons
     en-name:
     strong: true
   - fr-name: Mola Mola
     en-name:
     strong: true
-  - fr-name: Corbs
+  - fr-name: Corb
     en-name:
     strong: false
   - fr-name: Mostelle
     en-name:
-    strong: false
+    strong: true
   - fr-name: Girelle paon
     en-name:
     strong: false
@@ -54,11 +60,20 @@ fauna:
   - fr-name: Eponges
     en-name:
     strong: false
+  - fr-name: Corail rouge
+    en-name:
+    strong: true
+  - fr-name: Gorgones
+    en-name:
+    strong: false
+  - fr-name: Araignées
+    en-name:
+    strong: true
 maps:
   - id: cerbere
-    center-lat: 42.447914
-    center-lng: 3.171583
-    zoom: 12
+    center-lat: 43.333578
+    center-lng: 3.960239
+    zoom: 8
     points:
       - lat: 42.447914
         lng: 3.171583
@@ -84,3 +99,19 @@ maps:
         lng: 3.155592
         icon: diveFlagIcon
         place: Les tinyes
+      - lat: 43.176719
+        lng: 5.370283
+        icon: diveFlagIcon
+        place: Moyade
+      - lat: 43.173811
+        lng: 5.398613
+        icon: diveFlagIcon
+        place: Pointe Caramassaigne
+      - lat: 43.188867
+        lng: 5.385192
+        icon: diveFlagIcon
+        place: Calanque de pouars
+      - lat: 43.186153
+        lng: 5.391490
+        icon: diveFlagIcon
+        place: La grotte à Peres
