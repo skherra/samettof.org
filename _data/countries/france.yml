@@ -1,0 +1,117 @@
+difficulty: 40
+visibility: 50
+diversity: 70
+atmosphere: 60
+
+water-temperatures:
+  - fr-water-temperature-period: En mai et juin
+    en-water-temperature-period: In May
+    water-temperature: 15
+
+best-seasons:
+  - fr-best-season-from: mai
+    fr-best-season-to: septembre
+    en-best-season-from: May
+    en-best-season-to: September
+
+fauna:
+  - fr-name: Merous
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Rascasses
+    en-name:
+    strong: true
+  - fr-name: Chapons
+    en-name:
+    strong: true
+  - fr-name: Mola Mola
+    en-name:
+    strong: true
+  - fr-name: Corb
+    en-name:
+    strong: false
+  - fr-name: Mostelle
+    en-name:
+    strong: true
+  - fr-name: Girelle paon
+    en-name:
+    strong: false
+  - fr-name: Murennes
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Gobies
+    en-name:
+    strong: false
+  - fr-name: Blenny
+    en-name:
+    strong: false
+  - fr-name: Ver tubicole, ver plat
+    en-name:
+    strong: false
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Corail rouge
+    en-name:
+    strong: true
+  - fr-name: Gorgones
+    en-name:
+    strong: false
+  - fr-name: Araignées
+    en-name:
+    strong: true
+maps:
+  - id: cerbere
+    center-lat: 43.333578
+    center-lng: 3.960239
+    zoom: 8
+    points:
+      - lat: 42.447914
+        lng: 3.171583
+        icon: diveFlagIcon
+        place: Canadelles
+      - lat: 42.434382
+        lng: 3.174588
+        icon: diveFlagIcon
+        place: Ocell
+      - lat: 42.431180
+        lng: 3.170546
+        icon: diveFlagIcon
+        place: Foradada
+      - lat: 42.478437
+        lng: 3.152082
+        icon: diveFlagIcon
+        place: Les 3 moines
+      - lat: 42.475943
+        lng: 3.155959
+        icon: diveFlagIcon
+        place: Cap Abeille Sud
+      - lat: 42.475681
+        lng: 3.155592
+        icon: diveFlagIcon
+        place: Les tinyes
+      - lat: 43.176719
+        lng: 5.370283
+        icon: diveFlagIcon
+        place: Moyade
+      - lat: 43.173811
+        lng: 5.398613
+        icon: diveFlagIcon
+        place: Pointe Caramassaigne
+      - lat: 43.188867
+        lng: 5.385192
+        icon: diveFlagIcon
+        place: Calanque de pouars
+      - lat: 43.186153
+        lng: 5.391490
+        icon: diveFlagIcon
+        place: La grotte à Peres

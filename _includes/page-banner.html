@@ -20,6 +20,12 @@
           {%- elsif page.lang == "en" -%}
           <h1>Indian ocean</h1>
           {%- endif -%}
+        {%- elsif page.sea == "mediterranean" -%}
+          {%- if page.lang == "fr" -%}
+          <h1>Mer Méditerranée</h1>
+          {%- elsif page.lang == "en" -%}
+          <h1>Mediterranean sea</h1>
+          {%- endif -%}
         {%- elsif page.sea == "pacific" -%}
           {%- if page.lang == "fr" -%}
           <h1>Océan pacifique</h1>
