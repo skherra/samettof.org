@@ -1,7 +1,7 @@
 difficulty: 50
 visibility: 60
 diversity: 60
-atmosphere: 60
+atmosphere: 50
 
 water-temperatures:
   - fr-water-temperature-period: En mars

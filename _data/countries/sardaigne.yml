@@ -1,12 +1,12 @@
 difficulty: 40
 visibility: 50
-diversity: 50
+diversity: 40
 atmosphere: 60
 
 water-temperatures:
-  - fr-water-temperature-period: En mai et juin
-    en-water-temperature-period: In May
-    water-temperature: 15
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 22-24
 
 best-seasons:
   - fr-best-season-from: mai
@@ -18,16 +18,13 @@ fauna:
   - fr-name: Merous
     en-name:
     strong: true
-  - fr-name: Barracudas
-    en-name:
-    strong: true
   - fr-name: Rascasses
     en-name:
     strong: true
   - fr-name: Chapons
     en-name:
     strong: true
-  - fr-name: Mola Mola
+  - fr-name: Hippocampe
     en-name:
     strong: true
   - fr-name: Corb
@@ -39,15 +36,9 @@ fauna:
   - fr-name: Girelle paon
     en-name:
     strong: false
-  - fr-name: Murennes
-    en-name:
-    strong: false
   - fr-name: Langoustes
     en-name:
     strong: true
-  - fr-name: Poulpes
-    en-name:
-    strong: false
   - fr-name: Gobies
     en-name:
     strong: false
@@ -60,32 +51,38 @@ fauna:
   - fr-name: Eponges
     en-name:
     strong: false
-  - fr-name: Corail rouge
-    en-name:
-    strong: true
   - fr-name: Gorgones
     en-name:
     strong: false
-  - fr-name: Araignées
-    en-name:
-    strong: true
   - fr-name: Nudibranches
     en-name:
-    strong: false
+    strong: true
+  - fr-name: Arraignées
+    en-name:
+    strong: true
+  - fr-name: Daurades
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: true
+  - fr-name: Coraux rouges
+    en-name:
+    strong: true
 maps:
-  - id: cerbere
-    center-lat: 43.333578
-    center-lng: 3.960239
-    zoom: 8
+  - id: magdalena
+    center-lat: 41.284255
+    center-lng: 9.353824
+    zoom: 11
     points:
-      - lat: 42.447914
-        lng: 3.171583
+      - lat: 41.186156
+        lng: 9.418007
         icon: diveFlagIcon
-        place: Canadelles
-      - lat: 42.434382
-        lng: 3.174588
+        place: Calla dell Oro
+      - lat: 41.344535
+        lng: 9.249263
         icon: diveFlagIcon
-        place: Ocell
+        place: Western Shallow
       - lat: 42.431180
         lng: 3.170546
         icon: diveFlagIcon
