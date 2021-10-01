@@ -1,7 +1,7 @@
 difficulty: 40
 visibility: 50
 diversity: 60
-atmosphere: 50
+atmosphere: 40
 
 water-temperatures:
   - fr-water-temperature-period: En septembre

@@ -328,3 +328,18 @@
   icon: diveFlagIcon
   ref: france
   place: Riou
+- lat: 41.180094
+  lng: 9.417727
+  icon: diveFlagIcon
+  ref: sardaigne
+  place: Magdalena
+- lat: 41.342531
+  lng: 9.246932
+  icon: diveFlagIcon
+  ref: sardaigne
+  place: Lavezzi
+- lat: 28.919325
+  lng: -13.673829 
+  icon: diveFlagIcon
+  ref: canaries
+  place: Puerto del Carmen
