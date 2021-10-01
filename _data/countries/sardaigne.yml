@@ -75,43 +75,35 @@ maps:
     center-lng: 9.353824
     zoom: 11
     points:
+      - lat: 41.344535
+        lng: 9.249263
+        icon: diveFlagIcon
+        place: Secca di Ponente (Western Shallow)
+      - lat: 41.251607
+        lng: 9.320267
+        icon: diveFlagIcon
+        place: Secca di Spargiotello
       - lat: 41.186156
         lng: 9.418007
         icon: diveFlagIcon
         place: Calla dell Oro
-      - lat: 41.344535
-        lng: 9.249263
+      - lat: 41.210042
+        lng: 9.380157
         icon: diveFlagIcon
-        place: Western Shallow
-      - lat: 42.431180
-        lng: 3.170546
+        place: Punta Tegge
+      - lat: 41.221214
+        lng: 9.491533
         icon: diveFlagIcon
-        place: Foradada
-      - lat: 42.478437
-        lng: 3.152082
+        place: I Picchi
+      - lat: 41.220739
+        lng: 9.488068
         icon: diveFlagIcon
-        place: Les 3 moines
-      - lat: 42.475943
-        lng: 3.155959
+        place: Cale Inglese
+      - lat: 41.229958
+        lng: 9.482939
         icon: diveFlagIcon
-        place: Cap Abeille Sud
-      - lat: 42.475681
-        lng: 3.155592
+        place: Grotta di San Francesco
+      - lat: 41.228392
+        lng: 9.487756
         icon: diveFlagIcon
-        place: Les tinyes
-      - lat: 43.176719
-        lng: 5.370283
-        icon: diveFlagIcon
-        place: Moyade
-      - lat: 43.173811
-        lng: 5.398613
-        icon: diveFlagIcon
-        place: Pointe Caramassaigne
-      - lat: 43.188867
-        lng: 5.385192
-        icon: diveFlagIcon
-        place: Calanque de pouars
-      - lat: 43.186153
-        lng: 5.391490
-        icon: diveFlagIcon
-        place: La grotte à Peres
+        place: Secca di San Francesco
