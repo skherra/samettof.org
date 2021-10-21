@@ -1,6 +1,6 @@
 difficulty: 40
 visibility: 50
-diversity: 70
+diversity: 50
 atmosphere: 60
 
 water-temperatures:
@@ -69,6 +69,9 @@ fauna:
   - fr-name: Araignées
     en-name:
     strong: true
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
 maps:
   - id: cerbere
     center-lat: 43.333578
