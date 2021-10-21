@@ -24,16 +24,16 @@ fauna:
   - fr-name: Chapons
     en-name:
     strong: true
-  - fr-name: Hippocampe
+  - fr-name: Hippocampes
     en-name:
     strong: true
   - fr-name: Corb
     en-name:
     strong: false
-  - fr-name: Mostelle
+  - fr-name: Mostelles
     en-name:
     strong: true
-  - fr-name: Girelle paon
+  - fr-name: Girelles paon
     en-name:
     strong: false
   - fr-name: Langoustes
@@ -45,7 +45,7 @@ fauna:
   - fr-name: Blenny
     en-name:
     strong: false
-  - fr-name: Ver tubicole, ver plat
+  - fr-name: Vers tubicoles, vers plats
     en-name:
     strong: false
   - fr-name: Eponges
@@ -57,10 +57,10 @@ fauna:
   - fr-name: Nudibranches
     en-name:
     strong: true
-  - fr-name: Bernard Lermite
+  - fr-name: Bernards l'hermite
     en-name:
     strong: true
-  - fr-name: Arraignées
+  - fr-name: Araignées
     en-name:
     strong: true
   - fr-name: Daurades
