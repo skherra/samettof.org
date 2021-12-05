@@ -339,7 +339,12 @@
   ref: sardaigne
   place: Lavezzi
 - lat: 28.919325
-  lng: -13.673829 
+  lng: -13.673829
   icon: diveFlagIcon
   ref: canaries
   place: Puerto del Carmen
+- lat: 25.338004
+  lng: 34.739119
+  icon: diveFlagIcon
+  ref: egypte
+  place: Marsa Abu Dabbab

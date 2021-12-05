@@ -27,7 +27,11 @@
   en-label: mediterranean
   sublabels:
     - ref: france
-    - ref: sardaigne    
+    - ref: sardaigne
+- fr-label: Mer rouge
+  en-label: Red sea
+  sublabels:
+    - ref: egypte  
 - fr-label: Pacifique
   en-label: Pacific
   sublabels:
