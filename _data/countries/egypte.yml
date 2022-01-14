@@ -24,7 +24,7 @@ fauna:
   - fr-name: Nudibranches
     en-name:
     strong: false
-  - fr-name: Requins pointe blanche de recif
+  - fr-name: Requins pointe blanche de récif
     en-name:
     strong: false
   - fr-name: Requins pointe blanche océanique
@@ -36,7 +36,7 @@ fauna:
   - fr-name: Raies pastenagues à points bleus
     en-name:
     strong: true
-  - fr-name: Maqueraux
+  - fr-name: Maquereaux
     en-name:
     strong: true
   - fr-name: Napoléons
