@@ -51,6 +51,9 @@ fauna:
   - fr-name: Anges royaux
     en-name:
     strong: false
+  - fr-name: Platax
+    en-name:
+    strong: false
   - fr-name: Mérous célestes
     en-name:
     strong: true
