@@ -9,65 +9,44 @@
   <main role="main">
     {% include page-banner.html %}
     <div class="page-content">
-      <div class="container-fluid pl-5 pr-5">
-        <div class="row pb-4" id="inspiration">
-          <div class="col-md-6">
-            Pick a date :
 
-               {% for item in site.data.calendar -%}
+      <div id="calendar" class="container-fluid">
+        <div class="row">
+          {% for cal in site.data.calendar -%}
+          <div class="col-md-4 p-0 m-0 text-center">
+            <span>
+              <img src="/photos/calendar/{{ cal.img }}" alt="{{ cal.fr-name }}" />
+              <div class="portfolio-item-content">
+                <p>{{cal.fr-name}}</p>
+                {%- for countrie in site.data.countries -%}
 
-               <div class="col-md-4 p-0 m-0 text-center">
-                 <span>
-                   <img src="/photos/calendar/{{ item.img }}" alt="{{ item.page-ref }}" />
-                    {{item.page-ref}}
-                 </span>
-               </div><!-- /.col -->
-               {% endfor -%}
+                  {%- assign datefrom=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-from -%}
+                  {%- assign dateto=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-to -%}
+                  {%- assign targets = site.pages | where : "ref", countrie[0] | where : "lang", page.lang -%}
 
+                  {%- if datefrom[0].num > dateto[0].num -%}
+                    {%- if cal.num >= 1 and cal.num <= dateto[0].num -%}
+                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
+                    {%- endif -%}
+                    {%- if cal.num >= datefrom[0].num and cal.num <= 12 -%}
+                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
+                    {%- endif -%}
+                  {%- endif -%}
 
+                  {%- if datefrom[0].num < dateto[0].num -%}
+                    {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
+                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
+                    {%- endif -%}
+                  {%- endif -%}
 
-          </div>
-          description
-          <ul>
-
-
-            {% for d in site.data.dates %}
-              {{ d.fr-name }}
-               {% for c in site.data.countries %}
-
-                {% assign datefrom=site.data.dates | where:"fr-name", c[1].best-seasons[0].fr-best-season-from %}
-                {% assign dateto=site.data.dates | where:"fr-name", c[1].best-seasons[0].fr-best-season-to %}
-
-                {%- assign targets = site.pages | where : "ref", c[0] | where : "lang", page.lang -%}
-
-
-
-
-                {% if datefrom[0].num > dateto[0].num %}
-
-                  {% if d.num >= 1 and d.num <= dateto[0].num %}
-                    <p><a href="{{ targets[0].url }}">{{ c[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-
-                  {% endif %}
-
-                  {% if d.num >= datefrom[0].num and d.num <= 12 %}
-                    <p><a href="{{ targets[0].url }}">{{ c[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-                  {% endif %}
-
-               {% endif %}
-
-               {% if datefrom[0].num < dateto[0].num %}
-                 {% if d.num >= datefrom[0].num and d.num <= dateto[0].num %}
-                   <p><a href="{{ targets[0].url }}">{{ c[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-                 {% endif %}
-              {% endif %}
-
-               {% endfor %}
-          {% endfor %}
-
-          </ul>
+                {%- endfor -%}
+              </div>
+            </span>
+          </div><!-- /.col -->
+          {% endfor -%}
         </div><!-- /.row -->
       </div>
+
     </div>
   </main>
 
