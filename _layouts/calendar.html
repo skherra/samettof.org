@@ -10,36 +10,58 @@
     {% include page-banner.html %}
     <div class="page-content">
 
-      <div id="calendar" class="container-fluid">
+
+
+      <div id="calendarPortfolio" class="container-fluid p-5">
         <div class="row">
           {% for cal in site.data.calendar -%}
-          <div class="col-md-4 p-0 m-0 text-center">
+          <div class="modal fade" id="{{ cal.fr-name }}Modal" tabindex="-1" role="dialog" aria-labelledby="{{ cal.fr-name }}Modal" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title">Où partir en {{ cal.fr-name }} ?</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  {%- for countrie in site.data.countries -%}
+
+                    {%- assign datefrom=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-from -%}
+                    {%- assign dateto=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-to -%}
+                    {%- assign targets = site.pages | where : "ref", countrie[0] | where : "lang", page.lang -%}
+
+                    {%- if datefrom[0].num > dateto[0].num -%}
+                      {%- if cal.num >= 1 and cal.num <= dateto[0].num -%}
+                        <p><a href="{{ targets[0].url }}">{{ targets[0].h1}}</a><!-- from  {{ datefrom[0].num}} to  {{ dateto[0].num }} --></p>
+                      {%- endif -%}
+                      {%- if cal.num >= datefrom[0].num and cal.num <= 12 -%}
+                        <p><a href="{{ targets[0].url }}">{{ targets[0].h1}}</a><!-- from  {{ datefrom[0].num}} to  {{ dateto[0].num }} --></p>
+                      {%- endif -%}
+                    {%- endif -%}
+
+                    {%- if datefrom[0].num < dateto[0].num -%}
+                      {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
+                        <p><a href="{{ targets[0].url }}">{{ targets[0].h1}}</a><!-- from  {{ datefrom[0].num}} to  {{ dateto[0].num }} --></p>
+                      {%- endif -%}
+                    {%- endif -%}
+
+                  {%- endfor -%}
+                </div>
+                <div class="modal-footer">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 p-3 m-0 text-center">
             <span>
               <img src="/photos/calendar/{{ cal.img }}" alt="{{ cal.fr-name }}" />
               <div class="portfolio-item-content">
-                <p>{{cal.fr-name}}</p>
-                {%- for countrie in site.data.countries -%}
-
-                  {%- assign datefrom=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-from -%}
-                  {%- assign dateto=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-to -%}
-                  {%- assign targets = site.pages | where : "ref", countrie[0] | where : "lang", page.lang -%}
-
-                  {%- if datefrom[0].num > dateto[0].num -%}
-                    {%- if cal.num >= 1 and cal.num <= dateto[0].num -%}
-                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-                    {%- endif -%}
-                    {%- if cal.num >= datefrom[0].num and cal.num <= 12 -%}
-                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-                    {%- endif -%}
-                  {%- endif -%}
-
-                  {%- if datefrom[0].num < dateto[0].num -%}
-                    {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
-                      <p><a href="{{ targets[0].url }}">{{ countrie[0] | capitalize}}</a> from  {{ datefrom[0].num}} to  {{ dateto[0].num }}</p>
-                    {%- endif -%}
-                  {%- endif -%}
-
-                {%- endfor -%}
+                <a href="#{{ cal.fr-name }}Modal" role="button" data-toggle="modal" data-target="#{{ cal.fr-name }}Modal">
+                  <h3>{{cal.fr-name}}</h3>
+                </a>
+                <!--
+              -->
               </div>
             </span>
           </div><!-- /.col -->
