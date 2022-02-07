@@ -1,36 +1,48 @@
 - num: 1
+  img: 0001.jpg
   fr-name: janvier
   en-name: Jan
 - num: 2
+  img: 0002.jpg
   fr-name: février
   en-name: Feb
 - num: 3
+  img: 0003.jpg
   fr-name: mars
   en-name: Mar
 - num: 4
+  img: 0004.jpg
   fr-name: avril
   en-name: Apr
 - num: 5
+  img: 0005.jpg
   fr-name: mai
   en-name: May
 - num: 6
+  img: 0006.jpg
   fr-name: juin
   en-name: Jun
 - num: 7
+  img: 0007.jpg
   fr-name: juillet
   en-name: Jul
 - num: 8
+  img: 0008.jpg
   fr-name: août
   en-name: Aug
 - num: 9
+  img: 0009.jpg
   fr-name: septembre
   en-name: Sep
 - num: 10
+  img: 0010.jpg
   fr-name: octobre
   en-name: Oct
 - num: 11
+  img: 0011.jpg
   fr-name: novembre
   en-name: Nov
 - num: 12
+  img: 0012.jpg
   fr-name: décembre
   en-name: Dec

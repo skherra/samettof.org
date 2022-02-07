@@ -1,4 +1,6 @@
 _site
 .jekyll-cache
 .DS_Store
+vendor
 photos/.DS_Store
+.bundle/config

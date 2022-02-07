@@ -1,0 +1,142 @@
+difficulty: 60
+visibility: 80
+diversity: 70
+atmosphere: 70
+
+water-temperatures:
+  - fr-water-temperature-period: En novembre
+    en-water-temperature-period: In Novermber
+    water-temperature: 26-27
+
+best-seasons:
+  - fr-best-season-from: avril
+    fr-best-season-to: octobre
+    en-best-season-from: April
+    en-best-season-to: October
+
+fauna:
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Anémones
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Requins pointe blanche de récif
+    en-name:
+    strong: false
+  - fr-name: Requins pointe blanche océanique
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues à points bleus
+    en-name:
+    strong: true
+  - fr-name: Maquereaux
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: true
+  - fr-name: Grosses Tortues vertes
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Anges royaux
+    en-name:
+    strong: false
+  - fr-name: Platax
+    en-name:
+    strong: false
+  - fr-name: Mérous célestes
+    en-name:
+    strong: true
+  - fr-name: Loches marbrées
+    en-name:
+    strong: false
+  - fr-name: Carangues géantes
+    en-name:
+    strong: true
+  - fr-name: Labres
+    en-name:
+    strong: true
+  - fr-name: Chevaliers ponctués
+    en-name:
+    strong: false
+  - fr-name: Bonites
+    en-name:
+    strong: false
+  - fr-name: Perroquets
+    en-name:
+    strong: false
+  - fr-name: Murènes géantes
+    en-name:
+    strong: false
+  - fr-name: Poissons crocodiles
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: true
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+maps:
+  - id: egypt
+    center-lat: 25.266219
+    center-lng: 34.785969
+    zoom: 8
+    points:
+      - lat: 24.9858337
+        lng: 34.9987825
+        icon: diveFlagIcon
+        place: Shaab Samadai
+      - lat: 25.0122343
+        lng: 34.9294208
+        icon: diveFlagIcon
+        place: Ras Samadai
+      - lat: 25.15589
+        lng: 34.854223
+        icon: diveFlagIcon
+        place: Marsa Assalai
+      - lat: 25.171389
+        lng: 34.840556
+        icon: diveFlagIcon
+        place: Marsa Egla
+      - lat: 25.205892
+        lng: 34.809591
+        icon: diveFlagIcon
+        place: Gab El Rosas
+      - lat: 25.311072
+        lng: 34.859433
+        icon: diveFlagIcon
+        place: Elphinstone
+      - lat: 25.342067
+        lng: 34.741559
+        icon: diveFlagIcon
+        place: Abu Dabbab
+      - lat: 25.417598
+        lng: 34.695168
+        icon: diveFlagIcon
+        place: Sharm Shuni
+      - lat: 25.467648
+        lng: 34.680276
+        icon: diveFlagIcon
+        place: Shuni Bay
+      - lat: 25.5091174
+        lng: 34.6538035
+        icon: diveFlagIcon
+        place: Marsa Shuni
+      - lat: 25.0130145
+        lng: 34.9260466
+        icon: diveFlagIcon
+        place: Marsa Samadai

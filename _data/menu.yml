@@ -27,7 +27,11 @@
   en-label: mediterranean
   sublabels:
     - ref: france
-    - ref: sardaigne    
+    - ref: sardaigne
+- fr-label: Mer rouge
+  en-label: Red sea
+  sublabels:
+    - ref: egypt
 - fr-label: Pacifique
   en-label: Pacific
   sublabels:
@@ -39,7 +43,7 @@
     - ref: micronesia
     - ref: palau
     - ref: french-polynesia
-- ref: next-bubbles
+- ref: calendar
 - ref: inspiration
 - ref: faq
 - ref: bonus
