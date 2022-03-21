@@ -78,17 +78,22 @@ fauna:
   - fr-name: Marionnettes à tête dorée
     en-name:
     strong: true
-
+  - fr-name: Tarpons
+    en-name:
+    strong: true
+  - fr-name: Crevettes nettoyeuses
+    en-name:
+    strong: true
 maps:
   - id: statia
     center-lat: 12.195655
     center-lng: -68.258837
     zoom: 11
     points:
-      - lat: 17.48425
-        lng: -62.99716
+      - lat: 12.141998
+        lng: -68.275887
         icon: diveFlagIcon
-        place: Stenapa
+        place: Calabas reef
       - lat: 17.46348
         lng: -62.978
         icon: diveFlagIcon
