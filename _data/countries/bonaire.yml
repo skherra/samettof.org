@@ -1,12 +1,12 @@
-difficulty: 50
-visibility: 60
-diversity: 60
+difficulty: 40
+visibility: 70
+diversity: 65
 atmosphere: 80
 
 water-temperatures:
   - fr-water-temperature-period: En mars
     en-water-temperature-period: In March
-    water-temperature: 27
+    water-temperature: 26
 
 best-seasons:
   - fr-best-season-from: novembre
@@ -27,55 +27,22 @@ fauna:
   - fr-name: Eponges tubulaires
     en-name:
     strong: false
-  - fr-name: Crabes
+  - fr-name: crabes araignée de mer
     en-name:
-    strong: false
-  - fr-name: Langoustes
-    en-name:
-    strong: false
-  - fr-name: Poulpes
-    en-name:
-    strong: false
-  - fr-name: Balistes
-    en-name:
-    strong: false
+    strong: true
   - fr-name: Murènes
     en-name:
-    strong: false
-  - fr-name: Vives tropicales
-    en-name:
-    strong: false
-  - fr-name: Tortues vertes
-    en-name:
-    strong: false
-  - fr-name: Tortues imbriquées
-    en-name:
-    strong: false
+    strong: true
   - fr-name: Chevaliers ponctués juvéniles et adultes
-    en-name:
-    strong: true
-  - fr-name: Coraux noirs
-    en-name:
-    strong: true
-  - fr-name: Requins nourices
     en-name:
     strong: true
   - fr-name: Barracuda géant
     en-name:
     strong: true
-  - fr-name: Anguilles jardinières
-    en-name:
-    strong: false
   - fr-name: Anges français
     en-name:
     strong: true
   - fr-name: Anges royaux
-    en-name:
-    strong: true
-  - fr-name: Seiches
-    en-name:
-    strong: true
-  - fr-name: Marionnettes à tête dorée
     en-name:
     strong: true
   - fr-name: Tarpons
@@ -84,8 +51,26 @@ fauna:
   - fr-name: Crevettes nettoyeuses
     en-name:
     strong: true
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: true
+  - fr-name: Tortue imbriquée
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Raie léopard
+    en-name:
+    strong: true
+  - fr-name: Carrangues à plume
+    en-name:
+    strong: true
+  - fr-name: Ostracodes bioluminiscents
+    en-name:
+    strong: true
 maps:
-  - id: statia
+  - id: bonaire
     center-lat: 12.195655
     center-lng: -68.258837
     zoom: 11
@@ -94,4 +79,39 @@ maps:
         lng: -68.275887
         icon: diveFlagIcon
         place: Calabas reef
-  
+      - lat: 12.083173
+        lng: -68.281929
+        icon: diveFlagIcon
+        place: Salt Pier
+      - lat: 12.070487
+        lng: -68.280455
+        icon: diveFlagIcon
+        place: Tori reef
+      - lat: 12.103468
+        lng: -68.287401
+        icon: diveFlagIcon
+        place: Angel city
+      - lat: 12.104969
+        lng: -68.288392
+        icon: diveFlagIcon
+        place: Hilma Hooker wreck
+      - lat: 12.107116
+        lng: -68.289915
+        icon: diveFlagIcon
+        place: The lake
+      - lat: 12.098167
+        lng: -68.284682
+        icon: diveFlagIcon
+        place: Aquarius
+      - lat: 12.167278
+        lng: -68.287198
+        icon: diveFlagIcon
+        place: Bari reef
+      - lat: 12.215333
+        lng: -68.336881
+        icon: diveFlagIcon
+        place: Tolo
+      - lat: 12.191408
+        lng: -68.297677
+        icon: diveFlagIcon
+        place: Andrea 2
