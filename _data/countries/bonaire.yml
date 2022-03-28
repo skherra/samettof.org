@@ -27,6 +27,15 @@ fauna:
   - fr-name: Eponges tubulaires
     en-name:
     strong: false
+  - fr-name: Crabe
+    en-name:
+    strong: false
+  - fr-name: Vives tropicales
+    en-name:
+    strong: false
+  - fr-name: hevaliers ponctués juvéniles et adultes
+    en-name:
+    strong: false
   - fr-name: crabes araignée de mer
     en-name:
     strong: true
@@ -115,3 +124,7 @@ maps:
         lng: -68.297677
         icon: diveFlagIcon
         place: Andrea 2
+      - lat: 12.099948
+        lng: -68.285246
+        icon: diveFlagIcon
+        place: Alice in wonderland
