@@ -27,25 +27,22 @@ fauna:
   - fr-name: Eponges tubulaires
     en-name:
     strong: false
-  - fr-name: Crabe
+  - fr-name: Crabes
     en-name:
     strong: false
   - fr-name: Vives tropicales
     en-name:
     strong: false
-  - fr-name: hevaliers ponctués juvéniles et adultes
+  - fr-name: Chevaliers ponctués juvéniles et adultes
     en-name:
     strong: false
-  - fr-name: crabes araignée de mer
+  - fr-name: Araignées de mer
     en-name:
     strong: true
   - fr-name: Murènes
     en-name:
     strong: true
-  - fr-name: Chevaliers ponctués juvéniles et adultes
-    en-name:
-    strong: true
-  - fr-name: Barracuda géant
+  - fr-name: Barracudas géants
     en-name:
     strong: true
   - fr-name: Anges français
@@ -59,23 +56,23 @@ fauna:
     strong: true
   - fr-name: Crevettes nettoyeuses
     en-name:
-    strong: true
+    strong: false
   - fr-name: Anguilles jardinières
     en-name:
-    strong: true
-  - fr-name: Tortue imbriquée
+    strong: false
+  - fr-name: Tortues imbriquées
     en-name:
     strong: true
   - fr-name: Raies pastenagues
     en-name:
     strong: true
-  - fr-name: Raie léopard
+  - fr-name: Raies léopard
     en-name:
     strong: true
   - fr-name: Carrangues à plume
     en-name:
     strong: true
-  - fr-name: Ostracodes bioluminiscents
+  - fr-name: Ostracodes bioluminescents
     en-name:
     strong: true
 maps:
@@ -95,7 +92,7 @@ maps:
       - lat: 12.070487
         lng: -68.280455
         icon: diveFlagIcon
-        place: Tori reef
+        place: Tori\'s reef
       - lat: 12.103468
         lng: -68.287401
         icon: diveFlagIcon
