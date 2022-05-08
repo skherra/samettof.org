@@ -10,6 +10,7 @@
   en-label: Caribbean
   sublabels:
     - ref: belize
+    - ref: bonaire
     - ref: martinique
     - ref: mexico
     - ref: les-saintes

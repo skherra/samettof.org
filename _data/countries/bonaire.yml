@@ -1,0 +1,127 @@
+difficulty: 40
+visibility: 70
+diversity: 65
+atmosphere: 80
+
+water-temperatures:
+  - fr-water-temperature-period: En mars
+    en-water-temperature-period: In March
+    water-temperature: 26
+
+best-seasons:
+  - fr-best-season-from: novembre
+    fr-best-season-to: juillet
+    en-best-season-from: November
+    en-best-season-to: July
+
+fauna:
+  - fr-name: Eponges
+    en-name:
+    strong: false
+  - fr-name: Eponges barriques
+    en-name:
+    strong: false
+  - fr-name: Monnaies caraïbes
+    en-name:
+    strong: false
+  - fr-name: Eponges tubulaires
+    en-name:
+    strong: false
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Vives tropicales
+    en-name:
+    strong: false
+  - fr-name: Chevaliers ponctués juvéniles et adultes
+    en-name:
+    strong: false
+  - fr-name: Araignées de mer
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: true
+  - fr-name: Barracudas géants
+    en-name:
+    strong: true
+  - fr-name: Anges français
+    en-name:
+    strong: true
+  - fr-name: Anges royaux
+    en-name:
+    strong: true
+  - fr-name: Tarpons
+    en-name:
+    strong: true
+  - fr-name: Crevettes nettoyeuses
+    en-name:
+    strong: false
+  - fr-name: Anguilles jardinières
+    en-name:
+    strong: false
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Carrangues à plume
+    en-name:
+    strong: true
+  - fr-name: Ostracodes bioluminescents
+    en-name:
+    strong: true
+maps:
+  - id: bonaire
+    center-lat: 12.195655
+    center-lng: -68.258837
+    zoom: 11
+    points:
+      - lat: 12.141998
+        lng: -68.275887
+        icon: diveFlagIcon
+        place: Calabas reef
+      - lat: 12.083173
+        lng: -68.281929
+        icon: diveFlagIcon
+        place: Salt Pier
+      - lat: 12.070487
+        lng: -68.280455
+        icon: diveFlagIcon
+        place: Tori\'s reef
+      - lat: 12.103468
+        lng: -68.287401
+        icon: diveFlagIcon
+        place: Angel city
+      - lat: 12.104969
+        lng: -68.288392
+        icon: diveFlagIcon
+        place: Hilma Hooker wreck
+      - lat: 12.107116
+        lng: -68.289915
+        icon: diveFlagIcon
+        place: The lake
+      - lat: 12.098167
+        lng: -68.284682
+        icon: diveFlagIcon
+        place: Aquarius
+      - lat: 12.167278
+        lng: -68.287198
+        icon: diveFlagIcon
+        place: Bari reef
+      - lat: 12.215333
+        lng: -68.336881
+        icon: diveFlagIcon
+        place: Tolo
+      - lat: 12.191408
+        lng: -68.297677
+        icon: diveFlagIcon
+        place: Andrea 2
+      - lat: 12.099948
+        lng: -68.285246
+        icon: diveFlagIcon
+        place: Alice in wonderland
