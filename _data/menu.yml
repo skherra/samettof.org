@@ -23,6 +23,7 @@
     - ref: madagascar
     - ref: maldives
     - ref: mozambique
+    - ref: seychelles    
     - ref: tanzania
 - fr-label: Méditerranée
   en-label: mediterranean
