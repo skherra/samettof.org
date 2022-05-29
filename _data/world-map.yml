@@ -353,3 +353,8 @@
   icon: diveFlagIcon
   ref: bonaire
   place: Calabas
+- lat: -4.40573
+  lng: 55.76929
+  icon: diveFlagIcon
+  ref: seychelles
+  place: Shark bank
