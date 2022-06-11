@@ -199,3 +199,7 @@ maps:
         lng: 55.41661
         icon: diveFlagIcon
         place: Fisherman cove recif Beau vallon
+      - lat: -4.27983
+        lng: 55.86434
+        icon: diveFlagIcon
+        place: Criminals         
