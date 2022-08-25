@@ -94,7 +94,7 @@ fauna:
   - fr-name: Crabes décorateurs
     en-name:
     strong: true
-  - fr-name: Crabe éponge
+  - fr-name: Crabes éponges
     en-name:
     strong: true
   - fr-name: Labres rasoir
@@ -202,4 +202,4 @@ maps:
       - lat: -4.27983
         lng: 55.86434
         icon: diveFlagIcon
-        place: Criminals         
+        place: Criminals
