@@ -130,19 +130,19 @@ maps:
       - lat: -4.4953
         lng: 55.52198
         icon: diveFlagIcon
-        place: Ennerdale wreck
+        place: Ennerdale Wreck
       - lat: -4.61351
         lng: 55.39888
         icon: diveFlagIcon
-        place: Dredger wreck
+        place: Dredger Wreck
       - lat: -4.5687
         lng: 55.36665
         icon: diveFlagIcon
-        place: Shark bank
+        place: Shark Bank
       - lat: -4.70258
         lng: 55.33338
         icon: diveFlagIcon
-        place: Aldebran wreck
+        place: Aldebran Wreck
       - lat: -4.22191
         lng: 55.74371
         icon: diveFlagIcon
@@ -158,7 +158,7 @@ maps:
       - lat: -4.34108
         lng: 55.8089
         icon: diveFlagIcon
-        place: Channel rock
+        place: Channel Rock
       - lat: -4.30268
         lng: 55.75041
         icon: diveFlagIcon
@@ -174,7 +174,7 @@ maps:
       - lat: -4.508290
         lng: 55.665849
         icon: diveFlagIcon
-        place: Bitter rock
+        place: Bitter Rock
       - lat: -4.338906
         lng: 55.888989
         icon: diveFlagIcon
@@ -182,7 +182,7 @@ maps:
       - lat: -4.63626
         lng: 55.37611
         icon: diveFlagIcon
-        place: Baie Ternay Parc marin
+        place: Baie Ternay &#45; Parc Marin
       - lat: -4.63838
         lng: 55.36695
         icon: diveFlagIcon
@@ -190,15 +190,15 @@ maps:
       - lat: -4.6088
         lng: 55.40703
         icon: diveFlagIcon
-        place: Twin barges
+        place: Twin Barges
       - lat: -4.56043
         lng: 55.43181
         icon: diveFlagIcon
-        place: L ilot
+        place: L&#39;îlot
       - lat: -4.61203
         lng: 55.41661
         icon: diveFlagIcon
-        place: Fisherman cove recif Beau vallon
+        place: Fisherman Cove &#45; Recif Beau Vallon
       - lat: -4.27983
         lng: 55.86434
         icon: diveFlagIcon
