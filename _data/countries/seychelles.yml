@@ -1,0 +1,205 @@
+difficulty: 70
+visibility: 60
+diversity: 85
+atmosphere: 70
+
+water-temperatures:
+  - fr-water-temperature-period: En Mai
+    en-water-temperature-period: In May
+    water-temperature: 29
+
+best-seasons:
+  - fr-best-season-from: octobre
+    fr-best-season-to: mai
+    en-best-season-from: October
+    en-best-season-to: May
+
+fauna:
+
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Bancs de vivaneaux jaunes
+    en-name:
+    strong: false
+  - fr-name: Crevettes
+    en-name:
+    strong: false
+  - fr-name: Crevette Mantis
+    en-name:
+    strong: true
+  - fr-name: Platax
+    en-name:
+    strong: true
+  - fr-name: Requins baleines
+    en-name:
+    strong: true
+  - fr-name: Requins pointes blanches
+    en-name:
+    strong: true
+  - fr-name: Requins pointes noires
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Requins guitares
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: true
+  - fr-name: Raies Léopard
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Tortues vertes
+    en-name:
+    strong: true
+  - fr-name: Anges royaux
+    en-name:
+    strong: false
+  - fr-name: Mérous géants
+    en-name:
+    strong: true
+  - fr-name: Loches marbrées
+    en-name:
+    strong: false
+  - fr-name: Carangues
+    en-name:
+    strong: false
+  - fr-name: Bonites
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Crabes
+    en-name:
+    strong: true
+  - fr-name: Crabes décorateurs
+    en-name:
+    strong: true
+  - fr-name: Crabes éponges
+    en-name:
+    strong: true
+  - fr-name: Labres rasoir
+    en-name:
+    strong: false
+  - fr-name: Langoustes
+    en-name:
+    strong: true
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Poissons feuilles
+    en-name:
+    strong: true
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Poules
+    en-name:
+    strong: false
+  - fr-name: Murènes
+    en-name:
+    strong: false
+  - fr-name: Bécunes
+    en-name:
+    strong: false
+maps:
+  - id: seychelles
+    center-lat: -4.4953
+    center-lng: 55.52198
+    zoom: 9
+    points:
+      - lat: -4.4953
+        lng: 55.52198
+        icon: diveFlagIcon
+        place: Ennerdale Wreck
+      - lat: -4.61351
+        lng: 55.39888
+        icon: diveFlagIcon
+        place: Dredger Wreck
+      - lat: -4.5687
+        lng: 55.36665
+        icon: diveFlagIcon
+        place: Shark Bank
+      - lat: -4.70258
+        lng: 55.33338
+        icon: diveFlagIcon
+        place: Aldebran Wreck
+      - lat: -4.22191
+        lng: 55.74371
+        icon: diveFlagIcon
+        place: Amoujié Maman
+      - lat: -4.31738
+        lng: 55.81596
+        icon: diveFlagIcon
+        place: Ave Maria
+      - lat: -4.25873
+        lng: 55.6737
+        icon: diveFlagIcon
+        place: Booby Island
+      - lat: -4.34108
+        lng: 55.8089
+        icon: diveFlagIcon
+        place: Channel Rock
+      - lat: -4.30268
+        lng: 55.75041
+        icon: diveFlagIcon
+        place: Saint Pierre
+      - lat: -4.081431
+        lng: 55.488403
+        icon: diveFlagIcon
+        place: Mélanie 29
+      - lat: -4.340364
+        lng: 55.828848
+        icon: diveFlagIcon
+        place: Anse Sévère
+      - lat: -4.508290
+        lng: 55.665849
+        icon: diveFlagIcon
+        place: Bitter Rock
+      - lat: -4.338906
+        lng: 55.888989
+        icon: diveFlagIcon
+        place: Astalina
+      - lat: -4.63626
+        lng: 55.37611
+        icon: diveFlagIcon
+        place: Baie Ternay &#45; Parc Marin
+      - lat: -4.63838
+        lng: 55.36695
+        icon: diveFlagIcon
+        place: Lighthouse
+      - lat: -4.6088
+        lng: 55.40703
+        icon: diveFlagIcon
+        place: Twin Barges
+      - lat: -4.56043
+        lng: 55.43181
+        icon: diveFlagIcon
+        place: L&#39;îlot
+      - lat: -4.61203
+        lng: 55.41661
+        icon: diveFlagIcon
+        place: Fisherman Cove &#45; Recif Beau Vallon
+      - lat: -4.27983
+        lng: 55.86434
+        icon: diveFlagIcon
+        place: Criminals
