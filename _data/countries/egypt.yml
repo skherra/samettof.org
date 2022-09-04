@@ -7,6 +7,9 @@ water-temperatures:
   - fr-water-temperature-period: En novembre
     en-water-temperature-period: In Novermber
     water-temperature: 26-27
+  - fr-water-temperature-period: En août
+    en-water-temperature-period: In August
+    water-temperature: 31
 
 best-seasons:
   - fr-best-season-from: avril
@@ -90,6 +93,15 @@ fauna:
   - fr-name: Anguilles jardinières
     en-name:
     strong: false
+  - fr-name: Raies Manta
+    en-name:
+    strong: true
+  - fr-name: Barracuda
+    en-name:
+    strong: true
+  - fr-name: Thons
+    en-name:
+    strong: true
 maps:
   - id: egypt
     center-lat: 25.266219
