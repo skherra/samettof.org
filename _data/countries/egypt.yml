@@ -102,10 +102,16 @@ fauna:
   - fr-name: Thons
     en-name:
     strong: true
+  - fr-name: Lièvre de mer
+    en-name:
+    strong: true
+  - fr-name: Araignée
+    en-name:
+    strong: true
 maps:
   - id: egypt
-    center-lat: 25.266219
-    center-lng: 34.785969
+    center-lat: 24.732806
+    center-lng: 35.741394
     zoom: 8
     points:
       - lat: 24.9858337
@@ -152,3 +158,43 @@ maps:
         lng: 34.9260466
         icon: diveFlagIcon
         place: Marsa Samadai
+      - lat: 24.9569087
+        lng: 35.8323972
+        icon: diveFlagIcon
+        place: Deadalus Reef
+      - lat: 23.721956
+        lng: 36.1975096
+        icon: diveFlagIcon
+        place: Zabargad
+      - lat: 25.347845
+        lng: 34.779624
+        icon: diveFlagIcon
+        place: Abu Dabbab 2
+      - lat: 25.345052
+        lng: 34.781041
+        icon: diveFlagIcon
+        place: Abu Dabbab 3
+      - lat: 23.563611
+        lng: 36.245
+        icon: diveFlagIcon
+        place: Rocky Island
+      - lat: 24.214438
+        lng: 35.665202
+        icon: diveFlagIcon
+        place: Shaab Maksour
+      - lat: 24.21965
+        lng: 35.611463
+        icon: diveFlagIcon
+        place: Shaab Claudia
+      - lat: 24.252774
+        lng: 35.539685
+        icon: diveFlagIcon
+        place: Abu Galawa Soraya
+      - lat: 24.787332
+        lng: 35.18186
+        icon: diveFlagIcon
+        place: Gota Sharm
+      - lat: 25.469763
+        lng: 34.683142
+        icon: diveFlagIcon
+        place: Marsa Shouna
