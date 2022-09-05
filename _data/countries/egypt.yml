@@ -102,10 +102,10 @@ fauna:
   - fr-name: Thons
     en-name:
     strong: true
-  - fr-name: Lièvre de mer
+  - fr-name: Lièvres de mer
     en-name:
     strong: true
-  - fr-name: Araignée
+  - fr-name: Araignées
     en-name:
     strong: true
 maps:
@@ -197,4 +197,4 @@ maps:
       - lat: 25.469763
         lng: 34.683142
         icon: diveFlagIcon
-        place: Marsa Shouna
+        place: Marsa Shoona
