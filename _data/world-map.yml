@@ -358,3 +358,13 @@
   icon: diveFlagIcon
   ref: seychelles
   place: Shark bank
+- lat: 23.563611
+  lng: 36.245
+  icon: diveFlagIcon
+  ref: egypt
+  place: Rocky Island
+- lat: 25.087140
+  lng: 34.941816
+  icon: diveFlagIcon
+  ref: egypt
+  place: Shaab Marsa Alam
