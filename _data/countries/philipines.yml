@@ -1,0 +1,171 @@
+difficulty: 60
+visibility: 80
+diversity: 80
+atmosphere: 80
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 27-28
+
+best-seasons:
+  - fr-best-season-from: décembre
+    fr-best-season-to: avril
+    en-best-season-from: December
+    en-best-season-to: April
+
+fauna:
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Bécunes
+    en-name:
+    strong: false
+  - fr-name: Thons jaunes
+    en-name:
+    strong: false
+  - fr-name: Thons à dents de chien
+    en-name:
+    strong: false
+  - fr-name: Poissons crocodile
+    en-name:
+    strong: false
+  - fr-name: Carangues
+    en-name:
+    strong: false
+  - fr-name: Balistes titan
+    en-name:
+    strong: false
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Raies mantas océaniques
+    en-name:
+    strong: true
+  - fr-name: Requins pointes blanches
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true
+  - fr-name: Requin Taureau
+    en-name:
+    strong: true
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Raies Léopard
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Tortues vertes
+    en-name:
+    strong: false
+  - fr-name: Coraux mous et durs multicolores
+    en-name:
+    strong: false
+  - fr-name: Vivaneaux rouges
+    en-name:
+    strong: true
+  - fr-name: Vivaneaux noirs
+    en-name:
+    strong: true
+  - fr-name: Mérous
+    en-name:
+    strong: false
+
+maps:
+  - id: palau
+    center-lat: 7.17217
+    center-lng: 134.34745
+    zoom: 10
+    points:
+      - lat: 7.28358
+        lng: 134.24456
+        icon: diveFlagIcon
+        place: Ulong Channel
+      - lat: 7.12608
+        lng: 134.28039
+        icon: diveFlagIcon
+        place: German Channel;
+      - lat: 7.10455
+        lng: 134.25299
+        icon: diveFlagIcon
+        place: Big Drop-Off;
+      - lat: 7.134
+        lng: 134.22063
+        icon: diveFlagIcon
+        place: Blue Corner;
+      - lat: 7.33666
+        lng: 134.21533
+        icon: diveFlagIcon
+        place: Siaes Corner;
+      - lat: 7.31135
+        lng: 134.22661
+        icon: diveFlagIcon
+        place: Siaes Tunel;
+      - lat: 7.11133
+        lng: 134.36455
+        icon: diveFlagIcon
+        place: Ngerchong Outside;
+      - lat: 7.275
+        lng: 134.18486
+        icon: diveFlagIcon
+        place: Shark City;
+      - lat: 7.27082
+        lng: 134.24661
+        icon: diveFlagIcon
+        place: Sandy bar;
+      - lat: 7.1378
+        lng: 134.2223
+        icon: diveFlagIcon
+        place: Blue Holes;
+      - lat: 7.12858
+        lng: 134.22688
+        icon: diveFlagIcon
+        place: Virgin Blue Hole;
+      - lat: 6.9847
+        lng: 134.21896
+        icon: diveFlagIcon
+        place: Peleliu Wall;
+      - lat: 6.9959
+        lng: 134.21913
+        icon: diveFlagIcon
+        place: Orange beach coral garden;
+      - lat: 7.08785
+        lng: 134.25621
+        icon: diveFlagIcon
+        place: Turtle Cove;
+      - lat: 7.10329
+        lng: 134.23784
+        icon: diveFlagIcon
+        place: New Drop Off;
+      - lat: 7.3408
+        lng: 134.45065
+        icon: diveFlagIconGrey
+        place: Chandelier Cave
+      - lat: 7.34036
+        lng: 134.43949
+        icon: diveFlagIconGrey
+        place: Chuyo Maru
+      - lat: 7.36906
+        lng: 134.44826
+        icon: diveFlagIconGrey
+        place: Jake Seaplane

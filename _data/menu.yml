@@ -23,7 +23,7 @@
     - ref: madagascar
     - ref: maldives
     - ref: mozambique
-    - ref: seychelles    
+    - ref: seychelles
     - ref: tanzania
 - fr-label: Méditerranée
   en-label: mediterranean
@@ -44,6 +44,7 @@
     - ref: japan
     - ref: micronesia
     - ref: palau
+    - ref: philippines    
     - ref: french-polynesia
 - ref: calendar
 - ref: inspiration
