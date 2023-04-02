@@ -29,7 +29,8 @@
           {%- assign mapVar = map.id | append: 'map' -%}
           var {{ mapVar }} = L.map('{{ map.id }}-map').setView([{{ map.center-lat }}, {{ map.center-lng }}], {{ map.zoom }});
           L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-            maxZoom: 18,
+            maxZoom: 13,
+            tileSize: 256,
             attribution: '&copy; <a href="https://www.esri.com/">Esri</a>, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
           }).addTo({{ mapVar }});
           {% for point in map.points -%}
