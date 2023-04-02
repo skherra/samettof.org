@@ -1,0 +1,103 @@
+difficulty: 60
+visibility: 80
+diversity: 80
+atmosphere: 80
+
+water-temperatures:
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 27-28
+
+best-seasons:
+  - fr-best-season-from: décembre
+    fr-best-season-to: avril
+    en-best-season-from: December
+    en-best-season-to: April
+
+fauna:
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Bécunes
+    en-name:
+    strong: false
+  - fr-name: Thons jaunes
+    en-name:
+    strong: false
+  - fr-name: Thons à dents de chien
+    en-name:
+    strong: false
+  - fr-name: Poissons crocodile
+    en-name:
+    strong: false
+  - fr-name: Carangues
+    en-name:
+    strong: false
+  - fr-name: Balistes titan
+    en-name:
+    strong: false
+  - fr-name: Poissons tropicaux
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Raies mantas océaniques
+    en-name:
+    strong: true
+  - fr-name: Requins pointes blanches
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true
+  - fr-name: Requin Taureau
+    en-name:
+    strong: true
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Napoléons
+    en-name:
+    strong: false
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: false
+  - fr-name: Raies Léopard
+    en-name:
+    strong: true
+  - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Tortues vertes
+    en-name:
+    strong: false
+  - fr-name: Coraux mous et durs multicolores
+    en-name:
+    strong: false
+  - fr-name: Vivaneaux rouges
+    en-name:
+    strong: true
+  - fr-name: Vivaneaux noirs
+    en-name:
+    strong: true
+  - fr-name: Mérous
+    en-name:
+    strong: false
+
+maps:
+  - id: palau
+    center-lat: 10.095445
+    center-lng: 119.996524
+    zoom: 8
+    points:
+      - lat: 7.28358
+        lng: 134.24456
+        icon: diveFlagIcon
+        place: Ulong Channel
