@@ -1,30 +1,21 @@
 difficulty: 60
-visibility: 80
-diversity: 80
+visibility: 60
+diversity: 60
 atmosphere: 80
 
 water-temperatures:
   - fr-water-temperature-period: En mai
     en-water-temperature-period: In May
-    water-temperature: 27-28
+    water-temperature: 29
 
 best-seasons:
-  - fr-best-season-from: décembre
-    fr-best-season-to: avril
+  - fr-best-season-from: avril
+    fr-best-season-to: juin
     en-best-season-from: December
-    en-best-season-to: April
+    en-best-season-to: June
 
 fauna:
-  - fr-name: Barracudas
-    en-name:
-    strong: false
   - fr-name: Bécunes
-    en-name:
-    strong: false
-  - fr-name: Thons jaunes
-    en-name:
-    strong: false
-  - fr-name: Thons à dents de chien
     en-name:
     strong: false
   - fr-name: Poissons crocodile
@@ -45,59 +36,90 @@ fauna:
   - fr-name: Anges
     en-name:
     strong: false
-  - fr-name: Raies mantas océaniques
-    en-name:
-    strong: true
-  - fr-name: Requins pointes blanches
-    en-name:
-    strong: true
-  - fr-name: Requins nourrices
-    en-name:
-    strong: true
-  - fr-name: Requins gris
-    en-name:
-    strong: true
-  - fr-name: Requin Taureau
-    en-name:
-    strong: true
-  - fr-name: Perroquets à bosse
-    en-name:
-    strong: true
   - fr-name: Napoléons
     en-name:
     strong: false
-  - fr-name: Raies pastenagues
-    en-name:
-    strong: false
-  - fr-name: Raies Léopard
-    en-name:
-    strong: true
   - fr-name: Tortues imbriquées
     en-name:
     strong: true
-  - fr-name: Tortues vertes
-    en-name:
-    strong: false
   - fr-name: Coraux mous et durs multicolores
     en-name:
     strong: false
-  - fr-name: Vivaneaux rouges
-    en-name:
-    strong: true
-  - fr-name: Vivaneaux noirs
-    en-name:
-    strong: true
   - fr-name: Mérous
     en-name:
     strong: false
-
+  - fr-name: Ghost pipefish
+    en-name:
+    strong: true
+  - fr-name: Mandarins
+    en-name:
+    strong: true
+  - fr-name: Crabes
+    en-name:
+    strong: false
+  - fr-name: Crevettes
+    en-name:
+    strong: false
 maps:
-  - id: palau
-    center-lat: 10.095445
-    center-lng: 119.996524
-    zoom: 8
+  - id: Sangat
+    center-lat: 11.952428
+    center-lng: 120.117765
+    zoom: 11
     points:
-      - lat: 7.28358
-        lng: 134.24456
+      - lat: 11.955981
+        lng: 120.216878
         icon: diveFlagIcon
-        place: Ulong Channel
+        place: Barracuda Lake
+      - lat: 11.98817
+        lng: 120.03732
+        icon: diveFlagIcon
+        place: Morazan
+      - lat: 11.97100
+        lng: 120.06127
+        icon: diveFlagIcon
+        place: Olympia Maru
+      - lat: 11.97098
+        lng: 120.02508
+        icon: diveFlagIcon
+        place: Shofu Maru
+      - lat: 11.97947
+        lng: 120.04013
+        icon: diveFlagIcon
+        place: Kogyo Maru
+      - lat: 11.987179
+        lng: 119.973934
+        icon: diveFlagIcon
+        place: The Akitsushima
+      - lat: 11.93672
+        lng: 120.05445
+        icon: diveFlagIcon
+        place: Cuaming Reef
+      - lat: 11.95671
+        lng: 120.08749
+        icon: diveFlagIcon
+        place: Malapadon reef
+      - lat: 11.97420
+        lng: 120.07908
+        icon: diveFlagIcon
+        place: Terukaze Maru
+      - lat: 12.01772
+        lng: 119,96970
+        icon: diveFlagIcon
+        place: Okikawa Maru
+      - lat: 11.96728
+        lng: 120.03967
+        icon: diveFlagIcon
+        place: Irako
+      - lat: 11.97618
+        lng: 120.01951
+        icon: diveFlagIcon
+        place: Coral Garden
+  - id: palawan
+    center-lat: 9.684092
+    center-lng: 119.348281
+    zoom: 7
+    points:
+      - lat: 9.684092
+        lng: 119.348281
+        icon: diveFlagIcon
+        place: xxx

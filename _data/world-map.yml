@@ -368,3 +368,8 @@
   icon: diveFlagIcon
   ref: egypt
   place: Shaab Marsa Alam
+- lat: 11.955981
+  lng: 120.216878
+  icon: diveFlagIcon
+  ref: philippines
+  place: Barracuda Lake
