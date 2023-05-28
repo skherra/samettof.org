@@ -1,6 +1,6 @@
 difficulty: 60
-visibility: 60
-diversity: 60
+visibility: 70
+diversity: 70
 atmosphere: 80
 
 water-temperatures:
@@ -30,16 +30,64 @@ fauna:
   - fr-name: Poissons tropicaux
     en-name:
     strong: false
-  - fr-name: Nudibranches
+  - fr-name: Anguilles jardinières
     en-name:
     strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: true
+  - fr-name: Poulpes
+    en-name:
+    strong: true
   - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Barracudas
+    en-name:
+    strong: false
+  - fr-name: Anges royaux
+    en-name:
+    strong: false
+  - fr-name: Murène ruban
+    en-name:
+    strong: true
+  - fr-name: Murènes
     en-name:
     strong: false
   - fr-name: Napoléons
     en-name:
-    strong: false
+    strong: true
+  - fr-name: Perroquets à bosse
+    en-name:
+    strong: true
+  - fr-name: Hypocampes pigmés
+    en-name:
+    strong: true
   - fr-name: Tortues imbriquées
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues à points bleus
+    en-name:
+    strong: true
+  - fr-name: Raies léopard
+    en-name:
+    strong: true
+  - fr-name: Requins nourrice
+    en-name:
+    strong: true
+  - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Requins gris
+    en-name:
+    strong: true
+  - fr-name: Requins pointe blanche de recif
+    en-name:
+    strong: true
+  - fr-name: Requins corail
+    en-name:
+    strong: true
+  - fr-name: Requins pointes noires
     en-name:
     strong: true
   - fr-name: Coraux mous et durs multicolores
@@ -54,6 +102,9 @@ fauna:
   - fr-name: Mandarins
     en-name:
     strong: true
+  - fr-name: Langoustes
+    en-name:
+    strong: false
   - fr-name: Crabes
     en-name:
     strong: false
@@ -103,7 +154,7 @@ maps:
         icon: diveFlagIcon
         place: Terukaze Maru
       - lat: 12.01772
-        lng: 119,96970
+        lng: 119.96970
         icon: diveFlagIcon
         place: Okikawa Maru
       - lat: 11.96728
@@ -114,12 +165,48 @@ maps:
         lng: 120.01951
         icon: diveFlagIcon
         place: Coral Garden
-  - id: palawan
-    center-lat: 9.684092
-    center-lng: 119.348281
-    zoom: 7
+  - id: tubataha
+    center-lat: 8.85647
+    center-lng: 119.88239
+    zoom: 10
     points:
-      - lat: 9.684092
-        lng: 119.348281
+      - lat: 9.04523
+        lng: 119.88835
         icon: diveFlagIcon
-        place: xxx
+        place: Jessie Beagley
+      - lat: 8.85647
+        lng: 119.88239
+        icon: diveFlagIcon
+        place: Wall Street
+      - lat: 8.84938
+        lng: 119.88835
+        icon: diveFlagIcon
+        place: Amos rock
+      - lat: 8.93536
+        lng: 120.01351
+        icon: diveFlagIcon
+        place: Washing maching
+      - lat: 8.92572
+        lng: 120.00921
+        icon: diveFlagIcon
+        place: Shark airport
+      - lat: 8.74693
+        lng: 119.82807
+        icon: diveFlagIcon
+        place: Delsan wreck
+      - lat: 8.74057
+        lng: 119.82398
+        icon: diveFlagIcon
+        place: West wall
+      - lat: 9.73933
+        lng: 119.81670
+        icon: diveFlagIcon
+        place: Lighthouse
+      - lat: 8.80276
+        lng: 119.83794
+        icon: diveFlagIcon
+        place: Black rock
+      - lat: 8.84553
+        lng: 119.91553
+        icon: diveFlagIcon
+        place: Gorgorian channel

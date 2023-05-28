@@ -373,3 +373,8 @@
   icon: diveFlagIcon
   ref: philippines
   place: Barracuda Lake
+- lat: 9.73933
+  lng: 119.81670
+  icon: diveFlagIcon
+  ref: philippines
+  place: Lighthouse
