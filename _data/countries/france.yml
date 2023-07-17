@@ -4,9 +4,12 @@ diversity: 50
 atmosphere: 60
 
 water-temperatures:
-  - fr-water-temperature-period: En mai et juin
+  - fr-water-temperature-period: En mai et juin à Cerbères et Marseille
     en-water-temperature-period: In May
     water-temperature: 15
+  - fr-water-temperature-period: En juillet à Porquerolles
+    en-water-temperature-period: Southern winter
+    water-temperature: 23
 
 best-seasons:
   - fr-best-season-from: mai
@@ -46,6 +49,9 @@ fauna:
     en-name:
     strong: true
   - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Murènes
     en-name:
     strong: false
   - fr-name: Gobies
@@ -118,3 +124,7 @@ maps:
         lng: 5.391490
         icon: diveFlagIcon
         place: La grotte à Peres
+      - lat: 43.02741
+        lng: 6.24080
+        icon: diveFlagIcon
+        place: Cap de Médès

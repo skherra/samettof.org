@@ -378,3 +378,10 @@
   icon: diveFlagIcon
   ref: philippines
   place: Lighthouse
+- lat: 43.02741
+  lng: 6.24080
+  icon: diveFlagIcon
+  place: Porquerolles
+  ref: france
+  fr-date: juillet 2023
+  en-date: July 2023
