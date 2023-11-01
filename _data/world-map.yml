@@ -368,3 +368,27 @@
   icon: diveFlagIcon
   ref: egypt
   place: Shaab Marsa Alam
+- lat: 11.955981
+  lng: 120.216878
+  icon: diveFlagIcon
+  ref: philippines
+  place: Barracuda Lake
+- lat: 9.73933
+  lng: 119.81670
+  icon: diveFlagIcon
+  ref: philippines
+  place: Lighthouse
+- lat: 43.02741
+  lng: 6.24080
+  icon: diveFlagIcon
+  place: Porquerolles
+  ref: france
+  fr-date: juillet 2023
+  en-date: July 2023
+- lat: 43.539565
+  lng: 7.083265
+  icon: diveFlagIcon
+  place: Cap d'Antibes
+  ref: france
+  fr-date: août 2023
+  en-date: August 2023
