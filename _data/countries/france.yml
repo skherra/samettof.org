@@ -128,3 +128,10 @@ maps:
         lng: 6.24080
         icon: diveFlagIcon
         place: Cap de Médès
+      - lat: 43.539565
+        lng: 7.083265
+        icon: diveFlagIcon
+        place: Cap Antibes
+        ref: france
+        fr-date: août 2023
+        en-date: August 2023
