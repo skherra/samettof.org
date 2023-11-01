@@ -7,15 +7,15 @@ water-temperatures:
   - fr-water-temperature-period: En mai
     en-water-temperature-period: In May
     water-temperature: 29
-    fr-water-temperature-comment: Sur Coron & Tubatha
+    fr-water-temperature-comment: Sur Coron & Tubbataha
 
 best-seasons:
   - fr-best-season-from: avril
     fr-best-season-to: juin
-    fr-best-season-comment: Tubataha & Coron
+    fr-best-season-comment: Tubbataha & Coron
     en-best-season-from: avril
     en-best-season-to: june
-    en-best-season-comment: Tubataha & Coron
+    en-best-season-comment: Tubbataha & Coron
 
 fauna:
   - fr-name: Bécunes
