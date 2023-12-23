@@ -309,10 +309,11 @@
   icon: diveFlagIcon
   ref: south-africa
   place: Aliwal Sohal
-- lat: 17.48031
-  lng: -62.98658
+- lat: 17.48351
+  lng: -62.99791
   icon: diveFlagIcon
   ref: statia
+  place: Chien Tong
 - lat: -5.29197
   lng: 39.65826
   icon: diveFlagIcon
