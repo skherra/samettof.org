@@ -42,7 +42,7 @@ fauna:
   - fr-name: Carangues gros yeux
     en-name:
     strong: false
-  - fr-name: Hypocampe
+  - fr-name: Hippocampes
     en-name:
     strong: true
   - fr-name: Murènes
@@ -63,7 +63,7 @@ fauna:
   - fr-name: Coraux noirs
     en-name:
     strong: true
-  - fr-name: Requins nourices
+  - fr-name: Requins nourrices
     en-name:
     strong: true
   - fr-name: Barracudas géants
