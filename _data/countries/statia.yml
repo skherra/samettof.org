@@ -4,7 +4,7 @@ diversity: 60
 atmosphere: 80
 
 water-temperatures:
-  - fr-water-temperature-period: En mars
+  - fr-water-temperature-period: En mars et décembre
     en-water-temperature-period: In March
     water-temperature: 27
 
@@ -32,13 +32,19 @@ fauna:
     strong: false
   - fr-name: Langoustes
     en-name:
-    strong: false
+    strong: true
   - fr-name: Poulpes
     en-name:
     strong: false
   - fr-name: Balistes
     en-name:
     strong: false
+  - fr-name: Carangues gros yeux
+    en-name:
+    strong: false
+  - fr-name: Hippocampes
+    en-name:
+    strong: true
   - fr-name: Murènes
     en-name:
     strong: false
@@ -57,10 +63,10 @@ fauna:
   - fr-name: Coraux noirs
     en-name:
     strong: true
-  - fr-name: Requins nourices
+  - fr-name: Requins nourrices
     en-name:
     strong: true
-  - fr-name: Barracuda géant
+  - fr-name: Barracudas géants
     en-name:
     strong: true
   - fr-name: Anguilles jardinières
@@ -72,12 +78,19 @@ fauna:
   - fr-name: Anges royaux
     en-name:
     strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
   - fr-name: Seiches
     en-name:
     strong: true
   - fr-name: Marionnettes à tête dorée
     en-name:
     strong: true
+  - fr-name: Blennies
+    en-name:
+    strong: true
+
 
 maps:
   - id: statia
@@ -125,11 +138,27 @@ maps:
         lng: -63.00006
         icon: diveFlagIcon
         place: Gibraltar
-      - lat: 17.51015
-        lng: -63.00861
-        icon: diveFlagIconGrey
-        place: Doobie\'s crack
-      - lat: 17.51683
-        lng: -63.0035
-        icon: diveFlagIconGrey
-        place: Twin sisters
+      - lat: 17.46819
+        lng: -62.99178
+        icon: diveFlagIcon
+        place: Nursery station
+      - lat: 17.46400
+        lng: -62.98778
+        icon: diveFlagIcon
+        place: Anchor point
+      - lat: 17.46216
+        lng: -62.97963
+        icon: diveFlagIcon
+        place: The Cliffs
+      - lat: 17.51055
+        lng: -63.00847
+        icon: diveFlagIcon
+        place: Shark reef
+      - lat: 17.50635
+        lng: -63.00581
+        icon: diveFlagIcon
+        place: Aquarium
+      - lat: 17.47655
+        lng: -62.99164
+        icon: diveFlagIcon
+        place: Blue Bead
