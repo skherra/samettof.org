@@ -42,9 +42,10 @@
     - ref: galapagos
     - ref: hawaii
     - ref: japan
+    - ref: mexico2
     - ref: micronesia
     - ref: palau
-    - ref: philippines    
+    - ref: philippines
     - ref: french-polynesia
 - ref: calendar
 - ref: inspiration
