@@ -1,7 +1,7 @@
 difficulty: 70
 visibility: 60
 diversity: 90
-atmosphere: 80
+atmosphere: 90
 
 water-temperatures:
   - fr-water-temperature-period: En avril à Socorro
@@ -36,10 +36,10 @@ fauna:
   - fr-name: Murènes
     en-name:
     strong: false
-  - fr-name: Mérou goliath
+  - fr-name: Mérous goliath
     en-name:
     strong: true
-  - fr-name: Perroquet à bosse
+  - fr-name: Perroquets à bosse
     en-name:
     strong: true
   - fr-name: Requins soyeux
