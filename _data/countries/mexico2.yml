@@ -45,7 +45,7 @@ fauna:
   - fr-name: Requins soyeux
     en-name:
     strong: true
-  - fr-name: Requins pointes blanches de recif
+  - fr-name: Requins pointes blanches de récif
     en-name:
     strong: false
   - fr-name: Requins pointe blanche
@@ -63,13 +63,13 @@ fauna:
   - fr-name: Requins bouledogues
     en-name:
     strong: true
-  - fr-name: Raies Mantas océaniques
+  - fr-name: Raies mantas océaniques
     en-name:
     strong: true
-  - fr-name: Raie guitard à nez pointu
+  - fr-name: Raie guitare à nez pointu
     en-name:
     strong: true
-  - fr-name: Raies Mobulas
+  - fr-name: Raies mobulas
     en-name:
     strong: true
   - fr-name: Raies pastenagues
