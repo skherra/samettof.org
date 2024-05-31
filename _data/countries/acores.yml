@@ -1,0 +1,67 @@
+difficulty: 60
+visibility: 50
+diversity: 60
+atmosphere: 50
+
+water-temperatures:
+  - fr-water-temperature-period: En septembre
+    en-water-temperature-period: In September
+    water-temperature: 26
+
+best-seasons:
+  - fr-best-season-from: juin
+    fr-best-season-to: octobre
+    en-best-season-from: June
+    en-best-season-to: October
+
+fauna:
+  - fr-name: Anémones jaunes
+    en-name:
+    strong: false
+  - fr-name: Langoustes à foison
+    en-name:
+    strong: false
+  - fr-name: Poulpes
+    en-name:
+    strong: false
+  - fr-name: Anges
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: false
+  - fr-name: Poissons écureuils
+    en-name:
+    strong: false
+  - fr-name: Poissons chirurgiens
+    en-name:
+    strong: false
+  - fr-name: Lièvres de mer
+    en-name:
+    strong: true
+  - fr-name: Requins nourrices
+    en-name:
+    strong: true
+  - fr-name: Batfishs noirs
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Thons
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: true
+
+maps:
+  - id: acores
+    center-lat: 38.098601
+    center-lng: -26.551543
+    zoom: 8
+    points:
+      - lat: 38.098601
+        lng: -26.551543
+        icon: diveFlagIcon
+        place: xxx
