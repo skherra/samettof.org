@@ -393,3 +393,17 @@
   ref: france
   fr-date: août 2023
   en-date: August 2023
+- lat: 23.45540
+  lng: -109.41507
+  icon: diveFlagIcon
+  place: Cabo Pulmo
+  ref: mexico2
+  fr-date: avril 2024
+  en-date: April 2024
+- lat: 18.99199
+  lng: -112.08400
+  icon: diveFlagIcon
+  place: Socorro
+  ref: mexico2
+  fr-date: avril-mai 2024
+  en-date: April 2024
