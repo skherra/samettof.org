@@ -1,12 +1,12 @@
 difficulty: 60
 visibility: 50
 diversity: 60
-atmosphere: 50
+atmosphere: 60
 
 water-temperatures:
-  - fr-water-temperature-period: En septembre
+  - fr-water-temperature-period: En juillet
     en-water-temperature-period: In September
-    water-temperature: 26
+    water-temperature: 20
 
 best-seasons:
   - fr-best-season-from: juin
@@ -15,53 +15,73 @@ best-seasons:
     en-best-season-to: October
 
 fauna:
-  - fr-name: Anémones jaunes
+  - fr-name: Girelles paon
     en-name:
     strong: false
-  - fr-name: Langoustes à foison
+  - fr-name: Sars
+    en-name:
+    strong: false
+  - fr-name: Blennie
+    en-name:
+    strong: false
+  - fr-name: Perroquets
+    en-name:
+    strong: false
+  - fr-name: Castagnoles
+    en-name:
+    strong: false
+  - fr-name: Coraux noirs
     en-name:
     strong: false
   - fr-name: Poulpes
     en-name:
     strong: false
-  - fr-name: Anges
-    en-name:
-    strong: false
   - fr-name: Nudibranches
     en-name:
     strong: false
-  - fr-name: Poissons écureuils
+  - fr-name: Rascasses
     en-name:
     strong: false
-  - fr-name: Poissons chirurgiens
-    en-name:
-    strong: false
-  - fr-name: Lièvres de mer
+  - fr-name: Congres
     en-name:
     strong: true
-  - fr-name: Requins nourrices
+  - fr-name: Carrangue
     en-name:
     strong: true
-  - fr-name: Batfishs noirs
+  - fr-name: Cigales de mer
     en-name:
     strong: true
-  - fr-name: Raies pastenagues
+  - fr-name: Bécunes
     en-name:
     strong: true
-  - fr-name: Thons
+  - fr-name: Barracuda
     en-name:
     strong: true
   - fr-name: Murènes
     en-name:
     strong: true
-
+  - fr-name: Mérous
+    en-name:
+    strong: true
 maps:
   - id: acores
     center-lat: 38.098601
     center-lng: -26.551543
     zoom: 8
     points:
-      - lat: 38.098601
-        lng: -26.551543
+      - lat: 37.74380
+        lng: -25.61215
         icon: diveFlagIcon
-        place: xxx
+        place: The arch
+      - lat: 37.74951
+        lng: -25.72480
+        icon: diveFlagIcon
+        place: Mirror
+      - lat: 37.74293
+        lng: -25.62799
+        icon: diveFlagIcon
+        place: Dori
+      - lat: 37.74356
+        lng: -25.60861
+        icon: diveFlagIcon
+        place: Willy WonKa Reef

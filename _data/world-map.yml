@@ -407,3 +407,10 @@
   ref: mexico2
   fr-date: avril-mai 2024
   en-date: April 2024
+- lat: 37.74293
+  lng: -25.62799
+  icon: diveFlagIcon
+  place: Açores
+  ref: acores
+  fr-date: juillet 2024
+  en-date: Jully 2024
