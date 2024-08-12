@@ -1,12 +1,12 @@
 difficulty: 60
-visibility: 50
-diversity: 60
-atmosphere: 60
+visibility: 70
+diversity: 70
+atmosphere: 70
 
 water-temperatures:
   - fr-water-temperature-period: En juillet
     en-water-temperature-period: In September
-    water-temperature: 20
+    water-temperature: 18-23
 
 best-seasons:
   - fr-best-season-from: juin
@@ -21,7 +21,10 @@ fauna:
   - fr-name: Sars
     en-name:
     strong: false
-  - fr-name: Blennie
+  - fr-name: Blennies
+    en-name:
+    strong: false
+  - fr-name: Dieudons
     en-name:
     strong: false
   - fr-name: Perroquets
@@ -42,32 +45,59 @@ fauna:
   - fr-name: Rascasses
     en-name:
     strong: false
-  - fr-name: Congres
+  - fr-name: Crevettes
+    en-name:
+    strong: false
+  - fr-name: Crabes
     en-name:
     strong: true
-  - fr-name: Carrangue
+  - fr-name: Carrangues
     en-name:
     strong: true
   - fr-name: Cigales de mer
     en-name:
     strong: true
+  - fr-name: Bernard Lermithe
+    en-name:
+    strong: true
+  - fr-name: Sérioles
+    en-name:
+    strong: true
   - fr-name: Bécunes
     en-name:
     strong: true
-  - fr-name: Barracuda
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Wahous
+    en-name:
+    strong: true
+  - fr-name: Congres
     en-name:
     strong: true
   - fr-name: Murènes
     en-name:
     strong: true
+  - fr-name: Mostelles
+    en-name:
+    strong: true
   - fr-name: Mérous
+    en-name:
+    strong: true
+  - fr-name: Raies aigles
+    en-name:
+    strong: true
+  - fr-name: Raies pastenagues
+    en-name:
+    strong: true
+  - fr-name: Raies mobulas
     en-name:
     strong: true
 maps:
   - id: acores
-    center-lat: 38.098601
-    center-lng: -26.551543
-    zoom: 8
+    center-lat: 37.353044
+    center-lng: -25.308071
+    zoom: 9
     points:
       - lat: 37.74380
         lng: -25.61215
@@ -85,3 +115,63 @@ maps:
         lng: -25.60861
         icon: diveFlagIcon
         place: Willy WonKa Reef
+      - lat: 37.70596
+        lng: -25.44082
+        icon: diveFlagIcon
+        place: Cozinha
+      - lat: 37.70704
+        lng: -25.44243
+        icon: diveFlagIcon
+        place: Anchoras
+      - lat: 37.27701
+        lng: -24.78169
+        icon: diveFlagIcon
+        place: Ilhéu Formigas North
+      - lat: 37.27416
+        lng: -24.77937
+        icon: diveFlagIcon
+        place: Ilhéu Formigas East wall
+      - lat: 37.26458
+        lng: -24.78174
+        icon: diveFlagIcon
+        place: Baixa dos patos
+      - lat: 37.27090
+        lng: -24.78158
+        icon: diveFlagIcon
+        place: Ilhéu Formigas West wall
+      - lat: 37.22912
+        lng: -24.72751
+        icon: diveFlagIcon
+        place: Dollabarat
+      - lat: 36.96263
+        lng: -25.01618
+        icon: diveFlagIcon
+        place: Cabeço do Maya
+      - lat: 36.98041
+        lng: -25.03897
+        icon: diveFlagIcon
+        place: Gruta Azul
+      - lat: 36.93998
+        lng: -25.17271
+        icon: diveFlagIcon
+        place: Ilhéu
+      - lat: 36.92730
+        lng: -25.06415
+        icon: diveFlagIcon
+        place: Baixa da Cre
+      - lat: 36.92730
+        lng: -25.06415
+        icon: diveFlagIcon
+        place: Baixa da Cre
+      - lat: 37.05230
+        lng: -25.18933
+        icon: diveFlagIcon
+        place: Ambrosio
+      - lat: 36.96205
+        lng: -25.18569
+        icon: diveFlagIcon
+        place: Calçada do Gigante
+      - lat: 36.93471
+        lng: -25.09222
+        icon: diveFlagIcon
+        place: Pedrinha
