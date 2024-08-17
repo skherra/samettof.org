@@ -342,7 +342,7 @@
 - lat: 28.919325
   lng: -13.673829
   icon: diveFlagIcon
-  ref: canaries
+  ref: canary-islands
   place: Puerto del Carmen
 - lat: 25.338004
   lng: 34.739119
@@ -410,7 +410,6 @@
 - lat: 37.74293
   lng: -25.62799
   icon: diveFlagIcon
-  place: Açores
   ref: acores
   fr-date: juillet 2024
   en-date: Jully 2024

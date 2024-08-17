@@ -24,7 +24,7 @@ fauna:
   - fr-name: Blennies
     en-name:
     strong: false
-  - fr-name: Dieudons
+  - fr-name: Diodons
     en-name:
     strong: false
   - fr-name: Perroquets
@@ -51,13 +51,13 @@ fauna:
   - fr-name: Crabes
     en-name:
     strong: true
-  - fr-name: Carrangues
+  - fr-name: Carangues
     en-name:
     strong: true
   - fr-name: Cigales de mer
     en-name:
     strong: true
-  - fr-name: Bernard Lermithe
+  - fr-name: Bernards Lhermite
     en-name:
     strong: true
   - fr-name: Sérioles
