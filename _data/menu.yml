@@ -2,6 +2,7 @@
 - fr-label: Atlantique
   en-label: Atlantic
   sublabels:
+    - ref: acores
     - ref: canary-islands
     - ref: cape-verde
     - ref: iceland
