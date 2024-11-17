@@ -107,10 +107,10 @@ fauna:
     strong: true
 
 maps:
-  - id: indonesia
+  - id: komodo
     center-lat: -8.24182
     center-lng: 117.46177
-    zoom: 8
+    zoom: 7
     points:
       - lat: -8.24182
         lng: 117.46177
@@ -204,3 +204,12 @@ maps:
         lng: 119.42267
         icon: diveFlagIcon
         place: Toro Moncong (Batu Monco)
+  - id: rajaampat
+    center-lat: -1.009803
+    center-lng: 130.580824
+    zoom: 8
+    points:
+      - lat: -1.009803
+        lng: 130.580824
+        icon: diveFlagIcon
+        place: xxx reef
