@@ -4,19 +4,15 @@ diversity: 90
 atmosphere: 80
 
 water-temperatures:
-  - fr-water-temperature-period: En septembre
+  - fr-water-temperature-period: En septembre sur Komodo
     en-water-temperature-period: In September
     water-temperature: 27
-    fr-water-temperature-comment: Sur Komodo
-    en-water-temperature-comment: At Komodo
-  - fr-water-temperature-period: En septembre
+  - fr-water-temperature-period: En septembre sur Nusa Penida
     en-water-temperature-period: In September
     water-temperature: 23
-    fr-water-temperature-comment: Sur Raja Ampat
-    en-water-temperature-comment: At Raja Ampat
-  - fr-water-temperature-period: En janvier
+  - fr-water-temperature-period: En janvier sur Raja Ampat
     en-water-temperature-period: In January
-    water-temperature: 30
+    water-temperature: 29
 
 best-seasons:
   - fr-best-season-from: mars
@@ -37,7 +33,6 @@ best-seasons:
     en-best-season-from: January
     en-best-season-to: April
     en-best-season-comment: At Raja Ampat
-
 
 fauna:
   - fr-name: Poissons tropicaux
@@ -151,9 +146,9 @@ fauna:
 
 maps:
   - id: indonesia
-    center-lat: -8.24182
-    center-lng: 117.46177
-    zoom: 8
+    center-lat: -8.345391
+    center-lng: 116.626635
+    zoom: 7
     points:
       - lat: -8.24182
         lng: 117.46177
@@ -247,112 +242,184 @@ maps:
         lng: 119.42267
         icon: diveFlagIcon
         place: Toro Moncong (Batu Monco)
-- id: raja
-  center-lat: 0.95612
-  center-lng: 131.14933
-  zoom: 8
-  points:
-    - lat: -0.95612
-      lng: 131.14933
-      icon: diveFlagIcon
-      place: Pulao Malan
-    - lat: -2.09884
-      lng: 130.85944
-      icon: diveFlagIcon
-      place: Warna Bawarna
-    - lat: -2.09885
-      lng: 130.85669
-      icon: diveFlagIcon
-      place: Andiamo
-    - lat: -2.10484
-      lng: 130.87250
-      icon: diveFlagIcon
-      place: Candy store
-    - lat: -2.19442
-      lng: 130.60824
-      icon: diveFlagIcon
-      place: Juliet
-    - lat: -2.2108
-      lng: 130.57460
-      icon: diveFlagIcon
-      place: Boo West
-    - lat: -2.21850
-      lng: 130.56511
-      icon: diveFlagIcon
-      place: Nudy Rock
-    - lat: -2.22107
-      lng: 130.61138
-      icon: diveFlagIcon
-      place: Boo Window
-    - lat: -2.20847
-      lng: 130.3779
-      icon: diveFlagIcon
-      place: 4 Kings
-    - lat: -2.21627
-      lng: 130.45345
-      icon: diveFlagIcon
-      place: Gorgorian passage
-    - lat: -2.20487
-      lng: 130.41937
-      icon: diveFlagIcon
-      place: Wedding cake
-    - lat: -2.02743
-      lng: 130.73439
-      icon: diveFlagIcon
-      place: 2 trees island
-    - lat: -2.02441
-      lng: 130.69285
-      icon: diveFlagIcon
-      place: Love potion
-    - lat: -2.01866
-      lng: 130.70271
-      icon: diveFlagIcon
-      place: Plateau
-    - lat: -0.58808
-      lng: 130.31506
-      icon: diveFlagIcon
-      place: Melissa's garden
-    - lat: -0.59215
-      lng: 130.29720
-      icon: diveFlagIcon
-      place: Queiro chanel
-    - lat: -0.56569
-      lng: 130.28553
-      icon: diveFlagIcon
-      place: Batu rufus
-    - lat: 0.17228
-      lng: 130.00711
-      icon: diveFlagIcon
-      place: Figure of eight
-    - lat: 0.16769
-      lng: 130.01469
-      icon: diveFlagIcon
-      place: Manta point
-    - lat: 0.17028
-      lng: 130.01706
-      icon: diveFlagIcon
-      place: Ridge rock
-    - lat: 0.17220
-      lng: 130.01704
-      icon: diveFlagIcon
-      place: Wayag Bay
-    - lat: -0.07212
-      lng: 130.08692
-      icon: diveFlagIcon
-      place: Black rock
-    - lat: -0.13793
-      lng: 130.1225
-      icon: diveFlagIcon
-      place: Eagle rock
-    - lat: -0.25154
-      lng: 130.29485
-      icon: diveFlagIcon
-      place: Back forest
-    - lat: -0.25141
-      lng: 130.29427
-      icon: diveFlagIcon
-      place: Yofoh
-    - lat: -0.51150
-      lng: 130.44502
-      icon: diveFlagIcon
-      place: Mayem
+  - id: raja
+    center-lat: -1.073861
+    center-lng: 130.207556
+    zoom: 8
+    points:
+      - lat: -0.95612
+        lng: 131.14933
+        icon: diveFlagIcon
+        place: Pulao Malan
+      - lat: -2.09884
+        lng: 130.85944
+        icon: diveFlagIcon
+        place: Warna Bawarna
+      - lat: -2.09885
+        lng: 130.85669
+        icon: diveFlagIcon
+        place: Andiamo
+      - lat: -2.10484
+        lng: 130.87250
+        icon: diveFlagIcon
+        place: Candy store
+      - lat: -2.19442
+        lng: 130.60824
+        icon: diveFlagIcon
+        place: Juliet
+      - lat: -2.2108
+        lng: 130.57460
+        icon: diveFlagIcon
+        place: Boo West
+      - lat: -2.21850
+        lng: 130.56511
+        icon: diveFlagIcon
+        place: Nudy Rock
+      - lat: -2.22107
+        lng: 130.61138
+        icon: diveFlagIcon
+        place: Boo Window
+      - lat: -2.20847
+        lng: 130.3779
+        icon: diveFlagIcon
+        place: 4 Kings
+      - lat: -2.21627
+        lng: 130.45345
+        icon: diveFlagIcon
+        place: Gorgorian passage
+      - lat: -2.20487
+        lng: 130.41937
+        icon: diveFlagIcon
+        place: Wedding cake
+      - lat: -2.02743
+        lng: 130.73439
+        icon: diveFlagIcon
+        place: 2 trees island
+      - lat: -2.02441
+        lng: 130.69285
+        icon: diveFlagIcon
+        place: Love potion
+      - lat: -2.01866
+        lng: 130.70271
+        icon: diveFlagIcon
+        place: Plateau
+      - lat: -0.58808
+        lng: 130.31506
+        icon: diveFlagIcon
+        place: Melissa\'s garden
+      - lat: -0.59215
+        lng: 130.29720
+        icon: diveFlagIcon
+        place: Queiro chanel
+      - lat: -0.56569
+        lng: 130.28553
+        icon: diveFlagIcon
+        place: Batu rufus
+      - lat: 0.17228
+        lng: 130.00711
+        icon: diveFlagIcon
+        place: Figure of eight
+      - lat: 0.16769
+        lng: 130.01469
+        icon: diveFlagIcon
+        place: Manta point
+      - lat: 0.17028
+        lng: 130.01706
+        icon: diveFlagIcon
+        place: Ridge rock
+      - lat: 0.17220
+        lng: 130.01704
+        icon: diveFlagIcon
+        place: Wayag Bay
+      - lat: -0.07212
+        lng: 130.08692
+        icon: diveFlagIcon
+        place: Black rock
+      - lat: -0.13793
+        lng: 130.1225
+        icon: diveFlagIcon
+        place: Eagle rock
+      - lat: -0.25154
+        lng: 130.29485
+        icon: diveFlagIcon
+        place: Back forest
+      - lat: -0.25141
+        lng: 130.29427
+        icon: diveFlagIcon
+        place: Wofoh
+      - lat: -0.51150
+        lng: 130.44502
+        icon: diveFlagIcon
+        place: Mayem
+      - lat: -0.51061
+        lng: 130.45577
+        icon: diveFlagIcon
+        place: Citrus Ridge
+      - lat: -0.51063
+        lng: 130.45772
+        icon: diveFlagIcon
+        place: Gam Ridge
+      - lat: -0.59000
+        lng: 130.60324
+        icon: diveFlagIcon
+        place: Sawadanrek
+      - lat: -0.81279
+        lng: 130.72066
+        icon: diveFlagIcon
+        place: Tapornaka
+      - lat: -0.77448
+        lng: 130.71612
+        icon: diveFlagIcon
+        place: Yenkarom
+      - lat: -0.77352
+        lng: 130.75890
+        icon: diveFlagIcon
+        place: Gadis Point
+      - lat: -0.56430
+        lng: 130.52032
+        icon: diveFlagIcon
+        place: Arborek
+      - lat: -0.58079
+        lng: 130.54207
+        icon: diveFlagIcon
+        place: Manta Sandy
+      - lat: -0.57107
+        lng: 130.73806
+        icon: diveFlagIcon
+        place: Blue Magic
+      - lat: -0.53433
+        lng: 130.71667
+        icon: diveFlagIcon
+        place: Sardine Reef
+      - lat: -0.55748
+        lng: 130.68948
+        icon: diveFlagIcon
+        place: Cap Kri
+      - lat: -0.80428
+        lng: 130.69917
+        icon: diveFlagIcon
+        place: Ayof
+      - lat: -0.79883
+        lng: 130.70480
+        icon: diveFlagIcon
+        place: Sauyador
+      - lat: -0.76829
+        lng: 130.75169
+        icon: diveFlagIcon
+        place: Birrie\'s corner
+      - lat: -0.49802
+        lng: 130.72794
+        icon: diveFlagIcon
+        place: Mioskon
+      - lat: -0.70134
+        lng: 130.70607
+        icon: diveFlagIcon
+        place: Wai West
+      - lat: -0.68925
+        lng: 130.72358
+        icon: diveFlagIcon
+        place: Manta Wai
+      - lat: -0.77962
+        lng: 130.71137
+        icon: diveFlagIcon
+        place: Yenmuk
