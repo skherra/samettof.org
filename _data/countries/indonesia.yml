@@ -53,10 +53,10 @@ fauna:
   - fr-name: Petits homards
     en-name:
     strong: true
-  - fr-name: Cigalle de mer
+  - fr-name: Cigales de mer
     en-name:
     strong: true
-  - fr-name: Grondin
+  - fr-name: Grondins
     en-name:
     strong: true
   - fr-name: Fusillers
@@ -71,7 +71,7 @@ fauna:
   - fr-name: Flamboyant cutlefish
     en-name:
     strong: true
-  - fr-name: Dauphin
+  - fr-name: Dauphins
     en-name:
     strong: false
   - fr-name: Requins pointes blanches
@@ -83,16 +83,16 @@ fauna:
   - fr-name: Requins gris
     en-name:
     strong: false
-  - fr-name: Requins nourices
+  - fr-name: Requins nourrices
     en-name:
     strong: false
-  - fr-name: Requins bambou juvenile
+  - fr-name: Requins bambou juvéniles
     en-name:
     strong: true
   - fr-name: Requins Raja Epaulette
     en-name:
     strong: true
-  - fr-name: Requins Tasselled Wabbegong
+  - fr-name: Requins Tasselled Wobbegong
     en-name:
     strong: true
   - fr-name: Napoléons
