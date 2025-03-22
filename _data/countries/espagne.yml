@@ -74,39 +74,11 @@ fauna:
     strong: true
 maps:
   - id: magdalena
-    center-lat: 41.284255
-    center-lng: 9.353824
-    zoom: 11
+    center-lat: 42.045051
+    center-lng: 3.224359
+    zoom: 13
     points:
-      - lat: 41.344535
-        lng: 9.249263
+      - lat: 42.045051
+        lng: 3.224359
         icon: diveFlagIcon
-        place: Secca di Ponente (Western Shallow)
-      - lat: 41.251607
-        lng: 9.320267
-        icon: diveFlagIcon
-        place: Secca di Spargiotello
-      - lat: 41.186156
-        lng: 9.418007
-        icon: diveFlagIcon
-        place: Calla dell Oro
-      - lat: 41.210042
-        lng: 9.380157
-        icon: diveFlagIcon
-        place: Punta Tegge
-      - lat: 41.221214
-        lng: 9.491533
-        icon: diveFlagIcon
-        place: I Picchi
-      - lat: 41.220739
-        lng: 9.488068
-        icon: diveFlagIcon
-        place: Cale Inglese
-      - lat: 41.229958
-        lng: 9.482939
-        icon: diveFlagIcon
-        place: Grotta di San Francesco
-      - lat: 41.228392
-        lng: 9.487756
-        icon: diveFlagIcon
-        place: Secca di San Francesco
+        place: xxx

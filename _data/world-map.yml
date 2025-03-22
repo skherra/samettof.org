@@ -24,6 +24,7 @@
   lng: 3.224359
   icon: diveFlagIcon
   place: Iles Medes
+  ref: espagne
   fr-date: septembre 2005
   en-date: September 2005
 - lat: 48.85334
@@ -332,12 +333,12 @@
 - lat: 41.180094
   lng: 9.417727
   icon: diveFlagIcon
-  ref: sardaigne
+  ref: italie
   place: Magdalena
 - lat: 41.342531
   lng: 9.246932
   icon: diveFlagIcon
-  ref: sardaigne
+  ref: italie
   place: Lavezzi
 - lat: 28.919325
   lng: -13.673829
