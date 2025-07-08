@@ -15,7 +15,7 @@ best-seasons:
     en-best-season-to: September
 
 fauna:
-  - fr-name: Merous
+  - fr-name: Mérous
     en-name:
     strong: true
   - fr-name: Rascasses
@@ -45,7 +45,7 @@ fauna:
   - fr-name: Gobies
     en-name:
     strong: false
-  - fr-name: Blenny
+  - fr-name: Blennies
     en-name:
     strong: true
   - fr-name: Raies aigle vachette
@@ -72,6 +72,12 @@ fauna:
   - fr-name: Murènes
     en-name:
     strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Bécunes
+    en-name:
+    strong: false
   - fr-name: Coraux rouges
     en-name:
     strong: true
