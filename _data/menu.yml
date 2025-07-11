@@ -29,8 +29,9 @@
 - fr-label: Méditerranée
   en-label: mediterranean
   sublabels:
+    - ref: espagne
     - ref: france
-    - ref: sardaigne
+    - ref: italie
 - fr-label: Mer rouge
   en-label: Red sea
   sublabels:

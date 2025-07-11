@@ -1,0 +1,121 @@
+difficulty: 40
+visibility: 50
+diversity: 60
+atmosphere: 60
+
+water-temperatures:
+  - fr-water-temperature-period: En juin
+    en-water-temperature-period: In June
+    water-temperature: 19-24
+
+best-seasons:
+  - fr-best-season-from: mai
+    fr-best-season-to: septembre
+    en-best-season-from: May
+    en-best-season-to: September
+
+fauna:
+  - fr-name: Mérous
+    en-name:
+    strong: true
+  - fr-name: Rascasses
+    en-name:
+    strong: true
+  - fr-name: Chapons
+    en-name:
+    strong: true
+  - fr-name: Corb
+    en-name:
+    strong: false
+  - fr-name: Daurades
+    en-name:
+    strong: true
+  - fr-name: Girelles paon
+    en-name:
+    strong: false
+  - fr-name: Sars
+    en-name:
+    strong: false
+  - fr-name: Crevettes
+    en-name:
+    strong: true
+  - fr-name: Langoustes
+    en-name:
+    strong: true
+  - fr-name: Gobies
+    en-name:
+    strong: false
+  - fr-name: Blennies
+    en-name:
+    strong: true
+  - fr-name: Raies aigle vachette
+    en-name:
+    strong: false
+  - fr-name: Sars
+    en-name:
+    strong: false
+  - fr-name: Gorgones
+    en-name:
+    strong: false
+  - fr-name: Nudibranches
+    en-name:
+    strong: true
+  - fr-name: Bernards l'hermite
+    en-name:
+    strong: true
+  - fr-name: Cigales de mer
+    en-name:
+    strong: true
+  - fr-name: Daurades
+    en-name:
+    strong: true
+  - fr-name: Murènes
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Bécunes
+    en-name:
+    strong: false
+  - fr-name: Coraux rouges
+    en-name:
+    strong: true
+maps:
+  - id: Medes
+    center-lat: 42.04993
+    center-lng: 3.22078
+    zoom: 13
+    points:
+      - lat: 42.04220
+        lng: 3.22662
+        icon: diveFlagIcon
+        place: Tasco Gros
+      - lat: 42.04238
+        lng: 3.22737
+        icon: diveFlagIcon
+        place: Tasco Petit
+      - lat: 42.06005
+        lng: 3.21303
+        icon: diveFlagIcon
+        place: Calla la Callela
+      - lat: 42.04993
+        lng: 3.22078
+        icon: diveFlagIcon
+        place: Salpatxot
+      - lat: 42.06376
+        lng: 3.21023
+        icon: diveFlagIcon
+        place: Diu
+      - lat: 42.06966
+        lng: 3.20846
+        icon: diveFlagIcon
+        place: El Rossinyol
+      - lat: 42.04732
+        lng: 3.22561
+        icon: diveFlagIcon
+        place: La Vaca
+      - lat: 42.04340
+        lng: 3.22602
+        icon: diveFlagIcon
+        place: El Dolfi
