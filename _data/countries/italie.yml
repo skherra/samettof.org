@@ -110,3 +110,12 @@ maps:
         lng: 9.487756
         icon: diveFlagIcon
         place: Secca di San Francesco
+  - id: ustica
+    center-lat: 38.724471
+    center-lng: 13.178978
+    zoom: 13
+    points:
+      - lat: 38.724471
+        lng: 13.178978
+        icon: diveFlagIcon
+        place: xxxx

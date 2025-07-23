@@ -421,3 +421,10 @@
   ref: indonesia
   fr-date: janvier 2025
   en-date: January 2025
+- lat: 38.724471
+  lng: 13.178978
+  icon: diveFlagIcon
+  place: Ustica
+  ref: italie
+  fr-date: septembre 2025
+  en-date: September 2025
