@@ -1,13 +1,12 @@
 difficulty: 40
-visibility: 50
-diversity: 40
+visibility: 60
+diversity: 50
 atmosphere: 60
 
 water-temperatures:
   - fr-water-temperature-period: En septembre
     en-water-temperature-period: In September
     water-temperature: 22-24
-
 best-seasons:
   - fr-best-season-from: mai
     fr-best-season-to: septembre
@@ -28,6 +27,12 @@ fauna:
     en-name:
     strong: true
   - fr-name: Corb
+    en-name:
+    strong: false
+  - fr-name: Sares
+    en-name:
+    strong: false
+  - fr-name: Seriolles
     en-name:
     strong: false
   - fr-name: Mostelles
@@ -57,10 +62,16 @@ fauna:
   - fr-name: Nudibranches
     en-name:
     strong: true
+  - fr-name: Syngnathe
+    en-name:
+    strong: true
   - fr-name: Bernards l'hermite
     en-name:
     strong: true
   - fr-name: Araignées
+    en-name:
+    strong: true
+  - fr-name: Crabes
     en-name:
     strong: true
   - fr-name: Daurades
@@ -69,7 +80,16 @@ fauna:
   - fr-name: Murènes
     en-name:
     strong: true
+  - fr-name: Congre
+    en-name:
+    strong: true
   - fr-name: Coraux rouges
+    en-name:
+    strong: true
+  - fr-name: Barracudas
+    en-name:
+    strong: true
+  - fr-name: Thons
     en-name:
     strong: true
 maps:
@@ -111,11 +131,35 @@ maps:
         icon: diveFlagIcon
         place: Secca di San Francesco
   - id: ustica
-    center-lat: 38.724471
-    center-lng: 13.178978
+    center-lat: 38.705232
+    center-lng: 13.174958
     zoom: 13
     points:
-      - lat: 38.724471
-        lng: 13.178978
+      - lat: 38.71039
+        lng: 13.2011
         icon: diveFlagIcon
-        place: xxxx
+        place: Punta di Falconiera
+      - lat: 38.715480
+        lng: 13.155440
+        icon: diveFlagIcon
+        place: Scoglio del Medico
+      - lat: 38.69484
+        lng: 13.15186
+        icon: diveFlagIcon
+        place: Seca d Africa
+      - lat: 38.69528
+        lng: 13.18270
+        icon: diveFlagIcon
+        place: Grotta dei Gamberi II
+      - lat: 38.72968
+        lng: 13.18076
+        icon: diveFlagIcon
+        place: Seca della colombara
+      - lat: 38.695067
+        lng: 13.183219
+        icon: diveFlagIcon
+        place: Punta Galera
+      - lat: 38.690711
+        lng: 13.173599
+        icon: diveFlagIcon
+        place: Punta della Arpa
