@@ -14,7 +14,7 @@ best-seasons:
     en-best-season-to: September
 
 fauna:
-  - fr-name: Merous
+  - fr-name: Mérous
     en-name:
     strong: true
   - fr-name: Rascasses
@@ -32,7 +32,7 @@ fauna:
   - fr-name: Sares
     en-name:
     strong: false
-  - fr-name: Seriolles
+  - fr-name: Serioles
     en-name:
     strong: false
   - fr-name: Mostelles
@@ -65,7 +65,7 @@ fauna:
   - fr-name: Syngnathe
     en-name:
     strong: true
-  - fr-name: Bernards l'hermite
+  - fr-name: Bernard-l'hermite
     en-name:
     strong: true
   - fr-name: Araignées
