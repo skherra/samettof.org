@@ -54,7 +54,6 @@
     popupAnchor:  [0, -27] // point from which the popup should open relative to the iconAnchor
   });
   var popup = L.marker([-48.8752778, -123.3925], {icon: diveFlagIcon}).addTo(mymap).bindPopup('<strong>404&nbsp;-&nbsp;<a href="https://en.wikipedia.org/wiki/Pole_of_inaccessibility#Oceanic_pole_of_inaccessibility" target="_blank">Nemo&nbsp;Point</a></strong>');
-  // popup.openPopup();
 
   less.pageLoadFinished.then(function() { mymap.invalidateSize(); });
 
