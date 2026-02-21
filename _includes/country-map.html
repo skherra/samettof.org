@@ -1,9 +1,17 @@
 {%- assign mapList = site.data.countries[page.ref].maps -%}
 {%- if mapList -%}
-  {%- assign colMD = 12 | divided_by: mapList.size -%}
-    {% for map in mapList -%}
+  {%- assign idx = 0 -%}
+  {%- assign M = mapList.size | divided_by: 3 | times: 3 -%}
+  {% for map in mapList -%}
+    {%- if M > idx -%}
+      {%- assign D = 3 -%}
+    {%- else -%}
+      {%- assign D = mapList.size | modulo: 3 -%}
+    {%- endif -%}
+    {%- assign colMD = 12 | divided_by: D -%}
+    {%- assign idx = idx | plus: 1 -%}
       <div class="col-md-{{ colMD }} country-map" id="{{ map.id }}-map"></div>
-    {% endfor -%}
+  {% endfor -%}
 
       <script>
         var diveFlagIcon = L.icon({
