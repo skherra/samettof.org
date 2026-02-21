@@ -213,3 +213,21 @@ maps:
         lng: 119.91553
         icon: diveFlagIcon
         place: Gorgorian channel
+  - id: Moalboal
+    center-lat: 9.933463
+    center-lng: 123.369462
+    zoom: 10
+    points:
+      - lat: 9.933463
+        lng: 123.369462
+        icon: diveFlagIcon
+        place: Jessie Beagley
+  - id: Malapascua
+    center-lat: 11.324706
+    center-lng: 124.118485
+    zoom: 10
+    points:
+      - lat: 11.324706
+        lng: 124.118485
+        icon: diveFlagIcon
+        place: Jessie Beagley
