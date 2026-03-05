@@ -7,15 +7,18 @@ water-temperatures:
   - fr-water-temperature-period: En mai
     en-water-temperature-period: In May
     water-temperature: 29
-    fr-water-temperature-comment: Sur Coron & Tubbataha
-
+    fr-water-temperature-comment: Tubbataha & Coron
+  - fr-water-temperature-period: En mars
+    en-water-temperature-period: In March
+    water-temperature: 27
+    fr-water-temperature-comment: Visayas
 best-seasons:
-  - fr-best-season-from: avril
+  - fr-best-season-from: mars
     fr-best-season-to: juin
-    fr-best-season-comment: Tubbataha & Coron
-    en-best-season-from: avril
+    fr-best-season-comment:
+    en-best-season-from: mars
     en-best-season-to: june
-    en-best-season-comment: Tubbataha & Coron
+    en-best-season-comment:
 
 fauna:
   - fr-name: Bécunes
@@ -24,6 +27,12 @@ fauna:
   - fr-name: Poissons crocodile
     en-name:
     strong: false
+  - fr-name: Serpents marins
+    en-name:
+    strong: true
+  - fr-name: Sardines
+    en-name:
+    strong: true
   - fr-name: Carangues
     en-name:
     strong: false
@@ -51,6 +60,9 @@ fauna:
   - fr-name: Anges royaux
     en-name:
     strong: false
+  - fr-name: Frog Fish
+    en-name:
+    strong: true
   - fr-name: Murène ruban
     en-name:
     strong: true
@@ -79,6 +91,9 @@ fauna:
     en-name:
     strong: true
   - fr-name: Requins marteaux
+    en-name:
+    strong: true
+  - fr-name: Requins baleines
     en-name:
     strong: true
   - fr-name: Requins gris
@@ -111,6 +126,9 @@ fauna:
   - fr-name: Crabes
     en-name:
     strong: false
+  - fr-name: Crabes Orang Outan
+    en-name:
+    strong: true
   - fr-name: Crevettes
     en-name:
     strong: false
@@ -216,12 +234,48 @@ maps:
   - id: Moalboal
     center-lat: 9.933463
     center-lng: 123.369462
-    zoom: 10
+    zoom: 12
     points:
-      - lat: 9.933463
-        lng: 123.369462
+      - lat: 9.98982
+        lng: 123.36905
         icon: diveFlagIcon
-        place: Jessie Beagley
+        place: Fish Feeding
+      - lat: 9.98023
+        lng: 123.36883
+        icon: diveFlagIcon
+        place: White Beach
+      - lat: 9.94760
+        lng: 123.36518
+        icon: diveFlagIcon
+        place: Bantayan
+      - lat: 9.92314
+        lng: 123.34267
+        icon: diveFlagIcon
+        place: Pascador West
+      - lat: 9.95061
+        lng: 123.36518
+        icon: diveFlagIcon
+        place: Panagasama
+      - lat: 9.94521
+        lng: 123.36609
+        icon: diveFlagIcon
+        place: Talasay point
+      - lat: 9.97723
+        lng: 123.36930
+        icon: diveFlagIcon
+        place: Dolphin house
+      - lat: 9.96180
+        lng: 123.36757
+        icon: diveFlagIcon
+        place: White house
+      - lat: 9.93701
+        lng: 123.37143
+        icon: diveFlagIcon
+        place: Basdiot
+      - lat: 9.93281
+        lng: 123.37716
+        icon: diveFlagIcon
+        place: Magic Island House Reef
   - id: Malapascua
     center-lat: 11.324706
     center-lng: 124.118485
