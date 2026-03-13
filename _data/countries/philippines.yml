@@ -10,7 +10,7 @@ water-temperatures:
     fr-water-temperature-comment: Tubbataha & Coron
   - fr-water-temperature-period: En mars
     en-water-temperature-period: In March
-    water-temperature: 27
+    water-temperature: 26
     fr-water-temperature-comment: Visayas
 best-seasons:
   - fr-best-season-from: mars
@@ -31,6 +31,12 @@ fauna:
     en-name:
     strong: true
   - fr-name: Sardines
+    en-name:
+    strong: true
+  - fr-name: Hairy squat lobster
+    en-name:
+    strong: true
+  - fr-name: Spider squat lobster
     en-name:
     strong: true
   - fr-name: Carangues
@@ -60,7 +66,7 @@ fauna:
   - fr-name: Anges royaux
     en-name:
     strong: false
-  - fr-name: Frog Fish
+  - fr-name: Poisson Grenouille
     en-name:
     strong: true
   - fr-name: Murène ruban
@@ -76,6 +82,9 @@ fauna:
     en-name:
     strong: true
   - fr-name: Hippocampes pigmés
+    en-name:
+    strong: true
+  - fr-name: Hippocampes
     en-name:
     strong: true
   - fr-name: Tortues imbriquées
@@ -94,6 +103,9 @@ fauna:
     en-name:
     strong: true
   - fr-name: Requins baleines
+    en-name:
+    strong: true
+  - fr-name: Requins renards
     en-name:
     strong: true
   - fr-name: Requins gris
@@ -130,6 +142,9 @@ fauna:
     en-name:
     strong: true
   - fr-name: Crevettes
+    en-name:
+    strong: false
+  - fr-name: Crevettes corail
     en-name:
     strong: false
 maps:
@@ -232,12 +247,12 @@ maps:
         icon: diveFlagIcon
         place: Gorgorian channel
   - id: Moalboal
-    center-lat: 9.933463
-    center-lng: 123.369462
-    zoom: 12
+    center-lat: 9.96441
+    center-lng: 123.36801
+    zoom: 13
     points:
-      - lat: 9.98982
-        lng: 123.36905
+      - lat: 9.96180
+        lng: 123.36757
         icon: diveFlagIcon
         place: Fish Feeding
       - lat: 9.98023
@@ -276,12 +291,32 @@ maps:
         lng: 123.37716
         icon: diveFlagIcon
         place: Magic Island House Reef
+      - lat: 9.98874
+        lng: 123.36872
+        icon: diveFlagIcon
+        place: Serena point
+      - lat: 9.96441
+        lng: 123.36801
+        icon: diveFlagIcon
+        place: Arigay point
+      - lat: 9.94199
+        lng: 123.36826
+        icon: diveFlagIcon
+        place: Talisay wall
   - id: Malapascua
     center-lat: 11.324706
     center-lng: 124.118485
-    zoom: 10
+    zoom: 12
     points:
-      - lat: 11.324706
-        lng: 124.118485
+      - lat: 11.27695
+        lng: 124.25199
         icon: diveFlagIcon
-        place: Jessie Beagley
+        place: Kimud Shoal
+      - lat: 11.31116
+        lng: 124.19659
+        icon: diveFlagIcon
+        place: Monad Shoal
+      - lat: 11.32003
+        lng: 124.10564
+        icon: diveFlagIcon
+        place: Dakit Dakit
