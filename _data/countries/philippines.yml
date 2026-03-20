@@ -1,5 +1,5 @@
 difficulty: 60
-visibility: 70
+visibility: 60
 diversity: 70
 atmosphere: 80
 
@@ -247,8 +247,8 @@ maps:
         icon: diveFlagIcon
         place: Gorgorian channel
   - id: Moalboal
-    center-lat: 9.96441
-    center-lng: 123.36801
+    center-lat: 9.951207
+    center-lng: 123.359751
     zoom: 13
     points:
       - lat: 9.96180
@@ -266,7 +266,7 @@ maps:
       - lat: 9.92314
         lng: 123.34267
         icon: diveFlagIcon
-        place: Pascador West
+        place: Pescador West
       - lat: 9.95061
         lng: 123.36518
         icon: diveFlagIcon
@@ -303,10 +303,14 @@ maps:
         lng: 123.36826
         icon: diveFlagIcon
         place: Talisay wall
+      - lat: 9.91281
+        lng: 123.39413
+        icon: diveFlagIcon
+        place: Amor Sulo
   - id: Malapascua
-    center-lat: 11.324706
-    center-lng: 124.118485
-    zoom: 12
+    center-lat: 11.381619
+    center-lng: 124.090978
+    zoom: 11
     points:
       - lat: 11.27695
         lng: 124.25199
@@ -320,3 +324,23 @@ maps:
         lng: 124.10564
         icon: diveFlagIcon
         place: Dakit Dakit
+      - lat: 11.348523
+        lng: 124.104757
+        icon: diveFlagIcon
+        place: North Point
+      - lat: 11.34204
+        lng: 124.10831
+        icon: diveFlagIcon
+        place: Lighthouse
+      - lat: 11.34388
+        lng: 124.10777
+        icon: diveFlagIcon
+        place: Lapligth
+      - lat: 11.44636
+        lng: 124.01924
+        icon: diveFlagIcon
+        place: Gato Island
+      - lat: 11.32892
+        lng: 124.12632
+        icon: diveFlagIcon
+        place: Evo reef
