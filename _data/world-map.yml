@@ -433,5 +433,12 @@
   icon: diveFlagIcon
   place: Moalboal
   ref: philippines
-  fr-date: septembre 2025
-  en-date: September 2025
+  fr-date: mars 2026
+  en-date: March 2026
+- lat: 11.27695
+  lng: 124.25199
+  icon: diveFlagIcon
+  place: Kimud Shoal
+  ref: philippines
+  fr-date: mars 2026
+  en-date: March 2026
