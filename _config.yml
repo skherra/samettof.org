@@ -1,0 +1,19 @@
+url: "https://www.samettof.org"
+baseurl: ""
+
+title: "Sam & Tof | Plongée"
+description: "Sam & Tof - Plongée sous marine et voyages"
+author: "Sam & Tof"
+lang: "fr"
+
+timezone: Europe/Paris
+encoding: utf-8
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - README.md
