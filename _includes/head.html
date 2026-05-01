@@ -44,9 +44,11 @@
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu" />
   <script src="https://kit.fontawesome.com/7dfeb2d2f7.js" crossorigin="anonymous"></script>
 
-  <!-- Map -->
+  <!-- Map (only on pages that need it) -->
+  {%- if page.layout == "map" or page.layout == "country" or page.layout == "404" -%}
   <link rel="stylesheet" href="/assets/dist/css/leaflet.min.css" />
   <script src="/assets/dist/js/leaflet.min.js"></script>
+  {%- endif -%}
 
   <!-- CSS -->
   <link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">
