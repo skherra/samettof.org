@@ -5,7 +5,10 @@
     <div class="col-md-4">
       <div class="team-member">
         <div class="member-photo">
-          <img alt="" src="/photos/home-team/{{ item.img }}" />
+          <picture>
+            <source srcset="/photos/home-team/{{ item.img | replace: '.jpg', '.webp' }}" type="image/webp">
+            <img alt="{{ item.name }}" src="/photos/home-team/{{ item.img }}" loading="lazy" />
+          </picture>
           <div class="row">
           <div class="col-md-6 member-social"><a href="https://www.instagram.com/{{ item.insta }}/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></div>
           <div class="col-md-6 member-name">{{ item.name }}</div>

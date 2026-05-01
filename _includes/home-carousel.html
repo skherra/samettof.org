@@ -1,6 +1,6 @@
 {%- assign gallery-as-string = "" -%}
 {%- for image in site.static_files -%}
-  {%- if image.path contains "photos/home-carousel" -%}
+  {%- if image.path contains "photos/home-carousel" and image.extname == ".jpg" -%}
     {%- assign gallery-as-string = gallery-as-string | append: image.path | append: ";" -%}
   {%- endif -%}
 {%- endfor -%}
@@ -14,7 +14,10 @@
   <div class="carousel-inner">
   {% for item in gallery -%}
     <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
-      <img src="{{ item }}" class="d-block w-100" alt="..." />
+      <picture>
+        <source srcset="{{ item | replace: '.jpg', '.webp' }}" type="image/webp">
+        <img src="{{ item }}" class="d-block w-100" alt="..." loading="lazy" />
+      </picture>
       <div class="carousel-caption d-none d-md-block">
         <h1>{{ page.h1 }}</h1>
         <h2>{{ page.h2 }}</h2>
