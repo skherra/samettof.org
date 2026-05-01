@@ -19,10 +19,7 @@
             <div class="carousel-inner">
               {%- for image in gallery -%}
               <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
-                <picture>
-                  <source srcset="{{ image | replace: '.jpg', '.webp' }}" type="image/webp">
-                  <img src="{{ image }}" alt="..." />
-                </picture>
+                <img src="{{ image | replace: '.jpg', '.webp' }}" alt="..." />
               </div>
               {% endfor -%}
             </div>
@@ -56,10 +53,7 @@
       {%- for image in gallery -%}
       <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
         <a href="#photosModal" role="button"  data-toggle="modal" data-target="#photosModal" onclick="$('#modalCarousel').carousel({{ forloop.index0 }});">
-          <picture>
-            <source srcset="{{ image | replace: '.jpg', '-th.webp' }}" type="image/webp">
-            <img src="{{ image | replace: '.jpg', '-th.jpg' }}" alt="..." loading="lazy" />
-          </picture>
+          <img src="{{ image | replace: '.jpg', '-th.webp' }}" alt="..." loading="lazy" />
         </a>
       </div>
       {% endfor -%}

@@ -24,7 +24,7 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}fr_FR{% endif %}" />
   {%- if page.ref -%}
-    {%- assign og_image = '/photos/' | append: page.ref | append: '/0001.jpg' -%}
+    {%- assign og_image = '/photos/' | append: page.ref | append: '/0001.webp' -%}
     {%- assign og_image_exists = site.static_files | where: "path", og_image | first -%}
     {%- if og_image_exists -%}
   <meta property="og:image" content="{{ site.url }}{{ og_image }}" />

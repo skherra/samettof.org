@@ -14,10 +14,7 @@
   <div class="carousel-inner">
   {% for item in gallery -%}
     <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
-      <picture>
-        <source srcset="{{ item | replace: '.jpg', '.webp' }}" type="image/webp">
-        <img src="{{ item }}" class="d-block w-100" alt="..." loading="lazy" />
-      </picture>
+      <img src="{{ item | replace: '.jpg', '.webp' }}" class="d-block w-100" alt="..." loading="lazy" />
       <div class="carousel-caption d-none d-md-block">
         <h1>{{ page.h1 }}</h1>
         <h2>{{ page.h2 }}</h2>

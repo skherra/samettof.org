@@ -5,10 +5,7 @@
     {%- assign targets = site.pages | where : "ref", item.page-ref | where : "lang", page.lang -%}
     <div class="col-md-4 p-0 m-0 text-center">
       <span>
-        <picture>
-          <source srcset="/photos/home-portfolio/{{ item.img | replace: '.jpg', '.webp' }}" type="image/webp">
-          <img src="/photos/home-portfolio/{{ item.img }}" alt="{{ targets[0].menu }}" loading="lazy" />
-        </picture>
+        <img src="/photos/home-portfolio/{{ item.img | replace: '.jpg', '.webp' }}" alt="{{ targets[0].menu }}" loading="lazy" />
         <div class="portfolio-item-content">
           <a href="{{ targets[0].url }}"><h3>{{ targets[0].menu }}</h3></a>
           <p>{{ targets[0].visited-in }}</p>

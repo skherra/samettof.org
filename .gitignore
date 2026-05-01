@@ -4,3 +4,4 @@ _site
 vendor
 photos/.DS_Store
 .bundle/config
+.claude
