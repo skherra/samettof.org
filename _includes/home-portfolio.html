@@ -3,7 +3,7 @@
   <div class="row">
     {% for item in site.data.portfolio -%}
     {%- assign targets = site.pages | where : "ref", item.page-ref | where : "lang", page.lang -%}
-    <div class="col-md-4 p-0 m-0 text-center">
+    <div class="col-md-4 p-0 m-0 text-center portfolio-span">
       <span>
         <img src="/photos/home-portfolio/{{ item.img | replace: '.jpg', '.webp' }}" alt="{{ targets[0].menu }}" loading="lazy" />
         <div class="portfolio-item-content">
