@@ -2,7 +2,7 @@
   {%- assign gallery-path = "photos/" | append: page.ref -%}
   {%- assign gallery-as-string = "" -%}
   {%- for image in site.static_files -%}
-    {%- if image.path contains gallery-path and image.extname == ".jpg" -%}
+    {%- if image.path contains gallery-path and image.extname == ".webp" -%}
       {%- unless image.path contains '-th.' -%}
         {%- assign gallery-as-string = gallery-as-string | append: image.path | append: ";" -%}
       {%- endunless -%}
@@ -19,7 +19,7 @@
             <div class="carousel-inner">
               {%- for image in gallery -%}
               <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
-                <img src="{{ image | replace: '.jpg', '.webp' }}" alt="..." />
+                <img src="{{ image }}" alt="..." />
               </div>
               {% endfor -%}
             </div>
@@ -53,7 +53,7 @@
       {%- for image in gallery -%}
       <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
         <a href="#photosModal" role="button"  data-toggle="modal" data-target="#photosModal" onclick="$('#modalCarousel').carousel({{ forloop.index0 }});">
-          <img src="{{ image | replace: '.jpg', '-th.webp' }}" alt="..." loading="lazy" />
+          <img src="{{ image | replace: '.webp', '-th.webp' }}" alt="..." loading="lazy" />
         </a>
       </div>
       {% endfor -%}
