@@ -119,7 +119,7 @@
     {{ marker }}
   {% endfor -%}
 
-  less.pageLoadFinished.then(function() { mymap.invalidateSize(); });
+  window.addEventListener('load', function() { mymap.invalidateSize(); });
 
 </script>
 
