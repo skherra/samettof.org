@@ -1,20 +1,17 @@
-difficulty: 40
-visibility: 70
-diversity: 65
-atmosphere: 80
+difficulty: 50
+visibility: 50
+diversity: 70
+atmosphere: 70
 
 water-temperatures:
-  - fr-water-temperature-period: En mars
-    en-water-temperature-period: In March
-    water-temperature: 26
-  - fr-water-temperature-period: En décembre
-    en-water-temperature-period: In December
-    water-temperature: 27
+  - fr-water-temperature-period: En mai
+    en-water-temperature-period: In May
+    water-temperature: 28
 best-seasons:
-  - fr-best-season-from: novembre
-    fr-best-season-to: juillet
-    en-best-season-from: November
-    en-best-season-to: July
+  - fr-best-season-from: octobre
+    fr-best-season-to: juin
+    en-best-season-from: Octobrt
+    en-best-season-to: June
 
 fauna:
   - fr-name: Eponges
@@ -41,13 +38,16 @@ fauna:
   - fr-name: Chevaliers ponctués juvéniles et adultes
     en-name:
     strong: false
-  - fr-name: Araignées de mer
+  - fr-name: Soles
     en-name:
-    strong: true
+    strong: false
+  - fr-name: Tarpons
+    en-name:
+    strong: false
+  - fr-name: Thons
+    en-name:
+    strong: false
   - fr-name: Murènes
-    en-name:
-    strong: true
-  - fr-name: Barracudas géants
     en-name:
     strong: true
   - fr-name: Anges français
@@ -56,52 +56,77 @@ fauna:
   - fr-name: Anges royaux
     en-name:
     strong: true
-  - fr-name: Perroquets celestes
+  - fr-name: Barracudas géants
     en-name:
     strong: true
-  - fr-name: Tarpons
+  - fr-name: Langoustes
+    en-name:
+    strong: true
+  - fr-name: Cigales des mers
     en-name:
     strong: true
   - fr-name: Crevettes nettoyeuses
     en-name:
     strong: false
-  - fr-name: Crevettes anémones
+  - fr-name: Carangue à grosse tête
     en-name:
     strong: false
-  - fr-name: Anguilles jardinières
-    en-name:
-    strong: false
-  - fr-name: Seiches
-    en-name:
-    strong: true
-  - fr-name: Tortue loggerhead
+  - fr-name: Tortues vertes
     en-name:
     strong: true
   - fr-name: Tortues imbriquées
     en-name:
     strong: true
-  - fr-name: Tortues vertes
+  - fr-name: Seiches
+    en-name:
+    strong: true
+  - fr-name: Requins nourices
+    en-name:
+    strong: true
+  - fr-name: Requins gris de récif
     en-name:
     strong: true
   - fr-name: Raies pastenagues
     en-name:
     strong: true
-  - fr-name: Raies léopard
+  - fr-name: Raies léopards
     en-name:
     strong: true
-  - fr-name: Carrangues à plume
-    en-name:
-    strong: true
-  - fr-name: Ostracodes bioluminescents
+  - fr-name: Platax
     en-name:
     strong: true
 maps:
   - id: antigua
     center-lat: 16.999420
-    center-lng: -61.860050
-    zoom: 12
+    center-lng: -61.79964
+    zoom: 13
     points:
-      - lat: 16.999420
-        lng: -61.860050
+      - lat: 17.00664
+        lng: -61.79964
         icon: diveFlagIcon
-        place: Calabas reef
+        place: Red rocks
+      - lat: 17.00644
+        lng: -61.79501
+        icon: diveFlagIcon
+        place: Carib House
+      - lat: 17.00684
+        lng: -61.79726
+        icon: diveFlagIcon
+        place: Wreck of the New Freedom
+      - lat: 17.00182
+        lng: -61.79995
+        icon: diveFlagIcon
+        place: Robs reef
+      - lat: 17.00569
+        lng: -61.80690
+        icon: diveFlagIcon
+        place: Rendez vous
+      - lat: 17.00126
+        lng: -61.76255
+        icon: diveFlagIcon
+        place: Pillars of Hercule
+      - lat: 16.99732
+        lng: -61.75372
+        icon: diveFlagIcon
+        place: Nanton point
+

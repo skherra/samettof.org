@@ -10,6 +10,7 @@
 - fr-label: Caraïbes
   en-label: Caribbean
   sublabels:
+    - ref: antigua
     - ref: belize
     - ref: bonaire
     - ref: martinique
