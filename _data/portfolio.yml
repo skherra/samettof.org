@@ -1,80 +1,82 @@
-- img: philippines2.jpg
+- img: antigua.webp
+  page-ref: antigua
+- img: philippines2.webp
   page-ref: philippines
-- img: ustica.jpg
+- img: ustica.webp
   page-ref: italie
-- img: estartit.jpg
+- img: estartit.webp
   page-ref: espagne
-- img: rajaampat.jpg
+- img: rajaampat.webp
   page-ref: indonesia
-- img: acores.jpg
+- img: acores.webp
   page-ref: acores
-- img: mexico2.jpg
+- img: mexico2.webp
   page-ref: mexico2
-- img: statia2023.jpg
+- img: statia2023.webp
   page-ref: statia
-- img: france2.jpg
+- img: france2.webp
   page-ref: france
-- img: philippines.jpg
+- img: philippines.webp
   page-ref: philippines
-- img: bonaire2.jpg
+- img: bonaire2.webp
   page-ref: bonaire
-- img: egypt2.jpg
+- img: egypt2.webp
   page-ref: egypt
-- img: seychelles.jpg
+- img: seychelles.webp
   page-ref: seychelles
-- img: bonaire.jpg
+- img: bonaire.webp
   page-ref: bonaire
-- img: egypt.jpg
+- img: egypt.webp
   page-ref: egypt
-- img: sardaigne.jpg
+- img: sardaigne.webp
   page-ref: italie
-- img: france2021.jpg
+- img: france2021.webp
   page-ref: france
-- img: polynesie2020.jpg
+- img: polynesie2020.webp
   page-ref: french-polynesia
-- img: chuuk.jpg
+- img: chuuk.webp
   page-ref: micronesia
-- img: palau.jpg
+- img: palau.webp
   page-ref: palau
-- img: cocos.jpg
+- img: cocos.webp
   page-ref: costa-rica-cocos
-- img: stp.jpg
+- img: stp.webp
   page-ref: sao-tome
-- img: isl.jpg
+- img: isl.webp
   page-ref: iceland
-- img: mada.jpg
+- img: mada.webp
   page-ref: madagascar
-- img: fiji.jpg
+- img: fiji.webp
   page-ref: fiji
-- img: gal.jpg
+- img: gal.webp
   page-ref: galapagos
-- img: moz.jpg
+- img: moz.webp
   page-ref: mozambique
-- img: afsud.jpg
+- img: afsud.webp
   page-ref: south-africa
-- img: martinique.jpg
+- img: martinique.webp
   page-ref: martinique
-- img: indonesie.jpg
+- img: indonesie.webp
   page-ref: indonesia
-- img: tuamotus.jpg
+- img: tuamotus.webp
   page-ref: french-polynesia
-- img: les-saintes.jpg
+- img: les-saintes.webp
   page-ref: les-saintes
-- img: cozumel.jpg
+- img: cozumel.webp
   page-ref: mexico
-- img: cap-vert.jpg
+- img: cap-vert.webp
   page-ref: cape-verde
-- img: hawaii.jpg
+- img: hawaii.webp
   page-ref: hawaii
-- img: statia.jpg
+- img: statia.webp
   page-ref: statia
-- img: maldives.jpg
+- img: maldives.webp
   page-ref: maldives
-- img: tanzanie.jpg
+- img: tanzanie.webp
   page-ref: tanzania
-- img: belize.jpg
+- img: belize.webp
   page-ref: belize
-- img: lanzarote.jpg
+- img: lanzarote.webp
   page-ref: canary-islands
-- img: japon.jpg
+- img: japon.webp
   page-ref: japan
