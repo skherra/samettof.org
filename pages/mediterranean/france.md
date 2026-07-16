@@ -15,12 +15,15 @@ menu: France
 visited-in: Mai, juin 2021 et juillet, août 2023
 h1: 🇫🇷 France
 
-country-desc:
-  <p>Les sites de méditerranée sont très prisés en été. Pour être tranquille sous l'eau il faut faire le pari de la météo et y venir hors saison. Néanmoins la température reste froide et il faut prévoir une combinaison sèche ou semi sèche.
-    <br/>Les paysages sont magnifiques et sous l'eau, nous avons été agréablement surpris par la richesse et la diversité de la flore (de très belles gorgones, du corail rouge). Les eaux dans les réserves sont très poissonneuses, on y croise avec un peu de chance des mola molas, des mérous et des barracudas.</p>
-  <p>La météo change vite, les pluies apportent beaucoup de particules sur Cerbère, tandis que le vent refroidit sensiblement l'eau plutôt claire sur Marseille, une étanche même en plein juillet peut être envisagée.</p>
-  <p>Accessible en train ou en avion, il faut prévoir une voiture pour se déplacer. Pensez à réserver à l'avance les clubs de plongées, qui ne prennent pour la plupart que sur réservation.</p>
-  <p><strong class="accent-color"><i class="fa fa-mail-forward"></i> </strong>Le best of&nbsp;&#58; <strong>Canadells</strong> (Cerbère Banyuls)&nbsp;; <strong>Pointe Caramassaigne</strong> (Riou)&nbsp;; <strong>Moyade</strong> (Riou).</p>
+country-desc: |
+  Les sites de méditerranée sont très prisés en été. Pour être tranquille sous l'eau il faut faire le pari de la météo et y venir hors saison. Néanmoins la température reste froide et il faut prévoir une combinaison sèche ou semi sèche. <br/>Les paysages sont magnifiques et sous l'eau, nous avons été agréablement surpris par la richesse et la diversité de la flore (de très belles gorgones, du corail rouge). Les eaux dans les réserves sont très poissonneuses, on y croise avec un peu de chance des mola molas, des mérous et des barracudas.
+
+  La météo change vite, les pluies apportent beaucoup de particules sur Cerbère, tandis que le vent refroidit sensiblement l'eau plutôt claire sur Marseille, une étanche même en plein juillet peut être envisagée.
+
+  Accessible en train ou en avion, il faut prévoir une voiture pour se déplacer. Pensez à réserver à l'avance les clubs de plongées, qui ne prennent pour la plupart que sur réservation.
+
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou).
+
   <div class="accordion" id="FranceAccordion">
   <div class="card"><div class="card-header" id="headingOneFrance">
   <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneFrance" aria-expanded="true" aria-controls="collapseOne">Cerbère Banuyls <i class="fa fa-angle-up control-icon"></i></button></h3>
@@ -61,47 +64,53 @@ country-desc:
   </div>
   </div>
 
-dive-shop:
-  <p class="visited-in">Visités en juillet, août 2023.</p>
-  <p><strong>Cap Antibes</strong>&nbsp;&#58;
-  <br/><strong class="accent-color"><a href="https://easydive.fr/"  target="_blank" class="itl-tooltip" data-placement="top"> Easy dive </a></strong> sur le port, possède un grand bateau en aluminium. L'ambiance y est bonne, c'est relativement bien organisé. En été, il y a un monde fou, le club remplit son bateau au maximum de sa capacité et ce n'est guère agréable sur le bateau et dans l'eau. Le club fait une sortie par demi-journée. Les tarifs sont très chers, le club offre malgré tout une belle réduction parking si on pense à la demander au club.</p>
-  <p><strong>La Londe</strong>&nbsp;&#58;
-  <br/><strong class="accent-color"><a href="https://aqualonde-plongee.com/"  target="_blank" class="itl-tooltip" data-placement="top"> Aqualonde </a></strong> sur le port, possède un grand bateau confortable et un semi-rigide. Malgré le monde, l'ambiance est sympathique et les guides souriants. Le matériel est neuf et les combinaisons de 5 min ont été appréciées. Les tarifs sont plus chers que la moyenne en France, nous étions autonomes mais nous avons eu un guide.</p>
-  <p class="visited-in">Visités en mai-juin 2021.</p>
-  <p><strong>Cerbère</strong>&nbsp;&#58;
-  <br/><strong class="accent-color"><a href="https://www.plongee-cap-cerbere.com/"  target="_blank" class="itl-tooltip" data-placement="top"> Plongée Cap Cerbère </a></strong> est un petit club très sympathique à quelques minutes à peine des sites et équipé d’un grand bateau avec ascenseur (du grand luxe).
-  <br/>La réservation se fait facilement par email. Le club encourage les plongées autonomes. Les plongées encadrées sont automatiquement catégorisées niveau 1. Nous avons pu néanmoins faire une plongée à 40 mètres. Tous les moniteurs y compris le patron sont passionnés et très formateurs. L'espace extérieur et le parking sont appréciables.
-  </p>
-  <p><strong>Iles Riou</strong>&nbsp;&#58;
-  <br/><strong class="accent-color"><a href="https://www.atelierdelamer-marseille.com/"  target="_blank" class="itl-tooltip" data-placement="top"> L'atelier de la mer </a></strong> est l'un des plus gros clubs de Pointe rouge avec trois gros zodiacs d'une capacité de 20 plongeurs chacun.
-  <br/>Grand espace pour poser son matériel et s'équiper et restauration possible sur place sur réservation. Il existe des formules à la carte pour les plongées autonomes ou encadrées. Pour les amateurs de petits clubs, passez votre chemin, les encadrants ne sont pas particulièrement affables et c'est en mode usine. Le patron est néanmoins là et reste sympathique avec tous les clients. Ce club a l'avantage d'être à 20 minutes des sites des îles Riou et Frioul en bateau.
-  </p>
+dive-shop: |
+  Visités en juillet, août 2023.
+  {: .visited-in}
 
-accommodation:
-  <p>Nous avons à chaque fois loué un logement proche des clubs de plongées.</p>
-  <p class="visited-in">Visités en juillet 2023.</p>
-  <p>A <strong>Soliès-Pont</strong>, nous avons logé chez <strong>Françoise et George</strong>&nbsp;&#58; un grand rez-de-chaussée avec jardin, très bien équipé et au calme. C'est un coin idéal pour sillonner la région en arrivant de Toulon.</p>
-  <p class="visited-in">Visités en mai-juin 2021.</p>
-  <p>A <strong>Cerbère</strong>, nous avons logé chez <strong>Philip</strong>&nbsp;&#58; petite maison fonctionnelle au calme, vue sur la mer et petit jardin, à 5 min du village.</p>
-  <p>A <strong>Marseille</strong>, coup de cœur pour le logement <i class="fa fa-heart"></i> <strong>"le petit Borely"</strong> de Sylvie et Philippe dans le 8eme arrondissement avec une belle terrasse.</p>
+  **Cap Antibes**&nbsp;: <br/>**[ Easy dive ](https://easydive.fr/){: target="_blank"}**{: .accent-color} sur le port, possède un grand bateau en aluminium. L'ambiance y est bonne, c'est relativement bien organisé. En été, il y a un monde fou, le club remplit son bateau au maximum de sa capacité et ce n'est guère agréable sur le bateau et dans l'eau. Le club fait une sortie par demi-journée. Les tarifs sont très chers, le club offre malgré tout une belle réduction parking si on pense à la demander au club.
 
-to-see:
- <p class="visited-in">Visités en juillet 2023.</p>
- <p>Le centre historique de <strong>Hyères</strong>, la presqu’île de Giens et les jolies plages notamment celle du Lavendou.</p>
+  **La Londe**&nbsp;: <br/>**[ Aqualonde ](https://aqualonde-plongee.com/){: target="_blank"}**{: .accent-color} sur le port, possède un grand bateau confortable et un semi-rigide. Malgré le monde, l'ambiance est sympathique et les guides souriants. Le matériel est neuf et les combinaisons de 5 min ont été appréciées. Les tarifs sont plus chers que la moyenne en France, nous étions autonomes mais nous avons eu un guide.
 
-  <p class="visited-in">Visités en mai-juin 2021.</p>
-  <p>Autour de <strong>Cerbère</strong>, le joli village de <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Collioure"  target="_blank" class="itl-tooltip" data-placement="top">Collioure</a></strong>, les Cap et les Anses de la réserve Cerbère-banyuls.
-    <br/>Le petit musée de sculpture du <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany"  target="_blank" class="itl-tooltip" data-placement="top"> Maître cabestany</a></strong> près de Perpignan et bien sûr <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Perpignan"  target="_blank" class="itl-tooltip" data-placement="top">Perpignan</a></strong> avec le beau <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque"  target="_blank" class="itl-tooltip" data-placement="top">palais des rois de Majorque</a></strong>.
-  </p>
-  <p><strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Marseille"  target="_blank" class="itl-tooltip" data-placement="top">Marseille</a></strong> et le <strong class="accent-color"><a href="http://www.calanques-parcnational.fr/fr"  target="_blank" class="itl-tooltip" data-placement="top">parc national des calanques</a></strong> avec les calanques des Goudes de Cassis avec son petit port de Miou ...</p>
+  Visités en mai-juin 2021.
+  {: .visited-in}
+
+  **Cerbère**&nbsp;: <br/>**[ Plongée Cap Cerbère ](https://www.plongee-cap-cerbere.com/){: target="_blank"}**{: .accent-color} est un petit club très sympathique à quelques minutes à peine des sites et équipé d’un grand bateau avec ascenseur (du grand luxe). <br/>La réservation se fait facilement par email. Le club encourage les plongées autonomes. Les plongées encadrées sont automatiquement catégorisées niveau 1. Nous avons pu néanmoins faire une plongée à 40 mètres. Tous les moniteurs y compris le patron sont passionnés et très formateurs. L'espace extérieur et le parking sont appréciables.
+
+  **Iles Riou**&nbsp;: <br/>**[ L'atelier de la mer ](https://www.atelierdelamer-marseille.com/){: target="_blank"}**{: .accent-color} est l'un des plus gros clubs de Pointe rouge avec trois gros zodiacs d'une capacité de 20 plongeurs chacun. <br/>Grand espace pour poser son matériel et s'équiper et restauration possible sur place sur réservation. Il existe des formules à la carte pour les plongées autonomes ou encadrées. Pour les amateurs de petits clubs, passez votre chemin, les encadrants ne sont pas particulièrement affables et c'est en mode usine. Le patron est néanmoins là et reste sympathique avec tous les clients. Ce club a l'avantage d'être à 20 minutes des sites des îles Riou et Frioul en bateau.
+
+accommodation: |
+  Nous avons à chaque fois loué un logement proche des clubs de plongées.
+
+  Visités en juillet 2023.
+  {: .visited-in}
+
+  A **Soliès-Pont**, nous avons logé chez **Françoise et George**&nbsp;: un grand rez-de-chaussée avec jardin, très bien équipé et au calme. C'est un coin idéal pour sillonner la région en arrivant de Toulon.
+
+  Visités en mai-juin 2021.
+  {: .visited-in}
+
+  A **Cerbère**, nous avons logé chez **Philip**&nbsp;: petite maison fonctionnelle au calme, vue sur la mer et petit jardin, à 5 min du village.
+
+  A **Marseille**, coup de cœur pour le logement <i class="fa fa-heart"></i> **"le petit Borely"** de Sylvie et Philippe dans le 8eme arrondissement avec une belle terrasse.
+
+to-see: |
+  Visités en juillet 2023.
+  {: .visited-in}
+
+  Le centre historique de **Hyères**, la presqu’île de Giens et les jolies plages notamment celle du Lavendou.
+
+  Visités en mai-juin 2021.
+  {: .visited-in}
+
+  Autour de **Cerbère**, le joli village de **[Collioure](https://fr.wikipedia.org/wiki/Collioure){: target="_blank"}**{: .accent-color}, les Cap et les Anses de la réserve Cerbère-banyuls. <br/>Le petit musée de sculpture du **[ Maître cabestany](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany){: target="_blank"}**{: .accent-color} près de Perpignan et bien sûr **[Perpignan](https://fr.wikipedia.org/wiki/Perpignan){: target="_blank"}**{: .accent-color} avec le beau **[palais des rois de Majorque](https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque){: target="_blank"}**{: .accent-color}.
+
+  **[Marseille](https://fr.wikipedia.org/wiki/Marseille){: target="_blank"}**{: .accent-color} et le **[parc national des calanques](http://www.calanques-parcnational.fr/fr){: target="_blank"}**{: .accent-color} avec les calanques des Goudes de Cassis avec son petit port de Miou ...
 
 log-books:
 - author: Sam
   place: Moyades - Archipel de Riou
   date: 26/06/2021
-  text: Plongée en autonome autour du rocher Moyade dans les 17 mètres, c'est Merouville, nous arrêtons de compter les mérous au dixième. Ce rocher est plein de vie, les chapons ne sont pas en reste, bien camouflés dans les creux. A la pointe Est, un banc de petits barracudas plutôt vifs semble nous indiquer la direction. Tout prêt de la bouée du bateau un gros poulpe peu farouche semble jouer avec nous en marchant tel une danseuse ... Très belle plongée.
-
-    <p></p>
-
-
+  text: |
+    Plongée en autonome autour du rocher Moyade dans les 17 mètres, c'est Merouville, nous arrêtons de compter les mérous au dixième. Ce rocher est plein de vie, les chapons ne sont pas en reste, bien camouflés dans les creux. A la pointe Est, un banc de petits barracudas plutôt vifs semble nous indiquer la direction. Tout prêt de la bouée du bateau un gros poulpe peu farouche semble jouer avec nous en marchant tel une danseuse ... Très belle plongée.
 ---

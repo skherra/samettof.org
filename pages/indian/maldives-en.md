@@ -15,29 +15,27 @@ menu: Maldives
 visited-in: December 2015
 h1: 🇲🇻 Maldives
 
-country-desc:
-  <p>TODO</p>
+country-desc: |
+  TODO
 
-dive-shop:
-  <p>TODO</p>
+dive-shop: |
+  TODO
 
-accommodation:
-  <p>TODO</p>
+accommodation: |
+  TODO
 
-to-see:
-  <p>TODO</p>
+to-see: |
+  TODO
 
 log-books:
 - author: TODO
   place: TODO
   date: TODO
-  text:
-    <p>TODO</p>
+  text: |
+    TODO
 - author: TODO
   place: TODO
   date: TODO
-  text:
-    <p>TODO</p>
-
-
+  text: |
+    TODO
 ---

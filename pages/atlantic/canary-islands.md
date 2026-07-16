@@ -15,36 +15,43 @@ menu: Canaries
 visited-in: Septembre 2014
 h1: 🇮🇨 Lanzarote
 
-country-desc:
-  <p><strong><a href="https://fr.wikipedia.org/wiki/Lanzarote" target="_blank" class="itl-tooltip" data-placement="top">Lanzarote</a></strong> est l'île la plus à l'est de l'archipel des Canaries (Espagne), au large du Maroc, elle est baignée par l'océan Atlantique.</p>
-  <p>Très jolie île volcanique, Lanzarote possède de jolis fonds sableux, un mélange de poissons tropicaux et de poissons d'eaux plus froides. Un récif et des épaves au Sud de l'île sont accessibles depuis Puerto del Carmen. D'autres sites sont accessibles depuis la plage Flamengo de Santa Rosa.</p>
-  <p>Le départ des plongées se fait de la plage Flamengo ou du deck de Puerto Calero. Les épaves sont accessibles à quelques minutes en bateau depuis Puerto Calero.</p>
-  <p><strong class="accent-color"><i class="fa fa-mail-forward"></i> </strong>Voici un descriptif des plongées possibles, distribué par l'office du tourisme &#58; <a href="/docs/lanzarote-guia-ideal.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a>.</p>
+country-desc: |
+  **[Lanzarote](https://fr.wikipedia.org/wiki/Lanzarote){: target="_blank"}** est l'île la plus à l'est de l'archipel des Canaries (Espagne), au large du Maroc, elle est baignée par l'océan Atlantique.
 
-dive-shop:
-  <p class="visited-in">Visité en septembre 2014.</p>
-  <p>Nous aurions recommandé le super club francophone <strong>Big Blue Sea <i class="fa fa-heart"></i></strong> tenu par Valérie Errens et sa compagne au centre de Santa Rosa mais le club a changé de propriétaire à l'été 2016.</p>
+  Très jolie île volcanique, Lanzarote possède de jolis fonds sableux, un mélange de poissons tropicaux et de poissons d'eaux plus froides. Un récif et des épaves au Sud de l'île sont accessibles depuis Puerto del Carmen. D'autres sites sont accessibles depuis la plage Flamengo de Santa Rosa.
 
-accommodation:
-  <p class="visited-in">Visité en septembre 2014.</p>
-  <p>Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina, ...</p>
+  Le départ des plongées se fait de la plage Flamengo ou du deck de Puerto Calero. Les épaves sont accessibles à quelques minutes en bateau depuis Puerto Calero.
 
-to-see:
-  <p>Le parc national des Volcans et <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/El_Golfo" target="_blank" class="itl-tooltip" data-placement="top">el Golfo</a></strong>.</p>
-  <p>L'architecture de <strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/C%C3%A9sar_Manrique" target="_blank" class="itl-tooltip" data-placement="top">Cesar Manrique</a></strong>.</p>
-  <p>Les vignes si particulières.</p>
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles, distribué par l'office du tourisme : [<i class="fa fa-file-pdf-o"></i>](/docs/lanzarote-guia-ideal.pdf){: target="_blank"}.
+
+dive-shop: |
+  Visité en septembre 2014.
+  {: .visited-in}
+
+  Nous aurions recommandé le super club francophone **Big Blue Sea <i class="fa fa-heart"></i>** tenu par Valérie Errens et sa compagne au centre de Santa Rosa mais le club a changé de propriétaire à l'été 2016.
+
+accommodation: |
+  Visité en septembre 2014.
+  {: .visited-in}
+
+  Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina, ...
+
+to-see: |
+  Le parc national des Volcans et **[el Golfo](https://fr.wikipedia.org/wiki/El_Golfo){: target="_blank"}**{: .accent-color}.
+
+  L'architecture de **[Cesar Manrique](https://fr.wikipedia.org/wiki/C%C3%A9sar_Manrique){: target="_blank"}**{: .accent-color}.
+
+  Les vignes si particulières.
 
 log-books:
   - author: Sam
     place: Puerto Calero
     date: 19/09/2014
-    text:
-      <p>Descente à la corde, la visibilité est mauvaise, nous croisons un requin ange près du sable qui évolue pas loin de nous, il nous guide jusqu’à une grande épave couchée sur le sable, nous manquons de près de nous faire tamponner par un sous-marin touristique, c'est assez ubuesque comme situation, nous faisons des coucous, de petits poissons tropicaux dans son sillage, nous nous "protégeons" derrière l'épave le temps qu'il passe&nbsp;! En remontant une dernière épave disloquée cette fois, avec des crabes araignées à l'intérieur. Long pallier sur les 5 mètres.</p>
+    text: |
+      Descente à la corde, la visibilité est mauvaise, nous croisons un requin ange près du sable qui évolue pas loin de nous, il nous guide jusqu’à une grande épave couchée sur le sable, nous manquons de près de nous faire tamponner par un sous-marin touristique, c'est assez ubuesque comme situation, nous faisons des coucous, de petits poissons tropicaux dans son sillage, nous nous "protégeons" derrière l'épave le temps qu'il passe&nbsp;! En remontant une dernière épave disloquée cette fois, avec des crabes araignées à l'intérieur. Long pallier sur les 5 mètres.
   - author: Sam
     place: Puerto Calero
     date: 20/09/2014
-    text:
-      <p>Notre patience et nos recherches ont payé&nbsp;&#58 nous découvrons un petit caballero del mar dans les lianes d’une bouée à quelques coups de palmes du deck de Puerto Calero.</p>
-
-
+    text: |
+      Notre patience et nos recherches ont payé&nbsp;: nous découvrons un petit caballero del mar dans les lianes d’une bouée à quelques coups de palmes du deck de Puerto Calero.
 ---

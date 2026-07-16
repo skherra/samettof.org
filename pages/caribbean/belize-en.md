@@ -15,29 +15,27 @@ menu: Belize
 visited-in: May 2015
 h1: 🇧🇿 Belize
 
-country-desc:
-  <p>TODO</p>
+country-desc: |
+  TODO
 
-dive-shop:
-  <p>TODO</p>
+dive-shop: |
+  TODO
 
-accommodation:
-  <p>TODO</p>
+accommodation: |
+  TODO
 
-to-see:
-  <p>TODO</p>
+to-see: |
+  TODO
 
 log-books:
 - author: TODO
   place: TODO
   date: TODO
-  text:
-    <p>TODO</p>
+  text: |
+    TODO
 - author: TODO
   place: TODO
   date: TODO
-  text:
-    <p>TODO</p>
-
-
+  text: |
+    TODO
 ---
