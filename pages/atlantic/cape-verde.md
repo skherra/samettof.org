@@ -16,7 +16,7 @@ visited-in: Septembre 2016
 h1: 🇨🇻 Cap Vert
 
 country-desc: |
-  **[Sao Vicente](https://fr.wikipedia.org/wiki/S%C3%A3o_Vicente_(Cap-Vert)){: target="_blank"}**{: .accent-color}, l'île de Césaria Evora, est une île du Cap Vert (ou Cabo Verde) bercée par la musique et les chants. Nous avons pu à notre grande surprise le confirmer, cela chante partout, vraiment partout&nbsp;: sur le ferry, dans les cafés, sur les places, ...
+  **[Sao Vicente](https://fr.wikipedia.org/wiki/S%C3%A3o_Vicente_(Cap-Vert)){: target="_blank"}**, l'île de Césaria Evora, est une île du Cap Vert (ou Cabo Verde) bercée par la musique et les chants. Nous avons pu à notre grande surprise le confirmer, cela chante partout, vraiment partout&nbsp;: sur le ferry, dans les cafés, sur les places, ...
 
   Ile d'Atlantique tropical au large du Sénégal, Sao Vicente, est volcanique et aride, mais sous l'eau, elle possède des récifs très poissonneux.<br /> Les sites sont dispersés autour de la célèbre baie de Mindelo et il reste encore beaucoup à explorer&nbsp;... Du vent et des courants sont à prévoir.
 
@@ -26,19 +26,19 @@ dive-shop: |
   Visité en septembre 2016.
   {: .visited-in}
 
-  Sur Mindelo, un seul club de plongée difficile à trouver : **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**{: .accent-color}, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.<br /> Il est possible de faire 2 à 3 plongées par jour matin et après midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
+  Sur Mindelo, un seul club de plongée difficile à trouver : **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.<br /> Il est possible de faire 2 à 3 plongées par jour matin et après midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
 
 accommodation: |
   Visité en septembre 2016.
   {: .visited-in}
 
-  **[Kira's boutique hôtel](http://www.kirashotel.com/){: target="_blank"}**{: .accent-color}, à quelque minutes du centre ville, calme, propre et accueillant. Petit déjeuner gargantuesque avec des spécialités locales. De plus cet hôtel dispose d'une terrasse accueillante et d'un roof top pour les soirées. Il est possible avec une carte de faire un plouf dans l'hotel voisin.
+  **[Kira's boutique hôtel](http://www.kirashotel.com/){: target="_blank"}**, à quelque minutes du centre ville, calme, propre et accueillant. Petit déjeuner gargantuesque avec des spécialités locales. De plus cet hôtel dispose d'une terrasse accueillante et d'un roof top pour les soirées. Il est possible avec une carte de faire un plouf dans l'hotel voisin.
 
 to-see: |
   Visité en septembre 2016.
   {: .visited-in}
 
-  Les concerts de musique en peu partout dans **[Mindelo](https://fr.wikipedia.org/wiki/Mindelo){: target="_blank"}**{: .accent-color}.<br /> Grimper sur le toit de Sao Vicente **[le Monte Verde](https://fr.wikipedia.org/wiki/Monte_Verde_(Cap-Vert)){: target="_blank"}**{: .accent-color}.<br /> Randonnées sur l'île de **[Santo Antao](https://fr.wikipedia.org/wiki/Santo_Ant%C3%A3o_(Cap-Vert)){: target="_blank"}**{: .accent-color}.
+  Les concerts de musique en peu partout dans **[Mindelo](https://fr.wikipedia.org/wiki/Mindelo){: target="_blank"}**.<br /> Grimper sur le toit de Sao Vicente **[le Monte Verde](https://fr.wikipedia.org/wiki/Monte_Verde_(Cap-Vert)){: target="_blank"}**.<br /> Randonnées sur l'île de **[Santo Antao](https://fr.wikipedia.org/wiki/Santo_Ant%C3%A3o_(Cap-Vert)){: target="_blank"}**.
 
 log-books:
 - author: Sam

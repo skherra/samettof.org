@@ -16,7 +16,7 @@ visited-in: Mars 2017
 h1: 🇬🇵 Les Saintes
 
 country-desc: |
-  **[Les Saintes](https://fr.wikipedia.org/wiki/%C3%8Eles_des_Saintes){: target="_blank"}**{: .accent-color}, à quelques minutes de ferry de la Guadeloupe, est un petit coin de paradis. Trois compagnies desservent régulièrement l'île, depuis l'aéroport il est possible de prendre un taxi jusqu'à Trois rivières et de là prendre un ferry jusqu'aux Saintes.
+  **[Les Saintes](https://fr.wikipedia.org/wiki/%C3%8Eles_des_Saintes){: target="_blank"}**, à quelques minutes de ferry de la Guadeloupe, est un petit coin de paradis. Trois compagnies desservent régulièrement l'île, depuis l'aéroport il est possible de prendre un taxi jusqu'à Trois rivières et de là prendre un ferry jusqu'aux Saintes.
 
   Avec une vingtaine de site accessibles depuis Terre de Haut, les sites sont riches en faune fixée et poissons tropicaux, avec peu de plongeurs. **Le sec paté** entre Terre de Haut et la Guadeloupe est de toute beauté !
 
@@ -26,7 +26,7 @@ dive-shop: |
   Visité en mars 2017.
   {: .visited-in}
 
-  **[La dive bouteille](http://www.dive-bouteille.com/){: target="_blank"} <i class="fa fa-heart"></i>**{: .accent-color} &nbsp;: Laurence et Philippe est un couple charmant, rigolo et passionné.
+  **[La dive bouteille <i class="fa fa-heart"></i>](http://www.dive-bouteille.com/){: target="_blank"}** &nbsp;: Laurence et Philippe est un couple charmant, rigolo et passionné.
 
   Nous avons beaucoup appris et passé notre niveau 2 avec Philippe très pédagogue.
 
@@ -38,7 +38,7 @@ accommodation: |
 to-see: |
   Visiter le joli village de Terre de Haut et les belles plages de l'île.
 
-  Déguster un rhum au **[Comptoir du nouveau monde](https://www.facebook.com/Le-Comptoir-du-Nouveau-Monde-1883819215237616/){: target="_blank"}**{: .accent-color}.
+  Déguster un rhum au **[Comptoir du nouveau monde](https://www.facebook.com/Le-Comptoir-du-Nouveau-Monde-1883819215237616/){: target="_blank"}**.
 
 log-books:
   - author: Sam

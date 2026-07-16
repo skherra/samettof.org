@@ -16,9 +16,9 @@ visited-in: Mars 2019
 h1: 🇮🇸 Islande
 
 country-desc: |
-  L'**[Islande](https://fr.wikipedia.org/wiki/Islande){: target="_blank"}**{: .accent-color} est une île splendide, baignée par l'Atlantique. Il serait dommage de ne se consacrer qu'à la plongée car elle regorge de beautés naturelles et grandioses.
+  L'**[Islande](https://fr.wikipedia.org/wiki/Islande){: target="_blank"}** est une île splendide, baignée par l'Atlantique. Il serait dommage de ne se consacrer qu'à la plongée car elle regorge de beautés naturelles et grandioses.
 
-  Une idée "folle" nous a pris, pour nous plongeurs d'eau chaude&nbsp;: s'initier à la plongée en eau froide (entre 2 et 3 °C) et pouvoir plonger dans un lieu unique au monde, la faille qui sépare les continents eurasiatique et américain&nbsp;: la mythique **[Silfra](https://en.wikipedia.org/wiki/Silfra#Scuba_diving){: target="_blank"}**{: .accent-color}. Les conditions extrêmes en valent la peine, c'est une de nos plus belles plongées.
+  Une idée "folle" nous a pris, pour nous plongeurs d'eau chaude&nbsp;: s'initier à la plongée en eau froide (entre 2 et 3 °C) et pouvoir plonger dans un lieu unique au monde, la faille qui sépare les continents eurasiatique et américain&nbsp;: la mythique **[Silfra](https://en.wikipedia.org/wiki/Silfra#Scuba_diving){: target="_blank"}**. Les conditions extrêmes en valent la peine, c'est une de nos plus belles plongées.
 
   L'Islande propose en effet des plongées atypiques&nbsp;: dans les failles ou dans des lacs ou encore l'océan quand les conditions le permettent. L'eau dans les failles est déminéralisée et translucide, on y vient pour la beauté des lieux et la topographie surtout.<br /> L'avantage également est que l'on peut y plonger toute l'année car la température de l'eau ne varie pas, seule la température extérieure peut contraindre à annuler des plongées ou à les rendre éprouvantes (gel, neige, vent glacial).
 
@@ -32,7 +32,7 @@ dive-shop: |
   Visité en mars 2019.
   {: .visited-in}
 
-   **[Dive IS](http://www.dive.is/){: target="_blank"} <i class="fa fa-heart"></i>**{: .accent-color} propose plusieurs packages de deux plongées le matin. En les contactant directement ils peuvent proposer certains packages sur mesure.
+   **[Dive IS <i class="fa fa-heart"></i>](http://www.dive.is/){: target="_blank"}** propose plusieurs packages de deux plongées le matin. En les contactant directement ils peuvent proposer certains packages sur mesure.
 
   Dive IS fournit un matériel en très bon état et des doudounes, il convient de prévoir des sous-vêtements en laine également et deux grosses paires de chaussettes pour les petits pieds (les combinaisons M ont des bottillons intégrés de taille 42-43).
 
@@ -52,11 +52,11 @@ to-see: |
 
   Reykjavik est une petite bourgade dont on fait le tour rapidement mais qui propose quelques attractions intéressantes&nbsp;:
 
-  - **[Piscine Sundhöll](https://reykjavik.is/stadir/sundholl-reykjavikur){: target="_blank"}**{: .accent-color} et bains chauds, très agréable par temps froid.
-  - **[Musée National Islande](https://www.thjodminjasafn.is/){: target="_blank"}**{: .accent-color} plutôt bien fait et intéressant.
-  - **[Le Blue Lagoon](https://www.bluelagoon.com/){: target="_blank"}**{: .accent-color} pour un repos en eau chaude.
+  - **[Piscine Sundhöll](https://reykjavik.is/stadir/sundholl-reykjavikur){: target="_blank"}** et bains chauds, très agréable par temps froid.
+  - **[Musée National Islande](https://www.thjodminjasafn.is/){: target="_blank"}** plutôt bien fait et intéressant.
+  - **[Le Blue Lagoon](https://www.bluelagoon.com/){: target="_blank"}** pour un repos en eau chaude.
 
-  Le reste de L'Islande à parcourir (visité en 2006) **[le cercle d'or](https://fr.wikipedia.org/wiki/Cercle_d'or_(Islande)){: target="_blank"}**{: .accent-color} à 45 min de Reykjavik et le grand Sud&nbsp;: **[Landamanogar](https://fr.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**{: .accent-color}, Skaftafell, Jokulsarlon&nbsp;...
+  Le reste de L'Islande à parcourir (visité en 2006) **[le cercle d'or](https://fr.wikipedia.org/wiki/Cercle_d'or_(Islande)){: target="_blank"}** à 45 min de Reykjavik et le grand Sud&nbsp;: **[Landamanogar](https://fr.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**, Skaftafell, Jokulsarlon&nbsp;...
 
 log-books:
 - author: Tof

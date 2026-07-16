@@ -16,9 +16,9 @@ visited-in: Décembre 2016
 h1: 🇲🇽 Mexique Yucatán
 
 country-desc: |
-  **[Cozumel](https://fr.wikipedia.org/wiki/Cozumel){: target="_blank"}**{: .accent-color} au Mexique est rendue célèbre dans les années 60 par le commandant Cousteau. Les sites de Palencar (traduction de Palanquée) sont de très beaux sites de faunes fixés situés sur la barrière corallienne de la mer des caraïbes. Zone protégée, cela se ressent, tous les poissons tropicaux sont de très grandes tailles et en profusion.
+  **[Cozumel](https://fr.wikipedia.org/wiki/Cozumel){: target="_blank"}** au Mexique est rendue célèbre dans les années 60 par le commandant Cousteau. Les sites de Palencar (traduction de Palanquée) sont de très beaux sites de faunes fixés situés sur la barrière corallienne de la mer des caraïbes. Zone protégée, cela se ressent, tous les poissons tropicaux sont de très grandes tailles et en profusion.
 
-  La péninsule du **[ Yucatan](https://fr.wikipedia.org/wiki/Yucat%C3%A1n){: target="_blank"}**{: .accent-color} regorge de spots de plongées, mais les plus fameux restent l'île de Cozumel et les [**cénotes**{: .accent-color}](https://fr.wikipedia.org/wiki/C%C3%A9note){: target="_blank"} entre Playa del Carmen et Tulum. Les cénotes, ou puits sacrés offrent des ombres et lumières à couper le soufle.
+  La péninsule du **[ Yucatan](https://fr.wikipedia.org/wiki/Yucat%C3%A1n){: target="_blank"}** regorge de spots de plongées, mais les plus fameux restent l'île de Cozumel et les [**cénotes**](https://fr.wikipedia.org/wiki/C%C3%A9note){: target="_blank"} entre Playa del Carmen et Tulum. Les cénotes, ou puits sacrés offrent des ombres et lumières à couper le soufle.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} A Cozumel, le best of **Palacancar garden**.
 
@@ -28,7 +28,7 @@ dive-shop: |
   Visité en décembre 2016.
   {: .visited-in}
 
-  **[Phocéa Cozumel et Playa](http://mexique-plongee.fr/){: target="_blank"} <i class="fa fa-heart"></i>**{: .accent-color}  est un très gros club, il offre plusieurs services dont le pick-up à l'aéroport de Cancun et des packages intéressants&nbsp;: Cozumel et/ou Cénotes. L'accueil un peu impersonnel est vite oublié car sous l'eau, les guides sont passionnés et soucieux de l'environnement (brieff sur les crèmes solaires et la fragilité des coraux).
+  **[Phocéa Cozumel et Playa <i class="fa fa-heart"></i>](http://mexique-plongee.fr/){: target="_blank"}**  est un très gros club, il offre plusieurs services dont le pick-up à l'aéroport de Cancun et des packages intéressants&nbsp;: Cozumel et/ou Cénotes. L'accueil un peu impersonnel est vite oublié car sous l'eau, les guides sont passionnés et soucieux de l'environnement (brieff sur les crèmes solaires et la fragilité des coraux).
 
   Il est possible de faire 2 plongées par jour et une plongée de nuit sur demande. Seul bémol&nbsp;: beaucoup de monde et palanquée de tous niveaux y compris grands débutants avec des niveaux 2 et plus. <br/>Le Club a fermé sur Cozumel vers 2019.
 

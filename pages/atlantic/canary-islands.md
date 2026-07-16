@@ -37,9 +37,9 @@ accommodation: |
   Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina, ...
 
 to-see: |
-  Le parc national des Volcans et **[el Golfo](https://fr.wikipedia.org/wiki/El_Golfo){: target="_blank"}**{: .accent-color}.
+  Le parc national des Volcans et **[el Golfo](https://fr.wikipedia.org/wiki/El_Golfo){: target="_blank"}**.
 
-  L'architecture de **[Cesar Manrique](https://fr.wikipedia.org/wiki/C%C3%A9sar_Manrique){: target="_blank"}**{: .accent-color}.
+  L'architecture de **[Cesar Manrique](https://fr.wikipedia.org/wiki/C%C3%A9sar_Manrique){: target="_blank"}**.
 
   Les vignes si particulières.
 

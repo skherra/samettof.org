@@ -16,9 +16,9 @@ visited-in: Février 2018
 h1: 🇿🇦 Afrique du Sud
 
 country-desc: |
-  **[ Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**{: .accent-color}  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}**{: .accent-color} en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
+  **[ Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
 
-  **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}**{: .accent-color} (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban. <br />Pourquoi baleine vache ? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
+  **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban. <br />Pourquoi baleine vache ? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
 
   Avec des mises à l'eau sportives, une faible visibilité, du courant et des requins de bonnes tailles peu farouches, Aliwal Shoal restera parmi les plongées avec frissons garantis !
 
@@ -30,7 +30,7 @@ dive-shop: |
   Visité en février 2018.
   {: .visited-in}
 
-  **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**{: .accent-color}  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
+  **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
 
   Grand zodiaque, le skipper et le guide vivent et plongent depuis plus de vingt ans à Umkomass mais la mer et le temps sont capricieux sur ce bout de côte, la visibilité et la température peuvent chuter drastiquement.
 
@@ -38,12 +38,12 @@ accommodation: |
   Visité en février 2018.
   {: .visited-in}
 
-  Le lodge de **[Scuba Addicts](http://www.scubaaddicts.com/aliwal-shoal/accommodation.html){: target="_blank"}**{: .accent-color} est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.
+  Le lodge de **[Scuba Addicts](http://www.scubaaddicts.com/aliwal-shoal/accommodation.html){: target="_blank"}** est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.
 
 to-see: |
-  Le parc **[Hluhluwe-Imfolozi](https://fr.wikipedia.org/wiki/R%C3%A9serve_d'Hluhluwe-Umfolozi){: target="_blank"}**{: .accent-color} (plus ancien parc au monde) pour avoir la chance d'apercevoir les Big Fives. La visite se fait avec un ranger du parc, passionnant.
+  Le parc **[Hluhluwe-Imfolozi](https://fr.wikipedia.org/wiki/R%C3%A9serve_d'Hluhluwe-Umfolozi){: target="_blank"}** (plus ancien parc au monde) pour avoir la chance d'apercevoir les Big Fives. La visite se fait avec un ranger du parc, passionnant.
 
-  Le lac de **[Saint Lucia](https://fr.wikipedia.org/wiki/Parc_de_la_zone_humide_d%27iSimangaliso){: target="_blank"}**{: .accent-color} pour admirer les crocodiles, hippopotames et oiseaux marins.
+  Le lac de **[Saint Lucia](https://fr.wikipedia.org/wiki/Parc_de_la_zone_humide_d%27iSimangaliso){: target="_blank"}** pour admirer les crocodiles, hippopotames et oiseaux marins.
 
 log-books:
   - author: Sam

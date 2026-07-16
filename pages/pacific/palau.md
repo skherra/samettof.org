@@ -16,9 +16,9 @@ visited-in: Février 2020
 h1: 🇵🇼 Palaos
 
 country-desc: |
-  **[Palau](https://fr.wikipedia.org/wiki/Palaos){: target="_blank"}**{: .accent-color} ou Palaos, est un archipel de 400 îles ou îlots entre la mer des Philippines et l'océan Pacifique.
+  **[Palau](https://fr.wikipedia.org/wiki/Palaos){: target="_blank"}** ou Palaos, est un archipel de 400 îles ou îlots entre la mer des Philippines et l'océan Pacifique.
 
-  La jeune république a misé sur le respect de l'environnement et la sauvegarde de ses îles&nbsp;: **[un engagement](https://palaupledge.com/){: target="_blank"} <i class="fa fa-heart"></i>**{: .accent-color} qui commence sur le tampon à la douane, des parcs naturels et un sanctuaire de requins (créé en 2009). <br/>Ce joyau, victime de son succès (plongée, kayak et autres activités tournés vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé ; les taxes d'état et des parcs sont très élevées. Il encore beaucoup trop de plastiques proposés dans les magazins, des bouteilles d'eau, et peu de triage des déchets...
+  La jeune république a misé sur le respect de l'environnement et la sauvegarde de ses îles&nbsp;: **[un engagement <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** qui commence sur le tampon à la douane, des parcs naturels et un sanctuaire de requins (créé en 2009). <br/>Ce joyau, victime de son succès (plongée, kayak et autres activités tournés vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé ; les taxes d'état et des parcs sont très élevées. Il encore beaucoup trop de plastiques proposés dans les magazins, des bouteilles d'eau, et peu de triage des déchets...
 
   Les îles de Palaos sont accessibles par un vol direct depuis Taipei, Séoul ou Tokyo.
 
@@ -30,13 +30,13 @@ dive-shop: |
   Visité en février 2020.
   {: .visited-in}
 
-  **[Sam's Tour](http://www.samstours.com/){: target="_blank"}**{: .accent-color} est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence. <br/>Le club mélange un peu les niveaux de palanquée et on ne peut pas vraiment plonger à la carte. <br/>Malgré ce côté rigide, les dive masters particulièrement Jeremy, Eve et Matt sont excellents et passionnés.
+  **[Sam's Tour](http://www.samstours.com/){: target="_blank"}** est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence. <br/>Le club mélange un peu les niveaux de palanquée et on ne peut pas vraiment plonger à la carte. <br/>Malgré ce côté rigide, les dive masters particulièrement Jeremy, Eve et Matt sont excellents et passionnés.
 
 accommodation: |
   Visité en février 2020.
   {: .visited-in}
 
-  **[ DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}**{: .accent-color} à 15 min à pied du centre-ville de Koror, c'est un hôtel familial, avec de grandes chambres et un lobby / terrasse donnant sur le jardin. La clientèle est plutôt japonaise&nbsp;: plongeurs et surfeurs. L'ambiance est calme et fort sympathique. Il y a une cuisine à disposition.
+  **[ DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}** à 15 min à pied du centre-ville de Koror, c'est un hôtel familial, avec de grandes chambres et un lobby / terrasse donnant sur le jardin. La clientèle est plutôt japonaise&nbsp;: plongeurs et surfeurs. L'ambiance est calme et fort sympathique. Il y a une cuisine à disposition.
 
   Il y a plusieurs locations d'appartements à tous les prix, ce qui reste pratique pour être un peu "chez soi" s'il l'on reste plus d'une semaine, nous avions apprécié le **Coconut house@Koror**.
 
@@ -44,9 +44,9 @@ to-see: |
   Visité en février 2020.
   {: .visited-in}
 
-  Le **[ Jellyfish Lake](https://en.wikipedia.org/wiki/Jellyfish_Lake){: target="_blank"}**{: .accent-color} est une attraction phare de Palaos, un des 5 lacs aux méduses est ouvert au public (réouverts depuis 2 ans). L'expérience de nager parmi ces méduses qui ont perdu leur faculté urticante est assez magique.
+  Le **[ Jellyfish Lake](https://en.wikipedia.org/wiki/Jellyfish_Lake){: target="_blank"}** est une attraction phare de Palaos, un des 5 lacs aux méduses est ouvert au public (réouverts depuis 2 ans). L'expérience de nager parmi ces méduses qui ont perdu leur faculté urticante est assez magique.
 
-  Un tour en Cessna avec **[ Smile air](https://smile-air.com){: target="_blank"}**{: .accent-color} pour voir la beauté des île de Palaos d'en haut, une très belle expérience.
+  Un tour en Cessna avec **[ Smile air](https://smile-air.com){: target="_blank"}** pour voir la beauté des île de Palaos d'en haut, une très belle expérience.
 
 log-books:
 - author: Sam

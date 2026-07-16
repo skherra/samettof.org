@@ -16,7 +16,7 @@ visited-in: Mai 2019
 h1: 🇸🇹 São Tomé
 
 country-desc: |
-  **[São Tomé](https://fr.wikipedia.org/wiki/Sao_Tom%C3%A9-et-Principe){: target="_blank"}**{: .accent-color}, l'île "au milieu du monde", est située sur l'équateur et sur le méridien de Greenwich. Ancienne colonie portugaise, São Tomé et Principe sont deux îles indépendantes d'Atlantique au large du Gabon dans le golfe de Guinée. Elles constituent l'un des deux plus petits pays d'Afrique.
+  **[São Tomé](https://fr.wikipedia.org/wiki/Sao_Tom%C3%A9-et-Principe){: target="_blank"}**, l'île "au milieu du monde", est située sur l'équateur et sur le méridien de Greenwich. Ancienne colonie portugaise, São Tomé et Principe sont deux îles indépendantes d'Atlantique au large du Gabon dans le golfe de Guinée. Elles constituent l'un des deux plus petits pays d'Afrique.
 
   Le pays est luxuriant de forêts tropicales humides (cacao, café, fruits tropicaux, forêt primaire) et sèches (Baobabs). Le rythme "Lève Lève" y est doux. Nous avons visité uniquement São Tomé (Il n'existait plus de club de Plongée sur Principe lors de nos recherches en 2019).
 
@@ -28,7 +28,7 @@ dive-shop: |
   Visité en mai 2019.
   {: .visited-in}
 
-   **[Atlantic Diving Center](http://atlanticdivingcenter.com/fr/){: target="_blank"}**{: .accent-color} situé dans le club Santana&nbsp;: il faut prévoir une voiture pour y accéder ou résider au club. Alberto nous a concocté notre semaine aux petits oignons équilibrant les plongées. Les plongées sont de type dérivante, les sites les plus loin du club sont à 40 min de Bateau (Pedras). Ils proposent 2 sorties par jour.
+   **[Atlantic Diving Center](http://atlanticdivingcenter.com/fr/){: target="_blank"}** situé dans le club Santana&nbsp;: il faut prévoir une voiture pour y accéder ou résider au club. Alberto nous a concocté notre semaine aux petits oignons équilibrant les plongées. Les plongées sont de type dérivante, les sites les plus loin du club sont à 40 min de Bateau (Pedras). Ils proposent 2 sorties par jour.
 
   Le club dispose d'un gros bateau puissant (10 personnes) mais pas vraiment équipé pour la plongée&nbsp;: toilette sans pompe, pas de bancs ni de toit protégeant du soleil et une petite barque (4 personnes) plus pratique.
 
@@ -38,7 +38,7 @@ accommodation: |
   Visité en mai 2019.
   {: .visited-in}
 
-  **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**{: .accent-color}&nbsp;: dispose d'un club de plongée évitant ainsi les coûts et les temps de transferts. Le club est luxueux et confortable avec la piscine à l'eau de mer et le jacuzzi devant la baie. A noter que les prix sont 5 fois plus chers que sur le reste de l'île. Il y a une animation un soir par semaine le samedi excellent BBQ sur le bar de la plage, ce qui fait que le reste du temps c'est calme <i class="fa fa-smile-o"></i>. Nous ne pouvons que conseiller d'aller loger ailleurs sur l'île pour voir le vrai São Tomé.
+  **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**&nbsp;: dispose d'un club de plongée évitant ainsi les coûts et les temps de transferts. Le club est luxueux et confortable avec la piscine à l'eau de mer et le jacuzzi devant la baie. A noter que les prix sont 5 fois plus chers que sur le reste de l'île. Il y a une animation un soir par semaine le samedi excellent BBQ sur le bar de la plage, ce qui fait que le reste du temps c'est calme <i class="fa fa-smile-o"></i>. Nous ne pouvons que conseiller d'aller loger ailleurs sur l'île pour voir le vrai São Tomé.
 
   **Casa Tiago** **<i class="fa fa-heart"></i>**{: .accent-color} dans le beau petit village de Belém à quelques minutes de Trinidade, dans la "jungle" est une petite maison traditionnelle en bois très confortable et bien équipée. Arcadio son propriétaire ainsi que celui de la Casa Ediana est un hôte accueillant qui a à cœur de faire découvrir son île hors des sentiers battus et proche de la population locale.
 
@@ -46,11 +46,11 @@ to-see: |
   Visité en mai 2019.
   {: .visited-in}
 
-  São Tomé City&nbsp;: Déguster le chocolat du passionné **[ Claudio Corallo](https://claudiocorallo.com/index.php?lang=fr&Itemid=1322){: target="_blank"}**{: .accent-color} et visiter  **Cacau**, la galerie d'art contemporain des artistes locaux.
+  São Tomé City&nbsp;: Déguster le chocolat du passionné **[ Claudio Corallo](https://claudiocorallo.com/index.php?lang=fr&Itemid=1322){: target="_blank"}** et visiter  **Cacau**, la galerie d'art contemporain des artistes locaux.
 
-  Autour de Trinidad&nbsp;: Visiter le musée **[Monté Café](https://fr.wikipedia.org/wiki/Monte_Caf%C3%A9){: target="_blank"}**{: .accent-color} et la cascade **San Nicolau**.<br /> Déguster les spécialités locales dans les **"Kioskes"** et le fameux **Calulu** de Christina dans le quartier du Kabelo Mole. Se ballader dans la fôret à Bellém et gouter le vin de palme fraîchement préparé.
+  Autour de Trinidad&nbsp;: Visiter le musée **[Monté Café](https://fr.wikipedia.org/wiki/Monte_Caf%C3%A9){: target="_blank"}** et la cascade **San Nicolau**.<br /> Déguster les spécialités locales dans les **"Kioskes"** et le fameux **Calulu** de Christina dans le quartier du Kabelo Mole. Se ballader dans la fôret à Bellém et gouter le vin de palme fraîchement préparé.
 
-  Autour de Bom Sucesso&nbsp;: Marcher jusqu'au **[lagoa Amelia](https://fr.wikipedia.org/wiki/Lagoa_Am%C3%A9lia){: target="_blank"}**{: .accent-color} dans la forêt primaire.
+  Autour de Bom Sucesso&nbsp;: Marcher jusqu'au **[lagoa Amelia](https://fr.wikipedia.org/wiki/Lagoa_Am%C3%A9lia){: target="_blank"}** dans la forêt primaire.
 
 log-books:
 - author: Sam

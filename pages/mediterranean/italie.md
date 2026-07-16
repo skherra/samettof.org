@@ -37,7 +37,7 @@ country-desc: |
   <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoItalie" aria-expanded="true" aria-controls="collapseOne">Ustica <i class="fa fa-angle-up control-icon"></i></button></h3>
   </div>
   <div id="collapseTwoItalie" class="collapse" aria-labelledby="headingOne" data-parent="#ItalieAccordion"><div class="card-body">
-  <p><strong class="accent-color"><a href="https://fr.wikipedia.org/wiki/Ustica" target="_blank" class="itl-tooltip" data-placement="top">Ustica</a> <i class="fa fa-heart"></i></strong> est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongées, l'île est petite et très agréable. Les activités sont la plongées et la randonnée. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à 15 minutes en bateau du port.
+  <p><strong><a href="https://fr.wikipedia.org/wiki/Ustica" target="_blank" class="itl-tooltip" data-placement="top">Ustica <i class="fa fa-heart"></i></a></strong> est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongées, l'île est petite et très agréable. Les activités sont la plongées et la randonnée. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à 15 minutes en bateau du port.
     <br />Nous avons vu beaucoup de gros mérous, de boules de petits, de belles actions de chasse sur les tombants. Les grottes et les arches offrent des petits coraux et des crustacés. Les plongées sont très belles.
     <br />Les clubs partent en décalé pour que chaque bateau soit seul (ou presque) sous l'eau.
   </p>
@@ -50,12 +50,12 @@ dive-shop: |
   Visité en septembre 2025.
   {: .visited-in}
 
-  **[ Blue Diving Ustica](https://www.bluedivingustica.it/fr/){: target="_blank"}**{: .accent-color}, club très sympathique qui gère les transferts, la location de logement. Il a deux semi rigides pour 12 plongeurs max, et offre des guides. 15 L pour tout le monde et des petits groupes par niveau permettent de profiter de plongées d'une heure. Nous avons plongé avec Davide et Paolo, très bon guides souriants parlant français, anglais. Pour l'intervalle de surface une petite collation thé et gâteaux est aussi offerte (assez rare en Europe pour le signaler). Le club part pour 2 plongées généralement le matin, mais rentre au port entre les deux.
+  **[ Blue Diving Ustica](https://www.bluedivingustica.it/fr/){: target="_blank"}**, club très sympathique qui gère les transferts, la location de logement. Il a deux semi rigides pour 12 plongeurs max, et offre des guides. 15 L pour tout le monde et des petits groupes par niveau permettent de profiter de plongées d'une heure. Nous avons plongé avec Davide et Paolo, très bon guides souriants parlant français, anglais. Pour l'intervalle de surface une petite collation thé et gâteaux est aussi offerte (assez rare en Europe pour le signaler). Le club part pour 2 plongées généralement le matin, mais rentre au port entre les deux.
 
   Visité en septembre 2021.
   {: .visited-in}
 
-  **[ Nautilus Diving ](https://www.divesardegna.com/){: target="_blank"}**{: .accent-color} est un petit club à Palau, proche de l'archipel Magdalena et Lavezzi (à 50 minutes). Cette petite équipe prend soin de ses plongeurs avant et après plongées, sous l'eau ils sont très attentifs, mais pas très loquaces ce que nous avons regretté. <br/>Ils ont deux bateaux, un de taille moyenne couvert ce qui dans la région est appréciable qui peut accueillir 14 plongeurs et un semi rigide avec une capacité de 8 plongeurs. Les groupes sont répartis par niveaux. On part pour 2 plongées d'affilé le matin avec une limite de 60 minutes plus ou moins. Une plongée est possible l'après-midi. Plongées de type Padi (sans déco), Nitrox possible en supplément.
+  **[ Nautilus Diving ](https://www.divesardegna.com/){: target="_blank"}** est un petit club à Palau, proche de l'archipel Magdalena et Lavezzi (à 50 minutes). Cette petite équipe prend soin de ses plongeurs avant et après plongées, sous l'eau ils sont très attentifs, mais pas très loquaces ce que nous avons regretté. <br/>Ils ont deux bateaux, un de taille moyenne couvert ce qui dans la région est appréciable qui peut accueillir 14 plongeurs et un semi rigide avec une capacité de 8 plongeurs. Les groupes sont répartis par niveaux. On part pour 2 plongées d'affilé le matin avec une limite de 60 minutes plus ou moins. Une plongée est possible l'après-midi. Plongées de type Padi (sans déco), Nitrox possible en supplément.
 
 accommodation: |
   Visités en septembre 2025.
@@ -77,7 +77,7 @@ to-see: |
   Visités septembre 2021.
   {: .visited-in}
 
-  Autour de **Palau**, petite station balnéaire sans grand intérêt, les jolies plages ou cales splendides. Poussez jusqu'à **la pointe de Sardaigne**, on y trouve sur la route, des criques, des lagunes ... <br/>Les sites archéologiques **[ Nuraghe](https://fr.wikipedia.org/wiki/Nuraghe){: target="_blank"}**{: .accent-color} autour d'Arzachena. <br/>Le village de Santa Teresa di Galiera. <br/>Un peu plus loin, **[Castelsardo](https://fr.wikipedia.org/wiki/Castelsardo){: target="_blank"}**{: .accent-color}, petit village médiévale très charmant.
+  Autour de **Palau**, petite station balnéaire sans grand intérêt, les jolies plages ou cales splendides. Poussez jusqu'à **la pointe de Sardaigne**, on y trouve sur la route, des criques, des lagunes ... <br/>Les sites archéologiques **[ Nuraghe](https://fr.wikipedia.org/wiki/Nuraghe){: target="_blank"}** autour d'Arzachena. <br/>Le village de Santa Teresa di Galiera. <br/>Un peu plus loin, **[Castelsardo](https://fr.wikipedia.org/wiki/Castelsardo){: target="_blank"}**, petit village médiévale très charmant.
 
 log-books:
 - author: Sam

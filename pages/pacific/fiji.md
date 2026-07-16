@@ -16,7 +16,7 @@ visited-in: Septembre 2018
 h1: 🇫🇯 Fidji
 
 country-desc: |
-  L'Archipel des **[Fidji](https://en.wikipedia.org/wiki/Fidji){: target="_blank"}**{: .accent-color}, dans le pacifique, fait parti de la zone pacifique ouest comprenant la Papouasie, la Nouvelle Calédonie et les Vanuatu plus communément appelée la **[Mélanésie](https://fr.wikipedia.org/wiki/M%C3%A9lan%C3%A9sie#/media/File:Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg){: target="_blank"}**{: .accent-color} (ce terme reste un sujet à controverse dans le monde des géologues et anthropologues).
+  L'Archipel des **[Fidji](https://en.wikipedia.org/wiki/Fidji){: target="_blank"}**, dans le pacifique, fait parti de la zone pacifique ouest comprenant la Papouasie, la Nouvelle Calédonie et les Vanuatu plus communément appelée la **[Mélanésie](https://fr.wikipedia.org/wiki/M%C3%A9lan%C3%A9sie#/media/File:Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg){: target="_blank"}** (ce terme reste un sujet à controverse dans le monde des géologues et anthropologues).
 
   Les fonds du canal de **Somosomo** nous plongent dans une ambiance indo-pacifique avec beaucoup de vie et de coraux. Le rainbow reef est de toute beauté avec ses coraux durs et mous multicolores. Il y a plus d'une vingtaine de sites, que l'on peut faire et refaire suivant le sens du courant. Les reefs ne descendent jamais au dessous de 30 mètres, mis à part le Great White Wall. Ce site de plongée, profond et magnifique, est atteignable suivant les marées. Il fait partie du top 10 des plus beaux au monde et il mérite sa réputation&nbsp;: c'est le seul endroit aux Fidji où il neige&nbsp;!! Les clubs y allant à des dates précises, en général 2 fois par semaines, il convient de se renseigner pour tomber aux bonnes dates&nbsp;...
 
@@ -30,24 +30,24 @@ dive-shop: |
   Visité en septembre 2018.
   {: .visited-in}
 
-  **[Tavenui dive](http://www.taveunidiveresort.com/dive-shop/){: target="_blank"} <i class="fa fa-heart"></i>**{: .accent-color} possède 3 bateaux sur une petite marina à 2 minutes à pied du resort. Le plus gros bateau peut accueillir 9 plongeurs. Il y a cinq dive masters. Nous avons plongé avec David et Alfred, deux locaux passionnés. Les palanquées sont maxi de 5-6 personnes, nous n'avons jamais refait le même site durant la semaine. <br/>Les sites sont à 15 minutes en bateau de la marina. Deux plongées le matin à partir de 8h et une proposée l'après-midi mais cette dernière reste compliquée au niveau horaire "Fidji Time" <i class="fa fa-smile-o"></i>
+  **[Tavenui dive <i class="fa fa-heart"></i>](http://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** possède 3 bateaux sur une petite marina à 2 minutes à pied du resort. Le plus gros bateau peut accueillir 9 plongeurs. Il y a cinq dive masters. Nous avons plongé avec David et Alfred, deux locaux passionnés. Les palanquées sont maxi de 5-6 personnes, nous n'avons jamais refait le même site durant la semaine. <br/>Les sites sont à 15 minutes en bateau de la marina. Deux plongées le matin à partir de 8h et une proposée l'après-midi mais cette dernière reste compliquée au niveau horaire "Fidji Time" <i class="fa fa-smile-o"></i>
 
-  **[<i class="fa fa-ship"></i> Fiji Aggressor ](http://www.aggressor.com/){: target="_blank"}**{: .accent-color}  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac. <br/>Depuis 2019, cette croisière a été retirée du site aggressor.
+  **[<i class="fa fa-ship"></i> Fiji Aggressor ](http://www.aggressor.com/){: target="_blank"}**  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac. <br/>Depuis 2019, cette croisière a été retirée du site aggressor.
 
 accommodation: |
   Visité en septembre 2018.
   {: .visited-in}
 
-  A Taveuni&nbsp;: **[ Taveuni Dive resort](http://www.taveunidiveresort.com/){: target="_blank"}**{: .accent-color}&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
+  A Taveuni&nbsp;: **[Taveuni Dive resort](http://www.taveunidiveresort.com/){: target="_blank"}**&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
 
-  A Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**{: .accent-color}&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
+  A Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
 
-  A Nadi&nbsp;: **Tropic of Capricorn** **<i class="fa fa-heart"></i>**{: .accent-color}&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar ou l'on peut commander à manger et à boire.
+  A Nadi&nbsp;: **Tropic of Capricorn <i class="fa fa-heart"></i>**&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar ou l'on peut commander à manger et à boire.
 
 to-see: |
-  A Nadi&nbsp;: **[ Fidji escence and spa](https://www.essenceoffijigroup.com/){: target="_blank"}**{: .accent-color}, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
+  A Nadi&nbsp;: **[ Fidji escence and spa](https://www.essenceoffijigroup.com/){: target="_blank"}**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
 
-  A Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**{: .accent-color} pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
+  A Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
 
   A Gau ou Taveuni&nbsp;: Se faire inviter au village de **Somossomo**, pour discuter avec les villageois, écouter leurs chants et manger une délicieuse cuisine locale.
 
