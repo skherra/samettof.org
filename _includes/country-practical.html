@@ -14,7 +14,7 @@
       </div>
       <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#practicalAccordion">
         <div class="card-body">
-          {{ page.dive-shop }}
+          {{ page.dive-shop | markdownify }}
         </div>
       </div>
     </div>
@@ -29,7 +29,7 @@
       </div>
       <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#practicalAccordion">
         <div class="card-body">
-          {{ page.accommodation }}
+          {{ page.accommodation | markdownify }}
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@
       </div>
       <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#practicalAccordion">
         <div class="card-body">
-          {{ page.to-see }}
+          {{ page.to-see | markdownify }}
         </div>
       </div>
     </div>

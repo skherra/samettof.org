@@ -7,7 +7,7 @@
       <div class="carousel-item{% if forloop.index0 == 0 %} active{% endif %}">
         <div id="quote-mark">&ldquo;</div>
         <div class="log-book">
-          {{ item.text }}
+          {{ item.text | markdownify }}
           {{ item.author }} - {{ item.place }} - {{ item.date }}
         </div>
       </div>
