@@ -1,4 +1,24 @@
 <div id="country-about" class="col-md-6 pl-4 pr-4">
   <h2><span>{%- if page.lang == "fr" -%}A propos du pays{%- elsif page.lang == "en" -%}About the country{%- endif -%}</span></h2>
   {{ page.country-desc | markdownify }}
+  {%- if page.country-desc-sections %}
+  <div class="accordion" id="{{ page.ref }}-accordion">
+    {%- for section in page.country-desc-sections %}
+    <div class="card">
+      <div class="card-header" id="{{ page.ref }}-heading-{{ forloop.index0 }}">
+        <h3 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#{{ page.ref }}-collapse-{{ forloop.index0 }}" aria-expanded="false" aria-controls="{{ page.ref }}-collapse-{{ forloop.index0 }}">
+            {{ section.title }}<i class="fa fa-angle-up control-icon"></i>
+          </button>
+        </h3>
+      </div>
+      <div id="{{ page.ref }}-collapse-{{ forloop.index0 }}" class="collapse" aria-labelledby="{{ page.ref }}-heading-{{ forloop.index0 }}" data-parent="#{{ page.ref }}-accordion">
+        <div class="card-body">
+          {{ section.text | markdownify }}
+        </div>
+      </div>
+    </div>
+    {%- endfor %}
+  </div>
+  {%- endif %}
 </div><!-- /.col -->

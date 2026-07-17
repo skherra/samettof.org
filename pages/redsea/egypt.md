@@ -24,24 +24,13 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Deadalus**, **Elphinstone**, **Dolphinhouse (Samadai)** , **Marsa Abu Dabbab**, **Shaab Claudia**.
 
-  <div class="accordion" id="EgyptAccordion">
-    <div class="card">
-      <div class="card-header" id="headingOneEgypt"><h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneEgypt" aria-expanded="true" aria-controls="collapseOne">Croisière Sud <i class="fa fa-angle-up control-icon"></i></button></h3></div>
-      <div id="collapseOneEgypt" class="collapse" aria-labelledby="headingOne" data-parent="#EgyptAccordion">
-        <div class="card-body">
-          <p> Nous avons effectué une croisière sur <strong>Elphinstone</strong>, <strong>Daedalus</strong>, Zabargad, Rocky Island et les <strong>Fury Shoals</strong> au départ de Port Ghalib. Une très belle croisière, avec pas mal de navigation. Il y a quelques bateaux sur les sites, surtout sur Elphinstone car les bateaux viennent sur une journée. Les récifs en pleine mer sont de toute beauté, murs vertigineux avec une faune et une flore incroyables et très colorées. On y croise des Mantas et des requins pour les plus chanceux. Nous étions fin août, avec une eau à 31 degrés, nous n'avons malheureusement pas croisé les marteaux ni les requins renard.</p>
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <div class="card-header" id="headingTwoEgypt"><h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoEgypt" aria-expanded="true" aria-controls="collapseOne">Marsa Alam <i class="fa fa-angle-up control-icon"></i></button></h3></div>
-      <div id="collapseTwoEgypt" class="collapse" aria-labelledby="headingOne" data-parent="#EgyptAccordion">
-        <div class="card-body">
-          <p><strong>Marsa Alam</strong>, le plus au sud pour des départs depuis la côte, offre plus d'une vingtaine de sites de plongées&nbsp;&#58; des baies à herbier où l'on croise de grosses tortues vertes et de très beaux récifs. Les fonds sont fabuleux, nous avons eu de très bonnes conditions malgré la fin de saison (hiver). Les sites sont riches et les coraux de toute beauté comme ceux que l'on retrouve en indo-pacifique. Les requins dont le longimanus sont présents sur les récifs en pleine eau mais plutôt discrets.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+country-desc-sections:
+- title: Croisière Sud
+  text: |
+    Nous avons effectué une croisière sur **Elphinstone**, **Daedalus**, Zabargad, Rocky Island et les **Fury Shoals** au départ de Port Ghalib. Une très belle croisière, avec pas mal de navigation. Il y a quelques bateaux sur les sites, surtout sur Elphinstone car les bateaux viennent sur une journée. Les récifs en pleine mer sont de toute beauté, murs vertigineux avec une faune et une flore incroyables et très colorées. On y croise des Mantas et des requins pour les plus chanceux. Nous étions fin août, avec une eau à 31 degrés, nous n'avons malheureusement pas croisé les marteaux ni les requins renard.
+- title: Marsa Alam
+  text: |
+    **Marsa Alam**, le plus au sud pour des départs depuis la côte, offre plus d'une vingtaine de sites de plongées&nbsp;: des baies à herbier où l'on croise de grosses tortues vertes et de très beaux récifs. Les fonds sont fabuleux, nous avons eu de très bonnes conditions malgré la fin de saison (hiver). Les sites sont riches et les coraux de toute beauté comme ceux que l'on retrouve en indo-pacifique. Les requins dont le longimanus sont présents sur les récifs en pleine eau mais plutôt discrets.
 
 dive-shop: |
   Visités en décembre 2021.

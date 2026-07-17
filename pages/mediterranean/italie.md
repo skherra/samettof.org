@@ -22,29 +22,19 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Scoglio de Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
 
-  <div class="accordion" id="ItalieAccordion">
-  <div class="card"><div class="card-header" id="headingOneItalie">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneItalie" aria-expanded="true" aria-controls="collapseOne">La Sardaigne <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseOneItalie" class="collapse" aria-labelledby="headingOne" data-parent="#ItalieAccordion"><div class="card-body">
-    <p>La Sardaigne du nord est tout simplement magnifique. Avec sa côte très découpée, elle est surplombée de rochers de granit et offre des petites plages aux couleurs lagonaires et des piscines naturelles. Tout proche, l'archipel Magdalena et au détour d'une plage, on aperçoit la Corse.
-      <br/>On retrouve la même topographie sous l'eau&nbsp;&#58; des rochers très impressionnants qui donnent de beaux tombants de près de 30 mètres de profondeur. Les plongées sont belles. On regrette le manque de poissons, mais on se régale sur le petit (beaucoup de nudibranches, crabes, crevettes, quelques hippocampes et des petites gorgones).</p>
-    <p>L'eau y est chaude et claire et le climat chaud et humide en été.</p>
-    <p>Accessible en ferry ou en avion, il faut prévoir une voiture pour se déplacer.</p>
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingTwoItalie">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoItalie" aria-expanded="true" aria-controls="collapseOne">Ustica <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseTwoItalie" class="collapse" aria-labelledby="headingOne" data-parent="#ItalieAccordion"><div class="card-body">
-  <p><strong><a href="https://fr.wikipedia.org/wiki/Ustica" target="_blank" class="itl-tooltip" data-placement="top">Ustica <i class="fa fa-heart"></i></a></strong> est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongées, l'île est petite et très agréable. Les activités sont la plongées et la randonnée. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à 15 minutes en bateau du port.
-    <br />Nous avons vu beaucoup de gros mérous, de boules de petits, de belles actions de chasse sur les tombants. Les grottes et les arches offrent des petits coraux et des crustacés. Les plongées sont très belles.
-    <br />Les clubs partent en décalé pour que chaque bateau soit seul (ou presque) sous l'eau.
-  </p>
-  <p>Accessible en ferry depuis Palerme, l'île est petite et tout peut se faire à pied, en vélo électrique ou en navette.</p>
-  </div></div>
-  </div>
-  </div>
+country-desc-sections:
+- title: La Sardaigne
+  text: |
+    La Sardaigne du nord est tout simplement magnifique. Avec sa côte très découpée, elle est surplombée de rochers de granit et offre des petites plages aux couleurs lagonaires et des piscines naturelles. Tout proche, l'archipel Magdalena et au détour d'une plage, on aperçoit la Corse. <br/>On retrouve la même topographie sous l'eau&nbsp;: des rochers très impressionnants qui donnent de beaux tombants de près de 30 mètres de profondeur. Les plongées sont belles. On regrette le manque de poissons, mais on se régale sur le petit (beaucoup de nudibranches, crabes, crevettes, quelques hippocampes et des petites gorgones).
+
+    L'eau y est chaude et claire et le climat chaud et humide en été.
+
+    Accessible en ferry ou en avion, il faut prévoir une voiture pour se déplacer.
+- title: Ustica
+  text: |
+    **[Ustica <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Ustica){: target="_blank"}** est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongées, l'île est petite et très agréable. Les activités sont la plongées et la randonnée. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à 15 minutes en bateau du port. <br />Nous avons vu beaucoup de gros mérous, de boules de petits, de belles actions de chasse sur les tombants. Les grottes et les arches offrent des petits coraux et des crustacés. Les plongées sont très belles. <br />Les clubs partent en décalé pour que chaque bateau soit seul (ou presque) sous l'eau.
+
+    Accessible en ferry depuis Palerme, l'île est petite et tout peut se faire à pied, en vélo électrique ou en navette.
 
 dive-shop: |
   Visité en septembre 2025.

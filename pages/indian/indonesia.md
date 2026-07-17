@@ -24,34 +24,22 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of de Raja Ampat&nbsp;: **Boo West, Nudy Rock (Misool), 4 Kings (Misool), Melissa's garden, Sawandarek, Manta Wai, Blue Magic**.
 
-  <div class="accordion" id="IndoAccordion">
-  <div class="card"><div class="card-header" id="headingOneIndo">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneIndo" aria-expanded="true" aria-controls="collapseOne">Komodo<i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseOneIndo" class="collapse" aria-labelledby="headingOne" data-parent="#IndoAccordion"><div class="card-body">
-    <p>Formés d'îles volcaniques, les sites de plongées de Komodo sont très riches en faune et flore avec des topographies très variées. Sur Komodo le courant, parfois fort, amène une vie abondante. </p>
-    <p>Nous avons choisi une longue croisière plongée depuis Bali vers <strong>Komodo</strong> en passant par les îles de Satonda, Moyo et Sangeang. Nous avons pu apprécier des récifs et des ambiances très différentes au cours du périple. Nous avons apprécié Sangeang et sa géothermie sous-marine ainsi que Komodo. Mais depuis l'île de Florès, il est tout à fait possible d'atteindre les sites du centre et du nord en une heure de bateau.</p>
-    <p>On ne peut que regretter l'absence de sauvegarde du parc marin si exceptionnel à Komodo, les bateaux jettent l'ancre, les pêcheurs prennent leur prise à la dynamite ou au cyanure à l'orée du parc marin.</p>
+country-desc-sections:
+- title: Komodo
+  text: |
+    Formés d'îles volcaniques, les sites de plongées de Komodo sont très riches en faune et flore avec des topographies très variées. Sur Komodo le courant, parfois fort, amène une vie abondante.
 
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingTwoIndo">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoIndo" aria-expanded="true" aria-controls="collapseOne">Raja Ampat <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseTwoIndo" class="collapse" aria-labelledby="headingOne" data-parent="#IndoAccordion"><div class="card-body">
-  <p>Une longue croisière sur Misool, Central Raja et le nord permet d'apprécier la diversité des sites coraliens de la Papouasie occidentale.</p>
-  <p><strong>Raja Ampat</strong> à quelques heures de navigation de Sorong offre des sites poissonneux et très riches, la guest star restera le requin <strong><a href="https://fr.wikipedia.org/wiki/Orectolobidae" target="_blank" class="itl-tooltip" data-placement="top">Wobbegong</a></strong> ou requin tapis. Au sud on voit beaucoup de coraux mous, au nord ce sont plutôt du courant et des coraux durs. Il y a du petit comme du gros, mais la visibilité n'est pas toujours au rendez-vous. Nous sommes restés côté central Raja Ampat pour profiter des sites de plongées réputés à Manta et nous n'avons pas été déçus.</p>
+    Nous avons choisi une longue croisière plongée depuis Bali vers **Komodo** en passant par les îles de Satonda, Moyo et Sangeang. Nous avons pu apprécier des récifs et des ambiances très différentes au cours du périple. Nous avons apprécié Sangeang et sa géothermie sous-marine ainsi que Komodo. Mais depuis l'île de Florès, il est tout à fait possible d'atteindre les sites du centre et du nord en une heure de bateau.
 
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingthreeIndo">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapsethreeIndo" aria-expanded="true" aria-controls="collapseOne">Nusa Penida <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapsethreeIndo" class="collapse" aria-labelledby="headingOne" data-parent="#IndoAccordion"><div class="card-body">
-    <p>Depuis Bali nous avons pris un speed boat pour <strong>Nusa Penida</strong> depuis Sanure. Il faut compter 35 minutes. Sur la plage, tous les touristes attendent pour prendre le bateau. Les plongées sont sympathiques et si on est patients on pourra voir des Molas Molas et des Mantas.</p>
-  </div></div>
-  </div>
-  </div>
+    On ne peut que regretter l'absence de sauvegarde du parc marin si exceptionnel à Komodo, les bateaux jettent l'ancre, les pêcheurs prennent leur prise à la dynamite ou au cyanure à l'orée du parc marin.
+- title: Raja Ampat
+  text: |
+    Une longue croisière sur Misool, Central Raja et le nord permet d'apprécier la diversité des sites coraliens de la Papouasie occidentale.
+
+    **Raja Ampat** à quelques heures de navigation de Sorong offre des sites poissonneux et très riches, la guest star restera le requin **[Wobbegong](https://fr.wikipedia.org/wiki/Orectolobidae){: target="_blank"}** ou requin tapis. Au sud on voit beaucoup de coraux mous, au nord ce sont plutôt du courant et des coraux durs. Il y a du petit comme du gros, mais la visibilité n'est pas toujours au rendez-vous. Nous sommes restés côté central Raja Ampat pour profiter des sites de plongées réputés à Manta et nous n'avons pas été déçus.
+- title: Nusa Penida
+  text: |
+    Depuis Bali nous avons pris un speed boat pour **Nusa Penida** depuis Sanure. Il faut compter 35 minutes. Sur la plage, tous les touristes attendent pour prendre le bateau. Les plongées sont sympathiques et si on est patients on pourra voir des Molas Molas et des Mantas.
 
 dive-shop: |
   Visité en janvier 2025 et septembre 2017.

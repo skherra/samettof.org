@@ -22,23 +22,13 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} A Cabo Pulmo, le best of **El Vencedor, El Bajo**.
 
-  <div class="accordion" id="BajaAccordion">
-  <div class="card"><div class="card-header" id="headingOneBaja">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneBaja" aria-expanded="true" aria-controls="collapseOne">Socorro <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseOneBaja" class="collapse" aria-labelledby="headingOne" data-parent="#BajaAccordion"><div class="card-body">
-   <p><strong><a href="https://fr.wikipedia.org/wiki/%C3%8Ele_Socorro" target="_blank" class="itl-tooltip" data-placement="top">Socorro</a></strong>, dans l'archipel de <strong><a href="https://fr.wikipedia.org/wiki/%C3%8Eles_Revillagigedo" target="_blank" class="itl-tooltip" data-placement="top">Revillagigedo</a></strong>, est une réserve marine inscrite au patrimoine mondial de l'Unesco. Situé à plus de 24h de navigation de la côte mexicaine dans le pacifique, cela se mérite&nbsp;! Elle est constituée de trois îles et un Roc au milieu de l'archipel. On ne peut poser pied à terre. Les îles d'origines volcaniques sont riches en faune et de gros pélagiques y passent toute l'année comme des mantas océaniques et des marteaux. Il y a une saison à baleine et requins baleines mais avec beaucoup de bateaux. Il est dit&nbsp;&#58; "quand vous avez tout fait allez à Socorro&nbsp;!". Malgrè une visibilité que nous avons trouvée moyenne, nous avons pu apprécier sur pratiquement toutes les plongées des mantas, dauphins et des bancs de requins. Les plongées sont très belles, un peu techniques, avec des entrées négatives, beaucoup de houle même à 20 mètres et des courants assez changeants dont des vortex sur Roca Partida.
-   </p>
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingTwoBaja">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoBaja" aria-expanded="true" aria-controls="collapseOne">Cabo Pulmo <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseTwoBaja" class="collapse" aria-labelledby="headingOne" data-parent="#BajaAccordion"><div class="card-body">
-  <p>Le parc national de <strong><a href="https://fr.wikipedia.org/wiki/Parc_national_Cabo_Pulmo"  target="_blank" class="itl-tooltip" data-placement="top">Cabo Pulmo</a></strong> sur la mer de Cortés, lui aussi inscrit au patrimoine mondial de l'Unesco, est accessible par le petit village au bout d'une piste. On y vient pour le snorkeling ou la plongée. L'endroit est calme en basse saison et les pélicans sur la plage font le spectacle. Le parc est très réglementé et les sites de plongées sont fermés suivant un quota de fréquentation, les plongées ne durent que 45 à 50 minutes maximum. Nous avons eu la chance de tomber sur un petit club qui ne regardait pas l'horaire :) et sur la basse saison, les sites les plus réputés étaient ouverts. De belles rencontres dont des requins taureaux et des mérous goliaths. La visibilité n'était pas très bonne et l'eau assez froide, mais les plongées sont simples. Les fonds sableux sont au maximum à 25 mètres, de beaux récifs plein de vie et des bancs de carangues ou des mérous impressionnants. Nous avons pu voir un petit banc de mobulas très furtives sur la dernière plongée.</p>
-  </div></div>
-  </div>
-  </div>
+country-desc-sections:
+- title: Socorro
+  text: |
+    **[Socorro](https://fr.wikipedia.org/wiki/%C3%8Ele_Socorro){: target="_blank"}**, dans l'archipel de **[Revillagigedo](https://fr.wikipedia.org/wiki/%C3%8Eles_Revillagigedo){: target="_blank"}**, est une réserve marine inscrite au patrimoine mondial de l'Unesco. Situé à plus de 24h de navigation de la côte mexicaine dans le pacifique, cela se mérite&nbsp;! Elle est constituée de trois îles et un Roc au milieu de l'archipel. On ne peut poser pied à terre. Les îles d'origines volcaniques sont riches en faune et de gros pélagiques y passent toute l'année comme des mantas océaniques et des marteaux. Il y a une saison à baleine et requins baleines mais avec beaucoup de bateaux. Il est dit&nbsp;: "quand vous avez tout fait allez à Socorro&nbsp;!". Malgrè une visibilité que nous avons trouvée moyenne, nous avons pu apprécier sur pratiquement toutes les plongées des mantas, dauphins et des bancs de requins. Les plongées sont très belles, un peu techniques, avec des entrées négatives, beaucoup de houle même à 20 mètres et des courants assez changeants dont des vortex sur Roca Partida.
+- title: Cabo Pulmo
+  text: |
+    Le parc national de **[Cabo Pulmo](https://fr.wikipedia.org/wiki/Parc_national_Cabo_Pulmo){: target="_blank"}** sur la mer de Cortés, lui aussi inscrit au patrimoine mondial de l'Unesco, est accessible par le petit village au bout d'une piste. On y vient pour le snorkeling ou la plongée. L'endroit est calme en basse saison et les pélicans sur la plage font le spectacle. Le parc est très réglementé et les sites de plongées sont fermés suivant un quota de fréquentation, les plongées ne durent que 45 à 50 minutes maximum. Nous avons eu la chance de tomber sur un petit club qui ne regardait pas l'horaire :) et sur la basse saison, les sites les plus réputés étaient ouverts. De belles rencontres dont des requins taureaux et des mérous goliaths. La visibilité n'était pas très bonne et l'eau assez froide, mais les plongées sont simples. Les fonds sableux sont au maximum à 25 mètres, de beaux récifs plein de vie et des bancs de carangues ou des mérous impressionnants. Nous avons pu voir un petit banc de mobulas très furtives sur la dernière plongée.
 
 dive-shop: |
   Visité en avril 2024.

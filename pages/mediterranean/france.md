@@ -24,45 +24,19 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou).
 
-  <div class="accordion" id="FranceAccordion">
-  <div class="card"><div class="card-header" id="headingOneFrance">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOneFrance" aria-expanded="true" aria-controls="collapseOne">Cerbère Banuyls <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseOneFrance" class="collapse" aria-labelledby="headingOne" data-parent="#FranceAccordion"><div class="card-body">
-  <p>La réserve de <strong><a href="https://www.reserves-naturelles.org/cerbere-banyuls" target="_blank" class="itl-tooltip" data-placement="top">Cerbère Banyuls</a></strong> dans les Pyrénées orientales est de toute beauté. A la frontière espagnole, on se sent au bout du monde entre la montagne et la mer. On peut plonger en Espagne ou en France selon la météo.
-    <br>L'eau n’est claire qu'un mois dans l'année, d’après les locaux ! Il y a beaucoup de particules et la vie reste entre 0 et 20 mètres. Les sites sont assez proches les uns des autres. La topographie est belle, on y trouve des petites cavités, de longs canyons, des arches. Certains sites ne sont pas simples à repérer pour les non connaisseurs du coin en raison de la faible visibilité.
-  </p>
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingTwoFrance">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwoFrance" aria-expanded="true" aria-controls="collapseOne">Riou <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapseTwoFrance" class="collapse" aria-labelledby="headingOne" data-parent="#FranceAccordion"><div class="card-body">
-  <p><strong><a href="http://www.calanques-parcnational.fr/fr/archipel-iles-riou-marseille" target="_blank" class="itl-tooltip" data-placement="top">L'archipel de Riou <i class="fa fa-heart"></i></a></strong> dans le parc national des calanques est tout simplement splendide. On accède à la réserve marine par le chenal de <strong><a href="https://fr.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre" target="_blank" class="itl-tooltip" data-placement="top">l'île de Maïre</a></strong> et le Cap Croisette, les îles sont des sanctuaires pour les oiseaux, et pour les plongeurs.
-    <br/>Des murs de gorgones violettes, bleues, rouges ou jaunes. La vie y est foisonnante autour des pitons rocheux immergés, des grottes ou des tunnels. C'est la fête des mérous et des poulpes mais les barracudas ou les chapons ne sont pas en reste. L'eau y est très claire.
-    <br/> Malheureusement, comme l'archipel est accessible à 20 minutes en bateau du grand port de Pointe rouge, il y a beaucoup de bateaux de plongeurs, surtout le week-end.
-    </p>
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingthreeFrance">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapsethreeFrance" aria-expanded="true" aria-controls="collapseOne">Porquerolles <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapsethreeFrance" class="collapse" aria-labelledby="headingOne" data-parent="#FranceAccordion"><div class="card-body">
-  <p>L'île de <strong><a href="https://fr.wikipedia.org/wiki/%C3%8Ele_de_Porquerolles" target="_blank" class="itl-tooltip" data-placement="top">Porquerolles</a></strong> dans le Var est à 20 min de bateau de la côte. Avec Giens et Port-Cros, il y a au moins une 40aine de sites à découvrir. Sur Porquerolles, nous n'avons pas fait beaucoup de plongées mais nous avons croisé beaucoup de mérous, murènes et des barracudas. La topographie est très belle et cela nous a donné envie d'y retourner.
-    <br>
-  </p>
-  </div></div>
-  </div>
-  <div class="card"><div class="card-header" id="headingfourFrance">
-  <h3 class="mb-0"><button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapsefourFrance" aria-expanded="true" aria-controls="collapseOne">Cap D'Antibes <i class="fa fa-angle-up control-icon"></i></button></h3>
-  </div>
-  <div id="collapsefourFrance" class="collapse" aria-labelledby="headingOne" data-parent="#FranceAccordion"><div class="card-body">
-  <p>Plonger au Cap d'Antibes dans les Alpes maritimes reste une expérience sympathique. L'eau est claire et chaude en été. Nous avons plongé sur le Cap à la Fourmigue (phare), nous avons croisé des petits barracudas, murènes et des poulpes.
-    <br>
-  </p>
-  </div></div>
-  </div>
-  </div>
+country-desc-sections:
+- title: Cerbère Banuyls
+  text: |
+    La réserve de **[Cerbère Banyuls](https://www.reserves-naturelles.org/cerbere-banyuls){: target="_blank"}** dans les Pyrénées orientales est de toute beauté. A la frontière espagnole, on se sent au bout du monde entre la montagne et la mer. On peut plonger en Espagne ou en France selon la météo. <br>L'eau n’est claire qu'un mois dans l'année, d’après les locaux ! Il y a beaucoup de particules et la vie reste entre 0 et 20 mètres. Les sites sont assez proches les uns des autres. La topographie est belle, on y trouve des petites cavités, de longs canyons, des arches. Certains sites ne sont pas simples à repérer pour les non connaisseurs du coin en raison de la faible visibilité.
+- title: Riou
+  text: |
+    **[L'archipel de Riou <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/fr/archipel-iles-riou-marseille){: target="_blank"}** dans le parc national des calanques est tout simplement splendide. On accède à la réserve marine par le chenal de **[l'île de Maïre](https://fr.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** et le Cap Croisette, les îles sont des sanctuaires pour les oiseaux, et pour les plongeurs. <br/>Des murs de gorgones violettes, bleues, rouges ou jaunes. La vie y est foisonnante autour des pitons rocheux immergés, des grottes ou des tunnels. C'est la fête des mérous et des poulpes mais les barracudas ou les chapons ne sont pas en reste. L'eau y est très claire. <br/>Malheureusement, comme l'archipel est accessible à 20 minutes en bateau du grand port de Pointe rouge, il y a beaucoup de bateaux de plongeurs, surtout le week-end.
+- title: Porquerolles
+  text: |
+    L'île de **[Porquerolles](https://fr.wikipedia.org/wiki/%C3%8Ele_de_Porquerolles){: target="_blank"}** dans le Var est à 20 min de bateau de la côte. Avec Giens et Port-Cros, il y a au moins une 40aine de sites à découvrir. Sur Porquerolles, nous n'avons pas fait beaucoup de plongées mais nous avons croisé beaucoup de mérous, murènes et des barracudas. La topographie est très belle et cela nous a donné envie d'y retourner.
+- title: Cap D'Antibes
+  text: |
+    Plonger au Cap d'Antibes dans les Alpes maritimes reste une expérience sympathique. L'eau est claire et chaude en été. Nous avons plongé sur le Cap à la Fourmigue (phare), nous avons croisé des petits barracudas, murènes et des poulpes.
 
 dive-shop: |
   Visités en juillet, août 2023.
