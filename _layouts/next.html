@@ -21,7 +21,7 @@
                 <div class="date"><span class="day">{{ bubble.day }}</span><span class="month">{{ bubble.month }}</span></div>
                 <div class="type"><i class="fa {{ bubble.icon }}"></i></div>
               </div>
-              {{ bubble.content }}
+              {{ bubble.content | markdownify }}
             </div>
             {% endfor -%}
           </div>
