@@ -19,17 +19,17 @@ bubbles:
 - month: ????
   day: ??
   icon: fa-ship
-  content:
-    <p>Indian Ocean&#58; Raja Ampat, Alor, Seychelles</p>
+  content: |
+    Indian Ocean: Raja Ampat, Alor, Seychelles
 - month: ????
   day: ??
   icon: fa-ship
-  content:
-    <p>Pacific Ocean&#58; Cook, Tonga, Marquises, Phillipines, ...</p>
+  content: |
+    Pacific Ocean: Cook, Tonga, Marquises, Phillipines, ...
 - month: ????
   day: ??
   icon: fa-ship
-  content:
-    <p>Red Sea</p>
+  content: |
+    Red Sea
 
 ---

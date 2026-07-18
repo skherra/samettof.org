@@ -1,0 +1,75 @@
+---
+
+layout: faq
+ref: faq
+permalink: /en/faq/
+
+lang: en
+lang-flag: 🇬🇧
+
+title: FAQ
+description: Sam & Tof - FAQ
+
+sea: faq
+menu: FAQ
+h1: FAQ
+
+qa:
+- N: 01
+  I: fa-flag
+  Q: How to choose a dive shop?
+  A: |
+    Généralement c'est du **feeling** ...
+
+    Voici quelques "tips & tricks" qui marchent pour nous&nbsp;:
+    * **Avant le départ**&nbsp;: Nous aimons contacter le club afin de ne pas avoir de mauvaises surprises&nbsp;; sur des petites structures il convient de vérifier les disponibilités du club et les plannings de certaines plongées. Nous sommes aussi attentifs aux informations fournies par le club de plongées, leurs réponses par email ou sur leur site comme la description des sites de plongées, le type de bateau, le planning des sorties et les avis des plongeurs.
+    * **Sur place**&nbsp;: Si nous le pouvons, nous essayons de passer la veille au club pour apprécier l'accueil, vérifier la qualité des équipements, comprendre l'organisation et rencontrer le staff. Les brevets ou certificats doivent être affichés ou visibles. Les vérifications des niveaux des plongeurs sont impératives.
+    * **Enfin et surtout**, le nombre de personnes par palanquée (réglementée suivant les pays), le sérieux et la sécurité, le niveau des guides (le nombre de moniteur dans le club par exemple pour les plongées encadrées) et leur connaissance des lieux.
+    * **Le prix** ne doit pas être un critère de choix.
+- N: 02
+  I: fa-certificate
+  Q: What type of certification?
+  A: |
+    Sans porter de jugement sur les types de formations dispensées, nous avons des certifications Padi et ANMP.
+
+    En voici les raisons&nbsp;: <br/>* **Padi**&nbsp;: Pour plonger partout dans le monde. C'est de plus en plus rare car la plongée loisir se développe, mais il faut savoir que les certifications européennes ne sont pas toujours reconnues dans les contrées lointaines (comme par exemple le Japon). <br/>* **ANMP** ou équivalente européenne&nbsp;: Pour la France, les DOM TOM, les pays d'outremer ou l’Afrique où elles sont mieux reconnues. Pour pouvoir plonger en toute autonomie des palanquées. Pour pouvoir tout simplement plonger dans les passes en Polynésie Française par exemple.
+
+    Et pourquoi pas le Niveau 3 ou Dive Master ? Tout simplement parce qu’avec un Advanced Padi ou un niveau 2 Français, nous pouvons effectuer toutes les plongées que nous souhaitons sans limitations particulières.
+- N: 03
+  I: fa-adjust
+  Q: Air or Nitrox?
+  A: |
+    Pour des plongées jusqu'à 30 mètres et répétitives dans la journée, le Nitrox sans hésiter pour un maximum de confort à tout point de vue. La certification est simple et la vérification du pourcentage d'oxygène ou le réglage de l'ordinateur devient vite une formalité.
+- N: 04
+  I: fa-cog
+  Q: Should you take your equipment?
+  A: |
+    Nous le prenons à chaque fois, car nous avons nos habitudes et que nous sommes certains de son état. Toutefois, notre matériel pèse 17 kg à lui tout seul, ce qui n'est pas aisé pour les transports et les avions (surcharge bagages ...). <br/>Beaucoup de destinations "offrent" un équipement de bonne qualité, mais ce n'est pas toujours le cas. Au minimum il faut voyager avec **son ordinateur et son masque.**
+- N: 05
+  I: fa-briefcase
+  Q: What luggage?
+  A: |
+    Nous préférons des sacs souples et grands formats qui peuvent se porter en sac à dos. Actuellement les **North Face XXL** font l'affaire. Ils ont une grande capacité de rangement, ne pèsent presque rien à vide et se rangent facilement dans les espaces restreints. Nous rangeons le sec dans des petits sac étanches.
+
+    Les sacs "adaptés" pour la plongée ne le sont justement pas&nbsp;: pas de compartiment étanche, lourd à vide, mauvais rapport qualité-prix, souvent hors format pour les aéroports et les petites roulettes quand le sac fait 20 kilos sont souvent inutiles. <br/>D'autres plongeurs préféreront des petites valides rigides (au moins 2 par personnes).
+- N: 06
+  I: fa-eye
+  Q: Contact lenses or mask at your sight?
+  A: |
+    Nous préférons les lentilles et, contrairement à ce que l'on peut penser, les lentilles collent à partir de 10 mètres, il y a peu de risque de les perdre. <br/>Les masques à la vue consistent à coller des verres sur le masque, ce qui fait perdre selon nous, une vision pleine.
+- N: 07
+  I: fa-camera-retro
+  Q: What is our photo equipment?
+  A: |
+    Nous utilisons un petit appareil **Sealife** et son caisson pour la macro. Il est compact et pratique pour toutes les types de plongées. Ses filtres intégrés sont disponibles en raccourci sur le caisson. Le mode vidéo n'est cependant pas terrible. <br/>Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
+
+    Et bien sûr, beaucoup de lumières !
+- N: 08
+  I: fa-binoculars
+  Q: Which place did we prefer?
+  A: |
+    On nous pose souvent la question, et c'est très difficile d'y répondre ...  <i class="fa fa-smile-o"></i> <br/>Toutes les plongées ont leur charme et nous apprécions la richesse des océans Indien et Pacifique mais également les ambiances si particulières de l'Atlantique. De plus, plusieurs paramètres entrent en jeu&nbsp;: les saisons, la météo et surtout la chance jouent beaucoup !
+
+    A l'unanimité voici notre top 5 (à noter que ce ne sont pas les plongées les plus faciles en raison du fort courant)&nbsp;: <br/>* **[Fakarava Sud](/en/pacific/french-polynesia/)**{: .accent-color} avec ses murs de requins époustouflants. <br/>* Les mythiques **[Galapagos](/en/pacific/galapagos/)**{: .accent-color} pour leur extrême richesse à chaque plongée (Darwin, Wolf, Isabella). <br/>* Les murs de requins marteaux à **[Cocos](/en/pacific/costa-rica-cocos/)**{: .accent-color} et autres beautés sous-marines (Requins tigres, Requins soyeux, Mantas, ... ). <br/>* **[Komodo](/en/indian/indonesia/)**{: .accent-color} en Indonésie pour son autoroute à Mantas (Shotgun). <br/>* **[Palaos](/en/pacific/palau/)**{: .accent-color} pour l'incroyable diversité de la faune à chaque plongée et le moment d'exception pendant la reproduction des vivaneaux du Pacifique.
+
+---
