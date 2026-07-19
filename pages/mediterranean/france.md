@@ -2,7 +2,7 @@
 
 layout: country
 ref: france
-permalink: /mediterranean/france/
+permalink: /mediterranee/france/
 
 lang: fr
 lang-flag: 🇫🇷

@@ -2,7 +2,7 @@
 
 layout: calendar
 ref: calendar
-permalink: /calendar/
+permalink: /calendrier/
 
 lang: fr
 lang-flag: 🇫🇷

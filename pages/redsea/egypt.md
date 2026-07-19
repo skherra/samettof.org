@@ -2,7 +2,7 @@
 
 layout: country
 ref: egypt
-permalink: /redsea/egypt/
+permalink: /mer-rouge/egypte/
 
 lang: fr
 lang-flag: 🇫🇷

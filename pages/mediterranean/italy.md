@@ -2,7 +2,7 @@
 
 layout: country
 ref: italy
-permalink: /mediterranean/italie/
+permalink: /mediterranee/italie/
 
 lang: fr
 lang-flag: 🇫🇷
