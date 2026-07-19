@@ -3,15 +3,15 @@
 - img: philippines2.webp
   page-ref: philippines
 - img: ustica.webp
-  page-ref: italie
+  page-ref: italy
 - img: estartit.webp
-  page-ref: espagne
+  page-ref: spain
 - img: rajaampat.webp
   page-ref: indonesia
-- img: acores.webp
-  page-ref: acores
+- img: azores.webp
+  page-ref: azores
 - img: mexico2.webp
-  page-ref: mexico2
+  page-ref: mexico-baja-california
 - img: statia2023.webp
   page-ref: statia
 - img: france2.webp
@@ -28,8 +28,8 @@
   page-ref: bonaire
 - img: egypt.webp
   page-ref: egypt
-- img: sardaigne.webp
-  page-ref: italie
+- img: sardinia.webp
+  page-ref: italy
 - img: france2021.webp
   page-ref: france
 - img: polynesie2020.webp
@@ -40,31 +40,31 @@
   page-ref: palau
 - img: cocos.webp
   page-ref: costa-rica-cocos
-- img: stp.webp
+- img: sao-tome.webp
   page-ref: sao-tome
-- img: isl.webp
+- img: iceland.webp
   page-ref: iceland
-- img: mada.webp
+- img: madagascar.webp
   page-ref: madagascar
 - img: fiji.webp
   page-ref: fiji
-- img: gal.webp
+- img: galapagos.webp
   page-ref: galapagos
-- img: moz.webp
+- img: mozambique.webp
   page-ref: mozambique
-- img: afsud.webp
+- img: south-africa.webp
   page-ref: south-africa
 - img: martinique.webp
   page-ref: martinique
-- img: indonesie.webp
+- img: indonesia.webp
   page-ref: indonesia
 - img: tuamotus.webp
   page-ref: french-polynesia
 - img: les-saintes.webp
   page-ref: les-saintes
 - img: cozumel.webp
-  page-ref: mexico
-- img: cap-vert.webp
+  page-ref: mexico-yucatan
+- img: cape-verde.webp
   page-ref: cape-verde
 - img: hawaii.webp
   page-ref: hawaii
@@ -72,11 +72,11 @@
   page-ref: statia
 - img: maldives.webp
   page-ref: maldives
-- img: tanzanie.webp
+- img: tanzania.webp
   page-ref: tanzania
 - img: belize.webp
   page-ref: belize
 - img: lanzarote.webp
   page-ref: canary-islands
-- img: japon.webp
+- img: japan.webp
   page-ref: japan

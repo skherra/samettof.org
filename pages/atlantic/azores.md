@@ -1,7 +1,7 @@
 ---
 
 layout: country
-ref: acores
+ref: azores
 permalink: /atlantique/acores/
 
 lang: fr

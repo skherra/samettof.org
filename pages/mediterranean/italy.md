@@ -1,7 +1,7 @@
 ---
 
 layout: country
-ref: italie
+ref: italy
 permalink: /mediterranean/italie/
 
 lang: fr

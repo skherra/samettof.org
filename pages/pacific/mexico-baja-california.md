@@ -1,7 +1,7 @@
 ---
 
 layout: country
-ref: mexico2
+ref: mexico-baja-california
 permalink: /pacifique/mexique-baja-california/
 
 lang: fr

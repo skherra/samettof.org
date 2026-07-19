@@ -24,7 +24,7 @@
   lng: 3.224359
   icon: diveFlagIcon
   place: Iles Medes
-  ref: espagne
+  ref: spain
   fr-date: septembre 2005 et juin 2025
   en-date: September 2005
 - lat: 48.85334
@@ -263,12 +263,12 @@
 - lat: 20.47553
   lng: -86.97563
   icon: diveFlagIcon
-  ref: mexico
+  ref: mexico-yucatan
   place: Cozumel
 - lat: 20.33545
   lng: -87.40551
   icon: diveFlagIcon
-  ref: mexico
+  ref: mexico-yucatan
   place: Cenotes
 - lat: 9.44094
   lng: 138.05549
@@ -333,12 +333,12 @@
 - lat: 41.180094
   lng: 9.417727
   icon: diveFlagIcon
-  ref: italie
+  ref: italy
   place: Magdalena
 - lat: 41.342531
   lng: 9.246932
   icon: diveFlagIcon
-  ref: italie
+  ref: italy
   place: Lavezzi
 - lat: 28.919325
   lng: -13.673829
@@ -398,20 +398,20 @@
   lng: -109.41507
   icon: diveFlagIcon
   place: Cabo Pulmo
-  ref: mexico2
+  ref: mexico-baja-california
   fr-date: avril 2024
   en-date: April 2024
 - lat: 18.99199
   lng: -112.08400
   icon: diveFlagIcon
   place: Socorro
-  ref: mexico2
+  ref: mexico-baja-california
   fr-date: avril-mai 2024
   en-date: April 2024
 - lat: 37.74293
   lng: -25.62799
   icon: diveFlagIcon
-  ref: acores
+  ref: azores
   fr-date: juillet 2024
   en-date: Jully 2024
 - lat: -0.58079
@@ -425,7 +425,7 @@
   lng: 13.178978
   icon: diveFlagIcon
   place: Ustica
-  ref: italie
+  ref: italy
   fr-date: septembre 2025
   en-date: September 2025
 - lat: 9.92314

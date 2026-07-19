@@ -1,7 +1,7 @@
 ---
 
 layout: country
-ref: mexico
+ref: mexico-yucatan
 permalink: /caraibes/mexique-yucatan/
 
 lang: fr

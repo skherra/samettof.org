@@ -1,7 +1,7 @@
 ---
 
 layout: country
-ref: espagne
+ref: spain
 permalink: /mediterranean/espagne/
 
 lang: fr

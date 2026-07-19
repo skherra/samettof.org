@@ -2,7 +2,7 @@
 - fr-label: Atlantique
   en-label: Atlantic
   sublabels:
-    - ref: acores
+    - ref: azores
     - ref: canary-islands
     - ref: cape-verde
     - ref: iceland
@@ -14,7 +14,7 @@
     - ref: belize
     - ref: bonaire
     - ref: martinique
-    - ref: mexico
+    - ref: mexico-yucatan
     - ref: les-saintes
     - ref: statia
 - fr-label: Indien
@@ -30,9 +30,9 @@
 - fr-label: Méditerranée
   en-label: mediterranean
   sublabels:
-    - ref: espagne
+    - ref: spain
     - ref: france
-    - ref: italie
+    - ref: italy
 - fr-label: Mer rouge
   en-label: Red sea
   sublabels:
@@ -45,7 +45,7 @@
     - ref: galapagos
     - ref: hawaii
     - ref: japan
-    - ref: mexico2
+    - ref: mexico-baja-california
     - ref: micronesia
     - ref: palau
     - ref: philippines
