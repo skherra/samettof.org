@@ -72,7 +72,7 @@ accommodation: |
 
   **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** est un tout petit resort un peu excentré de la ville avec une vue imprenable pour le coucher de soleil, sur Caalan Beach. Il ne faut pas hésiter à prendre un touktouk par la plage depuis le ferry (c'est mal indiqué mais ils y vont ...). Le ressort est confortable un seul bungalow offre une vue plage magnifique. Ils offrent des repas Philippinesns simples et peu chers.
 
-  **[Muting paraiso](https://www.facebook.com/muntingparaiso.ph/){: target="_blank"}**, hôtel très reposant pour un transit, piscine agréable et possibilité de massage Thai. Le chef cuisinier propose des plats savoureux.
+  **Muting paraiso**, hôtel très reposant pour un transit, piscine agréable et possibilité de massage Thai. Le chef cuisinier propose des plats savoureux.
 
   **[Belmont Hotel](https://belmonthotelmanila.com){: target="_blank"}** permet de faire un bon transit sur Manille. Petit roof top et piscine bar au dernier étage. L'avantage est de pouvoir joindre depuis l'aéroport l'hôtel à pied en moins de 10 min.
 

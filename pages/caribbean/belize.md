@@ -41,7 +41,7 @@ accommodation: |
   **[ Isla Marisol Resort](https://islamarisolresort.com/){: target="_blank"}**, à la mode Robinson. Le restaurant et les hûtes sont sommaires ainsi que l'accueil. Les horaires des repas ne sont pas adaptés à la plongée qui reste la seule activité de ce resort. Le resort était envahi de mouches de sables quand nous y étions.
 
 to-see: |
-  **San Ignacio** : S'enfoncer dans la grotte **[ATM](https://en.wikivoyage.org/wiki/Actun_Tunichil_Muknal){: target="_blank"}** et les fascinants temples Mayas. <br> Faîtes votre propre chocolat à partir de la fève cacao chez **[Ajaw Chocolate](https://www.facebook.com/cayochocolate/){: target="_blank"}**.
+  **San Ignacio** : S'enfoncer dans la grotte **[ATM](https://en.wikivoyage.org/wiki/Actun_Tunichil_Muknal){: target="_blank"}** et les fascinants temples Mayas. <br> Faîtes votre propre chocolat à partir de la fève cacao chez **Ajaw Chocolate**.
 
    **[Tikal](https://fr.wikipedia.org/wiki/Tikal){: target="_blank"}**, et **[ Yaxha](https://fr.wikipedia.org/wiki/Yaxha){: target="_blank"}** au Guatemala. A deux pas de la frontière avec le Bélize
 

@@ -22,7 +22,7 @@ country-desc: |
 
   Le **[ Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica){: target="_blank"}** terrestre regorge également de merveilles : plantes, insectes et animaux tropicaux. Ecologistes avant l'heure, ce pays a mis en oeuvre depuis très longtemps la sauvegarde de son patrimoine. Pura Vida !
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Coco, le best of : **Manuelita Outside, Alcyone** et **Dirty Rock** : [<i class="fa fa-map"></i>](https://www.underseahunter.com/divesites-cocos-island.html){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Coco, le best of : **Manuelita Outside, Alcyone** et **Dirty Rock** : [<i class="fa fa-map"></i>](https://underseahunter.com/cocos-island/#dive-sites){: target="_blank"}.
 
 dive-shop: |
   Visité en septembre 2019.

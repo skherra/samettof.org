@@ -36,7 +36,7 @@ dive-shop: |
   Visités en décembre 2021.
   {: .visited-in}
 
-  **[Oasis Diving Resort <i class="fa fa-heart"></i>](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/){: target="_blank"}**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Egypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
+  **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Egypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
 
   Visités en septembre 2022.
   {: .visited-in}
@@ -57,7 +57,7 @@ to-see: |
 
   L'Égypte regorge de sites somptueux autour de la vallée du Nil, il faudrait un voyage dédié pour tout voir. Il est possible de se débrouiller tout seul pour les visites, mais les services d'un guide et d'un chauffeur sont fortement conseillés pour apprécier au mieux.
 
-  **[Louxor](https://fr.wikipedia.org/wiki/LouxorLouxor){: target="_blank"}** avec les tombeaux de **[la vallée des rois](https://fr.wikipedia.org/wiki/Vall%C3%A9e_des_Rois){: target="_blank"}**, **[le temple d'Hatchepsout](https://fr.wikipedia.org/wiki/Temple_fun%C3%A9raire_d%27Hatchepsout){: target="_blank"}**, **[les colosses de Memnon](https://fr.wikipedia.org/wiki/Colosses_de_Memnon){: target="_blank"}**, **[le magnifique temple de Karnac](https://fr.wikipedia.org/wiki/Karnak){: target="_blank"}**.
+  **[Louxor](https://fr.wikipedia.org/wiki/Louxor){: target="_blank"}** avec les tombeaux de **[la vallée des rois](https://fr.wikipedia.org/wiki/Vall%C3%A9e_des_Rois){: target="_blank"}**, **[le temple d'Hatchepsout](https://fr.wikipedia.org/wiki/Temple_fun%C3%A9raire_d%27Hatchepsout){: target="_blank"}**, **[les colosses de Memnon](https://fr.wikipedia.org/wiki/Colosses_de_Memnon){: target="_blank"}**, **[le magnifique temple de Karnac](https://fr.wikipedia.org/wiki/Karnak){: target="_blank"}**.
 
   **[Edfou](https://fr.wikipedia.org/wiki/Temple_d%27Horus_(Edfou)){: target="_blank"}** et **[le petit temple d'Esna.](https://fr.wikipedia.org/wiki/Temple_de_Khnoum_(Esna)){: target="_blank"}**
 

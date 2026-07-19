@@ -38,7 +38,7 @@ accommodation: |
   Visité en février 2018.
   {: .visited-in}
 
-  Le lodge de **[Scuba Addicts](http://www.scubaaddicts.com/aliwal-shoal/accommodation.html){: target="_blank"}** est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.
+  Le lodge de **[Scuba Addicts](https://www.scubaaddicts.com/scuba-diving-south-africa.html){: target="_blank"}** est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.
 
 to-see: |
   Le parc **[Hluhluwe-Imfolozi](https://fr.wikipedia.org/wiki/R%C3%A9serve_d'Hluhluwe-Umfolozi){: target="_blank"}** (plus ancien parc au monde) pour avoir la chance d'apercevoir les Big Fives. La visite se fait avec un ranger du parc, passionnant.

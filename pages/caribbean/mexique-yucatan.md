@@ -36,12 +36,12 @@ accommodation: |
   Visité en décembre 2016.
   {: .visited-in}
 
-  Afin d'éviter le ferry tous les matins, il est mieux de loger sur **Cozumel**{: .accent-color}. Nous n'avions pas apprécié l'hôtel attenant au club de plongée, ([Villa blanca](https://www.villablanca.net/fr/accueil/){: target="_blank"}, viellot et non entretenu, cher rapport qualité prix, surtout que le bar/restaurant sont inexistants). Nous prenions d'excellents petits dejeuners au blue Angel à quelques pas.
+  Afin d'éviter le ferry tous les matins, il est mieux de loger sur **Cozumel**{: .accent-color}. Nous n'avions pas apprécié l'hôtel attenant au club de plongée, ([Villa blanca](https://villablanca.net/){: target="_blank"}, viellot et non entretenu, cher rapport qualité prix, surtout que le bar/restaurant sont inexistants). Nous prenions d'excellents petits dejeuners au blue Angel à quelques pas.
 
   Prévoir un scooter si vous êtes loin du club car il n'y a pas de pick-up. Pour les Cénotes il est possible de prendre le ferry de Cozumel tôt le matin, ou alors loger sur Playa del Carmen fort animé. Il existe deux compagnies de ferry entre Playa et Cozumel qui partent tôt le matin (7h) et permettent de rentrer tard le soir (21h).
 
 to-see: |
-  La côte Est de Cozumel et siroter une noix de coco fraîche au **[Freedom in Paradise](http://bobmarleybar.com/){: target="_blank"}**.
+  La côte Est de Cozumel et siroter une noix de coco fraîche au **Freedom in Paradise**.
 
   Les temples Mayas et Toltèques&nbsp;: [Tulum](https://fr.wikipedia.org/wiki/Tulum){: target="_blank"}, [Coba](https://fr.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1){: target="_blank"} et [Chichén Itzá](https://fr.wikipedia.org/wiki/Cob%C3%A1){: target="_blank"}.
 

@@ -38,7 +38,7 @@ accommodation: |
 
   A Puerto de Aroya&nbsp;: **[La casa de Judy <i class="fa fa-heart"></i>](http://www.hotellacasadejudy.com/){: target="_blank"}** très joli hôtel, calme avec vue sur une canopée, bons petits déjeuners.
 
-  A Cuenca&nbsp;: **[Hotel Ines](https://www.hostalinesmaria.com/){: target="_blank"}**, charmant hôtel typique dans le centre historique.
+  A Cuenca&nbsp;: **Hotel Ines**, charmant hôtel typique dans le centre historique.
 
 to-see: |
   A Guayalquil, se promener le long du **[Malecon](https://en.wikipedia.org/wiki/Malec%C3%B3n_2000){: target="_blank"}**, aux belles architectures et jardins remplis d'Iguanes. <br>Le Phare de Santa Ana, dans le quartier de **Las Penas**.

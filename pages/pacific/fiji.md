@@ -45,7 +45,7 @@ accommodation: |
   A Nadi&nbsp;: **Tropic of Capricorn <i class="fa fa-heart"></i>**&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar ou l'on peut commander à manger et à boire.
 
 to-see: |
-  A Nadi&nbsp;: **[ Fidji escence and spa](https://www.essenceoffijigroup.com/){: target="_blank"}**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
+  A Nadi&nbsp;: **Fidji escence and spa**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
 
   A Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
 

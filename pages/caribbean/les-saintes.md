@@ -20,7 +20,7 @@ country-desc: |
 
   Avec une vingtaine de site accessibles depuis Terre de Haut, les sites sont riches en faune fixée et poissons tropicaux, avec peu de plongeurs. **Le sec paté** entre Terre de Haut et la Guadeloupe est de toute beauté !
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color}Voici une carte et un descriptif des sites de plongées des Saintes&nbsp;: [<i class="fa fa-map"></i>](https://www.dive-bouteille.com/description){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color}Voici une carte et un descriptif des sites de plongées des Saintes&nbsp;: [<i class="fa fa-map"></i>](https://www.dive-bouteille.com/copie-de-description){: target="_blank"}.
 
 dive-shop: |
   Visité en mars 2017.
@@ -38,7 +38,7 @@ accommodation: |
 to-see: |
   Visiter le joli village de Terre de Haut et les belles plages de l'île.
 
-  Déguster un rhum au **[Comptoir du nouveau monde](https://www.facebook.com/Le-Comptoir-du-Nouveau-Monde-1883819215237616/){: target="_blank"}**.
+  Déguster un rhum au **Comptoir du nouveau monde**.
 
 log-books:
   - author: Sam

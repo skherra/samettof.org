@@ -55,7 +55,7 @@ dive-shop: |
   Visité en septembre 2017.
   {: .visited-in}
 
-  **[Nico Dives Cool](https://fr.nicodivescoolbali.com/){: target="_blank"}**, club francophone à Bali, très bon contact par mail. Guide cool et zen malgré l'effervescence des bateaux sur Nusa Penida.
+  **[Nico Dives Cool](https://nicodivescoolbali.com/){: target="_blank"}**, club francophone à Bali, très bon contact par mail. Guide cool et zen malgré l'effervescence des bateaux sur Nusa Penida.
 
 accommodation: |
   Visité en janvier 2025.

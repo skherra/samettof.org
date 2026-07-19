@@ -25,7 +25,7 @@ country-desc: |
 country-desc-sections:
 - title: Les Tuamotus
   text: |
-    L'Archipel des **[Tuamotus](https://fr.wikipedia.org/wiki/%C3%8Eles_Tuamotu){: target="_blank"}** en Polynésie est célèbre pour ses sites de plongées&nbsp;... <br/>Leur réputation n'est pas usurpée. Notre grand coup de cœur revient à **[Fakarava <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Fakarava){: target="_blank"}**, **[la réserve biosphère de l'Unesco](http://www.unesco.org/new/fr/natural-sciences/environment/ecological-sciences/biosphere-reserves/europe-north-america/france/commune-de-fakarava/){: target="_blank"}**. <br/>Les plongées les plus extraordinaires se font dans les passes. Il faut savoir évoluer dans un fort courant mais le spectacle en vaut la peine&nbsp;: des "murs" de requins, mais pas que, des raies léopard, des raies mantas de récif, des dauphins, des barracudas, des bancs opaques de priacanthes (Ali baba à Fakarava nord), des coraux durs en bonne santé, beaucoup de vie&nbsp;... Un vrai paradis !.
+    L'Archipel des **[Tuamotus](https://fr.wikipedia.org/wiki/%C3%8Eles_Tuamotu){: target="_blank"}** en Polynésie est célèbre pour ses sites de plongées&nbsp;... <br/>Leur réputation n'est pas usurpée. Notre grand coup de cœur revient à **[Fakarava <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Fakarava){: target="_blank"}**, **[la réserve biosphère de l'Unesco](https://www.mab-france.org/fr/reserve-de-biosphere/commune-de-fakarava/){: target="_blank"}**. <br/>Les plongées les plus extraordinaires se font dans les passes. Il faut savoir évoluer dans un fort courant mais le spectacle en vaut la peine&nbsp;: des "murs" de requins, mais pas que, des raies léopard, des raies mantas de récif, des dauphins, des barracudas, des bancs opaques de priacanthes (Ali baba à Fakarava nord), des coraux durs en bonne santé, beaucoup de vie&nbsp;... Un vrai paradis !.
 
     **Toao**, **Apataki** et **Kauehi** ne sont accessibles que via une croisière plongée. Seuls deux bateaux l'effectuent aujourd'hui. Aussi grandioses que celles de Fakarava, la topographie des passes y est belle (arches, crevasses, mur vertigineux) c'est le paradis des requins gris, des napoléons et des piscines de priacanthes. Les coraux durs sont aussi beaux et bien préservés. <br/>**Manihi**&nbsp;: Plusieurs sites autour de la passe de Terapa, dont le mur de coraux roses entre 40 et 50 mètres et la belle traversière ou les loches marbrées, banc de carrangues, pointes blanches de lagon et perches pagaie sont au rendez-vous. <br/>**Rangiroa**&nbsp;: La passe de Tiputa est surtout connue pour ses dauphins peu farouches, on y croise aussi du requin gris, citron, pointe blanche de lagon et de récif et en saison tigres et marteaux. La passe d'Avatoru n'est pas en reste pour ses magnifiques bancs de carangues, requins marteaux ainsi que des carangues échevelées. <br/>**Tikehau**&nbsp;: La jolie passe de Tuehiava, plus accessible que les autres, permet de voir barracudas, bécunes, tortues vertes et imbriquées. Le site de la ferme perlière est une station de nettoyage à mantas à moins de 10 mètres.
 - title: La Société
@@ -58,7 +58,7 @@ dive-shop: |
 
   **Tikehau**&nbsp;: **[Raie Manta Club](http://www.raiemantaclub.com/){: target="_blank"}**&nbsp;: A l'époque où nous y étions il y avait trois clubs sur cette toute petite île avec une très mauvaise ambiance entre les clubs. Nous n'étions que deux sur le bateau et avons plongé avec ce jeune couple qui tenait le club, bien que très sérieux, nous avons regretté le manque d'accueil et le manque d'âme.
 
-  **Huahine**&nbsp;: **[Pacific Blue Adventure <i class="fa fa-heart"></i>](http://www.divehuahine.com/fr/index.html){: target="_blank"}**&nbsp;: Michel, le patron offre de très belles plongées à des prix doux. Jovial et aimant son métier, il est soucieux de notre satisfaction. Demandez une plongée de nuit dans l'aquarium&nbsp;: plus de 80 minutes sous l'eau, suivi d'un repas debrief dans un endroit sympa. Bateau confortable, le club est sur le port, à côté de la passe, retour au club entre deux plongées, 2 plongées par jour le matin, et une plongée de nuit sur demande.
+  **Huahine**&nbsp;: **[Pacific Blue Adventure <i class="fa fa-heart"></i>](https://www.pacific-blue-adventure.com/fr/){: target="_blank"}** _(le club a été repris depuis notre visite)_&nbsp;: Michel, le patron offre de très belles plongées à des prix doux. Jovial et aimant son métier, il est soucieux de notre satisfaction. Demandez une plongée de nuit dans l'aquarium&nbsp;: plus de 80 minutes sous l'eau, suivi d'un repas debrief dans un endroit sympa. Bateau confortable, le club est sur le port, à côté de la passe, retour au club entre deux plongées, 2 plongées par jour le matin, et une plongée de nuit sur demande.
 
 accommodation: |
   Préférez les pensions familiales, elles sont de loin les plus authentiques.
@@ -72,7 +72,7 @@ accommodation: |
 
   A **Fakarava**&nbsp;: **[Kori Kori](https://korikori-fakarava.com/pension-de-famille-fakarava-maison-hote/){: target="_blank"}**, dans un cadre splendide et proche des snacks, seulement 3 bungalows qui rend cette pension agréable et calme.
 
-  A **Rangiroa**&nbsp;: **[Vahaui Paradis](http://www.rangiroapensionvahaui.com/){: target="_blank"}**, petits bungalows équipé sommairement sur la barrière  de corail, à quelques minutes des restaurants et épiceries, des hôtes charmants et très attentionnés. En 2020, les hôtes ont délégué la gestion de la pension. C'est bien mais "c'était mieux avant".
+  A **Rangiroa**&nbsp;: **Vahaui Paradis**, petits bungalows équipé sommairement sur la barrière  de corail, à quelques minutes des restaurants et épiceries, des hôtes charmants et très attentionnés. En 2020, les hôtes ont délégué la gestion de la pension. C'est bien mais "c'était mieux avant".
 
   A **Raiatea**&nbsp;: **Ocean Studio**, AirBnB chez Marc, très bel endroit avec vue sur la mer et le coucher de soleil. Hôte prévenant et endroit calme et beau. Il vaut mieux être motorisé.
 
@@ -85,7 +85,7 @@ accommodation: |
   Visités en mai 2017.
   {: .visited-in}
 
-  A **Tikehau**&nbsp;: **[Coconut beach](https://www.facebook.com/Pension-Coconut-Beach-Tikehau-137649489663098/){: target="_blank"}**, chez Jean-Louis, à l'extérieur du village. Une mention spéciale pour la gentillesse et ses petits plats, une superbe vue sur le lagon.
+  A **Tikehau**&nbsp;: **Coconut beach**, chez Jean-Louis, à l'extérieur du village. Une mention spéciale pour la gentillesse et ses petits plats, une superbe vue sur le lagon.
 
   A **Manihi**&nbsp;: **[Poerani nui](https://sites.google.com/site/pensionpoeraninui/home){: target="_blank"}**, sur un motu privé, bien entretenu, vous serez comblés par les bons petits plats et la compagnie des chiens, chats,&nbsp;...
 
@@ -114,7 +114,7 @@ to-see: |
 
   A **Tikehau**, aller voir la **cloche de Hina, [Te oe a Hina](https://www.tahitiheritage.pf/tikehau-cloche-hina/){: target="_blank"}**.
 
-  A **Rangiroa**, siroter un cocktail dans une ambiance sympa au **[Te Mao](https://www.facebook.com/temao.rangiroa){: target="_blank"}** bar, le patron vous raccompagne à votre pension !
+  A **Rangiroa**, siroter un cocktail dans une ambiance sympa au **Te Mao** bar, le patron vous raccompagne à votre pension !
 
   A **Fakarava Sud**, visiter le village de **[Tetamanu](https://www.tahitiheritage.pf/oterava-tetamanu-fakarava/){: target="_blank"}**.
 

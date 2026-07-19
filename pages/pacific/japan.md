@@ -26,7 +26,7 @@ country-desc: |
 
   Les îles sont accessibles en avion depuis l'île Kiushu. Il faut prévoir au minimum 2 semaines.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici les cartes et description des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](https://inbound.ocvb.or.jp/oin/wp-content/uploads/2010/05/0600003571.html){: target="_blank"} [<i class="fa fa-map"></i>](  https://www.reefencounters.org/dive-sites.html){: target="_blank"}
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici les cartes et description des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](  https://www.reefencounters.org/dive-sites.html){: target="_blank"}
 
 dive-shop: |
   Visité en mai 2014.
@@ -36,7 +36,7 @@ dive-shop: |
 
   Yakushima&nbsp;: Plongée facile depuis la plage Isso, organisée par  **[Yes](http://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}** tour opérateur local.
 
-  Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](http://www.hoshinosuna.ne.jp/diving.html){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais ; nous avons apprécié les brieffing dessinés et l'encadrement d'Atsuko.
+  Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais ; nous avons apprécié les brieffing dessinés et l'encadrement d'Atsuko.
 
 accommodation: |
   Visité en mai 2014.
@@ -44,14 +44,14 @@ accommodation: |
 
   Dans le Kyushu&nbsp;: **[Ryokojin Sanso](https://ryokojin.com/){: target="_blank"}**, un superbe hôtel avec vue sur le Volcan de Kagoshima et des onsens privatifs plus beaux les uns que les autres dans une forêt fréquentées par de nombreux cerfs. <br/>**[Ryokan Sanga](https://www.sanga-ryokan.com/en/){: target="_blank"}**, dans une magnifique vallée, avec de beaux onsens privatisables et une bonne cuisine.
 
-  Okinawa&nbsp;: **[Beach side Condo](https://beachsidecondominium.book.direct/en-us){: target="_blank"}**, petit appartement pratique, beaucoup de commerces et restaurant à côté, dans le quartier de la base américaine.
+  Okinawa&nbsp;: **Beach side Condo** _(fermé depuis)_, petit appartement pratique, beaucoup de commerces et restaurant à côté, dans le quartier de la base américaine.
 
-  Yakushima&nbsp;: **[Soyotei](http://www.yesyakushima.com/soyotei/){: target="_blank"}**, pension traditionnelle donnant sur une belle plage du Sud.
+  Yakushima&nbsp;: **Soyotei**, pension traditionnelle donnant sur une belle plage du Sud.
 
   Iriomote&nbsp;: **[Pension Hoshinosuna](http://www.hoshinosuna.ne.jp/){: target="_blank"}**, pension plongée, avec une vue magnifique sur une plage de sable étoilé.
 
 to-see: |
-  Le **[Kyushu](https://www.tourisme-japon.fr/decouvrez-le-japon/destinations/kyushu){: target="_blank"}**  regorge de beauté pour ces paysages volcaniques, beaucoup moins touristiques que le honshu, il mérite le détour&nbsp;: Treck sur le mont Aso, ballade autour de Miyasaki et la belle île de Aoshima, **[les Bouddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  d'Usuki et  **[le chateau de Kumamoto](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kumamoto){: target="_blank"}**.
+  Le **[Kyūshū](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}**  regorge de beauté pour ces paysages volcaniques, beaucoup moins touristiques que le honshu, il mérite le détour&nbsp;: Treck sur le mont Aso, ballade autour de Miyasaki et la belle île de Aoshima, **[les Bouddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  d'Usuki et  **[le chateau de Kumamoto](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kumamoto){: target="_blank"}**.
 
   **[Yakushima](http://www.japan-guide.com/e/e4650.html){: target="_blank"}**&nbsp;: Prendre le temps de parcourir l'île en voiture, s'imprégner de la forêt chère à Miyasaki et voir les cèdres millénaires dont Jomonsugi. Admirer les temples avec les Toris sur les plages et voir la ponte des tortues luth quand c'est la saison. (Opérateur **[Yes](http://www.yesyakushima.com/){: target="_blank"}**).
 

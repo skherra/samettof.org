@@ -26,7 +26,7 @@ country-desc: |
 
   Les îles de Micronésie sont accessibles par Guam, Yap est déservi une fois par semaine depuis Palau.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Chuuk, le best of&nbsp;: **Fujikawa Maru, Kensho Maru, Gosei Maru, Sankisan Maru, Emily** &nbsp;: [<i class="fa fa-map"></i>](http://trukwreckdiving.com/index.php/wreck-site-map){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Chuuk, le best of&nbsp;: **Fujikawa Maru, Kensho Maru, Gosei Maru, Sankisan Maru, Emily** &nbsp;: [<i class="fa fa-map"></i>](https://thorfinn.net/truk-lagoon/wreck-maps/){: target="_blank"}.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Yap, le best of&nbsp;: **Yap cavern, M'il Channel et Rainbow reef** pour les mandarins&nbsp;: [<i class="fa fa-map"></i>](https://www.mantaray.com/dive-sites/){: target="_blank"}.
 
@@ -36,17 +36,17 @@ dive-shop: |
   Visité en février-Mars 2020.
   {: .visited-in}
 
-  Chuuk&nbsp;: Le **[Blue Lagoon Dive Shop](https://www.bluelagoondiveresort.com/blue_lagoon_dive_shop-1.html){: target="_blank"}** est situé dans le Blue Lagoon Resort, en travaux quand nous y étions. <br/>Pas de toilettes, ni de douches, les bateaux en bois avec toit couvrant ne sont pas confortables mais on retourne au club entre chaque plongée ou faisons une pause sur une petite île. Les sites sont à 25 min maximum. <br/>Une épave différente est proposée à chaque fois, plongée sans déco de 45 à 50 minutes, on va dire que c'est service minimum.
+  Chuuk&nbsp;: Le **[Blue Lagoon Dive Shop](https://www.trukbluelagoonresort.com/diveshop){: target="_blank"}** est situé dans le Blue Lagoon Resort, en travaux quand nous y étions. <br/>Pas de toilettes, ni de douches, les bateaux en bois avec toit couvrant ne sont pas confortables mais on retourne au club entre chaque plongée ou faisons une pause sur une petite île. Les sites sont à 25 min maximum. <br/>Une épave différente est proposée à chaque fois, plongée sans déco de 45 à 50 minutes, on va dire que c'est service minimum.
 
   **[Yap Divers](https://www.mantaray.com/yap-divers/){: target="_blank"}** est situé dans le Manta Ray Bay Resort. <br/>Ils ont 6 bateaux confortables pour 5 personnes. On plonge à la carte sans limite de temps, les plongées sont majoritairement dérivantes et faciles. Les dive masters locaux s'adaptent aux souhaits des guests&nbsp;: la station cleaning à 6 mètres ou les murs. <br/>En inter plongée serviettes chaude et thé / gâteaux. On ne porte rien. Un vrai luxe.
 
-  **[ Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei. <br/>Le responsable organise les plongée en fonction de la marée. Deux bateaux pour 7 guests maximum. <br/>Pendant l'intervalle de surface fruits du jardins et un cake à la banane à tomber.
+  **[Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei. <br/>Le responsable organise les plongée en fonction de la marée. Deux bateaux pour 7 guests maximum. <br/>Pendant l'intervalle de surface fruits du jardins et un cake à la banane à tomber.
 
 accommodation: |
   Visité en février-Mars 2020.
   {: .visited-in}
 
-  **[Blue Lagoon Resort](https://www.bluelagoondiveresort.com/){: target="_blank"}** est situé dans un très bel endroit au sud de l'île de Weno. Le resort est dans son jus ce qui est dommage vu le potentiel. Le personnel est froid.
+  **[Blue Lagoon Resort](https://www.trukbluelagoonresort.com/){: target="_blank"}** est situé dans un très bel endroit au sud de l'île de Weno. Le resort est dans son jus ce qui est dommage vu le potentiel. Le personnel est froid.
 
   **[Manta Bay resort](https://www.mantaray.com/){: target="_blank"}** est un petit resort avec de belles chambres et un accueil sympathique. Un peu cher rapport qualité-prix (comme dans le reste de la Micronésie) mais on s'y sent bien.
 

@@ -26,7 +26,7 @@ dive-shop: |
   Visité en février 2016 et décembre 2023.
   {: .visited-in}
 
-  **[Scubaqua <i class="fa fa-heart"></i>](http://www.scubaqua.com/fr/index.html){: target="_blank"}**&nbsp;: Nous avions découvert ce petit club de plongée tenu par Ingrid et Meno en 2016. Une belle équipe de choc toujours souriante et drôle&nbsp;; un plaisir de plonger avec eux tous sans oublier le chien chanteur. <br/>En 2023, une nouvelle équipe avec leurs partenaires Marika et Mike. Toujours chaleureux et sérieux, on part pour deux plongées le matin, avec un retour à la base entre les deux. Le lieu de vie est très agréable, les locaux s'y retrouvent même pour un apéro. La plage attenante est appréciée des snorkeleurs. <br/>Deux bateaux très confortables, plongées au Nitrox possible, une plongée de nuit est programmée dans la semaine.
+  **[Scubaqua <i class="fa fa-heart"></i>](https://www.scubaqua.com/){: target="_blank"}**&nbsp;: Nous avions découvert ce petit club de plongée tenu par Ingrid et Meno en 2016. Une belle équipe de choc toujours souriante et drôle&nbsp;; un plaisir de plonger avec eux tous sans oublier le chien chanteur. <br/>En 2023, une nouvelle équipe avec leurs partenaires Marika et Mike. Toujours chaleureux et sérieux, on part pour deux plongées le matin, avec un retour à la base entre les deux. Le lieu de vie est très agréable, les locaux s'y retrouvent même pour un apéro. La plage attenante est appréciée des snorkeleurs. <br/>Deux bateaux très confortables, plongées au Nitrox possible, une plongée de nuit est programmée dans la semaine.
 
 accommodation: |
   Visité en décembre 2023.

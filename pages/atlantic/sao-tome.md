@@ -28,7 +28,7 @@ dive-shop: |
   Visité en mai 2019.
   {: .visited-in}
 
-   **[Atlantic Diving Center](http://atlanticdivingcenter.com/fr/){: target="_blank"}** situé dans le club Santana&nbsp;: il faut prévoir une voiture pour y accéder ou résider au club. Alberto nous a concocté notre semaine aux petits oignons équilibrant les plongées. Les plongées sont de type dérivante, les sites les plus loin du club sont à 40 min de Bateau (Pedras). Ils proposent 2 sorties par jour.
+   **[Atlantic Diving Center](https://www.atlanticdivingcenter.com/fr/index.html){: target="_blank"}** situé dans le club Santana&nbsp;: il faut prévoir une voiture pour y accéder ou résider au club. Alberto nous a concocté notre semaine aux petits oignons équilibrant les plongées. Les plongées sont de type dérivante, les sites les plus loin du club sont à 40 min de Bateau (Pedras). Ils proposent 2 sorties par jour.
 
   Le club dispose d'un gros bateau puissant (10 personnes) mais pas vraiment équipé pour la plongée&nbsp;: toilette sans pompe, pas de bancs ni de toit protégeant du soleil et une petite barque (4 personnes) plus pratique.
 
