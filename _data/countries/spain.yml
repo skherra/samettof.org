@@ -16,70 +16,70 @@ best-seasons:
 
 fauna:
   - fr-name: Mérous
-    en-name:
+    en-name: Groupers
     strong: true
   - fr-name: Rascasses
-    en-name:
+    en-name: Scorpionfish
     strong: true
   - fr-name: Chapons
-    en-name:
+    en-name: Red scorpionfish
     strong: true
   - fr-name: Corb
-    en-name:
+    en-name: Brown meagre
     strong: false
   - fr-name: Daurades
-    en-name:
+    en-name: Sea bream
     strong: true
   - fr-name: Girelles paon
-    en-name:
+    en-name: Peacock wrasse
     strong: false
   - fr-name: Sars
-    en-name:
+    en-name: White seabream
     strong: false
   - fr-name: Crevettes
-    en-name:
+    en-name: Shrimp
     strong: true
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: true
   - fr-name: Gobies
-    en-name:
+    en-name: Gobies
     strong: false
   - fr-name: Blennies
-    en-name:
+    en-name: Blennies
     strong: true
   - fr-name: Raies aigle vachette
-    en-name:
+    en-name: Common eagle rays
     strong: false
   - fr-name: Sars
-    en-name:
+    en-name: White seabream
     strong: false
   - fr-name: Gorgones
-    en-name:
+    en-name: Gorgonians
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: true
   - fr-name: Bernards l'hermite
-    en-name:
+    en-name: Hermit crabs
     strong: true
   - fr-name: Cigales de mer
-    en-name:
+    en-name: Slipper lobsters
     strong: true
   - fr-name: Daurades
-    en-name:
+    en-name: Sea bream
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: true
   - fr-name: Bécunes
-    en-name:
+    en-name: Barracuda
     strong: false
   - fr-name: Coraux rouges
-    en-name:
+    en-name: Red coral
     strong: true
 maps:
   - id: Medes

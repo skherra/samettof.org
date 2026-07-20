@@ -16,50 +16,50 @@ best-seasons:
 
 fauna:
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Demoiselles dominos endémiques
-    en-name:
+    en-name: Endemic domino damselfish
     strong: true
   - fr-name: Frog fish
-    en-name:
+    en-name: Frogfish
     strong: false
   - fr-name: Leaf frog fish
-    en-name:
+    en-name: Leaf frogfish
     strong: false
   - fr-name: Lavas tubes
-    en-name:
+    en-name: Lava tubes
     strong: true
   - fr-name: Oeufs de nudibranches en forme de fleur rouge
-    en-name:
+    en-name: Red flower-shaped nudibranch eggs
     strong: false
   - fr-name: Humuhumunukunukuapuaa (baliste Picasso)
-    en-name:
+    en-name: Humuhumunukunukuapua'a (Picasso triggerfish)
     strong: false
   - fr-name: Requins pointes blanches
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Raies mantas
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Murènes dragons
-    en-name:
+    en-name: Dragon moray eels
     strong: false
   - fr-name: Phoques moines
-    en-name:
+    en-name: Monk seals
     strong: true
   - fr-name: Poissons feuilles
-    en-name:
+    en-name: Leaf fish
     strong: false
   - fr-name: Labres rasoir masqués juvéniles
-    en-name:
+    en-name: Juvenile masked razorfish
     strong: false

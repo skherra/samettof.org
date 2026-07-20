@@ -16,26 +16,26 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Poissons clown
-    en-name:
+    en-name: Clownfish
     strong: false
   - fr-name: Poissons empereurs
-    en-name:
+    en-name: Emperor fish
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Anges français
-    en-name:
+    en-name: French angelfish
     strong: false
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: true
   - fr-name: Mérous
-    en-name:
+    en-name: Groupers
     strong: true

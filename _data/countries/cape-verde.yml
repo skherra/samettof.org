@@ -16,41 +16,41 @@ best-seasons:
 
 fauna:
   - fr-name: Anémones jaunes
-    en-name:
+    en-name: Yellow anemones
     strong: false
   - fr-name: Langoustes à foison
-    en-name:
+    en-name: Spiny lobsters galore
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Poissons écureuils
-    en-name:
+    en-name: Squirrelfish
     strong: false
   - fr-name: Poissons chirurgiens
-    en-name:
+    en-name: Surgeonfish
     strong: false
   - fr-name: Lièvres de mer
-    en-name:
+    en-name: Sea hares
     strong: true
   - fr-name: Requins nourrices
-    en-name:
+    en-name: Nurse sharks
     strong: true
   - fr-name: Batfishs noirs
-    en-name:
+    en-name: Black batfish
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true

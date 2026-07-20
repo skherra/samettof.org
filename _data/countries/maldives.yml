@@ -16,44 +16,44 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Poissons clown
-    en-name:
+    en-name: Clownfish
     strong: false
   - fr-name: Crevettes Mantes
-    en-name:
+    en-name: Mantis shrimp
     strong: false
   - fr-name: Requins baleines
-    en-name:
+    en-name: Whale sharks
     strong: true
   - fr-name: Requins nourices
-    en-name:
+    en-name: Nurse sharks
     strong: false
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins pointes blanches océaniques
-    en-name:
+    en-name: Oceanic whitetip sharks
     strong: true
   - fr-name: Raies leopards
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Raies Mantas
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Raies Pastenagues
-    en-name:
+    en-name: Stingrays
     strong: false
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Ribon eels
-    en-name:
+    en-name: Ribbon eels
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true

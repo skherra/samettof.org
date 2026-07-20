@@ -15,82 +15,82 @@ best-seasons:
 
 fauna:
   - fr-name: Mérous
-    en-name:
+    en-name: Groupers
     strong: true
   - fr-name: Rascasses
-    en-name:
+    en-name: Scorpionfish
     strong: true
   - fr-name: Chapons
-    en-name:
+    en-name: Red scorpionfish
     strong: true
   - fr-name: Hippocampes
-    en-name:
+    en-name: Seahorses
     strong: true
   - fr-name: Corb
-    en-name:
+    en-name: Brown meagre
     strong: false
   - fr-name: Sares
-    en-name:
+    en-name: White seabream
     strong: false
   - fr-name: Serioles
-    en-name:
+    en-name: Amberjacks
     strong: false
   - fr-name: Mostelles
-    en-name:
+    en-name: Forkbeard
     strong: true
   - fr-name: Girelles paon
-    en-name:
+    en-name: Peacock wrasse
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: true
   - fr-name: Gobies
-    en-name:
+    en-name: Gobies
     strong: false
   - fr-name: Blenny
-    en-name:
+    en-name: Blenny
     strong: false
   - fr-name: Vers tubicoles, vers plats
-    en-name:
+    en-name: Tube worms, flatworms
     strong: false
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Gorgones
-    en-name:
+    en-name: Gorgonians
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: true
   - fr-name: Syngnathe
-    en-name:
+    en-name: Pipefish
     strong: true
   - fr-name: Bernard-l'hermite
-    en-name:
+    en-name: Hermit crab
     strong: true
   - fr-name: Araignées
-    en-name:
+    en-name: Spider crabs
     strong: true
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: true
   - fr-name: Daurades
-    en-name:
+    en-name: Sea bream
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true
   - fr-name: Congre
-    en-name:
+    en-name: Conger eel
     strong: true
   - fr-name: Coraux rouges
-    en-name:
+    en-name: Red coral
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: true
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: true
 maps:
   - id: magdalena

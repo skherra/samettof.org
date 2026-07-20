@@ -19,76 +19,76 @@ best-seasons:
 
 fauna:
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Balistes titan
-    en-name:
+    en-name: Titan triggerfish
     strong: false
   - fr-name: Poisson tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Coraux durs
-    en-name:
+    en-name: Hard corals
     strong: false
   - fr-name: Coraux roses
-    en-name:
+    en-name: Pink corals
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Carangues échevelées
-    en-name:
+    en-name: African pompano
     strong: true
   - fr-name: Carangues arc en ciel
-    en-name:
+    en-name: Rainbow runners
     strong: false
   - fr-name: Carangues gros yeux
-    en-name:
+    en-name: Bigeye trevally
     strong: false
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: false
   - fr-name: Requins pointes blanches de lagon
-    en-name:
+    en-name: Lagoon whitetip sharks
     strong: false
   - fr-name: Requins pointes blanches de récif
-    en-name:
+    en-name: Whitetip reef sharks
     strong: true
   - fr-name: Requins pointes noires
-    en-name:
+    en-name: Blacktip reef sharks
     strong: false
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins citrons
-    en-name:
+    en-name: Lemon sharks
     strong: true
   - fr-name: Requins nourrices
-    en-name:
+    en-name: Nurse sharks
     strong: false
   - fr-name: Requins bordés
-    en-name:
+    en-name: Silvertip sharks
     strong: true
   - fr-name: Requins marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Raies mantas
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Raies léopards
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Espadons voilier
-    en-name:
+    en-name: Sailfish
     strong: true
   - fr-name: Dauphins
-    en-name:
+    en-name: Dolphins
     strong: true
 
 maps:

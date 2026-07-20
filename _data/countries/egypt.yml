@@ -19,94 +19,94 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anémones
-    en-name:
+    en-name: Anemones
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Requins pointe blanche de récif
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins pointe blanche océanique
-    en-name:
+    en-name: Oceanic whitetip sharks
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Raies pastenagues à points bleus
-    en-name:
+    en-name: Bluespotted stingrays
     strong: true
   - fr-name: Maquereaux
-    en-name:
+    en-name: Mackerel
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: true
   - fr-name: Grosses Tortues vertes
-    en-name:
+    en-name: Large green turtles
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Anges royaux
-    en-name:
+    en-name: Regal angelfish
     strong: false
   - fr-name: Platax
-    en-name:
+    en-name: Batfish
     strong: false
   - fr-name: Mérous célestes
-    en-name:
+    en-name: Peacock groupers
     strong: true
   - fr-name: Loches marbrées
-    en-name:
+    en-name: Marbled groupers
     strong: false
   - fr-name: Carangues géantes
-    en-name:
+    en-name: Giant trevally
     strong: true
   - fr-name: Labres
-    en-name:
+    en-name: Wrasses
     strong: true
   - fr-name: Chevaliers ponctués
-    en-name:
+    en-name: Spotted drums
     strong: false
   - fr-name: Bonites
-    en-name:
+    en-name: Bonito
     strong: false
   - fr-name: Perroquets
-    en-name:
+    en-name: Parrotfish
     strong: false
   - fr-name: Murènes géantes
-    en-name:
+    en-name: Giant moray eels
     strong: false
   - fr-name: Poissons crocodiles
-    en-name:
+    en-name: Crocodilefish
     strong: true
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: true
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false
   - fr-name: Raies Manta
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Barracuda
-    en-name:
+    en-name: Barracuda
     strong: true
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: true
   - fr-name: Lièvres de mer
-    en-name:
+    en-name: Sea hares
     strong: true
   - fr-name: Araignées
-    en-name:
+    en-name: Spider crabs
     strong: true
 maps:
   - id: egypt

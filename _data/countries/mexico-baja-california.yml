@@ -19,73 +19,73 @@ best-seasons:
 fauna:
 
   - fr-name: Carangues
-    en-name:
+    en-name: Jacks
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Poisson tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Mérous goliath
-    en-name:
+    en-name: Goliath groupers
     strong: true
   - fr-name: Perroquets à bosse
-    en-name:
+    en-name: Bumphead parrotfish
     strong: true
   - fr-name: Requins soyeux
-    en-name:
+    en-name: Silky sharks
     strong: true
   - fr-name: Requins pointes blanches de récif
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins pointe blanche
-    en-name:
+    en-name: Whitetip sharks
     strong: false
   - fr-name: Requins de sable
-    en-name:
+    en-name: Sand tiger sharks
     strong: true
   - fr-name: Requins galapagos
-    en-name:
+    en-name: Galapagos sharks
     strong: true
   - fr-name: Requins marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Requins bouledogues
-    en-name:
+    en-name: Bull sharks
     strong: true
   - fr-name: Raies mantas océaniques
-    en-name:
+    en-name: Oceanic manta rays
     strong: true
   - fr-name: Raie guitare à nez pointu
-    en-name:
+    en-name: Shovelnose guitarfish
     strong: true
   - fr-name: Raies mobulas
-    en-name:
+    en-name: Mobula rays
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: false
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: false
   - fr-name: Tortues vertes
-    en-name:
+    en-name: Green turtles
     strong: false
   - fr-name: Wahouh
-    en-name:
+    en-name: Wahoo
     strong: false
   - fr-name: Thons à queue jaune
-    en-name:
+    en-name: Yellowfin tuna
     strong: false
 
 maps:

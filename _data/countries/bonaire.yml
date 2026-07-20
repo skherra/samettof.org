@@ -18,82 +18,82 @@ best-seasons:
 
 fauna:
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Eponges barriques
-    en-name:
+    en-name: Barrel sponges
     strong: false
   - fr-name: Monnaies caraïbes
-    en-name:
+    en-name: Sand dollars
     strong: false
   - fr-name: Eponges tubulaires
-    en-name:
+    en-name: Tube sponges
     strong: false
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: false
   - fr-name: Crabes flèches
-    en-name:
+    en-name: Arrow crabs
     strong: false
   - fr-name: Vives tropicales
-    en-name:
+    en-name: Tropical stargazers
     strong: false
   - fr-name: Chevaliers ponctués juvéniles et adultes
-    en-name:
+    en-name: Spotted drums, juveniles and adults
     strong: false
   - fr-name: Araignées de mer
-    en-name:
+    en-name: Spider crabs
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true
   - fr-name: Barracudas géants
-    en-name:
+    en-name: Giant barracudas
     strong: true
   - fr-name: Anges français
-    en-name:
+    en-name: French angelfish
     strong: true
   - fr-name: Anges royaux
-    en-name:
+    en-name: Queen angelfish
     strong: true
   - fr-name: Perroquets celestes
-    en-name:
+    en-name: Blue parrotfish
     strong: true
   - fr-name: Tarpons
-    en-name:
+    en-name: Tarpon
     strong: true
   - fr-name: Crevettes nettoyeuses
-    en-name:
+    en-name: Cleaner shrimp
     strong: false
   - fr-name: Crevettes anémones
-    en-name:
+    en-name: Anemone shrimp
     strong: false
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Tortue loggerhead
-    en-name:
+    en-name: Loggerhead turtle
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Tortues vertes
-    en-name:
+    en-name: Green turtles
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Raies léopard
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Carrangues à plume
-    en-name:
+    en-name: African pompano
     strong: true
   - fr-name: Ostracodes bioluminescents
-    en-name:
+    en-name: Bioluminescent ostracods
     strong: true
 maps:
   - id: bonaire

@@ -16,41 +16,41 @@ best-seasons:
 
 fauna:
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Eponges barriques
-    en-name:
+    en-name: Barrel sponges
     strong: false
   - fr-name: Monnaies caraïbes
-    en-name:
+    en-name: Sand dollars
     strong: false
   - fr-name: Eponges tubulaires
-    en-name:
+    en-name: Tube sponges
     strong: false
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Balistes
-    en-name:
+    en-name: Triggerfish
     strong: false
   - fr-name: Barracuda géant
-    en-name:
+    en-name: Giant barracuda
     strong: true
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false
   - fr-name: Anges français
-    en-name:
+    en-name: French angelfish
     strong: true
   - fr-name: Anges royaux
-    en-name:
+    en-name: Queen angelfish
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false

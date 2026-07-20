@@ -16,10 +16,10 @@ best-seasons:
 
 fauna:
   - fr-name: Failles et lagons aux algues multi colores
-    en-name:
+    en-name: Rifts and lagoons with multicolored algae
     strong: false
   - fr-name: salmo trutta (truites)
-    en-name:
+    en-name: Salmo trutta (trout)
     strong: true
 
 maps:

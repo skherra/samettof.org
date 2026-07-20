@@ -16,52 +16,52 @@ best-seasons:
 
 fauna:
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Monnaie caraïbes
-    en-name:
+    en-name: Sand dollars
     strong: false
   - fr-name: Eponges tubulaires
-    en-name:
+    en-name: Tube sponges
     strong: false
   - fr-name: Eponges barriques
-    en-name:
+    en-name: Barrel sponges
     strong: false
   - fr-name: Lambis
-    en-name:
+    en-name: Queen conch
     strong: false
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: false
   - fr-name: Cigales de mer
-    en-name:
+    en-name: Slipper lobsters
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Chevaliers ponctués juvéniles
-    en-name:
+    en-name: Spotted drums, juveniles
     strong: true
   - fr-name: Peroquets célestes
-    en-name:
+    en-name: Blue parrotfish
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Raies Léopards
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Requins nourrices
-    en-name:
+    en-name: Nurse sharks
     strong: true
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: true
 
 maps:

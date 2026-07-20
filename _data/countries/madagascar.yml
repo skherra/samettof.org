@@ -16,77 +16,77 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anémones
-    en-name:
+    en-name: Anemones
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Requins pointe blanche
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Requins léopard
-    en-name:
+    en-name: Leopard sharks
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: false
   - fr-name: Tortues
-    en-name:
+    en-name: Turtles
     strong: false
   - fr-name: Anges royaux
-    en-name:
+    en-name: Regal angelfish
     strong: false
   - fr-name: Mérous géants
-    en-name:
+    en-name: Giant groupers
     strong: true
   - fr-name: Loches marbrées
-    en-name:
+    en-name: Marbled groupers
     strong: false
   - fr-name: Carangues
-    en-name:
+    en-name: Jacks
     strong: false
   - fr-name: Carangues échevelées
-    en-name:
+    en-name: African pompano
     strong: true
   - fr-name: Tazars
-    en-name:
+    en-name: Kingfish
     strong: false
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Perroquets à bosse
-    en-name:
+    en-name: Bumphead parrotfish
     strong: false
   - fr-name: Gorgones géantes
-    en-name:
+    en-name: Giant gorgonians
     strong: false
   - fr-name: Frog fish
-    en-name:
+    en-name: Frogfish
     strong: true
   - fr-name: Labres rasoir
-    en-name:
+    en-name: Razor wrasse
     strong: false
   - fr-name: Poissons crocodiles
-    en-name:
+    en-name: Crocodilefish
     strong: true
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false

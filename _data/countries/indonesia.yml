@@ -36,115 +36,115 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Une incroyable diversité de nudibranches
-    en-name:
+    en-name: An incredible diversity of nudibranchs
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Poissons clown
-    en-name:
+    en-name: Clownfish
     strong: false
   - fr-name: Crevettes mantes
-    en-name:
+    en-name: Mantis shrimp
     strong: true
   - fr-name: Petits homards
-    en-name:
+    en-name: Small lobsters
     strong: true
   - fr-name: Cigales de mer
-    en-name:
+    en-name: Slipper lobsters
     strong: true
   - fr-name: Grondins
-    en-name:
+    en-name: Gurnards
     strong: true
   - fr-name: Fusillers
-    en-name:
+    en-name: Fusiliers
     strong: true
   - fr-name: Devil Pipefish
-    en-name:
+    en-name: Devil pipefish
     strong: true
   - fr-name: Ringed Pipefish
-    en-name:
+    en-name: Ringed pipefish
     strong: true
   - fr-name: Hippocampes pygmées
-    en-name:
+    en-name: Pygmy seahorses
     strong: true
   - fr-name: Flamboyant cutlefish
-    en-name:
+    en-name: Flamboyant cuttlefish
     strong: true
   - fr-name: Dauphins
-    en-name:
+    en-name: Dolphins
     strong: false
   - fr-name: Requins pointes blanches
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins pointes noires
-    en-name:
+    en-name: Blacktip reef sharks
     strong: false
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins nourrices
-    en-name:
+    en-name: Nurse sharks
     strong: false
   - fr-name: Requins bambou juvéniles
-    en-name:
+    en-name: Juvenile bamboo sharks
     strong: true
   - fr-name: Requins Raja Epaulette
-    en-name:
+    en-name: Raja epaulette sharks
     strong: true
   - fr-name: Requins Tasselled Wobbegong
-    en-name:
+    en-name: Tasselled wobbegong sharks
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Carrangues géantes
-    en-name:
+    en-name: Giant trevally
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Raies léopard
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Raies mobula
-    en-name:
+    en-name: Mobula rays
     strong: true
   - fr-name: Raies manta
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Raies pastenagues à points bleus
-    en-name:
+    en-name: Bluespotted stingrays
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: false
   - fr-name: Tortues
-    en-name:
+    en-name: Turtles
     strong: true
   - fr-name: Molas molas
-    en-name:
+    en-name: Mola mola
     strong: true
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: false
   - fr-name: Bumphead parrotfish
-    en-name:
+    en-name: Bumphead parrotfish
     strong: true
   - fr-name: Scorpions feuilles
-    en-name:
+    en-name: Leaf scorpionfish
     strong: true
   - fr-name: Bénitiers géants
-    en-name:
+    en-name: Giant clams
     strong: true
 
 maps:

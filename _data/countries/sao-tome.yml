@@ -16,56 +16,56 @@ best-seasons:
 
 fauna:
   - fr-name: Anémones jaunes et vertes
-    en-name:
+    en-name: Yellow and green anemones
     strong: false
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Poissons écureuils
-    en-name:
+    en-name: Squirrelfish
     strong: false
   - fr-name: Poissons chirurgiens
-    en-name:
+    en-name: Surgeonfish
     strong: false
   - fr-name: Trompettes
-    en-name:
+    en-name: Trumpetfish
     strong: false
   - fr-name: Pipefish
-    en-name:
+    en-name: Pipefish
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Raie torpille
-    en-name:
+    en-name: Torpedo ray
     strong: true
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: true
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: true
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Hippocampes
-    en-name:
+    en-name: Seahorses
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: true
   - fr-name: Diodons
-    en-name:
+    en-name: Porcupinefish
     strong: true
   - fr-name: Tetradon géant
-    en-name:
+    en-name: Giant pufferfish
     strong: true
   - fr-name: Mérou
-    en-name:
+    en-name: Grouper
     strong: true
   - fr-name: Peroquets
-    en-name:
+    en-name: Parrotfish
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false

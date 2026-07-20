@@ -16,41 +16,41 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anémones
-    en-name:
+    en-name: Anemones
     strong: false
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: King macro
-    en-name:
+    en-name: King macro
     strong: false
   - fr-name: Mérous géants
-    en-name:
+    en-name: Giant groupers
     strong: true
   - fr-name: Requins pointes noires océaniques
-    en-name:
+    en-name: Oceanic blacktip sharks
     strong: true
   - fr-name: Requins pointes blanches océaniques
-    en-name:
+    en-name: Oceanic whitetip sharks
     strong: true
   - fr-name: Requins tigres
-    en-name:
+    en-name: Tiger sharks
     strong: true
   - fr-name: Requins Marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Requins gris de recif
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins bouledogues (requin du Zambèze)
-    en-name:
+    en-name: Bull sharks (Zambezi shark)
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Méduses
-    en-name:
+    en-name: Jellyfish
     strong: false

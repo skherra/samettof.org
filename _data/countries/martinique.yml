@@ -19,46 +19,46 @@ best-seasons:
 
 fauna:
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Eponges tubulaires
-    en-name:
+    en-name: Tube sponges
     strong: false
   - fr-name: Eponges barriques
-    en-name:
+    en-name: Barrel sponges
     strong: false
   - fr-name: Sources volcaniques
-    en-name:
+    en-name: Volcanic springs
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: false
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false
   - fr-name: Monnaie caraïbes
-    en-name:
+    en-name: Sand dollars
     strong: false
   - fr-name: Tortues vertes
-    en-name:
+    en-name: Green turtles
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Tazars
-    en-name:
+    en-name: Kingfish
     strong: true
   - fr-name: Chatrous
-    en-name:
+    en-name: Octopus
     strong: true
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: true
 
 maps:

@@ -16,82 +16,82 @@ best-seasons:
 
 fauna:
   - fr-name: Girelles paon
-    en-name:
+    en-name: Peacock wrasse
     strong: false
   - fr-name: Sars
-    en-name:
+    en-name: White seabream
     strong: false
   - fr-name: Blennies
-    en-name:
+    en-name: Blennies
     strong: false
   - fr-name: Diodons
-    en-name:
+    en-name: Porcupinefish
     strong: false
   - fr-name: Perroquets
-    en-name:
+    en-name: Parrotfish
     strong: false
   - fr-name: Castagnoles
-    en-name:
+    en-name: Damselfish
     strong: false
   - fr-name: Coraux noirs
-    en-name:
+    en-name: Black coral
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Rascasses
-    en-name:
+    en-name: Scorpionfish
     strong: false
   - fr-name: Crevettes
-    en-name:
+    en-name: Shrimp
     strong: false
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: true
   - fr-name: Carangues
-    en-name:
+    en-name: Jacks
     strong: true
   - fr-name: Cigales de mer
-    en-name:
+    en-name: Slipper lobsters
     strong: true
   - fr-name: Bernards Lhermite
-    en-name:
+    en-name: Hermit crabs
     strong: true
   - fr-name: Sérioles
-    en-name:
+    en-name: Amberjacks
     strong: true
   - fr-name: Bécunes
-    en-name:
+    en-name: Barracuda
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Great barracuda
     strong: true
   - fr-name: Wahous
-    en-name:
+    en-name: Wahoo
     strong: true
   - fr-name: Congres
-    en-name:
+    en-name: Conger eels
     strong: true
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true
   - fr-name: Mostelles
-    en-name:
+    en-name: Forkbeard
     strong: true
   - fr-name: Mérous
-    en-name:
+    en-name: Groupers
     strong: true
   - fr-name: Raies aigles
-    en-name:
+    en-name: Eagle rays
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Raies mobulas
-    en-name:
+    en-name: Mobula rays
     strong: true
 maps:
   - id: acores

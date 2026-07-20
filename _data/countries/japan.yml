@@ -16,35 +16,35 @@ best-seasons:
 
 fauna:
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Coraux durs
-    en-name:
+    en-name: Hard corals
     strong: false
   - fr-name: Carangues
-    en-name:
+    en-name: Jacks
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Poissons feuilles
-    en-name:
+    en-name: Leaf fish
     strong: false
   - fr-name: Requins nourrices
-    en-name:
+    en-name: Nurse sharks
     strong: false
   - fr-name: Raies mantas
-    en-name:
+    en-name: Manta rays
     strong: true
   - fr-name: Tortues
-    en-name:
+    en-name: Turtles
     strong: true
   - fr-name: Anguilles jardinières
-    en-name:
+    en-name: Garden eels
     strong: false

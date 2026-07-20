@@ -16,64 +16,64 @@ best-seasons:
 
 fauna:
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Poisson tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Tortues vertes
-    en-name:
+    en-name: Green turtles
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Requins pointes blanches de recif
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins Galapagos
-    en-name:
+    en-name: Galapagos sharks
     strong: true
   - fr-name: Requins marteaux
-    en-name:
+    en-name: Hammerhead sharks
     strong: true
   - fr-name: Raies Mantas océaniques
-    en-name:
+    en-name: Oceanic manta rays
     strong: true
   - fr-name: Raies électriques
-    en-name:
+    en-name: Electric rays
     strong: true
   - fr-name: Batfish
-    en-name:
+    en-name: Batfish
     strong: true
   - fr-name: Orques
-    en-name:
+    en-name: Orcas
     strong: true
   - fr-name: Requins bullhead Galapagos
-    en-name:
+    en-name: Galapagos bullhead sharks
     strong: true
   - fr-name: Iguanes marines
-    en-name:
+    en-name: Marine iguanas
     strong: true
   - fr-name: Pingouins
-    en-name:
+    en-name: Penguins
     strong: true
   - fr-name: Otaries
-    en-name:
+    en-name: Sea lions
     strong: true
 
 maps:

@@ -15,85 +15,85 @@ best-seasons:
 
 fauna:
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Eponges barriques
-    en-name:
+    en-name: Barrel sponges
     strong: false
   - fr-name: Monnaies caraïbes
-    en-name:
+    en-name: Sand dollars
     strong: false
   - fr-name: Eponges tubulaires
-    en-name:
+    en-name: Tube sponges
     strong: false
   - fr-name: Crabes
-    en-name:
+    en-name: Crabs
     strong: false
   - fr-name: Crabes flèches
-    en-name:
+    en-name: Arrow crabs
     strong: false
   - fr-name: Vives tropicales
-    en-name:
+    en-name: Tropical stargazers
     strong: false
   - fr-name: Chevaliers ponctués juvéniles et adultes
-    en-name:
+    en-name: Spotted drums, juveniles and adults
     strong: false
   - fr-name: Soles
-    en-name:
+    en-name: Soles
     strong: false
   - fr-name: Tarpons
-    en-name:
+    en-name: Tarpon
     strong: false
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: true
   - fr-name: Anges français
-    en-name:
+    en-name: French angelfish
     strong: true
   - fr-name: Anges royaux
-    en-name:
+    en-name: Queen angelfish
     strong: true
   - fr-name: Barracudas géants
-    en-name:
+    en-name: Giant barracudas
     strong: true
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: true
   - fr-name: Cigales des mers
-    en-name:
+    en-name: Slipper lobsters
     strong: true
   - fr-name: Crevettes nettoyeuses
-    en-name:
+    en-name: Cleaner shrimp
     strong: false
   - fr-name: Carangue à grosse tête
-    en-name:
+    en-name: Horse-eye jack
     strong: false
   - fr-name: Tortues vertes
-    en-name:
+    en-name: Green turtles
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Seiches
-    en-name:
+    en-name: Cuttlefish
     strong: true
   - fr-name: Requins nourices
-    en-name:
+    en-name: Nurse sharks
     strong: true
   - fr-name: Requins gris de récif
-    en-name:
+    en-name: Gray reef sharks
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Raies léopards
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Platax
-    en-name:
+    en-name: Batfish
     strong: true
 maps:
   - id: antigua

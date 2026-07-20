@@ -16,58 +16,58 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Raies mantas océaniques
-    en-name:
+    en-name: Oceanic manta rays
     strong: true
   - fr-name: Tortues imbriquées
-    en-name:
+    en-name: Hawksbill turtles
     strong: true
   - fr-name: Scorpion leaf fishs
-    en-name:
+    en-name: Leaf scorpionfish
     strong: false
   - fr-name: Banded pipefishs
-    en-name:
+    en-name: Banded pipefish
     strong: false
   - fr-name: Perroquets à bosse
-    en-name:
+    en-name: Bumphead parrotfish
     strong: true
   - fr-name: Napoléons
-    en-name:
+    en-name: Napoleon wrasse
     strong: false
   - fr-name: Raies léopard
-    en-name:
+    en-name: Spotted eagle rays
     strong: true
   - fr-name: Requins gris
-    en-name:
+    en-name: Gray reef sharks
     strong: false
   - fr-name: Requins pointes blanches
-    en-name:
+    en-name: Whitetip reef sharks
     strong: false
   - fr-name: Requins pointes noires
-    en-name:
+    en-name: Blacktip reef sharks
     strong: false
   - fr-name: Thons jaunes
-    en-name:
+    en-name: Yellowfin tuna
     strong: false
   - fr-name: Thons à dents de chien
-    en-name:
+    en-name: Dogtooth tuna
     strong: false
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: false
   - fr-name: Platax
-    en-name:
+    en-name: Batfish
     strong: false
 
 maps:

@@ -19,64 +19,64 @@ best-seasons:
 
 fauna:
   - fr-name: Merous
-    en-name:
+    en-name: Groupers
     strong: true
   - fr-name: Barracudas
-    en-name:
+    en-name: Barracudas
     strong: true
   - fr-name: Rascasses
-    en-name:
+    en-name: Scorpionfish
     strong: true
   - fr-name: Chapons
-    en-name:
+    en-name: Red scorpionfish
     strong: true
   - fr-name: Mola Mola
-    en-name:
+    en-name: Mola mola
     strong: true
   - fr-name: Corb
-    en-name:
+    en-name: Brown meagre
     strong: false
   - fr-name: Mostelle
-    en-name:
+    en-name: Forkbeard
     strong: true
   - fr-name: Girelle paon
-    en-name:
+    en-name: Peacock wrasse
     strong: false
   - fr-name: Murennes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Langoustes
-    en-name:
+    en-name: Spiny lobsters
     strong: true
   - fr-name: Poulpes
-    en-name:
+    en-name: Octopus
     strong: false
   - fr-name: Murènes
-    en-name:
+    en-name: Moray eels
     strong: false
   - fr-name: Gobies
-    en-name:
+    en-name: Gobies
     strong: false
   - fr-name: Blenny
-    en-name:
+    en-name: Blenny
     strong: false
   - fr-name: Ver tubicole, ver plat
-    en-name:
+    en-name: Tube worms, flatworms
     strong: false
   - fr-name: Eponges
-    en-name:
+    en-name: Sponges
     strong: false
   - fr-name: Corail rouge
-    en-name:
+    en-name: Red coral
     strong: true
   - fr-name: Gorgones
-    en-name:
+    en-name: Gorgonians
     strong: false
   - fr-name: Araignées
-    en-name:
+    en-name: Spider crabs
     strong: true
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
 maps:
   - id: cerbere

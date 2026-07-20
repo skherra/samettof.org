@@ -16,32 +16,32 @@ best-seasons:
 
 fauna:
   - fr-name: Poissons tropicaux
-    en-name:
+    en-name: Tropical fish
     strong: false
   - fr-name: Anémones
-    en-name:
+    en-name: Anemones
     strong: false
   - fr-name: Nudibranches
-    en-name:
+    en-name: Nudibranchs
     strong: false
   - fr-name: Requins pointes noires océaniques
-    en-name:
+    en-name: Oceanic blacktip sharks
     strong: true
   - fr-name: Requins taureaux "Raggies"
-    en-name:
+    en-name: Ragged-tooth sharks ("Raggies")
     strong: true
   - fr-name: Thons
-    en-name:
+    en-name: Tuna
     strong: true
   - fr-name: Raies pastenagues
-    en-name:
+    en-name: Stingrays
     strong: true
   - fr-name: Tortues
-    en-name:
+    en-name: Turtles
     strong: true
   - fr-name: Anges
-    en-name:
+    en-name: Angelfish
     strong: false
   - fr-name: Mérous géants
-    en-name:
+    en-name: Giant groupers
     strong: true
