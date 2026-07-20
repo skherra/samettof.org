@@ -48,7 +48,9 @@ to-see: |
 
   São Tomé City&nbsp;: Déguster le chocolat du passionné **[Claudio Corallo](https://claudiocorallo.com/index.php?lang=fr&Itemid=1322){: target="_blank"}** et visiter  **Cacau**, la galerie d'art contemporain des artistes locaux.
 
-  Autour de Trinidad&nbsp;: Visiter le musée **[Monté Café](https://fr.wikipedia.org/wiki/Monte_Caf%C3%A9){: target="_blank"}** et la cascade **San Nicolau**.<br /> Déguster les spécialités locales dans les **"Kioskes"** et le fameux **Calulu** de Christina dans le quartier du Kabelo Mole. Se balader dans la forêt à Belém et goûter le vin de palme fraîchement préparé.
+  Autour de Trinidad&nbsp;: Visiter le musée **[Monté Café](https://fr.wikipedia.org/wiki/Monte_Caf%C3%A9){: target="_blank"}** et la cascade **San Nicolau**.
+
+  Déguster les spécialités locales dans les **"Kioskes"** et le fameux **Calulu** de Christina dans le quartier du Kabelo Mole. Se balader dans la forêt à Belém et goûter le vin de palme fraîchement préparé.
 
   Autour de Bom Sucesso&nbsp;: Marcher jusqu'au **[lagoa Amelia](https://fr.wikipedia.org/wiki/Lagoa_Am%C3%A9lia){: target="_blank"}** dans la forêt primaire.
 

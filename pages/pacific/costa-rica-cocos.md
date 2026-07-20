@@ -16,7 +16,9 @@ visited-in: Septembre 2019
 h1: 🇨🇷 Île Cocos
 
 country-desc: |
-  **[L'île Cocos](https://fr.wikipedia.org/wiki/%C3%8Ele_Cocos){: target="_blank"}**, petit paradis des requins Marteaux et des oiseaux marins. Elle se mérite car il faut 36 heures de bateau pour la rejoindre depuis Punta Arenas avec une mer parfois très agitée. <br>Ces côtes baignant le pacifique Nord font partie du **[parc marin <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/820/){: target="_blank"}** très réglementé de Cocos. L'île n'est pas habitée, un groupe de rangers, avitaillé par les bateaux de croisières, y campe et assure la surveillance et la sauvegarde du parc. Chaque plongée des trois bateaux de croisière est programmée avec précision à la demi heure près&nbsp;; pas d'ancres uniquement des bouées d'amarrages. Les plongées sont toutes dérivantes. Ce sanctuaire reste immaculé. Même si la visibilité demeure parfois capricieuse, le spectacle est magique&nbsp;: des marteaux à chaque plongée&nbsp;!
+  **[L'île Cocos](https://fr.wikipedia.org/wiki/%C3%8Ele_Cocos){: target="_blank"}**, petit paradis des requins Marteaux et des oiseaux marins. Elle se mérite car il faut 36 heures de bateau pour la rejoindre depuis Punta Arenas avec une mer parfois très agitée.
+
+  Ces côtes baignant le pacifique Nord font partie du **[parc marin <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/820/){: target="_blank"}** très réglementé de Cocos. L'île n'est pas habitée, un groupe de rangers, avitaillé par les bateaux de croisières, y campe et assure la surveillance et la sauvegarde du parc. Chaque plongée des trois bateaux de croisière est programmée avec précision à la demi heure près&nbsp;; pas d'ancres uniquement des bouées d'amarrages. Les plongées sont toutes dérivantes. Ce sanctuaire reste immaculé. Même si la visibilité demeure parfois capricieuse, le spectacle est magique&nbsp;: des marteaux à chaque plongée&nbsp;!
 
   L'île Cocos, digne du film de Jurassic Park, est une forêt tropicale humide. Elle est aussi le sanctuaire des fregates, des fous, des fous à pieds bleus ou rouges, ou des sternes blanches appelées ici "Esperitu Santo".
 

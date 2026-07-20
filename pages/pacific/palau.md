@@ -18,7 +18,9 @@ h1: 🇵🇼 Palaos
 country-desc: |
   **[Palau](https://fr.wikipedia.org/wiki/Palaos){: target="_blank"}** ou Palaos, est un archipel de 400 îles ou îlots entre la mer des Philippines et l'océan Pacifique.
 
-  La jeune république a misé sur le respect de l'environnement et la sauvegarde de ses îles&nbsp;: **[un engagement <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** qui commence sur le tampon à la douane, des parcs naturels et un sanctuaire de requins (créé en 2009). <br/>Ce joyau, victime de son succès (plongée, kayak et autres activités tournés vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé&nbsp;; les taxes d'état et des parcs sont très élevées. Il y a encore beaucoup trop de plastiques proposés dans les magasins, des bouteilles d'eau, et peu de triage des déchets&nbsp;...
+  La jeune république a misé sur le respect de l'environnement et la sauvegarde de ses îles&nbsp;: **[un engagement <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** qui commence sur le tampon à la douane, des parcs naturels et un sanctuaire de requins (créé en 2009).
+
+  Ce joyau, victime de son succès (plongée, kayak et autres activités tournés vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé&nbsp;; les taxes d'état et des parcs sont très élevées. Il y a encore beaucoup trop de plastiques proposés dans les magasins, des bouteilles d'eau, et peu de triage des déchets&nbsp;...
 
   Les îles de Palaos sont accessibles par un vol direct depuis Taipei, Séoul ou Tokyo.
 
@@ -30,7 +32,11 @@ dive-shop: |
   En février 2020.
   {: .visited-in}
 
-  **[Sam's Tour](http://www.samstours.com/){: target="_blank"}** est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence. <br/>Le club mélange un peu les niveaux de palanquée et on ne peut pas vraiment plonger à la carte. <br/>Malgré ce côté rigide, les dive masters particulièrement Jeremy, Eve et Matt sont excellents et passionnés.
+  **[Sam's Tour](http://www.samstours.com/){: target="_blank"}** est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence.
+
+  Le club mélange un peu les niveaux de palanquée et on ne peut pas vraiment plonger à la carte.
+
+  Malgré ce côté rigide, les dive masters particulièrement Jeremy, Eve et Matt sont excellents et passionnés.
 
 accommodation: |
   En février 2020.

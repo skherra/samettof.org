@@ -16,7 +16,9 @@ visited-in: Mai 2018
 h1: 🇪🇨 Galápagos
 
 country-desc: |
-  L'Archipel des **[Gal&aacute;pagos](https://fr.wikipedia.org/wiki/%C3%8Eles_Gal%C3%A1pagos){: target="_blank"}**, dans le pacifique, lieu mythique et dépaysant, regorge de diversité marine et terrestre&nbsp;... <br>Il reste accessible à 2h d'avion du continent, moyennant des taxes assez élevées d'entrée et sur place pour limiter le tourisme. En effet l'état équatorien assume ce fait pour conserver **[ce patrimoine <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/1/){: target="_blank"}** sauvage et unique.
+  L'Archipel des **[Gal&aacute;pagos](https://fr.wikipedia.org/wiki/%C3%8Eles_Gal%C3%A1pagos){: target="_blank"}**, dans le pacifique, lieu mythique et dépaysant, regorge de diversité marine et terrestre&nbsp;...
+
+  Il reste accessible à 2h d'avion du continent, moyennant des taxes assez élevées d'entrée et sur place pour limiter le tourisme. En effet l'état équatorien assume ce fait pour conserver **[ce patrimoine <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/1/){: target="_blank"}** sauvage et unique.
 
   Les plongées sont d'une richesse incomparable, mais la visibilité reste quelque peu capricieuse&nbsp;... Les plus belles plongées se font autour de Darwin, Wolf et Fernandina dans des eaux assez froides. Une croisière est indispensable pour rejoindre ces trois îles. Un arrêt sur l'île de Santa Cruz (à côté de l'île aéroport Baltra) constitue une bonne escale.
 
@@ -41,9 +43,17 @@ accommodation: |
   À Cuenca&nbsp;: **Hotel Ines**, charmant hôtel typique dans le centre historique.
 
 to-see: |
-  À Guayalquil, se promener le long du **[Malecon](https://en.wikipedia.org/wiki/Malec%C3%B3n_2000){: target="_blank"}**, aux belles architectures et jardins remplis d'Iguanes. <br>Le Phare de Santa Ana, dans le quartier de **Las Penas**.
+  À Guayalquil, se promener le long du **[Malecon](https://en.wikipedia.org/wiki/Malec%C3%B3n_2000){: target="_blank"}**, aux belles architectures et jardins remplis d'Iguanes.
 
-  À Puerto Aroya, aller faire un tour à **l'église** en face du débarcadaire pour admirer ces vitraux, <br>À ne pas manquer&nbsp;: le **fish market** pour voir les otaries, pélicans, frégates, iguanes et hérons autour des pêcheurs, <br>La magnifique plage **Tortuga** constitue une belle balade. <br>Sans oublier le centre **[Darwin](https://www.darwinfoundation.org/en/){: target="_blank"}** très intéressant et encore en activité.
+  Le Phare de Santa Ana, dans le quartier de **Las Penas**.
+
+  À Puerto Aroya, aller faire un tour à **l'église** en face du débarcadaire pour admirer ces vitraux,
+
+  À ne pas manquer&nbsp;: le **fish market** pour voir les otaries, pélicans, frégates, iguanes et hérons autour des pêcheurs,
+
+  La magnifique plage **Tortuga** constitue une belle balade.
+
+  Sans oublier le centre **[Darwin](https://www.darwinfoundation.org/en/){: target="_blank"}** très intéressant et encore en activité.
 
   À Cuenca, les musées et les façades du vieux centre, le site archéologique **Pumapungo** et le site **[Ingapirca](https://fr.wikipedia.org/wiki/Ingapirca){: target="_blank"}** à 60 km de la ville.
 

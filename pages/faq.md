@@ -46,31 +46,41 @@ qa:
   I: fa-cog
   Q: Faut-il prendre son matériel&nbsp;?
   A: |
-    Nous le prenons à chaque fois, car nous avons nos habitudes et que nous sommes certains de son état. Toutefois, notre matériel pèse 17 kg à lui tout seul, ce qui n'est pas aisé pour les transports et les avions (surcharge bagages&nbsp;...). <br/>Beaucoup de destinations "offrent" un équipement de bonne qualité, mais ce n'est pas toujours le cas. Au minimum il faut voyager avec **son ordinateur et son masque.**
+    Nous le prenons à chaque fois, car nous avons nos habitudes et que nous sommes certains de son état. Toutefois, notre matériel pèse 17 kg à lui tout seul, ce qui n'est pas aisé pour les transports et les avions (surcharge bagages&nbsp;...).
+
+    Beaucoup de destinations "offrent" un équipement de bonne qualité, mais ce n'est pas toujours le cas. Au minimum il faut voyager avec **son ordinateur et son masque.**
 - N: 05
   I: fa-briefcase
   Q: Quels bagages&nbsp;?
   A: |
     Nous préférons des sacs souples et grands formats qui peuvent se porter en sac à dos. Actuellement les **North Face XXL** font l'affaire. Ils ont une grande capacité de rangement, ne pèsent presque rien à vide et se rangent facilement dans les espaces restreints. Nous rangeons le sec dans des petits sacs étanches.
 
-    Les sacs "adaptés" pour la plongée ne le sont justement pas&nbsp;: pas de compartiment étanche, lourd à vide, mauvais rapport qualité-prix, souvent hors format pour les aéroports et les petites roulettes quand le sac fait 20 kilos sont souvent inutiles. <br/>D'autres plongeurs préféreront des petites valises rigides (au moins 2 par personne).
+    Les sacs "adaptés" pour la plongée ne le sont justement pas&nbsp;: pas de compartiment étanche, lourd à vide, mauvais rapport qualité-prix, souvent hors format pour les aéroports et les petites roulettes quand le sac fait 20 kilos sont souvent inutiles.
+
+    D'autres plongeurs préféreront des petites valises rigides (au moins 2 par personne).
 - N: 06
   I: fa-eye
   Q: Lentilles ou masque à sa vue&nbsp;?
   A: |
-    Nous préférons les lentilles et, contrairement à ce que l'on peut penser, les lentilles collent à partir de 10 mètres, il y a peu de risque de les perdre. <br/>Les masques à la vue consistent à coller des verres sur le masque, ce qui fait perdre selon nous, une vision pleine.
+    Nous préférons les lentilles et, contrairement à ce que l'on peut penser, les lentilles collent à partir de 10 mètres, il y a peu de risque de les perdre.
+
+    Les masques à la vue consistent à coller des verres sur le masque, ce qui fait perdre selon nous, une vision pleine.
 - N: 07
   I: fa-camera-retro
   Q: Quel est notre matériel photo&nbsp;?
   A: |
-    Nous utilisons un petit appareil **Sealife** dernière génération sans caisson. Il est compact et pratique pour tous les types de plongées. Ses filtres intégrés sont disponibles en raccourci. Une lentille en sus est obligatoire pour la macro. <br/>Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
+    Nous utilisons un petit appareil **Sealife** dernière génération sans caisson. Il est compact et pratique pour tous les types de plongées. Ses filtres intégrés sont disponibles en raccourci. Une lentille en sus est obligatoire pour la macro.
+
+    Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
 
     Et bien sûr, beaucoup de lumières&nbsp;!
 - N: 08
   I: fa-binoculars
   Q: Quel endroit a-t-on préféré&nbsp;?
   A: |
-    On nous pose souvent la question, et c'est très difficile d'y répondre&nbsp;...  <i class="fa fa-smile-o"></i> <br/>Toutes les plongées ont leur charme et nous apprécions la richesse des océans Indien et Pacifique mais également les ambiances si particulières de l'Atlantique. De plus, plusieurs paramètres entrent en jeu&nbsp;: les saisons, la météo et surtout la chance jouent beaucoup&nbsp;!
+    On nous pose souvent la question, et c'est très difficile d'y répondre&nbsp;...  <i class="fa fa-smile-o"></i>
+
+    Toutes les plongées ont leur charme et nous apprécions la richesse des océans Indien et Pacifique mais également les ambiances si particulières de l'Atlantique. De plus, plusieurs paramètres entrent en jeu&nbsp;: les saisons, la météo et surtout la chance jouent beaucoup&nbsp;!
 
     À l'unanimité voici notre top 6 (à noter que ce ne sont pas les plongées les plus faciles en raison du fort courant)&nbsp;:
     * **[Fakarava Sud](/pacifique/polynesie-francaise/)**{: .accent-color} avec ses murs de requins époustouflants.

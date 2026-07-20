@@ -18,7 +18,11 @@ h1: 🇫🇲 Micronésie
 country-desc: |
   Les états fédérés de **[Micronésie](https://fr.wikipedia.org/wiki/%C3%89tats_f%C3%A9d%C3%A9r%C3%A9s_de_Micron%C3%A9sie){: target="_blank"}** sont des paillettes perdues dans l'océan pacifique et la mer des Philippines. Chacune des îles est très différente des autres (géologiquement et culturellement).
 
-  S'il fallait en choisir une ce serait **[Chuuk](https://fr.wikipedia.org/wiki/Chuuk){: target="_blank"}** pour son immense cimetière d'épaves dans le lagon. <br/>Cargos, ravitailleurs, avions,&nbsp;…, les plongées sont grandioses, plutôt profondes (25 à 40 mètres). Les épaves sont peuplées de beaux coraux et forment de beaux récifs plutôt poissonneux. Les cargos regorgent de surprises à l'intérieur. La visibilité est assez bonne. L'entrée du parc marin est payante afin de protéger les sites. <br/>Il y a différents dive shops qui doivent se valoir les uns des autres, pour plus de confort et afin de maximiser le nombre d'épaves, il faudrait peut-être opter pour une croisière.
+  S'il fallait en choisir une ce serait **[Chuuk](https://fr.wikipedia.org/wiki/Chuuk){: target="_blank"}** pour son immense cimetière d'épaves dans le lagon.
+
+  Cargos, ravitailleurs, avions,&nbsp;…, les plongées sont grandioses, plutôt profondes (25 à 40 mètres). Les épaves sont peuplées de beaux coraux et forment de beaux récifs plutôt poissonneux. Les cargos regorgent de surprises à l'intérieur. La visibilité est assez bonne. L'entrée du parc marin est payante afin de protéger les sites.
+
+  Il y a différents dive shops qui doivent se valoir les uns des autres, pour plus de confort et afin de maximiser le nombre d'épaves, il faudrait peut-être opter pour une croisière.
 
   À **[Yap](https://fr.wikipedia.org/wiki/%C3%8Eles_Yap){: target="_blank"}**, les plongées sont toutes dérivantes sur le récif avec une bonne visibilité. C'est le paradis des mantas&nbsp;! Nous y étions pendant la saison de reproduction, nous les avons vu évoluer presque tous les jours. Les murs sont beaux. ce n'est malheureusement pas très poissonneux car les sites ne sont pas protégés de la pêche.
 
@@ -36,11 +40,23 @@ dive-shop: |
   En février-Mars 2020.
   {: .visited-in}
 
-  Chuuk&nbsp;: Le **[Blue Lagoon Dive Shop](https://www.trukbluelagoonresort.com/diveshop){: target="_blank"}** est situé dans le Blue Lagoon Resort, en travaux quand nous y étions. <br/>Pas de toilettes, ni de douches, les bateaux en bois avec toit couvrant ne sont pas confortables mais on retourne au club entre chaque plongée ou faisons une pause sur une petite île. Les sites sont à 25 min maximum. <br/>Une épave différente est proposée à chaque fois, plongée sans déco de 45 à 50 minutes, on va dire que c'est service minimum.
+  Chuuk&nbsp;: Le **[Blue Lagoon Dive Shop](https://www.trukbluelagoonresort.com/diveshop){: target="_blank"}** est situé dans le Blue Lagoon Resort, en travaux quand nous y étions.
 
-  **[Yap Divers](https://www.mantaray.com/yap-divers/){: target="_blank"}** est situé dans le Manta Ray Bay Resort. <br/>Ils ont 6 bateaux confortables pour 5 personnes. On plonge à la carte sans limite de temps, les plongées sont majoritairement dérivantes et faciles. Les dive masters locaux s'adaptent aux souhaits des guests&nbsp;: la station cleaning à 6 mètres ou les murs. <br/>En inter plongée serviettes chaude et thé / gâteaux. On ne porte rien. Un vrai luxe.
+  Pas de toilettes, ni de douches, les bateaux en bois avec toit couvrant ne sont pas confortables mais on retourne au club entre chaque plongée ou faisons une pause sur une petite île. Les sites sont à 25 min maximum.
 
-  **[Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei. <br/>Le responsable organise les plongées en fonction de la marée. Deux bateaux pour 7 guests maximum. <br/>Pendant l'intervalle de surface fruits du jardin et un cake à la banane à tomber.
+  Une épave différente est proposée à chaque fois, plongée sans déco de 45 à 50 minutes, on va dire que c'est service minimum.
+
+  **[Yap Divers](https://www.mantaray.com/yap-divers/){: target="_blank"}** est situé dans le Manta Ray Bay Resort.
+
+  Ils ont 6 bateaux confortables pour 5 personnes. On plonge à la carte sans limite de temps, les plongées sont majoritairement dérivantes et faciles. Les dive masters locaux s'adaptent aux souhaits des guests&nbsp;: la station cleaning à 6 mètres ou les murs.
+
+  En inter plongée serviettes chaude et thé / gâteaux. On ne porte rien. Un vrai luxe.
+
+  **[Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei.
+
+  Le responsable organise les plongées en fonction de la marée. Deux bateaux pour 7 guests maximum.
+
+  Pendant l'intervalle de surface fruits du jardin et un cake à la banane à tomber.
 
 accommodation: |
   En février-Mars 2020.
@@ -55,7 +71,9 @@ accommodation: |
 to-see: |
   À Chuuk&nbsp;: Il n'y a pas grand chose à faire en dehors de la plongée.
 
-  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux. <br/>Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes&nbsp;...
+  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux.
+
+  Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes&nbsp;...
 
   À Ponhpei&nbsp;: **[Nan Madol](https://fr.wikipedia.org/wiki/Nan_Madol){: target="_blank"}**, vestige d'une cité du 2ème siècle.
 

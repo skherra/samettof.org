@@ -16,7 +16,9 @@ visited-in: Septembre 2017 et janvier 2025
 h1: 🇮🇩 Indonésie
 
 country-desc: |
-  L'archipel d'**[Indonésie](https://fr.wikipedia.org/wiki/Indon%C3%A9sie){: target="_blank"}** est le plus grand au monde et fait partie du grand **[triangle coralien](https://fr.wikipedia.org/wiki/Triangle_du_corail){: target="_blank"}** des océans Indien et Pacifique avec les Philippines et la Malaisie notamment. La faune et la flore sont incroyablement riches. <br/>Komodo et **[Raja Ampat](https://fr.wikipedia.org/wiki/%C3%8Eles_Raja_Ampat){: target="_blank"}** font partie des archipels les plus renommés au monde, et leur réputation n'est pas volée.<br/>
+  L'archipel d'**[Indonésie](https://fr.wikipedia.org/wiki/Indon%C3%A9sie){: target="_blank"}** est le plus grand au monde et fait partie du grand **[triangle coralien](https://fr.wikipedia.org/wiki/Triangle_du_corail){: target="_blank"}** des océans Indien et Pacifique avec les Philippines et la Malaisie notamment. La faune et la flore sont incroyablement riches.
+
+  Komodo et **[Raja Ampat](https://fr.wikipedia.org/wiki/%C3%8Eles_Raja_Ampat){: target="_blank"}** font partie des archipels les plus renommés au monde, et leur réputation n'est pas volée.
 
   Autour de Bali et Sorong, les eaux sont polluées de plastiques et de déchets en tout genre, y compris autour des villages de Papouasie.
 
@@ -45,7 +47,9 @@ dive-shop: |
   En janvier 2025 et septembre 2017.
   {: .visited-in}
 
-  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit). <br />Très beau bateau et excellent service pour 8 passagers maximum (2 palanquées de 4). Suivant les guides de plongées, on apprécie le petit comme le gros.
+  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit).
+
+  Très beau bateau et excellent service pour 8 passagers maximum (2 palanquées de 4). Suivant les guides de plongées, on apprécie le petit comme le gros.
 
   En janvier 2025.
   {: .visited-in}
@@ -66,7 +70,9 @@ accommodation: |
   En septembre 2017.
   {: .visited-in}
 
-  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, dans le nord de Sanure, dans un jardin luxuriant. <br>Belle adresse proposant de grandes chambres avec terrasse. Ils s'occupent de tout sur place&nbsp;: massage, excursions et même de commander à diner&nbsp;!
+  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, dans le nord de Sanure, dans un jardin luxuriant.
+
+  Belle adresse proposant de grandes chambres avec terrasse. Ils s'occupent de tout sur place&nbsp;: massage, excursions et même de commander à diner&nbsp;!
 
 to-see: |
   En février 2025.

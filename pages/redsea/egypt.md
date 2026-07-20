@@ -18,7 +18,9 @@ h1: 🇪🇬 Égypte
 country-desc: |
   L'**[Égypte](https://fr.wikipedia.org/wiki/Egypte){: target="_blank"}** est un pays baigné par la mer Rouge et la mer Méditerranée.
 
-  Mecque de la plongée pendant très longtemps, le pays a souffert du manque de tourisme pendant des années à cause de la situation politique du pays. Un mal pour un bien, moins de plongeurs a fait du bien aux coraux et à la faune vivant dans la mer Rouge. <br />Pour les spots de plongée, il y a l'embarras du choix au sud comme au nord. Nous avons choisi de faire le sud depuis le bord et via une croisière. La mer Rouge est riche et poissonneuse, accessible en une journée sans décalage horaire à des prix raisonnables.
+  Mecque de la plongée pendant très longtemps, le pays a souffert du manque de tourisme pendant des années à cause de la situation politique du pays. Un mal pour un bien, moins de plongeurs a fait du bien aux coraux et à la faune vivant dans la mer Rouge.
+
+  Pour les spots de plongée, il y a l'embarras du choix au sud comme au nord. Nous avons choisi de faire le sud depuis le bord et via une croisière. La mer Rouge est riche et poissonneuse, accessible en une journée sans décalage horaire à des prix raisonnables.
 
   Marsa Alam est accessible en avion depuis le Caire ou par la route depuis les aéroports d'Hurghada ou de Luxor. Mais les transferts par la route sont longs et il peut y avoir beaucoup de checkpoints.
 
@@ -36,7 +38,11 @@ dive-shop: |
   En décembre 2021.
   {: .visited-in}
 
-  **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Égypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
+  **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Égypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac.
+
+  Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire.
+
+  Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
 
   En septembre 2022.
   {: .visited-in}

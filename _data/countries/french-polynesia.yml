@@ -161,11 +161,11 @@ maps:
       - lat: -16.73818
         lng: -151.50535
         icon: diveFlagIcon
-        place: Les roses<br>et Miri Miri
+        place: Les roses et Miri Miri
       - lat: -16.74596
         lng: -151.41863
         icon: diveFlagIcon
-        place: La passe de <br>Teava piti
+        place: La passe de Teava piti
       - lat: -16.64931
         lng: -151.42376
         icon: diveFlagIcon

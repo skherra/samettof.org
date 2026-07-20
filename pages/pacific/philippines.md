@@ -25,7 +25,9 @@ country-desc: |
 country-desc-sections:
 - title: Coron
   text: |
-    À Coron, ce sont principalement des plongées épaves des bateaux japonais coulés en 1944 par l'armée américaine. Les épaves sont variées, à différentes profondeurs, de 18 à 31 mètres et toutes intéressantes à visiter à l'intérieur comme à l'extérieur. <br>Nous n'avons pas eu une très bonne visibilité, ni beaucoup de gros, par contre les épaves regorgent de coraux mous et durs et de petites faunes pour les amateurs de macro. Les reefs sont de véritables jardins de coraux et ne sont pas en reste après des plongées profondes. Nous n'avons pas eu beaucoup de courant et les immersions sont simplifiées par des bouées accrochées aux épaves.
+    À Coron, ce sont principalement des plongées épaves des bateaux japonais coulés en 1944 par l'armée américaine. Les épaves sont variées, à différentes profondeurs, de 18 à 31 mètres et toutes intéressantes à visiter à l'intérieur comme à l'extérieur.
+
+    Nous n'avons pas eu une très bonne visibilité, ni beaucoup de gros, par contre les épaves regorgent de coraux mous et durs et de petites faunes pour les amateurs de macro. Les reefs sont de véritables jardins de coraux et ne sont pas en reste après des plongées profondes. Nous n'avons pas eu beaucoup de courant et les immersions sont simplifiées par des bouées accrochées aux épaves.
 
     Accessible en ferry, il faut prévoir des transferts pour se déplacer.
 - title: Tubbataha
@@ -36,7 +38,9 @@ country-desc-sections:
     **Moalboal**{: .accent-color} est une province de Cebu, une des îles principales des Philippines, située à 4h de route de Cebu city. La côte est très belle et est connue pour ses sardines run, des bancs de sardines vivant à l'année dans la baie pour la joie des snorklers ou des plongeurs. L'île de Pescador et le mur le long du reef ne sont pas en reste&nbsp;: tortues, hippocampes pygmées, crabes de corail, beaucoup de petits, des galathées, des coraux mous et durs très colorés, des frog fishs dans les éponges&nbsp;... Les plongées y sont faciles (que des dérivantes) et riches en découvertes.
 - title: Malapascua
   text: |
-    **[Malapascua](https://fr.wikipedia.org/wiki/Malapascua){: target="_blank"}** est une petite île au nord de Cebu. On y vient surtout pour les requins renards à Kimud Shoal. Les autres sites comme le pinacle Dakit sont à voir également pour la macro. Il y a beaucoup de plongeurs sur les sites, mais les dive masters font généralement bien respecter les règles et la courtoisie est de mise. <br /> La météo est très variable et les sorties requins sont parfois annulées par les gardes côtes, les sites étant à 1h de bateau. Il faut donc prévoir du temps sur l'île pour assurer une sortie requins renard. Les sites autour de l'île sont pour du petit mais sont moins riche.
+    **[Malapascua](https://fr.wikipedia.org/wiki/Malapascua){: target="_blank"}** est une petite île au nord de Cebu. On y vient surtout pour les requins renards à Kimud Shoal. Les autres sites comme le pinacle Dakit sont à voir également pour la macro. Il y a beaucoup de plongeurs sur les sites, mais les dive masters font généralement bien respecter les règles et la courtoisie est de mise.
+
+    La météo est très variable et les sorties requins sont parfois annulées par les gardes côtes, les sites étant à 1h de bateau. Il faut donc prévoir du temps sur l'île pour assurer une sortie requins renard. Les sites autour de l'île sont pour du petit mais sont moins riche.
 
     Accessible en pirogues privées ou pirogues "ferry" au bout de 45 min, 1 heure.
 

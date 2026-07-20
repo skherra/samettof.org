@@ -38,9 +38,15 @@ to-see: |
   En mai 2026.
   {: .visited-in}
 
-  Il y a plusieurs sites archéologiques dans l'île à visiter, des vieux forts et les moulins à sucre de **[Betty's Hope](https://sugarmills.blogs.bucknell.edu/bettys-hope/){: target="_blank"}**, Nelson’s dockyard et Fort Berkeley. <br/>  Grimper en haut du **[Fort Barrington](https://en.wikipedia.org/wiki/Fort_Barrington,_Antigua_and_Barbuda){: target="_blank"}** pour admirer la vue Mangrove et mer. <br />Admirer les pélicans, aigrettes, frégates, huitriers sur le **McKinnon's Salt Pond**, les alentours sont malheureusement pollués de déchets.
+  Il y a plusieurs sites archéologiques dans l'île à visiter, des vieux forts et les moulins à sucre de **[Betty's Hope](https://sugarmills.blogs.bucknell.edu/bettys-hope/){: target="_blank"}**, Nelson’s dockyard et Fort Berkeley.
 
-  Il y a plusieurs randonnées sympas autour de Falmouth pour admirer de beaux points de vues dont la boucle de Galleon Beach à Shirley Height, **[le carpenter rock trail](https://www.antiguamarineguide.com/hikes/carpenter-rock-trail.){: target="_blank"}** qui offre des vues magnifiques sur les falaises et la baie Falmouth Harboor. <br/>La balade via Turtle Bay jusqu'à **Rendez-vous beach** offre aussi de très belles vues de la baie. Enfin la courte balade à **Monk Hill** vaut le détour, on a la vue à presque 360 degrés.
+  Grimper en haut du **[Fort Barrington](https://en.wikipedia.org/wiki/Fort_Barrington,_Antigua_and_Barbuda){: target="_blank"}** pour admirer la vue Mangrove et mer.
+
+  Admirer les pélicans, aigrettes, frégates, huitriers sur le **McKinnon's Salt Pond**, les alentours sont malheureusement pollués de déchets.
+
+  Il y a plusieurs randonnées sympas autour de Falmouth pour admirer de beaux points de vues dont la boucle de Galleon Beach à Shirley Height, **[le carpenter rock trail](https://www.antiguamarineguide.com/hikes/carpenter-rock-trail.){: target="_blank"}** qui offre des vues magnifiques sur les falaises et la baie Falmouth Harboor.
+
+  La balade via Turtle Bay jusqu'à **Rendez-vous beach** offre aussi de très belles vues de la baie. Enfin la courte balade à **Monk Hill** vaut le détour, on a la vue à presque 360 degrés.
 
 log-books:
 - author: Sam

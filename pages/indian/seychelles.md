@@ -26,7 +26,11 @@ dive-shop: |
   En mai 2022.
   {: .visited-in}
 
-  **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  propose des croisières de 3 ou 6 jours, d'une capacité de 6 personnes. Nous étions 4 guests, autant dire des plongées VIP. 3 à 4 plongées par jour dont quelques plongées de nuit. Un niveau 2 minimum est requis. <br/>Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Les repas sont composés de snacks à midi et d’un repas plus préparé et local le soir. <br/>L'équipage est composé de 3 personnes (que des locaux), souriants et prévenants, tous plongeurs, passionnés et de bonne humeur.
+  **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  propose des croisières de 3 ou 6 jours, d'une capacité de 6 personnes. Nous étions 4 guests, autant dire des plongées VIP. 3 à 4 plongées par jour dont quelques plongées de nuit. Un niveau 2 minimum est requis.
+
+  Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Les repas sont composés de snacks à midi et d’un repas plus préparé et local le soir.
+
+  L'équipage est composé de 3 personnes (que des locaux), souriants et prévenants, tous plongeurs, passionnés et de bonne humeur.
 
   **[Atoll divers <i class="fa fa-heart"></i>](https://atolldiverseychelles.com/){: target="_blank"}**, leur bateau situé sur le petit port de bel Ombre, est spacieux et muni de toilettes. On y accède en minibus depuis le club. Deux plongées le matin ou l'après-midi. Petite structure sympathique, il y a trois guides. Pour une question de timing sans doute, les plongées sont un peu courtes de 45 à 50 minutes. Pas de nitrox, les plongées sont relativement chères comme tout aux Seychelles. Mais c'est vite oublié avec la bonne humeur constante et Arthur et Sébastien qui sont passionnés sous l'eau. Eau et cake à la banane pendant l'intervalle de surface, un régal&nbsp;...
 
@@ -51,7 +55,9 @@ log-books:
   place: Shark Bank -  Mahé
   date: 25/05/2022
   text: |
-    Plongée sur le site granitique de Shark Bank. Un mur de vivaneaux jaunes assez opaque sous la bouée cachant tortues, carangues et raies léopards. Nous faisons le tour et par deux fois nous croisons nos premiers requins guitares, de belle taille, évoluant gracieusement près de nous. <br/>Quelques coraux mous oranges et violets ornent les rochers et bien sûr les platax viennent tourner autour des plongeurs. Ce site restera notre préféré des Seychelles tant par sa beauté que par son banc de vivaneaux enfermant les plongeurs ravis.
+    Plongée sur le site granitique de Shark Bank. Un mur de vivaneaux jaunes assez opaque sous la bouée cachant tortues, carangues et raies léopards. Nous faisons le tour et par deux fois nous croisons nos premiers requins guitares, de belle taille, évoluant gracieusement près de nous.
+
+    Quelques coraux mous oranges et violets ornent les rochers et bien sûr les platax viennent tourner autour des plongeurs. Ce site restera notre préféré des Seychelles tant par sa beauté que par son banc de vivaneaux enfermant les plongeurs ravis.
 - author: Sam
   place: Bitter rock -  Mahé
   date: 22/05/2022

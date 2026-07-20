@@ -16,7 +16,9 @@ visited-in: Mai 2014
 h1: 🇯🇵 Japon
 
 country-desc: |
-  En dehors des circuits touristiques du **Honshu** et de ses villes médiévales, nous avons voyagé dans les îles plus méridionales du pacifique jusqu'à la mer de Chine à partir de l'île **[Kyushu](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}**. <br/>Le but du voyage n'étant pas principalement la plongée, nous avons essayé d'y consacrer quelques jours là où cela était possible (certains clubs refusant les non japonophones).
+  En dehors des circuits touristiques du **Honshu** et de ses villes médiévales, nous avons voyagé dans les îles plus méridionales du pacifique jusqu'à la mer de Chine à partir de l'île **[Kyushu](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}**.
+
+  Le but du voyage n'étant pas principalement la plongée, nous avons essayé d'y consacrer quelques jours là où cela était possible (certains clubs refusant les non japonophones).
 
   Depuis l'île d'**Okinawa**, nous avons pu plonger dans l'archipel **[Kerama](https://fr.wikipedia.org/wiki/Kerama){: target="_blank"}** considérée comme la Mecque de la plongée au Japon. Les sites sont très variés et poissonneux. Nous avons été aussi impressionnés par les vestiges de la guerre du pacifique comme des obus et des bombes. C'est effectivement un des meilleurs endroits où plonger au Japon, mais les sites sont petits et il y a pas mal de plongeurs.
 
@@ -42,7 +44,9 @@ accommodation: |
   En mai 2014.
   {: .visited-in}
 
-  Dans le Kyushu&nbsp;: **[Ryokojin Sanso](https://ryokojin.com/){: target="_blank"}**, un superbe hôtel avec vue sur le Volcan de Kagoshima et des onsens privatifs plus beaux les uns que les autres dans une forêt fréquentées par de nombreux cerfs. <br/>**[Ryokan Sanga](https://www.sanga-ryokan.com/en/){: target="_blank"}**, dans une magnifique vallée, avec de beaux onsens privatisables et une bonne cuisine.
+  Dans le Kyushu&nbsp;: **[Ryokojin Sanso](https://ryokojin.com/){: target="_blank"}**, un superbe hôtel avec vue sur le Volcan de Kagoshima et des onsens privatifs plus beaux les uns que les autres dans une forêt fréquentées par de nombreux cerfs.
+
+  **[Ryokan Sanga](https://www.sanga-ryokan.com/en/){: target="_blank"}**, dans une magnifique vallée, avec de beaux onsens privatisables et une bonne cuisine.
 
   Okinawa&nbsp;: **Beach side Condo** _(fermé depuis)_, petit appartement pratique, beaucoup de commerces et restaurant à côté, dans le quartier de la base américaine.
 

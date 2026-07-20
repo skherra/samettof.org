@@ -18,7 +18,9 @@ h1: 🇵🇹 Açores
 country-desc: |
   L'archipel des **[Açores](https://fr.wikipedia.org/wiki/A%C3%A7ores){: target="_blank"}** est une province portugaise en Atlantique Nord. D'origine volcanique, les îles regorgent de beautés naturelles. Nous avons posé nos bagages sur **[São Miguel](https://fr.wikipedia.org/wiki/S%C3%A3o_Miguel_(%C3%AEle)){: target="_blank"}**, la plus grande et la plus peuplée de l'archipel. Avec plus de 40 sites de plongées, principalement sur la côte sud, il y a de quoi faire. Les sites sont principalement des arches, de petites grottes et d’anciennes coulées de lave avec une belle vie marine et une visibilité plutôt bonne. Il y a aussi beaucoup de choses à découvrir sur l'île et il serait dommage de ne se consacrer qu'à la plongée.
 
-  Il existe quelques croisières plongées qui proposent des plongées offshores et des plongées autour de Santa Maria en partant de São Miguel. La visibilité et les sites sont remarquables. Nous avons eu beaucoup d'interactions avec de gros mérous, des mobulas et des bancs de sérioles. Nous avons vu des marteaux et des dauphins du bateau, le capitaine nous expliquant que les Açores ne sont pas réputées pour les requins quoiqu'on pourrait penser ou sinon avec des pratiques de smelling que nous n'apprécions pas. <br />Les Açores restent pour nous les plus belles plongées que nous avons faites en Atlantique.
+  Il existe quelques croisières plongées qui proposent des plongées offshores et des plongées autour de Santa Maria en partant de São Miguel. La visibilité et les sites sont remarquables. Nous avons eu beaucoup d'interactions avec de gros mérous, des mobulas et des bancs de sérioles. Nous avons vu des marteaux et des dauphins du bateau, le capitaine nous expliquant que les Açores ne sont pas réputées pour les requins quoiqu'on pourrait penser ou sinon avec des pratiques de smelling que nous n'apprécions pas.
+
+  Les Açores restent pour nous les plus belles plongées que nous avons faites en Atlantique.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} le best of&nbsp;: **Dori, Mirror, Formigas, Gruta Azul, Ambrosio**&nbsp;
 

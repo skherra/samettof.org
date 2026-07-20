@@ -18,7 +18,9 @@ h1: 🇲🇬 Madagascar
 country-desc: |
   **[Nosy Be](https://fr.wikipedia.org/wiki/Nosy_Be){: target="_blank"}** est une île située au nord-ouest de "la grande Terre"&nbsp;: Madagascar. C'est un point de chute agréable pour plonger à Madagascar dans le canal du Mozambique. Les plongées se font le long du grand plateau qui longe la côté malgache. Au sud se trouve l'Archipel des Radama, au nord l'Archipel des Mitsio.
 
-  Nous avons effectué une croisière autour de l'archipel des **Radama** en partant de Nosy Be jusqu'à l'île Nosy Saba. Que ce soit au niveau topographie des sites comme les Trois Roches, Greg Wall ou le Banc du cyclone, le nord-ouest de Madagascar offre un panorama riche et varié&nbsp;: Gorgones géantes, arches, pentes douces sableuses pour du gros comme du petit&nbsp;... <br />Les plongées se font en dérivantes, mais nous n'avions que très peu de courant et une assez bonne visibilité pour la période (fin décembre).
+  Nous avons effectué une croisière autour de l'archipel des **Radama** en partant de Nosy Be jusqu'à l'île Nosy Saba. Que ce soit au niveau topographie des sites comme les Trois Roches, Greg Wall ou le Banc du cyclone, le nord-ouest de Madagascar offre un panorama riche et varié&nbsp;: Gorgones géantes, arches, pentes douces sableuses pour du gros comme du petit&nbsp;...
+
+  Les plongées se font en dérivantes, mais nous n'avions que très peu de courant et une assez bonne visibilité pour la période (fin décembre).
 
   Nous avons aussi plongé autour de Nosy Be, sur les îlots **Nosy Sakatia** et de **Nosy Range**, pour du petit de toute beauté.
 
@@ -26,7 +28,11 @@ dive-shop: |
   En Décembre 2018.
   {: .visited-in}
 
-  **[Diving Cattitude <i class="fa fa-heart"></i>](http://www.diving-cattitude-nosybe.com/){: target="_blank"}** propose plusieurs croisières à la carte au départ de Nosy Be. <br />Le catamaran plutôt unique a été fait sur mesure avec de bons moteurs. D'une capacité de 6 personnes, il est très confortable. L'équipage est composé de quatre personnes aux petits soins. Hassan le chef cuisinier prépare de bons petits plats variés et selon la pêche du jour. <br />Les plongées sur les îles Radama se font depuis le bateau en dérivante. Malik est un passionné et les plongées avec lui se font en toute sécurité, il aime le gros et le recherche pour notre plus grand plaisir.
+  **[Diving Cattitude <i class="fa fa-heart"></i>](http://www.diving-cattitude-nosybe.com/){: target="_blank"}** propose plusieurs croisières à la carte au départ de Nosy Be.
+
+  Le catamaran plutôt unique a été fait sur mesure avec de bons moteurs. D'une capacité de 6 personnes, il est très confortable. L'équipage est composé de quatre personnes aux petits soins. Hassan le chef cuisinier prépare de bons petits plats variés et selon la pêche du jour.
+
+  Les plongées sur les îles Radama se font depuis le bateau en dérivante. Malik est un passionné et les plongées avec lui se font en toute sécurité, il aime le gros et le recherche pour notre plus grand plaisir.
 
   **[Sakalav' Diving <i class="fa fa-heart"></i>](http://www.sakalav-diving.com/){: target="_blank"}**, sur la plage au nord-ouest de Nosy Be en face de Sakatia. Nous avons plongé dans la baie du fait de la météo mais nous nous sommes régalés avec Nathalie à la recherche du petit. Le club est une petite structure mais possède trois bateaux plutôt confortables. Du luxe, on ne porte ni gréé sa bouteille. On part pour deux plongées avec un intervalle de surface sur le bateau où l'ambiance est bonne et les discussions vont bon train.
 
@@ -53,7 +59,11 @@ log-books:
   place: Banc du cyclone -  Radames
   date: 14/12/2018
   text: |
-    Balade le long d’un mur largement découpé de crevasses et couvert de grandes gorgones blanches. La topographie est très belle et les gorgones blanches se détachent sur le fond bleu. <br/>Nous faisons le tour du piton, et nous croisons une toute petite mobula dans le bleu. Suite de la balade sur le plateau où nous croisons un requin léopard sur le sable peu incommodé par nous. <br/>Un gros marteau nous passe en dessous pendant la remontée. Plongée plutôt exceptionnelle pour la région&nbsp;!!
+    Balade le long d’un mur largement découpé de crevasses et couvert de grandes gorgones blanches. La topographie est très belle et les gorgones blanches se détachent sur le fond bleu.
+
+    Nous faisons le tour du piton, et nous croisons une toute petite mobula dans le bleu. Suite de la balade sur le plateau où nous croisons un requin léopard sur le sable peu incommodé par nous.
+
+    Un gros marteau nous passe en dessous pendant la remontée. Plongée plutôt exceptionnelle pour la région&nbsp;!!
 - author: Sam
   place: Greg Wall -  Radames
   date: 20/12/2018
@@ -68,5 +78,13 @@ log-books:
   place: Olaf - Nosy be
   date: 22/12/2018
   text: |
-    Plongée dans la baie autour de Sakatia. <br/>Très belle balade autour d’un riche îlot corallien entouré de sable. Très belles lumières. Énormément de vie. <br/>Une anémone bleue abritant un clown endémique et ses petits ainsi qu’un crabe porcelaine. <br/>Gros frog fish mauve parfaitement camouflé sur une éponge de la même couleur. <br/>Un gros poulpe farouche mais pas trop.
+    Plongée dans la baie autour de Sakatia.
+
+    Très belle balade autour d’un riche îlot corallien entouré de sable. Très belles lumières. Énormément de vie.
+
+    Une anémone bleue abritant un clown endémique et ses petits ainsi qu’un crabe porcelaine.
+
+    Gros frog fish mauve parfaitement camouflé sur une éponge de la même couleur.
+
+    Un gros poulpe farouche mais pas trop.
 ---

@@ -30,7 +30,9 @@ dive-shop: |
 
   **[Phocéa Cozumel et Playa <i class="fa fa-heart"></i>](http://mexique-plongee.fr/){: target="_blank"}**  est un très gros club, il offre plusieurs services dont le pick-up à l'aéroport de Cancun et des packages intéressants&nbsp;: Cozumel et/ou Cénotes. L'accueil un peu impersonnel est vite oublié car sous l'eau, les guides sont passionnés et soucieux de l'environnement (brieff sur les crèmes solaires et la fragilité des coraux).
 
-  Il est possible de faire 2 plongées par jour et une plongée de nuit sur demande. Seul bémol&nbsp;: beaucoup de monde et palanquée de tous niveaux y compris grands débutants avec des niveaux 2 et plus. <br/>Le Club a fermé sur Cozumel vers 2019.
+  Il est possible de faire 2 plongées par jour et une plongée de nuit sur demande. Seul bémol&nbsp;: beaucoup de monde et palanquée de tous niveaux y compris grands débutants avec des niveaux 2 et plus.
+
+  Le Club a fermé sur Cozumel vers 2019.
 
 accommodation: |
   En décembre 2016.

@@ -20,7 +20,9 @@ country-desc: |
 
   Une idée "folle" nous a pris, pour nous plongeurs d'eau chaude&nbsp;: s'initier à la plongée en eau froide (entre 2 et 3 °C) et pouvoir plonger dans un lieu unique au monde, la faille qui sépare les continents eurasiatique et américain&nbsp;: la mythique **[Silfra](https://en.wikipedia.org/wiki/Silfra#Scuba_diving){: target="_blank"}**. Les conditions extrêmes en valent la peine, c'est une de nos plus belles plongées.
 
-  L'Islande propose en effet des plongées atypiques&nbsp;: dans les failles ou dans des lacs ou encore l'océan quand les conditions le permettent. L'eau dans les failles est déminéralisée et translucide, on y vient pour la beauté des lieux et la topographie surtout.<br /> L'avantage également est que l'on peut y plonger toute l'année car la température de l'eau ne varie pas, seule la température extérieure peut contraindre à annuler des plongées ou à les rendre éprouvantes (gel, neige, vent glacial).
+  L'Islande propose en effet des plongées atypiques&nbsp;: dans les failles ou dans des lacs ou encore l'océan quand les conditions le permettent. L'eau dans les failles est déminéralisée et translucide, on y vient pour la beauté des lieux et la topographie surtout.
+
+  L'avantage également est que l'on peut y plonger toute l'année car la température de l'eau ne varie pas, seule la température extérieure peut contraindre à annuler des plongées ou à les rendre éprouvantes (gel, neige, vent glacial).
 
   Ce type de plongées requière une formation Padi combinaison étanche ou une justification de 10 plongées en étanche (accessible dès l'Open Water). Il est possible de la passer en une journée sur place et de combiner avec des packages par la suite.
 
