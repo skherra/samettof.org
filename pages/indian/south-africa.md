@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Afrique du Sud
-description: Sam & Tof - Plongée sous marine en Afrique du Sud
+description: Sam & Tof - Plongée sous-marine en Afrique du Sud
 
 sea: indian
 menu: Afrique du Sud
@@ -16,18 +16,20 @@ visited-in: Février 2018
 h1: 🇿🇦 Afrique du Sud
 
 country-desc: |
-  **[ Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
+  **[Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
 
-  **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban. <br />Pourquoi baleine vache ? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
+  **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban.
 
-  Avec des mises à l'eau sportives, une faible visibilité, du courant et des requins de bonnes tailles peu farouches, Aliwal Shoal restera parmi les plongées avec frissons garantis !
+  Pourquoi baleine vache&nbsp;? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des sites de plongées : [<i class="fa fa-map"></i>](/docs/south-africa-alishoal-map.webp){: target="_blank"}.
+  Avec des mises à l'eau sportives, une faible visibilité, du courant et des requins de bonnes tailles peu farouches, Aliwal Shoal restera parmi les plongées avec frissons garantis&nbsp;!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des parcs marins du Sud et Sud Est d'Afrique du Sud : [<i class="fa fa-map"></i>](/docs/south-africa-map.webp){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](/docs/south-africa-alishoal-map.webp){: target="_blank"}.
+
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des parcs marins du Sud et Sud Est d'Afrique du Sud&nbsp;: [<i class="fa fa-map"></i>](/docs/south-africa-map.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
@@ -35,7 +37,7 @@ dive-shop: |
   Grand zodiaque, le skipper et le guide vivent et plongent depuis plus de vingt ans à Umkomass mais la mer et le temps sont capricieux sur ce bout de côte, la visibilité et la température peuvent chuter drastiquement.
 
 accommodation: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   Le lodge de **[Scuba Addicts](https://www.scubaaddicts.com/scuba-diving-south-africa.html){: target="_blank"}** est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.
@@ -50,7 +52,7 @@ log-books:
     place: Raggie Cave
     date: 30/01/2018
     text: |
-      Descente sur Raggie Cave, la visibilité s'améliore mais reste entre 5 et 6 mètres, nous apercevons de beaux requins taureaux, les fameux "raggies" dans une voute, petite dérivante, quelques jolies anémones, nous voyons sur le sable une raie pastenague d'au moins 3 mètres de diamètres. Toutes les espèces sont plus grosses ici&nbsp;!!
+      Descente sur Raggie Cave, la visibilité s'améliore mais reste entre 5 et 6 mètres, nous apercevons de beaux requins taureaux, les fameux "raggies" dans une voûte, petite dérivante, quelques jolies anémones, nous voyons sur le sable une raie pastenague d'au moins 3 mètres de diamètre. Toutes les espèces sont plus grosses ici&nbsp;!!
   - author: Sam
     place: Shark dive
     date: 31/01/2018

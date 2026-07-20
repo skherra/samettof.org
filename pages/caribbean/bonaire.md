@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Bonaire
-description: Sam & Tof - Plongée sous marine à Bonaire
+description: Sam & Tof - Plongée sous-marine à Bonaire
 
 sea: caribbean
 menu: Bonaire
@@ -18,7 +18,7 @@ h1: 🇧🇶 Bonaire
 country-desc: |
   **[Bonaire](https://fr.wikipedia.org/wiki/Bonaire){: target="_blank"}** se situe tout au sud des caraïbes en face du Venezuela et constitue avec Aruba et Curaçao les petites Antilles sous le vent. Bonaire comme [Statia](/caraibes/statia/) fait partie des Pays-Bas.
 
-  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peu y en avoir tout au sud (White Slave, Margate Bay ...) et au Nord dans le parc.
+  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peut y en avoir tout au sud (White Slave, Margate Bay&nbsp;...) et au Nord dans le parc.
 
   Avec plus de 81 sites, l'île regorge de clubs de plongée qui proposent des packages hôtels, truck et bouteilles ou gonflage de bouteilles uniquement.
 
@@ -29,24 +29,24 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Morgate Bay**, **Tori's reef**, **The Lake**, **Calabas**.
 
 dive-shop: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
   **[Tropical divers](https://www.tropicaldiversbonaire.com/){: target="_blank"}**&nbsp;: Club familial, fait un package bungalow, voiture et bouteilles. Attentionnés et avec le sourire, ils proposent des fois des plongées en extras. Il y a suffisamment de bouteilles pour repasser entre deux sans attendre. Il est possible de plonger hors des horaires d'ouverture du club. Le club dispose d'un endroit assez grand pour y laisser sécher son matos. Il n'y a pas de vols dans les voitures, mais il est préférable de prendre une cloche pour y entreposer de l'argent et ses clefs.
 
 accommodation: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
   **[Tropical diver resort](https://www.tropicaldiversbonaire.com/){: target="_blank"}** à côté de l'aéroport, bien situés pour rayonner au nord comme au sud. Il y a des chambres et des appartements, ces derniers sont plus grands, relativement bien équipés et plus distants les uns des autres. La climatisation et la moustiquaire dans la chambre ne sont pas du luxe. Il y a, à quelques minutes en voiture, un grand super marché très bien achalandé.
 
 to-see: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
-  On y vient pour plonger mais faire le tout de l'île vaut le coup. L'île est petite, nous avons apprécié le sud, les marais salants et ses flamands roses, les ânes déambulant, les pélicans et les iguanes. L'île est plutôt désertique, malgré le vent, le soleil tape et il fait chaud.
+  On y vient pour plonger mais faire le tour de l'île vaut le coup. L'île est petite, nous avons apprécié le sud, les marais salants et ses flamands roses, les ânes déambulant, les pélicans et les iguanes. L'île est plutôt désertique, malgré le vent, le soleil tape et il fait chaud.
 
-  Le **Washington Slagbaai National Park** mérite une demi journée minimum&nbsp;: un parcours en voiture et quelques randonnées, de belles vues et on y voit beaucoup d'oiseaux.
+  Le **Washington Slagbaai National Park** mérite une demi-journée minimum&nbsp;: un parcours en voiture et quelques randonnées, de belles vues et on y voit beaucoup d'oiseaux.
 
 log-books:
 - author: Sam
