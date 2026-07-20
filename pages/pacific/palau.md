@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Palaos
-description: Sam & Tof - Plongée sous marine à Palaos
+description: Sam & Tof - Plongée sous-marine à Palaos
 
 sea: pacific
 menu: Palaos
@@ -63,5 +63,5 @@ log-books:
   place: Peleliu Wall
   date: 16/02/2020
   text: |
-    L'île de Peleliu est à 1h de speed boat de Koror, la mer est calme et le soleil est au rendez-vous. Nous tentons le Peleliu Corner mais une forte houle nous contraint à changer de site pour le Peleliu Wall. Nous ne sommes pas déçus, c'est un festival de Requins gris, petits nourices, Tortues, Perroquets à Bosse, Napoleons, regroupemennt de perches et de carangues. Une belle dérivante de plus d'une heure avec une très bonne visibilité, le mur est impressionnant. Nous arrivons à un petit corner ou nous voyons une vingtaine de requins évoluant à contre courant, très beau finish.
+    L'île de Peleliu est à 1h de speed boat de Koror, la mer est calme et le soleil est au rendez-vous. Nous tentons le Peleliu Corner mais une forte houle nous contraint à changer de site pour le Peleliu Wall. Nous ne sommes pas déçus, c'est un festival de Requins gris, petits nourices, Tortues, Perroquets à Bosse, Napoleons, regroupemennt de perches et de carangues. Une belle dérivante de plus d'une heure avec une très bonne visibilité, le mur est impressionnant. Nous arrivons à un petit corner où nous voyons une vingtaine de requins évoluant à contre courant, très beau finish.
 ---

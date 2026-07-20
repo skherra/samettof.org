@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Tanzanie
-description: Sam & Tof - Plongée sous marine en Tanzanie
+description: Sam & Tof - Plongée sous-marine en Tanzanie
 
 sea: indian
 menu: Tanzanie
@@ -39,5 +39,5 @@ log-books:
   place: Mapinduzi Misali - Pemba
   date: 16/09/2015
   text: |
-    Belle dérivante le long du mur de corail, le courant est assez fort, nous dessidons de nous accrocher sous un banc de barracudas qui ne bougent pas d'un poil. Nous voyons bientôt deux gros Napoléons de 2 mètres. La visi est si claire, que l'on voit le bleu et vert autour de leurs yeux. Puis remontée sur le reef, et un pente sableuse ou nous voyons des anguilles jardinières.
+    Belle dérivante le long du mur de corail, le courant est assez fort, nous dessidons de nous accrocher sous un banc de barracudas qui ne bougent pas d'un poil. Nous voyons bientôt deux gros Napoléons de 2 mètres. La visi est si claire, que l'on voit le bleu et vert autour de leurs yeux. Puis remontée sur le reef, et un pente sableuse où nous voyons des anguilles jardinières.
 ---

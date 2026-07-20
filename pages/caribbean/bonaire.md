@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Bonaire
-description: Sam & Tof - Plongée sous marine à Bonaire
+description: Sam & Tof - Plongée sous-marine à Bonaire
 
 sea: caribbean
 menu: Bonaire

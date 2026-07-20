@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Belize
-description: Sam & Tof - Plongée sous marine au Belize
+description: Sam & Tof - Plongée sous-marine au Belize
 
 sea: caribbean
 menu: Belize
@@ -28,7 +28,7 @@ dive-shop: |
   Visité en mai 2015.
   {: .visited-in}
 
-  Notre toute premère croisière plongée avec **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](http://www.aggressor.com/belize.php){: target="_blank"}** depuis Belize city : 5 jours de "eat sleep and dive" avec 4 plongées par jours au nitrox et une plongée de nuit supplémentaire quand la météo le permet. <br>Le bateau est ultra confortable et tout l'équipage ou presque plonge. (20 Guests max / pour la grande majorité Américains).
+  Notre toute premère croisière plongée avec **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](http://www.aggressor.com/belize.php){: target="_blank"}** depuis Belize city : 5 jours de "eat sleep and dive" avec 4 plongées par jour au nitrox et une plongée de nuit supplémentaire quand la météo le permet. <br>Le bateau est ultra confortable et tout l'équipage ou presque plonge. (20 Guests max / pour la grande majorité Américains).
 
   Sur Glover Reef : toutes les îles hôtels possèdent leur club de plongée. Nous avions plongé avec **[Isla Marisol resort](https://islamarisolresort.com/){: target="_blank"}**, les guides étaient bien, les fonds splendides mais leur seul bateau de plongée était en refection quand nous y étions, nous avons du nous accomoder d'un bateau non adapté (pas de repose bouteille, ni d'échelles ...), les plongées étaient dérivantes, on a déploré le manque de sécurité surface de la part du capitaine.
 
@@ -43,19 +43,19 @@ accommodation: |
 to-see: |
   **San Ignacio** : S'enfoncer dans la grotte **[ATM](https://en.wikivoyage.org/wiki/Actun_Tunichil_Muknal){: target="_blank"}** et les fascinants temples Mayas. <br> Faîtes votre propre chocolat à partir de la fève cacao chez **Ajaw Chocolate**.
 
-   **[Tikal](https://fr.wikipedia.org/wiki/Tikal){: target="_blank"}**, et **[ Yaxha](https://fr.wikipedia.org/wiki/Yaxha){: target="_blank"}** au Guatemala. A deux pas de la frontière avec le Bélize
+   **[Tikal](https://fr.wikipedia.org/wiki/Tikal){: target="_blank"}**, et **[ Yaxha](https://fr.wikipedia.org/wiki/Yaxha){: target="_blank"}** au Guatemala. À deux pas de la frontière avec le Bélize.
 
 log-books:
   - author: Sam
     place: Lighthouse Reef
     date: 11/05/2015
     text: |
-      Souvenirs amusés après une belle plongée sur le reef LongAye Wall : une barre horizontale immergée à 5 mètres sous le bateau nous permet de faire le pallier sans effort. Le fort courant se jour là, le bateau n'étant attaché qu'à l'avant, nous avons eu l'impression de prendre un manège au parc d'attraction&nbsp;!
+      Souvenirs amusés après une belle plongée sur le reef LongAye Wall : une barre horizontale immergée à 5 mètres sous le bateau nous permet de faire le palier sans effort. Le fort courant se jour là, le bateau n'étant attaché qu'à l'avant, nous avons eu l'impression de prendre un manège au parc d'attraction&nbsp;!
   - author: Sam
     place: Blue Hole
     date: 13/05/2015
     text: |
-      Descente douce sur le tombant, la visibilité est fantastique, à 30 et 40 mètres on apperçoit les premiers stalactiques couverts de végétations, des petites crevettes blanches. On se croirait en plongée de nuit, c'est une ambiance toute particulière. Mais il faut déjà repartir, nous remontons pour les palliers.
+      Descente douce sur le tombant, la visibilité est fantastique, à 30 et 40 mètres on apperçoit les premiers stalactiques couverts de végétations, des petites crevettes blanches. On se croirait en plongée de nuit, c'est une ambiance toute particulière. Mais il faut déjà repartir, nous remontons pour les paliers.
   - author: Sam
     place: The crack Glover Reef
     date: 22/05/2015

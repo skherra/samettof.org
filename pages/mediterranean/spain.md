@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Méditerranée en Espagne
-description: Sam & Tof - Plongée sous marine en Méditerranée en Espagne
+description: Sam & Tof - Plongée sous-marine en Méditerranée en Espagne
 
 sea: mediterranean
 menu: Espagne

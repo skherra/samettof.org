@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Philippines
-description: Sam & Tof - Plongée sous marine aux Philipines
+description: Sam & Tof - Plongée sous-marine aux Philipines
 
 sea: pacific
 menu: Philippines
@@ -25,12 +25,12 @@ country-desc: |
 country-desc-sections:
 - title: Coron
   text: |
-    A Coron, ce sont principalement des plongées épaves des bateaux japonais coulés en 1944 par l'armée américaine. Les épaves sont variées, à différentes profondeurs, de 18 à 31 mètres et toutes intéressantes à visiter à l'intérieur comme à l'extérieur. <br>Nous n'avons pas eu une très bonne visibilité, ni beaucoup de gros, par contre les épaves regorgent de coraux mous et durs et de petites faunes pour les amateurs de macro. Les reefs sont de véritables jardins de coraux et ne sont pas en reste après des plongées profondes. Nous n'avons pas eu beaucoup de courant et les immersions sont simplifiées par des bouées accrochées aux épaves.
+    À Coron, ce sont principalement des plongées épaves des bateaux japonais coulés en 1944 par l'armée américaine. Les épaves sont variées, à différentes profondeurs, de 18 à 31 mètres et toutes intéressantes à visiter à l'intérieur comme à l'extérieur. <br>Nous n'avons pas eu une très bonne visibilité, ni beaucoup de gros, par contre les épaves regorgent de coraux mous et durs et de petites faunes pour les amateurs de macro. Les reefs sont de véritables jardins de coraux et ne sont pas en reste après des plongées profondes. Nous n'avons pas eu beaucoup de courant et les immersions sont simplifiées par des bouées accrochées aux épaves.
 
     Accessible en ferry, il faut prévoir des transferts pour se déplacer.
 - title: Tubbataha
   text: |
-    A **[Tubbataha](https://fr.wikipedia.org/wiki/R%C3%A9cif_de_Tubbataha){: target="_blank"}**, via une croisière au départ de Puerto Princessa, les deux beaux atolls nous ont régalé. De beaux plateaux de coraux durs et de belles gorgones, avec des requins à chaque plongée mais également des tortues et napoléons, carangues, barracudas font de ce spot le meilleur des Philippines et nous sommes prêts à le croire. Il y a aussi du tout petit comme des crabes araignées et des hippocampes pigmés. Il peut y avoir un fort courant et quand cela se produit, de belles surprises nous attendent dans le bleu comme des marteaux à 40 mètres. Nous avons eu une superbe visibilité. Tubbataha est à 9h-12h de navigation de Puerto Princessa.
+    À **[Tubbataha](https://fr.wikipedia.org/wiki/R%C3%A9cif_de_Tubbataha){: target="_blank"}**, via une croisière au départ de Puerto Princessa, les deux beaux atolls nous ont régalé. De beaux plateaux de coraux durs et de belles gorgones, avec des requins à chaque plongée mais également des tortues et napoléons, carangues, barracudas font de ce spot le meilleur des Philippines et nous sommes prêts à le croire. Il y a aussi du tout petit comme des crabes araignées et des hippocampes pigmés. Il peut y avoir un fort courant et quand cela se produit, de belles surprises nous attendent dans le bleu comme des marteaux à 40 mètres. Nous avons eu une superbe visibilité. Tubbataha est à 9h-12h de navigation de Puerto Princessa.
 - title: Moalboal
   text: |
     **Moalboal**{: .accent-color} est une province de Cebu, une des îles principales des Philippines, située à 4h de route de Cebu city. La côte est très belle et est connue pour ses sardines run, des bancs de sardines vivant à l'année dans la baie pour la joie des snorklers ou des plongeurs. L	&#38;île de Pescador et le mur le long du reef ne sont pas en reste&nbsp;: tortues, hippocampes pygmées, crabes de corail, beaucoup de petits, des galathées, des coraux mous et durs très colorés, des frog fishs dans les éponges&nbsp;... Les plongées y sont faciles (que des dérivantes) et riches en découvertes.

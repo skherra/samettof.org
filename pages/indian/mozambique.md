@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Mozambique
-description: Sam & Tof - Plongée sous marine au Mozambique
+description: Sam & Tof - Plongée sous-marine au Mozambique
 
 sea: indian
 menu: Mozambique
@@ -49,5 +49,5 @@ log-books:
   place: Pinacles
   date: 06/02/2018
   text: |
-    Chaque jour apporte de nouvelles rencontres, nous dérivons au-dessus du récif Pinacles, des marteaux par bancs au-dessus de nous, des bouledogues en-dessous. Puis au pallier un ballet de petites mobulas, il y en a au moins 30 qui remontent et paradent autour de nous, tout simplement magique&nbsp;!
+    Chaque jour apporte de nouvelles rencontres, nous dérivons au-dessus du récif Pinacles, des marteaux par bancs au-dessus de nous, des bouledogues en-dessous. Puis au palier un ballet de petites mobulas, il y en a au moins 30 qui remontent et paradent autour de nous, tout simplement magique&nbsp;!
 ---

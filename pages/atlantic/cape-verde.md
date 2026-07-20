@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Cap Vert
-description: Sam & Tof - Plongée sous marine au Cap Vert
+description: Sam & Tof - Plongée sous-marine au Cap Vert
 
 sea: atlantic
 menu: Cap Vert
@@ -26,7 +26,7 @@ dive-shop: |
   Visité en septembre 2016.
   {: .visited-in}
 
-  Sur Mindelo, un seul club de plongée difficile à trouver : **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.<br /> Il est possible de faire 2 à 3 plongées par jour matin et après midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
+  Sur Mindelo, un seul club de plongée difficile à trouver : **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.<br /> Il est possible de faire 2 à 3 plongées par jour matin et après-midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
 
 accommodation: |
   Visité en septembre 2016.

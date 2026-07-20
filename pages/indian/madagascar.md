@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Madagascar
-description: Sam & Tof - Plongée sous marine à Madagascar
+description: Sam & Tof - Plongée sous-marine à Madagascar
 
 sea: indian
 menu: Madagascar
@@ -46,14 +46,14 @@ to-see: |
 
   La forêt primaire de **Lokobe** vaut le détour pour admirer, entre autres, les lémuriens diurnes et nocturnes.
 
-  **A fuir**&nbsp;: la plage d'Ambatoloaka, ultra touristique qui ne reflète pas du tout l'ambiance de l'île.
+  **À fuir**&nbsp;: la plage d'Ambatoloaka, ultra touristique qui ne reflète pas du tout l'ambiance de l'île.
 
 log-books:
 - author: Tof
   place: Banc du cyclone -  Radames
   date: 14/12/2018
   text: |
-    Balade le long d’un mur largement découpé de crevasses et couvert de grandes gorgones blanches. La topographie et très belle et les gorgones blanches se détachent sur le fond bleu. <br/>Nous faisons le tour du piton, et nous croisons une toute petite mobula dans le bleu. Suite de la ballade sur le plateau où nous croisons un requin léopard sur le sable peu incommodé par nous. <br/>Un gros marteau nous passe en dessous pendant la remontée. Plongée plutôt exceptionnelle pour la région !!
+    Balade le long d’un mur largement découpé de crevasses et couvert de grandes gorgones blanches. La topographie et très belle et les gorgones blanches se détachent sur le fond bleu. <br/>Nous faisons le tour du piton, et nous croisons une toute petite mobula dans le bleu. Suite de la balade sur le plateau où nous croisons un requin léopard sur le sable peu incommodé par nous. <br/>Un gros marteau nous passe en dessous pendant la remontée. Plongée plutôt exceptionnelle pour la région !!
 - author: Sam
   place: Greg Wall -  Radames
   date: 20/12/2018

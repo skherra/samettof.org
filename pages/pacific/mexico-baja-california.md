@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Mexique
-description: Sam & Tof - Plongée sous marine au Mexique
+description: Sam & Tof - Plongée sous-marine au Mexique
 
 sea: pacific
 menu: Mexique - Baja California
@@ -18,9 +18,9 @@ h1: 🇲🇽 Mexique Baja California
 country-desc: |
   **[ Baja California](https://fr.wikipedia.org/wiki/Golfe_de_Californie){: target="_blank"}** est l'état le plus à l'ouest du Mexique, baigné entre la mer de Cortés et l'océan pacifique. C'est la terre des paysages désertiques grandioses et sauvages, le paradis des baleines à bosse, des raies, des pélicans, des vautours et des cactus. Il y a autant à voir à terre qu'en mer. Nous avions découvert cet état en 2010, en snorkeling uniquement, mais nous nous étions régalés avec la richesse des eaux et le nombre de raies que nous avions vu, sans comptez les  dauphins entre Loretto et Mulegé. <br/>On y vient pour embarquer sur une croisière pour Socorro ou plonger dans la mer de Cortés.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} A Socorro, le best of **Canyon (San Benedicto), Funderadeo (San Benedicto), Roca Partita, Cabo Pearce (Socorro)**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} À Socorro, le best of **Canyon (San Benedicto), Funderadeo (San Benedicto), Roca Partita, Cabo Pearce (Socorro)**.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} A Cabo Pulmo, le best of **El Vencedor, El Bajo**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} À Cabo Pulmo, le best of **El Vencedor, El Bajo**.
 
 country-desc-sections:
 - title: Socorro
@@ -34,9 +34,9 @@ dive-shop: |
   Visité en avril 2024.
   {: .visited-in}
 
-  **[<i class="fa fa-ship"></i> Nautilus Explorer <i class="fa fa-heart"></i>](https://www.nautilusexplorer.com/){: target="_blank"}** &nbsp;: Bateau d'une capacité de 18 personnes, confortable même si le lieu de vie à l'intérieur est un peu petit. Les cabines sont agréables avec de bons couchages. C'est l'orgie de nourriture, deux petits déjeuner, snacks&nbsp;... Accueillis avec du champagne, une soirée tacos, une soirée wine and cheese. Bref on ne meurt pas de faim. Beaucoup plonge côté équipage, et l'ambiance est très bonne. Les divemasters s'adaptent au niveau de la palanquée et ont a coeur de nous faire profiter un maximum. 4 plongées par jour au Nitrox, depuis des semi-rigides.
+  **[<i class="fa fa-ship"></i> Nautilus Explorer <i class="fa fa-heart"></i>](https://www.nautilusexplorer.com/){: target="_blank"}** &nbsp;: Bateau d'une capacité de 18 personnes, confortable même si le lieu de vie à l'intérieur est un peu petit. Les cabines sont agréables avec de bons couchages. C'est l'orgie de nourriture, deux petits déjeuner, snacks&nbsp;... Accueillis avec du champagne, une soirée tacos, une soirée wine and cheese. Bref on ne meurt pas de faim. Beaucoup plonge côté équipage, et l'ambiance est très bonne. Les divemasters s'adaptent au niveau de la palanquée et ont à cœur de nous faire profiter un maximum. 4 plongées par jour au Nitrox, depuis des semi-rigides.
 
-  **[Blue passion Baja <i class="fa fa-heart"></i>](https://www.bluepassionbaja.com/){: target="_blank"}**&nbsp;: Manuela est italienne et est installée à Cabo Pulmo, elle est super tranquille sous l'eau et au dessus. Les capitaines sont expérimentées et repèrent les gros bancs de carangues pour nous faire profiter. Manuela n'a pas compté les minutes et nous a fait voir le best of des plongées à Cabo. 2 plongées possibles le matin ou l'après-midi.
+  **[Blue passion Baja <i class="fa fa-heart"></i>](https://www.bluepassionbaja.com/){: target="_blank"}**&nbsp;: Manuela est italienne et est installée à Cabo Pulmo, elle est super tranquille sous l'eau et au-dessus. Les capitaines sont expérimentées et repèrent les gros bancs de carangues pour nous faire profiter. Manuela n'a pas compté les minutes et nous a fait voir le best of des plongées à Cabo. 2 plongées possibles le matin ou l'après-midi.
 
 accommodation: |
   Visité en avril 2024.
@@ -48,13 +48,13 @@ accommodation: |
 
   **Pescadero Palace**{: .accent-color}&nbsp;: Propose des studios face à la mer au bout d'une piste, magnifique, avec un jacuzzi, fort agréable après les sessions de surf&nbsp;...
 
-  **[Hotel aeropuerto](https://www.hotelaeropuertoloscabos.com/){: target="_blank"}**&nbsp;: A 5 min de l'aéroport, (100 pessos en taxi). Les chambres sont spacieuses et calmes, le restaurant est correct. Parfait pour un transit après une longue journée de voyage. L'accueil et le service sont plutôt laborieux, il faut être patient.
+  **[Hotel aeropuerto](https://www.hotelaeropuertoloscabos.com/){: target="_blank"}**&nbsp;: À 5 min de l'aéroport, (100 pessos en taxi). Les chambres sont spacieuses et calmes, le restaurant est correct. Parfait pour un transit après une longue journée de voyage. L'accueil et le service sont plutôt laborieux, il faut être patient.
 
 to-see: |
   Visité en avril 2024.
   {: .visited-in}
 
-  A fuir&nbsp;: Cabo San Lucas. L'ambiance spring breaks est détestable.
+  À fuir&nbsp;: Cabo San Lucas. L'ambiance spring breaks est détestable.
 
   Dans le parc national de **[la sierra de la Laguna](https://fr.wikipedia.org/wiki/Sierra_de_la_Laguna){: target="_blank"}, Cañón de la Zorra et Cañón de la Zitta**, respectivement cascade et oasis et sources naturelles d'eau chaude. Une randonnée est possible dans le canyon de la Zorra moyennement quelques pessos. La deuxième est nettement moins fréquentée des tours opérateurs et les piscines naturelles sont agréables.
 
@@ -72,7 +72,7 @@ log-books:
     place: Canyon
     date: 22/04/2024
     text: |
-      Immersion au canyon sur la cleaning station, de beaux requins pointes blanches, requins des sables, requins soyeux et nourrices tournent tranquillement autour des rochers. Une manta noire océanique vient détourner notre attention, nous la suivons tranquillement jusqu'au pallier pour en apercevoir deux autres. Magnifique.
+      Immersion au canyon sur la cleaning station, de beaux requins pointes blanches, requins des sables, requins soyeux et nourrices tournent tranquillement autour des rochers. Une manta noire océanique vient détourner notre attention, nous la suivons tranquillement jusqu'au palier pour en apercevoir deux autres. Magnifique.
   - author: Sam
     place: Roca Partida
     date: 23/04/20204
@@ -82,5 +82,5 @@ log-books:
     place: El Vencedor
     date: 01/05/2024
     text: |
-      A peine sommes-nous descendus sur la petite épave, 6 requins bouledogues viennent nous voir et nous régalent de leur passage pendant 30 minutes, ils sont curieux et viennent assez près. Nous en oublions le froid&nbsp;! Nous apercevons deux mérous goliaths. Le tout à 15 mètres de profondeur&nbsp;! Wahouh&nbsp;!
+      À peine sommes-nous descendus sur la petite épave, 6 requins bouledogues viennent nous voir et nous régalent de leur passage pendant 30 minutes, ils sont curieux et viennent assez près. Nous en oublions le froid&nbsp;! Nous apercevons deux mérous goliaths. Le tout à 15 mètres de profondeur&nbsp;! Wahouh&nbsp;!
 ---

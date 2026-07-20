@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Islande
-description: Sam & Tof - Plongée sous marine en Islande
+description: Sam & Tof - Plongée sous-marine en Islande
 
 sea: atlantic
 menu: Islande
@@ -69,7 +69,7 @@ log-books:
 
     Nous croisons un petit groupe de Salmo trutta de belle taille dont nous dérangeons la quiétude.
 
-    Après une bonne demi-heure de ballade, nous tournons à gauche au-dessus du rebord de la faille pour nous retrouver dans le lac. Le retour d’un peu moins de dix minutes vers le rivage le long d’un fil de vie dans une eau assez trouble ne présente pas d’intérêt.
+    Après une bonne demi-heure de balade, nous tournons à gauche au-dessus du rebord de la faille pour nous retrouver dans le lac. Le retour d’un peu moins de dix minutes vers le rivage le long d’un fil de vie dans une eau assez trouble ne présente pas d’intérêt.
 - author: Sam
   place: Silfra
   date: 13/03/2019

@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Martinique
-description: Sam & Tof - Plongée sous marine en Martinique
+description: Sam & Tof - Plongée sous-marine en Martinique
 
 sea: caribbean
 menu: Martinique

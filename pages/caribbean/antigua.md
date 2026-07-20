@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Antigua
-description: Sam & Tof - Plongée sous marine à Antigua
+description: Sam & Tof - Plongée sous-marine à Antigua
 
 sea: caribbean
 menu: Antigua
@@ -26,7 +26,7 @@ dive-shop: |
   Visité en mai 2026.
   {: .visited-in}
 
-  **[Dive Carib <i class="fa fa-heart"></i>](https://www.divecarib.com/){: target="_blank"}**&nbsp;: club tenu par Leigh avec Louis, deux britanniques très accueillants. Ils ont deux bateaux, un grand zodiac et un bateau sortant en pleine saison. Les sites sont à 15, 25 min du club. On sort pour deux plongées le matin, ils ont a cœur de faire à chaque fois des plongées différentes et de contenter tout le monde.
+  **[Dive Carib <i class="fa fa-heart"></i>](https://www.divecarib.com/){: target="_blank"}**&nbsp;: club tenu par Leigh avec Louis, deux britanniques très accueillants. Ils ont deux bateaux, un grand zodiac et un bateau sortant en pleine saison. Les sites sont à 15, 25 min du club. On sort pour deux plongées le matin, ils ont à cœur de faire à chaque fois des plongées différentes et de contenter tout le monde.
 
 accommodation: |
   Visité en mai 2026.

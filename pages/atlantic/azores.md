@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Açores
-description: Sam & Tof - Plongée sous marine aux Açores
+description: Sam & Tof - Plongée sous-marine aux Açores
 
 sea: atlantic
 menu: Açores
@@ -51,7 +51,7 @@ log-books:
   place: Ambrosio
   date: 01/04/2024
   text: |
-    Entrée à la bouée en pleine eau que nous ne quitterons pas durant toute la plongée, nous sommes à 18 mètres et déjà un banc de 40 mobulas vient tout près de nous. A côté&nbsp;: de gros banc de sérioles. En surface&nbsp;: des thons à queue jaune et des carangues. Nous remontons au bout de 40 min à la corde, nous avons les bulles des autres plongeurs en dessous mais nous oublions vite ce désagrément car les mobulas évoluent toujours autour de nous. Plongée magnifique&nbsp;!
+    Entrée à la bouée en pleine eau que nous ne quitterons pas durant toute la plongée, nous sommes à 18 mètres et déjà un banc de 40 mobulas vient tout près de nous. À côté&nbsp;: de gros banc de sérioles. En surface&nbsp;: des thons à queue jaune et des carangues. Nous remontons au bout de 40 min à la corde, nous avons les bulles des autres plongeurs en dessous mais nous oublions vite ce désagrément car les mobulas évoluent toujours autour de nous. Plongée magnifique&nbsp;!
 - author: Sam
   place: Pedrinha
   date: 02/08/2024

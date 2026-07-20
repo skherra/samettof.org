@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Seychelles
-description: Sam & Tof - Plongée sous marine aux Seychelles
+description: Sam & Tof - Plongée sous-marine aux Seychelles
 
 sea: indian
 menu: Seychelles
@@ -26,7 +26,7 @@ dive-shop: |
   Visité en mai 2022.
   {: .visited-in}
 
-  **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  propose des croisières de 3 ou 6 jours, d'une capacité de 6 personnes. Nous étions 4 guests, autant dire des plongées VIP. 3 à 4 plongées par jours dont quelques plongées de nuit. Un niveau 2 minimum est requis. <br/>Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Les repas sont composés de snacks à midi et d’un repas plus préparé et local le soir. <br/>L'équipage est composé de 3 personnes (que des locaux), souriants et prévenants, tous plongeurs, passionnés et de bonne humeur.
+  **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  propose des croisières de 3 ou 6 jours, d'une capacité de 6 personnes. Nous étions 4 guests, autant dire des plongées VIP. 3 à 4 plongées par jour dont quelques plongées de nuit. Un niveau 2 minimum est requis. <br/>Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Les repas sont composés de snacks à midi et d’un repas plus préparé et local le soir. <br/>L'équipage est composé de 3 personnes (que des locaux), souriants et prévenants, tous plongeurs, passionnés et de bonne humeur.
 
   **[Atoll divers <i class="fa fa-heart"></i>](https://atolldiverseychelles.com/){: target="_blank"}**, leur bateau situé sur le petit port de bel Ombre, est spacieux et muni de toilettes. On y accède en minibus depuis le club. Deux plongées le matin ou l'après-midi. Petite structure sympathique, il y a trois guides. Pour une question de timing sans doute, les plongées sont un peu courtes de 45 à 50 minutes. Pas de nitrox, les plongées sont relativement chères comme tout aux Seychelles. Mais c'est vite oublié avec la bonne humeur constante et Arthur et Sébastien qui sont passionnés sous l'eau. Eau et cake à la banane pendant l'intervalle de surface, un régal&nbsp;...
 
@@ -56,7 +56,7 @@ log-books:
   place: Bitter rock -  Mahé
   date: 22/05/2022
   text: |
-    Site découvert par les pêcheurs et Christophe (directeur de la croisière), il se trouve au milieu du chenal entre la digue et Mahé. Plateau granitique ou se cachent des langoustes, crevettes et autres poissons tropicaux. A 25 mètres se trouve un banc de sable ou les requins gris, pointes noires et pointes blanches évoluent tout intrigués par les plongeurs. Un TV show total. La visibilité n'est pas avec nous, mais cela rajoute à l'atmosphère du lieu.
+    Site découvert par les pêcheurs et Christophe (directeur de la croisière), il se trouve au milieu du chenal entre la digue et Mahé. Plateau granitique où se cachent des langoustes, crevettes et autres poissons tropicaux. À 25 mètres se trouve un banc de sable où les requins gris, pointes noires et pointes blanches évoluent tout intrigués par les plongeurs. Un TV show total. La visibilité n'est pas avec nous, mais cela rajoute à l'atmosphère du lieu.
 - author: Sam
   place: Anse Sévère - La Digue
   date: 20/05/2022

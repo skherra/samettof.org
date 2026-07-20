@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Statia
-description: Sam & Tof - Plongée sous marine à Statia
+description: Sam & Tof - Plongée sous-marine à Statia
 
 sea: caribbean
 menu: Statia
@@ -45,7 +45,7 @@ to-see: |
 
   On y vient pour plonger mais le **bourg** et ses jolies maisons, le tout petit musée et le fort valent le coup d'œil. Il est possible de faire des randonnées sur le volcan **le Quill**, panorama, végétation. (prévoir 1/2 journée minimum).
 
-  L'escale la plus improbable à St Martin&nbsp;: le **Driftwood Boat Bar** sur la plage derrière l'aéroport pour voir les avions atterrir&nbsp;! A 5 min de l'aéroport à pied.
+  L'escale la plus improbable à St Martin&nbsp;: le **Driftwood Boat Bar** sur la plage derrière l'aéroport pour voir les avions atterrir&nbsp;! À 5 min de l'aéroport à pied.
 
 log-books:
 - author: Sam

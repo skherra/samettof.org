@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Afrique du Sud
-description: Sam & Tof - Plongée sous marine en Afrique du Sud
+description: Sam & Tof - Plongée sous-marine en Afrique du Sud
 
 sea: indian
 menu: Afrique du Sud

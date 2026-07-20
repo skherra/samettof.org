@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Cocos (Costa Rica)
-description: Sam & Tof - Plongée sous marine à Cocos (Costa Rica)
+description: Sam & Tof - Plongée sous-marine à Cocos (Costa Rica)
 
 sea: pacific
 menu: Costa Rica - Cocos
@@ -28,7 +28,7 @@ dive-shop: |
   Visité en septembre 2019.
   {: .visited-in}
 
-  **[<i class="fa fa-ship"></i> Under Sea Hunter <i class="fa fa-heart"></i>](https://www.underseahunter.com/){: target="_blank"}**&nbsp;: Bateau très confortable, équipé de deux bateaux à moteurs rigides avec un toit couvert. Les capitaines des skiffs assurent la sécurité de surface pour les retours de plongées dans une mer agitée. 4 dive masters enthousiastes et attentionnés pour des groupes de 9 à 7 plongeurs. Trois plongées par jour, deux le matin, une l'après midi. Le nitrox obligatoire est inclus dans le forfait, les plongées se font sans déco.
+  **[<i class="fa fa-ship"></i> Under Sea Hunter <i class="fa fa-heart"></i>](https://www.underseahunter.com/){: target="_blank"}**&nbsp;: Bateau très confortable, équipé de deux bateaux à moteurs rigides avec un toit couvert. Les capitaines des skiffs assurent la sécurité de surface pour les retours de plongées dans une mer agitée. 4 dive masters enthousiastes et attentionnés pour des groupes de 9 à 7 plongeurs. Trois plongées par jour, deux le matin, une l'après-midi. Le nitrox obligatoire est inclus dans le forfait, les plongées se font sans déco.
 
 accommodation: |
   Visité en septembre 2019.
@@ -54,7 +54,7 @@ log-books:
     place: Manuelita Oustide
     date: 15/09/2019
     text: |
-      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui indique au divemaster de descendre un peu plus sur le fond sableu, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, un jolie raie aigle passe dans le bleu... Et cela ne s'arrête pas là, deux ou trois marteaux au dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins !! Whaouh
+      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui indique au divemaster de descendre un peu plus sur le fond sableu, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, un jolie raie aigle passe dans le bleu... Et cela ne s'arrête pas là, deux ou trois marteaux au-dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins !! Whaouh
   - author: Tof
     place: Alcyone
     date: 15/09/2019
@@ -68,5 +68,5 @@ log-books:
     place: Dirty Rock
     date: 16/09/2019
     text: |
-      Dernière plongée sur cette splendide station de nettoyage, nous entendons les baleines de prêt, bientôt plusieurs galapagos shark et des marteaux nous font honneurs, nettoyés par des anges royaux (rien que cela). Il fait plutôt frais 24 degrés, au bout de 20 minutes d'un spectacle splendide, à nos pieds des white tips, des murènes et au dessus de nous des bancs carangues grises. Nous quittons le spot, pour évoluer en pleine eau, et là un banc de marteaux devant nous près d'une centaine nous fait honneur. Au pallier, nous ne sommes pas en reste, un requin soyeux passe tout près ainsi q'un silver white tips. Très belle plongée qui cloture les 7 jours de plongées à Cocos.
+      Dernière plongée sur cette splendide station de nettoyage, nous entendons les baleines de prêt, bientôt plusieurs galapagos shark et des marteaux nous font honneurs, nettoyés par des anges royaux (rien que cela). Il fait plutôt frais 24 degrés, au bout de 20 minutes d'un spectacle splendide, à nos pieds des white tips, des murènes et au-dessus de nous des bancs carangues grises. Nous quittons le spot, pour évoluer en pleine eau, et là un banc de marteaux devant nous près d'une centaine nous fait honneur. Au palier, nous ne sommes pas en reste, un requin soyeux passe tout près ainsi q'un silver white tips. Très belle plongée qui cloture les 7 jours de plongées à Cocos.
 ---

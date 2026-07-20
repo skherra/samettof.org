@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Indonésie
-description: Sam & Tof - Plongée sous marine en Indonésie
+description: Sam & Tof - Plongée sous-marine en Indonésie
 
 sea: indian
 menu: Indonésie
@@ -50,7 +50,7 @@ dive-shop: |
   Visité en janvier 2025.
   {: .visited-in}
 
-  Resort plongée **[Papoua Paradise](https://www.papuaparadise.com/fr/){: target="_blank"}**, tenu par des européens, les bungalows sont un peu vétustes mais les repas, le service et les dive masters sont excellents. Une pause douce sur l'île d'Arefi sur Central Raja Ouest. Il y a cependant beaucoup de déchets ramenés par les courants et les marées, mais on peut voir des bancs de perroquets à bosse, des raies, des requins et beaucoup d'oiseaux, sans quitter son transat. Ils proposent 3 plongées par jours plus une plongée de nuit et avec des speeds boat, il est possible d'atteindre des sites de plongées plus lointains. Ils proposent aussi des excursions terrestres pour les non plongeurs.
+  Resort plongée **[Papoua Paradise](https://www.papuaparadise.com/fr/){: target="_blank"}**, tenu par des européens, les bungalows sont un peu vétustes mais les repas, le service et les dive masters sont excellents. Une pause douce sur l'île d'Arefi sur Central Raja Ouest. Il y a cependant beaucoup de déchets ramenés par les courants et les marées, mais on peut voir des bancs de perroquets à bosse, des raies, des requins et beaucoup d'oiseaux, sans quitter son transat. Ils proposent 3 plongées par jour plus une plongée de nuit et avec des speeds boat, il est possible d'atteindre des sites de plongées plus lointains. Ils proposent aussi des excursions terrestres pour les non plongeurs.
 
   Visité en septembre 2017.
   {: .visited-in}
@@ -83,7 +83,7 @@ to-see: |
 
   Sauter au bout d'une corde dans la cascade de la petite île **[Moyo](https://fr.wikipedia.org/wiki/Moyo_(Indonésie)){: target="_blank"}**.
 
-  A Bali, admirer la multitude de temples des villages ou les plus prestigieux comme **[Besakih](https://fr.wikipedia.org/wiki/Temple_de_Besakih){: target="_blank"}, [Goa Gajah](https://fr.wikipedia.org/wiki/Goa_Gajah){: target="_blank"}, [Tirta Ganja](https://en.wikipedia.org/wiki/Tirta_Gangga){: target="_blank"}**.
+  À Bali, admirer la multitude de temples des villages ou les plus prestigieux comme **[Besakih](https://fr.wikipedia.org/wiki/Temple_de_Besakih){: target="_blank"}, [Goa Gajah](https://fr.wikipedia.org/wiki/Goa_Gajah){: target="_blank"}, [Tirta Ganja](https://en.wikipedia.org/wiki/Tirta_Gangga){: target="_blank"}**.
 
 log-books:
 - author: Sam

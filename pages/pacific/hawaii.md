@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à Hawaï
-description: Sam & Tof - Plongée sous marine à Hawaï
+description: Sam & Tof - Plongée sous-marine à Hawaï
 
 sea: pacific
 menu: Hawaï
@@ -18,7 +18,7 @@ h1: 🇺🇸 Hawaï
 country-desc: |
   **[Hawaii](https://fr.wikipedia.org/wiki/G%C3%A9ographie_d'Hawa%C3%AF){: target="_blank"}**, loin de sa capitale Honolulu, est fascinante entre ses volcans et l'océan Pacifique. L'Archipel d'Hawaii est encore peu connu pour la plongée mais possède sur l'île du Nord de **[Kauai](https://fr.wikipedia.org/wiki/Kauai){: target="_blank"}** et sur l'île du Sud de **[Big Island](https://fr.wikipedia.org/wiki/Hawa%C3%AF){: target="_blank"}** de très beaux spots de plongées avec encore peu de plongeurs.
 
-  A Kona, sur Big Island, le Manta show reste une attraction très touristique et discutable pour son procédé&nbsp;: il permet de rencontrer un groupe d'une dizaine de Mantas océaniques attirées par les projecteurs. <br/>Sur Kauai, les clubs de plongée organisent une journée d'escapade sur Niihau. Les plongées y sont exceptionnelles.
+  À Kona, sur Big Island, le Manta show reste une attraction très touristique et discutable pour son procédé&nbsp;: il permet de rencontrer un groupe d'une dizaine de Mantas océaniques attirées par les projecteurs. <br/>Sur Kauai, les clubs de plongée organisent une journée d'escapade sur Niihau. Les plongées y sont exceptionnelles.
 
   Les îles d'Hawaii sont accessibles par avion depuis des vols intérieurs ou internationaux depuis Los Angeles, San Francisco et Papeete.
 

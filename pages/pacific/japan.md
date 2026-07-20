@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Japon
-description: Sam & Tof - Plongée sous marine au Japon
+description: Sam & Tof - Plongée sous-marine au Japon
 
 sea: pacific
 menu: Japon
@@ -51,7 +51,7 @@ accommodation: |
   Iriomote&nbsp;: **[Pension Hoshinosuna](http://www.hoshinosuna.ne.jp/){: target="_blank"}**, pension plongée, avec une vue magnifique sur une plage de sable étoilé.
 
 to-see: |
-  Le **[Kyūshū](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}**  regorge de beauté pour ces paysages volcaniques, beaucoup moins touristiques que le honshu, il mérite le détour&nbsp;: Treck sur le mont Aso, ballade autour de Miyasaki et la belle île de Aoshima, **[les Bouddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  d'Usuki et  **[le chateau de Kumamoto](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kumamoto){: target="_blank"}**.
+  Le **[Kyūshū](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}**  regorge de beauté pour ces paysages volcaniques, beaucoup moins touristiques que le honshu, il mérite le détour&nbsp;: Treck sur le mont Aso, balade autour de Miyasaki et la belle île de Aoshima, **[les Bouddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  d'Usuki et  **[le chateau de Kumamoto](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kumamoto){: target="_blank"}**.
 
   **[Yakushima](http://www.japan-guide.com/e/e4650.html){: target="_blank"}**&nbsp;: Prendre le temps de parcourir l'île en voiture, s'imprégner de la forêt chère à Miyasaki et voir les cèdres millénaires dont Jomonsugi. Admirer les temples avec les Toris sur les plages et voir la ponte des tortues luth quand c'est la saison. (Opérateur **[Yes](http://www.yesyakushima.com/){: target="_blank"}**).
 
@@ -67,7 +67,7 @@ log-books:
   place: Asuza's cove - Kerama
   date: 25/05/2014
   text: |
-    Descente négative pour atteindre une grotte à 21 mètres, nous attendons le reste de la palanquée qui tarde. Dans la grotte, nous avons vu des petits homards, et des rascasses volantes. A la sortie de la grotte, nous longeons un beau canyon, la visibilité est bonne, des poissons trompettes et tropicaux partout. Le guide de la palanquée nous montre trois bombes rondes. Cela fait froid dans le dos&nbsp;... Remontée pallier obligatoire dans le bleu.
+    Descente négative pour atteindre une grotte à 21 mètres, nous attendons le reste de la palanquée qui tarde. Dans la grotte, nous avons vu des petits homards, et des rascasses volantes. À la sortie de la grotte, nous longeons un beau canyon, la visibilité est bonne, des poissons trompettes et tropicaux partout. Le guide de la palanquée nous montre trois bombes rondes. Cela fait froid dans le dos&nbsp;... Remontée palier obligatoire dans le bleu.
 - author: Sam
   place: Kanokawa-nakano - Iriomote Island
   date: 28/05/2014

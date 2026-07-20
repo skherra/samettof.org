@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Egypte
-description: Sam & Tof - Plongée sous marine en Egypte
+description: Sam & Tof - Plongée sous-marine en Egypte
 
 sea: redsea
 menu: Egypte

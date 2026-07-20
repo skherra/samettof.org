@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée au Mexique
-description: Sam & Tof - Plongée sous marine au Mexique
+description: Sam & Tof - Plongée sous-marine au Mexique
 
 sea: caribbean
 menu: Mexique - Yucatán
@@ -20,7 +20,7 @@ country-desc: |
 
   La péninsule du **[ Yucatan](https://fr.wikipedia.org/wiki/Yucat%C3%A1n){: target="_blank"}** regorge de spots de plongées, mais les plus fameux restent l'île de Cozumel et les [**cénotes**](https://fr.wikipedia.org/wiki/C%C3%A9note){: target="_blank"} entre Playa del Carmen et Tulum. Les cénotes, ou puits sacrés offrent des ombres et lumières à couper le soufle.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} A Cozumel, le best of **Palacancar garden**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} À Cozumel, le best of **Palacancar garden**.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Depuis Playa del Carmen, le best of **El Pit**.
 
@@ -50,7 +50,7 @@ log-books:
     place: Palancar Garden
     date: 19/12/2016
     text: |
-      A la descente une raie Aigle fait sa curieuse, puis passe un requin nourrice que nous suivons de loin. Nous descendons dans les grands canyons couverts de coraux et d’éponges multicolores&nbsp;: jaunes, oranges, rouges. Des dédales de grottes, où nous croisons des langoustes. Remontée vers le sable, une belle murène verte et son mérou nagent côté à côte en pleine eau à contre-courant.
+      À la descente une raie Aigle fait sa curieuse, puis passe un requin nourrice que nous suivons de loin. Nous descendons dans les grands canyons couverts de coraux et d’éponges multicolores&nbsp;: jaunes, oranges, rouges. Des dédales de grottes, où nous croisons des langoustes. Remontée vers le sable, une belle murène verte et son mérou nagent côté à côte en pleine eau à contre-courant.
   - author: Sam
     place: El Pit
     date: 22/12/2016

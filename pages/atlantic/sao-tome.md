@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée à São Tomé
-description: Sam & Tof - Plongée sous marine à São Tomé
+description: Sam & Tof - Plongée sous-marine à São Tomé
 
 sea: atlantic
 menu: São Tomé
@@ -38,7 +38,7 @@ accommodation: |
   Visité en mai 2019.
   {: .visited-in}
 
-  **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**&nbsp;: dispose d'un club de plongée évitant ainsi les coûts et les temps de transferts. Le club est luxueux et confortable avec la piscine à l'eau de mer et le jacuzzi devant la baie. A noter que les prix sont 5 fois plus chers que sur le reste de l'île. Il y a une animation un soir par semaine le samedi excellent BBQ sur le bar de la plage, ce qui fait que le reste du temps c'est calme <i class="fa fa-smile-o"></i>. Nous ne pouvons que conseiller d'aller loger ailleurs sur l'île pour voir le vrai São Tomé.
+  **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**&nbsp;: dispose d'un club de plongée évitant ainsi les coûts et les temps de transferts. Le club est luxueux et confortable avec la piscine à l'eau de mer et le jacuzzi devant la baie. À noter que les prix sont 5 fois plus chers que sur le reste de l'île. Il y a une animation un soir par semaine le samedi excellent BBQ sur le bar de la plage, ce qui fait que le reste du temps c'est calme <i class="fa fa-smile-o"></i>. Nous ne pouvons que conseiller d'aller loger ailleurs sur l'île pour voir le vrai São Tomé.
 
   **Casa Tiago** **<i class="fa fa-heart"></i>**{: .accent-color} dans le beau petit village de Belém à quelques minutes de Trinidade, dans la "jungle" est une petite maison traditionnelle en bois très confortable et bien équipée. Arcadio son propriétaire ainsi que celui de la Casa Ediana est un hôte accueillant qui a à cœur de faire découvrir son île hors des sentiers battus et proche de la population locale.
 
@@ -64,5 +64,5 @@ log-books:
   place: Sete Pedras
   date: 21/05/2019
   text: |
-    Descente sur le sec à l'ancre, car il y a beaucoup de courant, le sec est couvert d'anémones vertes et jaunes, très poissonneux, des poissons de l'Atlantique se mélangent aux poissons tropicaux, anges, des carangues noires et jaunes du golfe de Guinée ... Au dessus de nous un banc d'une trentaine de thons passent tranquillement. Et biensûr comme à chaque plongée à São Tomé des murènes, crevettes nettoyeuses et poulpes à foisons. Nous remontons à l'ancre avec la houle que l'on sent dès 15 mètres. Les rochers de Pedras forment un cirque de grottes et tunnels, au loin on voit le petit picot "chien" sur la terre.
+    Descente sur le sec à l'ancre, car il y a beaucoup de courant, le sec est couvert d'anémones vertes et jaunes, très poissonneux, des poissons de l'Atlantique se mélangent aux poissons tropicaux, anges, des carangues noires et jaunes du golfe de Guinée ... Au-dessus de nous un banc d'une trentaine de thons passent tranquillement. Et biensûr comme à chaque plongée à São Tomé des murènes, crevettes nettoyeuses et poulpes à foisons. Nous remontons à l'ancre avec la houle que l'on sent dès 15 mètres. Les rochers de Pedras forment un cirque de grottes et tunnels, au loin on voit le petit picot "chien" sur la terre.
 ---

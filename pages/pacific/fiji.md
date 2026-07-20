@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Fidjis
-description: Sam & Tof - Plongée sous marine aux Fidjis
+description: Sam & Tof - Plongée sous-marine aux Fidjis
 
 sea: pacific
 menu: Fidji
@@ -18,7 +18,7 @@ h1: 🇫🇯 Fidji
 country-desc: |
   L'Archipel des **[Fidji](https://en.wikipedia.org/wiki/Fidji){: target="_blank"}**, dans le pacifique, fait parti de la zone pacifique ouest comprenant la Papouasie, la Nouvelle Calédonie et les Vanuatu plus communément appelée la **[Mélanésie](https://fr.wikipedia.org/wiki/M%C3%A9lan%C3%A9sie#/media/File:Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg){: target="_blank"}** (ce terme reste un sujet à controverse dans le monde des géologues et anthropologues).
 
-  Les fonds du canal de **Somosomo** nous plongent dans une ambiance indo-pacifique avec beaucoup de vie et de coraux. Le rainbow reef est de toute beauté avec ses coraux durs et mous multicolores. Il y a plus d'une vingtaine de sites, que l'on peut faire et refaire suivant le sens du courant. Les reefs ne descendent jamais au dessous de 30 mètres, mis à part le Great White Wall. Ce site de plongée, profond et magnifique, est atteignable suivant les marées. Il fait partie du top 10 des plus beaux au monde et il mérite sa réputation&nbsp;: c'est le seul endroit aux Fidji où il neige&nbsp;!! Les clubs y allant à des dates précises, en général 2 fois par semaines, il convient de se renseigner pour tomber aux bonnes dates&nbsp;...
+  Les fonds du canal de **Somosomo** nous plongent dans une ambiance indo-pacifique avec beaucoup de vie et de coraux. Le rainbow reef est de toute beauté avec ses coraux durs et mous multicolores. Il y a plus d'une vingtaine de sites, que l'on peut faire et refaire suivant le sens du courant. Les reefs ne descendent jamais au-dessous de 30 mètres, mis à part le Great White Wall. Ce site de plongée, profond et magnifique, est atteignable suivant les marées. Il fait partie du top 10 des plus beaux au monde et il mérite sa réputation&nbsp;: c'est le seul endroit aux Fidji où il neige&nbsp;!! Les clubs y allant à des dates précises, en général 2 fois par semaines, il convient de se renseigner pour tomber aux bonnes dates&nbsp;...
 
   Les plongées au **Sud-Sud Est de Viti Levu** et **Sud Est de Vana Levu** offrent d'autres topographies&nbsp;: murs, pinacles et passes. Il y a moins de coraux que dans le nord avec une moins bonne visibilité, mais il y a plus de pélagiques. Nous avons pu apprécier le spectacle de 4 baleines à bosse depuis le bateau.
 
@@ -38,18 +38,18 @@ accommodation: |
   Visité en septembre 2018.
   {: .visited-in}
 
-  A Taveuni&nbsp;: **[Taveuni Dive resort](http://www.taveunidiveresort.com/){: target="_blank"}**&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
+  À Taveuni&nbsp;: **[Taveuni Dive resort](http://www.taveunidiveresort.com/){: target="_blank"}**&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
 
-  A Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
+  À Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
 
-  A Nadi&nbsp;: **Tropic of Capricorn <i class="fa fa-heart"></i>**&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar ou l'on peut commander à manger et à boire.
+  À Nadi&nbsp;: **Tropic of Capricorn <i class="fa fa-heart"></i>**&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar où l'on peut commander à manger et à boire.
 
 to-see: |
-  A Nadi&nbsp;: **Fidji escence and spa**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
+  À Nadi&nbsp;: **Fidji escence and spa**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
 
-  A Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
+  À Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
 
-  A Gau ou Taveuni&nbsp;: Se faire inviter au village de **Somossomo**, pour discuter avec les villageois, écouter leurs chants et manger une délicieuse cuisine locale.
+  À Gau ou Taveuni&nbsp;: Se faire inviter au village de **Somossomo**, pour discuter avec les villageois, écouter leurs chants et manger une délicieuse cuisine locale.
 
 log-books:
 - author: Tof

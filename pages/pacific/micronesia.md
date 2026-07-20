@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Micronésie
-description: Sam & Tof - Plongée sous marine en Micronésie
+description: Sam & Tof - Plongée sous-marine en Micronésie
 
 sea: pacific
 menu: Micronésie
@@ -20,9 +20,9 @@ country-desc: |
 
   S'il fallait en choisir une ce serait **[Chuuk](https://fr.wikipedia.org/wiki/Chuuk){: target="_blank"}** pour son immense cimetière d'épaves dans le lagon. <br/>Cargos, ravitailleurs, avions, …, les plongées sont grandioses, plutôt profondes (25 à 40 mètres). Les épaves sont peuplées de beaux coraux et forment de beaux récifs plutôt poissonneux. Les cargos regorgent de surprises à l'intérieur. La visibilité est assez bonne. L'entrée du parc marin est payante afin de protéger les sites. <br/>Il y a différents dive shops qui doivent se valoir les un des autres, pour plus de confort et afin de maximiser le nombre d'épaves, il faudrait peut-être opter pour une croisière.
 
-  A **[Yap](https://fr.wikipedia.org/wiki/%C3%8Eles_Yap){: target="_blank"}**, les plongées sont toutes dérivantes sur le récif avec une bonne visibilité. C'est le paradis des mantas ! Nous y étions pendant la saison de reproduction, nous les avons vu évoluer presque tous les jours. Les murs sont beaux. ce n'est malheureusement pas très poissonneux car les sites ne sont pas protégés de la pêche.
+  À **[Yap](https://fr.wikipedia.org/wiki/%C3%8Eles_Yap){: target="_blank"}**, les plongées sont toutes dérivantes sur le récif avec une bonne visibilité. C'est le paradis des mantas ! Nous y étions pendant la saison de reproduction, nous les avons vu évoluer presque tous les jours. Les murs sont beaux. ce n'est malheureusement pas très poissonneux car les sites ne sont pas protégés de la pêche.
 
-  A **[Pohnpei](https://fr.wikipedia.org/wiki/Pohnpei_(%C3%AEle)){: target="_blank"}**, les plongées sont principalement des dérivantes dans les passes en fonction de la marée. Beaucoup de vie et des mantas également. On peut voir des bancs de requins, de barracudas et de beaux coraux. La visibilité reste cependant variable.
+  À **[Pohnpei](https://fr.wikipedia.org/wiki/Pohnpei_(%C3%AEle)){: target="_blank"}**, les plongées sont principalement des dérivantes dans les passes en fonction de la marée. Beaucoup de vie et des mantas également. On peut voir des bancs de requins, de barracudas et de beaux coraux. La visibilité reste cependant variable.
 
   Les îles de Micronésie sont accessibles par Guam, Yap est déservi une fois par semaine depuis Palau.
 
@@ -53,18 +53,18 @@ accommodation: |
   **[Pohnpei Surf Club](http://pohnpeisurfclub.com/){: target="_blank"}** sur la Mangrove, toutes les chambres ont une vue sur la baie. Tout le monde est sympathique. Il est possible de commander à manger.
 
 to-see: |
-  A Chuuk&nbsp;: Il n'y a pas grand chose à faire en dehors de la plongée.
+  À Chuuk&nbsp;: Il n'y a pas grand chose à faire en dehors de la plongée.
 
-  A Yap&nbsp;: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux. <br/>Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes ...
+  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux. <br/>Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes ...
 
-  A Ponhpei&nbsp;: **[Nan Madol](https://fr.wikipedia.org/wiki/Nan_Madol){: target="_blank"}**, vestige d'une cité du 2ème siècle.
+  À Ponhpei&nbsp;: **[Nan Madol](https://fr.wikipedia.org/wiki/Nan_Madol){: target="_blank"}**, vestige d'une cité du 2ème siècle.
 
 log-books:
 - author: Tof
   place: Fujikawa Maru - Chuuk
   date: 06/03/2020
   text: |
-    L’épave du Fujikawa Maru repose droite sur sa coque. Elle est très richement peuplée de coraux durs et mous. La vie y est foisonnante. Nous visitons deux cales contenant des pièces détachés d’avion, deux Zéro Fighter quasiment complets, des munitions,&nbsp;... A la proue, l’impressionnant canon sur tourelle est complètement figé dans le corail.
+    L’épave du Fujikawa Maru repose droite sur sa coque. Elle est très richement peuplée de coraux durs et mous. La vie y est foisonnante. Nous visitons deux cales contenant des pièces détachés d’avion, deux Zéro Fighter quasiment complets, des munitions,&nbsp;... À la proue, l’impressionnant canon sur tourelle est complètement figé dans le corail.
 - author: Sam
   place: M'il Channel - Yap
   date: 29/02/2020

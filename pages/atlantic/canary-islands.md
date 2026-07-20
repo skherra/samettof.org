@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Canaries
-description: Sam & Tof - Plongée sous marine aux Canaries
+description: Sam & Tof - Plongée sous-marine aux Canaries
 
 sea: atlantic
 menu: Canaries
@@ -48,7 +48,7 @@ log-books:
     place: Puerto Calero
     date: 19/09/2014
     text: |
-      Descente à la corde, la visibilité est mauvaise, nous croisons un requin ange près du sable qui évolue pas loin de nous, il nous guide jusqu’à une grande épave couchée sur le sable, nous manquons de près de nous faire tamponner par un sous-marin touristique, c'est assez ubuesque comme situation, nous faisons des coucous, de petits poissons tropicaux dans son sillage, nous nous "protégeons" derrière l'épave le temps qu'il passe&nbsp;! En remontant une dernière épave disloquée cette fois, avec des crabes araignées à l'intérieur. Long pallier sur les 5 mètres.
+      Descente à la corde, la visibilité est mauvaise, nous croisons un requin ange près du sable qui évolue pas loin de nous, il nous guide jusqu’à une grande épave couchée sur le sable, nous manquons de près de nous faire tamponner par un sous-marin touristique, c'est assez ubuesque comme situation, nous faisons des coucous, de petits poissons tropicaux dans son sillage, nous nous "protégeons" derrière l'épave le temps qu'il passe&nbsp;! En remontant une dernière épave disloquée cette fois, avec des crabes araignées à l'intérieur. Long palier sur les 5 mètres.
   - author: Sam
     place: Puerto Calero
     date: 20/09/2014

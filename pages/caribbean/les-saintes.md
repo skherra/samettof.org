@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Saintes
-description: Sam & Tof - Plongée sous marine aux Saintes
+description: Sam & Tof - Plongée sous-marine aux Saintes
 
 sea: caribbean
 menu: Les Saintes
@@ -30,7 +30,7 @@ dive-shop: |
 
   Nous avons beaucoup appris et passé notre niveau 2 avec Philippe très pédagogue.
 
-  Le bateau est de grande capacité. Il est possible de faire 2 plongées le matin, ce qui laisse l'après midi libre.
+  Le bateau est de grande capacité. Il est possible de faire 2 plongées le matin, ce qui laisse l'après-midi libre.
 
 accommodation: |
   Il y a beaucoup de locations meublées sur Terre de haut, préférez les hauteurs pour avoir la vue splendide sur la baie.

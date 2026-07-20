@@ -8,7 +8,7 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée en Méditerranée en Sardaigne
-description: Sam & Tof - Plongée sous marine en Méditerranée en Sardaigne
+description: Sam & Tof - Plongée sous-marine en Méditerranée en Sardaigne
 
 sea: mediterranean
 menu: Italie
