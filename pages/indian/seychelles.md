@@ -28,7 +28,7 @@ dive-shop: |
 
   **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  propose des croisières de 3 ou 6 jours, d'une capacité de 6 personnes. Nous étions 4 guests, autant dire des plongées VIP. 3 à 4 plongées par jour dont quelques plongées de nuit. Un niveau 2 minimum est requis.
 
-  Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Les repas sont composés de snacks à midi et d’un repas plus préparé et local le soir.
+  Petit bémol cependant, le bateau est petit, un peu vieillot et manque un peu de confort, surtout quand le temps est à la pluie. Bref le rapport qualité prix n'y est pas. Le déjeuner se compose de snacks et le dîner d’un plat plus élaboré et local.
 
   L'équipage est composé de 3 personnes (que des locaux), souriants et prévenants, tous plongeurs, passionnés et de bonne humeur.
 

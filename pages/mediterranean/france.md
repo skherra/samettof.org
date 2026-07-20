@@ -56,7 +56,7 @@ dive-shop: |
 
   **La Londe**&nbsp;:
 
-  **[Aqualonde](https://aqualonde-plongee.com/){: target="_blank"}** sur le port, possède un grand bateau confortable et un semi-rigide. Malgré le monde, l'ambiance est sympathique et les guides souriants. Le matériel est neuf et les combinaisons de 5 min ont été appréciées. Les tarifs sont plus chers que la moyenne en France, nous étions autonomes mais nous avons eu un guide.
+  **[Aqualonde](https://aqualonde-plongee.com/){: target="_blank"}** sur le port, possède un grand bateau confortable et un semi-rigide. Malgré le monde, l'ambiance est sympathique et les guides souriants. Le matériel est neuf et les combinaisons de 5 mm ont été appréciées. Les tarifs sont plus chers que la moyenne en France, nous étions autonomes mais nous avons eu un guide.
 
   En mai-juin 2021.
   {: .visited-in}

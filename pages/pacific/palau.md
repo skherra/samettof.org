@@ -20,7 +20,7 @@ country-desc: |
 
   La jeune république a misé sur le respect de l'environnement et la sauvegarde de ses îles&nbsp;: **[un engagement <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** qui commence sur le tampon à la douane, des parcs naturels et un sanctuaire de requins (créé en 2009).
 
-  Ce joyau, victime de son succès (plongée, kayak et autres activités tournés vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé&nbsp;; les taxes d'état et des parcs sont très élevées. Il y a encore beaucoup trop de plastiques proposés dans les magasins, des bouteilles d'eau, et peu de triage des déchets&nbsp;...
+  Ce joyau, victime de son succès (plongée, kayak et autres activités tournées vers la mer), encourage les tours tout inclus et le tourisme plutôt aisé&nbsp;; les taxes d'état et des parcs sont très élevées. Il y a encore beaucoup trop de plastiques proposés dans les magasins, des bouteilles d'eau, et peu de triage des déchets&nbsp;...
 
   Les îles de Palaos sont accessibles par un vol direct depuis Taipei, Séoul ou Tokyo.
 
@@ -44,7 +44,7 @@ accommodation: |
 
   **[DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}** à 15 min à pied du centre-ville de Koror, c'est un hôtel familial, avec de grandes chambres et un lobby / terrasse donnant sur le jardin. La clientèle est plutôt japonaise&nbsp;: plongeurs et surfeurs. L'ambiance est calme et fort sympathique. Il y a une cuisine à disposition.
 
-  Il y a plusieurs locations d'appartements à tous les prix, ce qui reste pratique pour être un peu "chez soi" s'il l'on reste plus d'une semaine, nous avions apprécié le **Coconut house@Koror**.
+  Il y a plusieurs locations d'appartements à tous les prix, ce qui reste pratique pour être un peu "chez soi" si l'on reste plus d'une semaine, nous avions apprécié le **Coconut house@Koror**.
 
 to-see: |
   En février 2020.

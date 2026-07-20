@@ -16,7 +16,7 @@ visited-in: Septembre 2015
 h1: 🇹🇿 Tanzanie
 
 country-desc: |
-  La **[Tanzanie](https://fr.wikipedia.org/wiki/Tanzanie){: target="_blank"}**, est le pays du safari grand luxe&nbsp;: Dans l'immense parc du **[Serengeti](https://fr.wikipedia.org/wiki/Parc_national_du_Serengeti){: target="_blank"}** aux grandes plaines paradis des lions&nbsp;; dans le **[Tarangire](https://fr.wikipedia.org/wiki/Parc_national_de_Tarangire){: target="_blank"}**, le parc aux éléphants et aux baobabs&nbsp;; autour du Lac Manyara avec ses oiseaux et ses hippopotames&nbsp;; dans le magnifique **[cratère du N'Gorongoro](https://fr.wikipedia.org/wiki/Crat%C3%A8re_du_Ngorongoro){: target="_blank"}**.
+  La **[Tanzanie](https://fr.wikipedia.org/wiki/Tanzanie){: target="_blank"}** est le pays du safari grand luxe&nbsp;: Dans l'immense parc du **[Serengeti](https://fr.wikipedia.org/wiki/Parc_national_du_Serengeti){: target="_blank"}** aux grandes plaines paradis des lions&nbsp;; dans le **[Tarangire](https://fr.wikipedia.org/wiki/Parc_national_de_Tarangire){: target="_blank"}**, le parc aux éléphants et aux baobabs&nbsp;; autour du Lac Manyara avec ses oiseaux et ses hippopotames&nbsp;; dans le magnifique **[cratère du N'Gorongoro](https://fr.wikipedia.org/wiki/Crat%C3%A8re_du_Ngorongoro){: target="_blank"}**.
 
   Après plusieurs jours à en prendre pleins les yeux, une petite extension sur l'île de **[Pemba](https://fr.wikipedia.org/wiki/Pemba_(%C3%AEle)){: target="_blank"}**, pour se reposer et plonger nous a permis de finir en beauté ce voyage grandiose.
 

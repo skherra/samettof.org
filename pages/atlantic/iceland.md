@@ -24,7 +24,7 @@ country-desc: |
 
   L'avantage également est que l'on peut y plonger toute l'année car la température de l'eau ne varie pas, seule la température extérieure peut contraindre à annuler des plongées ou à les rendre éprouvantes (gel, neige, vent glacial).
 
-  Ce type de plongées requière une formation Padi combinaison étanche ou une justification de 10 plongées en étanche (accessible dès l'Open Water). Il est possible de la passer en une journée sur place et de combiner avec des packages par la suite.
+  Ce type de plongées requiert une formation Padi combinaison étanche ou une justification de 10 plongées en étanche (accessible dès l'Open Water). Il est possible de la passer en une journée sur place et de combiner avec des packages par la suite.
 
   Attention cependant certains sites sont à plus de 6h de route de Reykjavik comme le site de Strytan. Nous avons fait 3 failles&nbsp;: Barney's crack, Silfra et David's crack de toutes beautés&nbsp;!!!
 

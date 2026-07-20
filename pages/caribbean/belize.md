@@ -54,7 +54,7 @@ log-books:
     place: Lighthouse Reef
     date: 11/05/2015
     text: |
-      Souvenirs amusés après une belle plongée sur le reef LongAye Wall&nbsp;: une barre horizontale immergée à 5 mètres sous le bateau nous permet de faire le palier sans effort. Le fort courant se jour là, le bateau n'étant attaché qu'à l'avant, nous avons eu l'impression de prendre un manège au parc d'attraction&nbsp;!
+      Souvenirs amusés après une belle plongée sur le reef LongAye Wall&nbsp;: une barre horizontale immergée à 5 mètres sous le bateau nous permet de faire le palier sans effort. En raison du fort courant ce jour là, le bateau n'étant attaché qu'à l'avant, nous avons eu l'impression de prendre un manège au parc d'attraction&nbsp;!
   - author: Sam
     place: Blue Hole
     date: 13/05/2015

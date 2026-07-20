@@ -56,7 +56,7 @@ log-books:
     place: Manuelita Oustide
     date: 15/09/2019
     text: |
-      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui indique au divemaster de descendre un peu plus sur le fond sableux, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, une jolie raie aigle passe dans le bleu&nbsp;... Et cela ne s'arrête pas là, deux ou trois marteaux au-dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins&nbsp;!! Whaouh
+      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui incite le divemaster à descendre un peu plus sur le fond sableux, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, une jolie raie aigle passe dans le bleu&nbsp;... Et cela ne s'arrête pas là, deux ou trois marteaux au-dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins&nbsp;!! Whaouh
   - author: Tof
     place: Alcyone
     date: 15/09/2019

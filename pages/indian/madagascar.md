@@ -34,7 +34,7 @@ dive-shop: |
 
   Les plongées sur les îles Radama se font depuis le bateau en dérivante. Malik est un passionné et les plongées avec lui se font en toute sécurité, il aime le gros et le recherche pour notre plus grand plaisir.
 
-  **[Sakalav' Diving <i class="fa fa-heart"></i>](http://www.sakalav-diving.com/){: target="_blank"}**, sur la plage au nord-ouest de Nosy Be en face de Sakatia. Nous avons plongé dans la baie du fait de la météo mais nous nous sommes régalés avec Nathalie à la recherche du petit. Le club est une petite structure mais possède trois bateaux plutôt confortables. Du luxe, on ne porte ni gréé sa bouteille. On part pour deux plongées avec un intervalle de surface sur le bateau où l'ambiance est bonne et les discussions vont bon train.
+  **[Sakalav' Diving <i class="fa fa-heart"></i>](http://www.sakalav-diving.com/){: target="_blank"}**, sur la plage au nord-ouest de Nosy Be en face de Sakatia. Nous avons plongé dans la baie du fait de la météo mais nous nous sommes régalés avec Nathalie à la recherche du petit. Le club est une petite structure mais possède trois bateaux plutôt confortables. Du luxe, on ne porte ni ne grée sa bouteille. On part pour deux plongées avec un intervalle de surface sur le bateau où l'ambiance est bonne et les discussions vont bon train.
 
 accommodation: |
   En Décembre 2018.

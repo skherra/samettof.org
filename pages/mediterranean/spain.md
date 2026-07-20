@@ -18,7 +18,7 @@ h1: 🇪🇸 Espagne
 country-desc: |
   L'Espagne propose une grande variété de sites de plongées avec ses côtes méditerranéennes et atlantiques.
 
-  Nous avions découvert Estartit et les **[îles de Medes](https://fr.wikipedia.org/wiki/%C3%8Eles_Medes){: target="_blank"}**, la "Mecque" de la plongée en Méditerranée, vingt ans auparavant. Très jeunes plongeurs, nous découvrions avec ravissement les coraux rouges, les gorgones, rascasses et de gros mérous peu farouches. Les sites sont toujours aussi beaux et riches vingt ans après. Les îles Medes sont pour nous les plus riches sites en faunes et flores de Méditerranée. Les îles Medes sont à 10 min en bateau d'Estartit. Il faut s'acquitter d'une taxe marine à chaque plongée, les réservations sont faites à l'avance, il n'y a plus ou moins qu'un seul bateau par site de plongée.
+  Nous avions découvert Estartit et les **[îles de Medes](https://fr.wikipedia.org/wiki/%C3%8Eles_Medes){: target="_blank"}**, la "Mecque" de la plongée en Méditerranée, vingt ans auparavant. Très jeunes plongeurs, nous découvrions avec ravissement les coraux rouges, les gorgones, rascasses et de gros mérous peu farouches. Les sites sont toujours aussi beaux et riches vingt ans après. Les îles Medes sont pour nous les plus riches sites en faunes et flores de Méditerranée. Les îles Medes sont à 10 min en bateau d'Estartit. Il faut s'acquitter d'une taxe marine à chaque plongée, les réservations sont faites à l'avance, il n'y a généralement qu'un seul bateau par site de plongée.
 
   Le plus simple pour rejoindre Estartit est par la route depuis Barcelone (2h30) ou Perpignan (1h30).
 

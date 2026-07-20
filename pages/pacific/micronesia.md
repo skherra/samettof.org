@@ -24,7 +24,7 @@ country-desc: |
 
   Il y a différents dive shops qui doivent se valoir les uns des autres, pour plus de confort et afin de maximiser le nombre d'épaves, il faudrait peut-être opter pour une croisière.
 
-  À **[Yap](https://fr.wikipedia.org/wiki/%C3%8Eles_Yap){: target="_blank"}**, les plongées sont toutes dérivantes sur le récif avec une bonne visibilité. C'est le paradis des mantas&nbsp;! Nous y étions pendant la saison de reproduction, nous les avons vu évoluer presque tous les jours. Les murs sont beaux. ce n'est malheureusement pas très poissonneux car les sites ne sont pas protégés de la pêche.
+  À **[Yap](https://fr.wikipedia.org/wiki/%C3%8Eles_Yap){: target="_blank"}**, les plongées sont toutes dérivantes sur le récif avec une bonne visibilité. C'est le paradis des mantas&nbsp;! Nous y étions pendant la saison de reproduction, nous les avons vu évoluer presque tous les jours. Les murs sont beaux. Ce n'est malheureusement pas très poissonneux car les sites ne sont pas protégés de la pêche.
 
   À **[Pohnpei](https://fr.wikipedia.org/wiki/Pohnpei_(%C3%AEle)){: target="_blank"}**, les plongées sont principalement des dérivantes dans les passes en fonction de la marée. Beaucoup de vie et des mantas également. On peut voir des bancs de requins, de barracudas et de beaux coraux. La visibilité reste cependant variable.
 
@@ -50,7 +50,7 @@ dive-shop: |
 
   Ils ont 6 bateaux confortables pour 5 personnes. On plonge à la carte sans limite de temps, les plongées sont majoritairement dérivantes et faciles. Les dive masters locaux s'adaptent aux souhaits des guests&nbsp;: la station cleaning à 6 mètres ou les murs.
 
-  En inter plongée serviettes chaude et thé / gâteaux. On ne porte rien. Un vrai luxe.
+  En inter plongée serviettes chaudes et thé / gâteaux. On ne porte rien. Un vrai luxe.
 
   **[Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei.
 

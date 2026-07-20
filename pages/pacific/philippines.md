@@ -16,7 +16,7 @@ visited-in: Mai 2023 et Février 2026
 h1: 🇵🇭 Philippines
 
 country-desc: |
-  Les **[Philippines](https://fr.wikipedia.org/wiki/Philippines){: target="_blank"}**, sont un archipel de plus de 5&nbsp;000 îles ou îlots entre les mer de Sulu, mer de Chine, mer des Célèbes et la mer des Philippines bordée par l'océan Pacifique. Il faut plusieurs voyages pour découvrir ce vaste pays où chaque destination se mérite car certains lieux sont difficilement accessibles et les transferts terrestres prennent du temps.
+  Les **[Philippines](https://fr.wikipedia.org/wiki/Philippines){: target="_blank"}** sont un archipel de plus de 5&nbsp;000 îles ou îlots entre les mer de Sulu, mer de Chine, mer des Célèbes et la mer des Philippines bordée par l'océan Pacifique. Il faut plusieurs voyages pour découvrir ce vaste pays où chaque destination se mérite car certains lieux sont difficilement accessibles et les transferts terrestres prennent du temps.
 
   Il y a beaucoup de cyclones aux Philippines, mais entre février et mai le temps reste un peu plus clément autour de **[Palawan](https://fr.wikipedia.org/wiki/Province_de_Palawan){: target="_blank"}** et dans les **[Visayas](https://fr.wikipedia.org/wiki/Visayas){: target="_blank"}**.
 
