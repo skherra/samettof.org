@@ -16,7 +16,7 @@ visited-in: Mai, juin 2021 et juillet, août 2023
 h1: 🇫🇷 France
 
 country-desc: |
-  Les sites de méditerranée sont très prisés en été. Pour être tranquille sous l'eau il faut faire le pari de la météo et y venir hors saison. Néanmoins la température reste froide et il faut prévoir une combinaison sèche ou semi sèche. <br/>Les paysages sont magnifiques et sous l'eau, nous avons été agréablement surpris par la richesse et la diversité de la flore (de très belles gorgones, du corail rouge). Les eaux dans les réserves sont très poissonneuses, on y croise avec un peu de chance des mola molas, des mérous et des barracudas.
+  Les sites de Méditerranée sont très prisés en été. Pour être tranquille sous l'eau il faut faire le pari de la météo et y venir hors saison. Néanmoins la température reste froide et il faut prévoir une combinaison sèche ou semi sèche. <br/>Les paysages sont magnifiques et sous l'eau, nous avons été agréablement surpris par la richesse et la diversité de la flore (de très belles gorgones, du corail rouge). Les eaux dans les réserves sont très poissonneuses, on y croise avec un peu de chance des mola molas, des mérous et des barracudas.
 
   La météo change vite, les pluies apportent beaucoup de particules sur Cerbère, tandis que le vent refroidit sensiblement l'eau plutôt claire sur Marseille, une étanche même en plein juillet peut être envisagée.
 
@@ -25,7 +25,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou).
 
 country-desc-sections:
-- title: Cerbère Banuyls
+- title: Cerbère Banyuls
   text: |
     La réserve de **[Cerbère Banyuls](https://reserves-naturelles.org/reserves/cerbere-banyuls/){: target="_blank"}** dans les Pyrénées orientales est de toute beauté. À la frontière espagnole, on se sent au bout du monde entre la montagne et la mer. On peut plonger en Espagne ou en France selon la météo. <br>L'eau n’est claire qu'un mois dans l'année, d’après les locaux ! Il y a beaucoup de particules et la vie reste entre 0 et 20 mètres. Les sites sont assez proches les uns des autres. La topographie est belle, on y trouve des petites cavités, de longs canyons, des arches. Certains sites ne sont pas simples à repérer pour les non connaisseurs du coin en raison de la faible visibilité.
 - title: Riou
@@ -34,7 +34,7 @@ country-desc-sections:
 - title: Porquerolles
   text: |
     L'île de **[Porquerolles](https://fr.wikipedia.org/wiki/%C3%8Ele_de_Porquerolles){: target="_blank"}** dans le Var est à 20 min de bateau de la côte. Avec Giens et Port-Cros, il y a au moins une 40aine de sites à découvrir. Sur Porquerolles, nous n'avons pas fait beaucoup de plongées mais nous avons croisé beaucoup de mérous, murènes et des barracudas. La topographie est très belle et cela nous a donné envie d'y retourner.
-- title: Cap D'Antibes
+- title: Cap d'Antibes
   text: |
     Plonger au Cap d'Antibes dans les Alpes maritimes reste une expérience sympathique. L'eau est claire et chaude en été. Nous avons plongé sur le Cap à la Fourmigue (phare), nous avons croisé des petits barracudas, murènes et des poulpes.
 
@@ -66,18 +66,18 @@ accommodation: |
 
   À **Cerbère**, nous avons logé chez **Philip**&nbsp;: petite maison fonctionnelle au calme, vue sur la mer et petit jardin, à 5 min du village.
 
-  À **Marseille**, coup de cœur pour le logement <i class="fa fa-heart"></i> **"le petit Borely"** de Sylvie et Philippe dans le 8eme arrondissement avec une belle terrasse.
+  À **Marseille**, coup de cœur pour le logement <i class="fa fa-heart"></i> **"le petit Borely"** de Sylvie et Philippe dans le 8ᵉ arrondissement avec une belle terrasse.
 
 to-see: |
   Visités en juillet 2023.
   {: .visited-in}
 
-  Le centre historique de **Hyères**, la presqu’île de Giens et les jolies plages notamment celle du Lavendou.
+  Le centre historique de **Hyères**, la presqu’île de Giens et les jolies plages notamment celle du Lavandou.
 
   Visités en mai-juin 2021.
   {: .visited-in}
 
-  Autour de **Cerbère**, le joli village de **[Collioure](https://fr.wikipedia.org/wiki/Collioure){: target="_blank"}**, les Cap et les Anses de la réserve Cerbère-banyuls. <br/>Le petit musée de sculpture du **[ Maître cabestany](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany){: target="_blank"}** près de Perpignan et bien sûr **[Perpignan](https://fr.wikipedia.org/wiki/Perpignan){: target="_blank"}** avec le beau **[palais des rois de Majorque](https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque){: target="_blank"}**.
+  Autour de **Cerbère**, le joli village de **[Collioure](https://fr.wikipedia.org/wiki/Collioure){: target="_blank"}**, les Caps et les Anses de la réserve Cerbère-banyuls. <br/>Le petit musée de sculpture du **[ Maître cabestany](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany){: target="_blank"}** près de Perpignan et bien sûr **[Perpignan](https://fr.wikipedia.org/wiki/Perpignan){: target="_blank"}** avec le beau **[palais des rois de Majorque](https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque){: target="_blank"}**.
 
   **[Marseille](https://fr.wikipedia.org/wiki/Marseille){: target="_blank"}** et le **[parc national des calanques](http://www.calanques-parcnational.fr/fr){: target="_blank"}** avec les calanques des Goudes de Cassis avec son petit port de Miou ...
 

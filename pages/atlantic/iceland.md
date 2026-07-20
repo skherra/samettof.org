@@ -42,7 +42,7 @@ accommodation: |
   Visité en mars 2019.
   {: .visited-in}
 
-  Il y a différents types d'hébergements à Reykjavik, le centre est petit, il faut juste prévoir une location d'appartement, une guest house ou un hotêl assez près d'un arrêt de bus pour les excursions.
+  Il y a différents types d'hébergements à Reykjavik, le centre est petit, il faut juste prévoir une location d'appartement, une guest house ou un hôtel assez près d'un arrêt de bus pour les excursions.
 
   Nous avons apprécié de loger dans le petit appartement très fonctionnel d'**Hreidar**.
 
@@ -56,7 +56,7 @@ to-see: |
   - **[Musée National Islande](https://www.thjodminjasafn.is/){: target="_blank"}** plutôt bien fait et intéressant.
   - **[Le Blue Lagoon](https://www.bluelagoon.com/){: target="_blank"}** pour un repos en eau chaude.
 
-  Le reste de L'Islande à parcourir (visité en 2006) **[le cercle d'or](https://fr.wikipedia.org/wiki/Cercle_d'or_(Islande)){: target="_blank"}** à 45 min de Reykjavik et le grand Sud&nbsp;: **[Landamanogar](https://fr.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**, Skaftafell, Jokulsarlon&nbsp;...
+  Le reste de l'Islande à parcourir (visité en 2006) **[le cercle d'or](https://fr.wikipedia.org/wiki/Cercle_d'or_(Islande)){: target="_blank"}** à 45 min de Reykjavik et le grand Sud&nbsp;: **[Landamanogar](https://fr.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**, Skaftafell, Jokulsarlon&nbsp;...
 
 log-books:
 - author: Tof
@@ -74,9 +74,9 @@ log-books:
   place: Silfra
   date: 13/03/2019
   text: |
-    Equipés sur le parking, nous attendons notre ordre de passage, la faille étant petite et la traversée en sens unique, le parc nationnal a mis en place ce système plutôt ingénieux car on plonge à 4 uniquement.
+    Equipés sur le parking, nous attendons notre ordre de passage, la faille étant petite et la traversée en sens unique, le parc national a mis en place ce système plutôt ingénieux car on plonge à 4 uniquement.
 
-    La fraîcheur nous saisit mais elle est vite oubliée par la clareté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique !
+    La fraîcheur nous saisit mais elle est vite oubliée par la clarté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique !
 
     Nous parcourons la faille, le trou, la cathédrale grandiose entre les deux plaques américaine et eurasiatique pour finir dans un lagon aux couleurs caraïbes qui est le point de sortie de Silfra.
 ---

@@ -18,7 +18,7 @@ h1: 🇨🇻 Cap Vert
 country-desc: |
   **[Sao Vicente](https://fr.wikipedia.org/wiki/S%C3%A3o_Vicente_(Cap-Vert)){: target="_blank"}**, l'île de Césaria Evora, est une île du Cap Vert (ou Cabo Verde) bercée par la musique et les chants. Nous avons pu à notre grande surprise le confirmer, cela chante partout, vraiment partout&nbsp;: sur le ferry, dans les cafés, sur les places, ...
 
-  Ile d'Atlantique tropical au large du Sénégal, Sao Vicente, est volcanique et aride, mais sous l'eau, elle possède des récifs très poissonneux.<br /> Les sites sont dispersés autour de la célèbre baie de Mindelo et il reste encore beaucoup à explorer&nbsp;... Du vent et des courants sont à prévoir.
+  Île d'Atlantique tropical au large du Sénégal, Sao Vicente, est volcanique et aride, mais sous l'eau, elle possède des récifs très poissonneux.<br /> Les sites sont dispersés autour de la célèbre baie de Mindelo et il reste encore beaucoup à explorer&nbsp;... Du vent et des courants sont à prévoir.
 
   Le départ des plongées se fait près du club nautique de Mindelo, il y a peu de touristes plongeurs et un seul club sur Sao Vicente, au maximum nous étions 8 sous l'eau.
 
@@ -50,5 +50,5 @@ log-books:
   place: Djeu Norte
   date: 12/09/2016
   text: |
-    Descente le long des éboulis de ce piton au milieu de la baie de Mindelo, nous croisons un gros tretradon, nous cherchons dans les rochers au milieu des anémones un frogfish, il est difficile à voir, mais on voit sa bouche mécontente&nbsp;! Nous passons une différence de température d'eau et l'effet thermocline pour aller voir des murènes à tête dorée. C'est toujours très poissonneux, deux gros requins nourrices font la sieste dans leur cavité&nbsp;!
+    Descente le long des éboulis de ce piton au milieu de la baie de Mindelo, nous croisons un gros tétrodon, nous cherchons dans les rochers au milieu des anémones un frogfish, il est difficile à voir, mais on voit sa bouche mécontente&nbsp;! Nous passons une différence de température d'eau et l'effet thermocline pour aller voir des murènes à tête dorée. C'est toujours très poissonneux, deux gros requins nourrices font la sieste dans leur cavité&nbsp;!
 ---

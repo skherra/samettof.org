@@ -40,12 +40,12 @@ to-see: |
 
   Il y a plusieurs sites archéologiques dans l'île à visiter, des vieux forts et les moulins à sucre de **[Betty's Hope](https://sugarmills.blogs.bucknell.edu/bettys-hope/){: target="_blank"}**, Nelson’s dockyard et Fort Berkeley. <br/>  Grimper en haut du **[Fort Barrington](https://en.wikipedia.org/wiki/Fort_Barrington,_Antigua_and_Barbuda){: target="_blank"}** pour admirer la vue Mangrove et mer. <br />Admirer les pélicans, aigrettes, frégates, huitriers sur le **McKinnon's Salt Pond**, les alentours sont malheureusement pollués de déchets.
 
-  Il y a plusieurs randonnées sympas autour de Falmouth pour admirer de beaux points de vues dont la boucle de Galleon Beach à Shirley Height, **[le carpenter rock trail](https://www.antiguamarineguide.com/hikes/carpenter-rock-trail.){: target="_blank"}** qui offre des vues magnifiques sur les falaises et la baie Falmouth Harboor. <br/>La balade via Turtle Bay jusqu'à **Rendez-vous beach** offre aussi de très belles vues de la baie. Enfin la ccourte balade à **Monk Hill** vaut le détour, on a la vue à presque 360 degrés.
+  Il y a plusieurs randonnées sympas autour de Falmouth pour admirer de beaux points de vues dont la boucle de Galleon Beach à Shirley Height, **[le carpenter rock trail](https://www.antiguamarineguide.com/hikes/carpenter-rock-trail.){: target="_blank"}** qui offre des vues magnifiques sur les falaises et la baie Falmouth Harboor. <br/>La balade via Turtle Bay jusqu'à **Rendez-vous beach** offre aussi de très belles vues de la baie. Enfin la courte balade à **Monk Hill** vaut le détour, on a la vue à presque 360 degrés.
 
 log-books:
 - author: Sam
   place: Nanton point
   date: 20/05/2026
   text: |
-    Immersion dans la houle après Nanton point, la visibilité est excellente, et d'un bleu profond. Beaucoup de poissons tropicaux, et bientôt 2, 3 puis 6 requins gris peu farouches qui nous suivent de près. Dans le bleu nous apercevons, un grand pélagique, peut-être une baleine pilote. Nous poursuivons la balade avec des cigales de mer, des langoustes, barracudas géants, thon, et banc de bécunes. Une de nos plus belles plongées dans les caraïbes, ne sachant plus ou donner de la tête !
+    Immersion dans la houle après Nanton point, la visibilité est excellente, et d'un bleu profond. Beaucoup de poissons tropicaux, et bientôt 2, 3 puis 6 requins gris peu farouches qui nous suivent de près. Dans le bleu nous apercevons, un grand pélagique, peut-être une baleine pilote. Nous poursuivons la balade avec des cigales de mer, des langoustes, barracudas géants, thon, et banc de bécunes. Une de nos plus belles plongées dans les caraïbes, ne sachant plus où donner de la tête !
 ---

@@ -16,7 +16,7 @@ visited-in: Septembre 2017 et janvier 2025
 h1: 🇮🇩 Indonésie
 
 country-desc: |
-  L'archipel d'**[Indonésie](https://fr.wikipedia.org/wiki/Indon%C3%A9sie){: target="_blank"}** est le plus grand au monde et fait partie du grand **[triangle coralien](https://fr.wikipedia.org/wiki/Triangle_du_corail){: target="_blank"}** des océans Indien et Pacifique avec les Philippines et la Malaisie notamment. La faune et la flore sont incroyablement riches. <br/>Komodo et **[Raja Ampat](https://fr.wikipedia.org/wiki/%C3%8Eles_Raja_Ampat){: target="_blank"}** font partis des archipels les plus renommés au monde, et leur réputation n'est pas volée.<br/>
+  L'archipel d'**[Indonésie](https://fr.wikipedia.org/wiki/Indon%C3%A9sie){: target="_blank"}** est le plus grand au monde et fait partie du grand **[triangle coralien](https://fr.wikipedia.org/wiki/Triangle_du_corail){: target="_blank"}** des océans Indien et Pacifique avec les Philippines et la Malaisie notamment. La faune et la flore sont incroyablement riches. <br/>Komodo et **[Raja Ampat](https://fr.wikipedia.org/wiki/%C3%8Eles_Raja_Ampat){: target="_blank"}** font partie des archipels les plus renommés au monde, et leur réputation n'est pas volée.<br/>
 
   Autour de Bali et Sorong, les eaux sont polluées de plastiques et de déchets en tout genre, y compris autour des villages de Papouasie.
 
@@ -45,7 +45,7 @@ dive-shop: |
   Visité en janvier 2025 et septembre 2017.
   {: .visited-in}
 
-  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit). <br />Très beau bateau et excellent service pour 8 passagers maximum. Suivant les guides de plongées, on apprécie le petit comme le gros.&nbsp;: 2 palanquées de 4.
+  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit). <br />Très beau bateau et excellent service pour 8 passagers maximum (2 palanquées de 4). Suivant les guides de plongées, on apprécie le petit comme le gros.
 
   Visité en janvier 2025.
   {: .visited-in}
@@ -95,12 +95,12 @@ log-books:
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus ou donner de la tête !
+    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête !
 - author: Sam
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus ou donner de la tête !
+    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête !
 - author: Sam
   place: Shotgun - Komodo
   date: 10/09/2017
@@ -110,5 +110,5 @@ log-books:
   place: Hot rocks - Sangeang
   date: 12/09/2017
   text: |
-    Descente dans le sable noir de l'île volcanique de Sangeang. C'est le paradis des nudibranches, tous différents. Nous en compterons pas moins d'une trentaine ! Plus loin des sources d'eau chaude, où il fait bon passer les mains et chercher les pierres chaudes dans le sable. Nous dérangeons un gros poulpe qui somnolait par là. Puis des anémones à Némo de couleur orange dûe au gaz volcanique. Très belle ambiance pour cette plongée aux couleurs et constrastes sublimes.
+    Descente dans le sable noir de l'île volcanique de Sangeang. C'est le paradis des nudibranches, tous différents. Nous n'en compterons pas moins d'une trentaine ! Plus loin des sources d'eau chaude, où il fait bon passer les mains et chercher les pierres chaudes dans le sable. Nous dérangeons un gros poulpe qui somnolait par là. Puis des anémones à Némo de couleur orange due au gaz volcanique. Très belle ambiance pour cette plongée aux couleurs et contrastes sublimes.
 ---

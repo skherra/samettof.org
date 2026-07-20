@@ -20,10 +20,10 @@ h1: Bonus
 
 **<i class="fa fa-mail-forward"></i> [Islande](/atlantique/islande/)**{: .accent-color}&nbsp;: Landamanogar, Blue Lagoon ...
 
-**<i class="fa fa-mail-forward"></i> [Japon](/pacifique/japon/)**{: .accent-color}&nbsp;: Le pays des Onsen ! Ile de Kyushu, île de Yakushima ...
+**<i class="fa fa-mail-forward"></i> [Japon](/pacifique/japon/)**{: .accent-color}&nbsp;: Le pays des Onsen ! Île de Kyushu, île de Yakushima ...
 
-**<i class="fa fa-mail-forward"></i> Nouvelle Zélande**&nbsp;: la région de Roturoa
+**<i class="fa fa-mail-forward"></i> Nouvelle Zélande**&nbsp;: la région de Rotorua
 
-**<i class="fa fa-mail-forward"></i> Chili**&nbsp;: Puritama dans le désert d'Atacama, Jurasi (à 3500 m d'Altitude) près de Putre
+**<i class="fa fa-mail-forward"></i> Chili**&nbsp;: Puritama dans le désert d'Atacama, Jurasi (à 3500 m d'altitude) près de Putre
 
 **<i class="fa fa-mail-forward"></i> [Baja California (Mexique)](/pacifique/mexique/)**{: .accent-color}, la sierra de la Laguna

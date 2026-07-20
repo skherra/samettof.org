@@ -24,7 +24,7 @@ qa:
     Voici quelques "tips & tricks" qui marchent pour nous&nbsp;:
     * **Avant le départ**&nbsp;: Nous aimons contacter le club afin de ne pas avoir de mauvaises surprises&nbsp;; sur des petites structures il convient de vérifier les disponibilités du club et les plannings de certaines plongées. Nous sommes aussi attentifs aux informations fournies par le club de plongées, leurs réponses par email ou sur leur site comme la description des sites de plongées, le type de bateau, le planning des sorties et les avis des plongeurs.
     * **Sur place**&nbsp;: Si nous le pouvons, nous essayons de passer la veille au club pour apprécier l'accueil, vérifier la qualité des équipements, comprendre l'organisation et rencontrer le staff. Les brevets ou certificats doivent être affichés ou visibles. Les vérifications des niveaux des plongeurs sont impératives.
-    * **Enfin et surtout**, le nombre de personnes par palanquée (réglementée suivant les pays), le sérieux et la sécurité, le niveau des guides (le nombre de moniteur dans le club par exemple pour les plongées encadrées) et leur connaissance des lieux.
+    * **Enfin et surtout**, le nombre de personnes par palanquée (réglementée suivant les pays), le sérieux et la sécurité, le niveau des guides (le nombre de moniteurs dans le club par exemple pour les plongées encadrées) et leur connaissance des lieux.
     * **Le prix** ne doit pas être un critère de choix.
 - N: 02
   I: fa-certificate
@@ -49,9 +49,9 @@ qa:
   I: fa-briefcase
   Q: Quels bagages ?
   A: |
-    Nous préférons des sacs souples et grands formats qui peuvent se porter en sac à dos. Actuellement les **North Face XXL** font l'affaire. Ils ont une grande capacité de rangement, ne pèsent presque rien à vide et se rangent facilement dans les espaces restreints. Nous rangeons le sec dans des petits sac étanches.
+    Nous préférons des sacs souples et grands formats qui peuvent se porter en sac à dos. Actuellement les **North Face XXL** font l'affaire. Ils ont une grande capacité de rangement, ne pèsent presque rien à vide et se rangent facilement dans les espaces restreints. Nous rangeons le sec dans des petits sacs étanches.
 
-    Les sacs "adaptés" pour la plongée ne le sont justement pas&nbsp;: pas de compartiment étanche, lourd à vide, mauvais rapport qualité-prix, souvent hors format pour les aéroports et les petites roulettes quand le sac fait 20 kilos sont souvent inutiles. <br/>D'autres plongeurs préféreront des petites valides rigides (au moins 2 par personnes).
+    Les sacs "adaptés" pour la plongée ne le sont justement pas&nbsp;: pas de compartiment étanche, lourd à vide, mauvais rapport qualité-prix, souvent hors format pour les aéroports et les petites roulettes quand le sac fait 20 kilos sont souvent inutiles. <br/>D'autres plongeurs préféreront des petites valises rigides (au moins 2 par personne).
 - N: 06
   I: fa-eye
   Q: Lentilles ou masque à sa vue ?
@@ -61,7 +61,7 @@ qa:
   I: fa-camera-retro
   Q: Quel est notre matériel photo ?
   A: |
-    Nous utilisons un petit appareil **Sealife** dernière génération sans caisson. Il est compact et pratique pour toutes les types de plongées. Ses filtres intégrés sont disponibles en raccourci. Une lentille en sus est obligatoire pour la macro. <br/>Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
+    Nous utilisons un petit appareil **Sealife** dernière génération sans caisson. Il est compact et pratique pour tous les types de plongées. Ses filtres intégrés sont disponibles en raccourci. Une lentille en sus est obligatoire pour la macro. <br/>Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
 
     Et bien sûr, beaucoup de lumières !
 - N: 08

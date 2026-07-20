@@ -18,7 +18,7 @@ h1: 🇧🇶 Bonaire
 country-desc: |
   **[Bonaire](https://fr.wikipedia.org/wiki/Bonaire){: target="_blank"}** se situe tout au sud des caraïbes en face du Venezuela et constitue avec Aruba et Curaçao les petites Antilles sous le vent. Bonaire comme [Statia](/caraibes/statia/) fait partie des Pays-Bas.
 
-  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peu y en avoir tout au sud (White Slave, Margate Bay ...) et au Nord dans le parc.
+  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peut y en avoir tout au sud (White Slave, Margate Bay ...) et au Nord dans le parc.
 
   Avec plus de 81 sites, l'île regorge de clubs de plongée qui proposent des packages hôtels, truck et bouteilles ou gonflage de bouteilles uniquement.
 
@@ -44,9 +44,9 @@ to-see: |
   Visité en mars et décembre 2022.
   {: .visited-in}
 
-  On y vient pour plonger mais faire le tout de l'île vaut le coup. L'île est petite, nous avons apprécié le sud, les marais salants et ses flamands roses, les ânes déambulant, les pélicans et les iguanes. L'île est plutôt désertique, malgré le vent, le soleil tape et il fait chaud.
+  On y vient pour plonger mais faire le tour de l'île vaut le coup. L'île est petite, nous avons apprécié le sud, les marais salants et ses flamands roses, les ânes déambulant, les pélicans et les iguanes. L'île est plutôt désertique, malgré le vent, le soleil tape et il fait chaud.
 
-  Le **Washington Slagbaai National Park** mérite une demi journée minimum&nbsp;: un parcours en voiture et quelques randonnées, de belles vues et on y voit beaucoup d'oiseaux.
+  Le **Washington Slagbaai National Park** mérite une demi-journée minimum&nbsp;: un parcours en voiture et quelques randonnées, de belles vues et on y voit beaucoup d'oiseaux.
 
 log-books:
 - author: Sam

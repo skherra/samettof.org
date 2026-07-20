@@ -16,7 +16,7 @@ visited-in: Septembre 2018
 h1: 🇫🇯 Fidji
 
 country-desc: |
-  L'Archipel des **[Fidji](https://en.wikipedia.org/wiki/Fidji){: target="_blank"}**, dans le pacifique, fait parti de la zone pacifique ouest comprenant la Papouasie, la Nouvelle Calédonie et les Vanuatu plus communément appelée la **[Mélanésie](https://fr.wikipedia.org/wiki/M%C3%A9lan%C3%A9sie#/media/File:Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg){: target="_blank"}** (ce terme reste un sujet à controverse dans le monde des géologues et anthropologues).
+  L'Archipel des **[Fidji](https://en.wikipedia.org/wiki/Fidji){: target="_blank"}**, dans le pacifique, fait partie de la zone pacifique ouest comprenant la Papouasie, la Nouvelle Calédonie et les Vanuatu plus communément appelée la **[Mélanésie](https://fr.wikipedia.org/wiki/M%C3%A9lan%C3%A9sie#/media/File:Oceania_UN_Geoscheme_-_Map_of_Melanesia.svg){: target="_blank"}** (ce terme reste un sujet à controverse dans le monde des géologues et anthropologues).
 
   Les fonds du canal de **Somosomo** nous plongent dans une ambiance indo-pacifique avec beaucoup de vie et de coraux. Le rainbow reef est de toute beauté avec ses coraux durs et mous multicolores. Il y a plus d'une vingtaine de sites, que l'on peut faire et refaire suivant le sens du courant. Les reefs ne descendent jamais au-dessous de 30 mètres, mis à part le Great White Wall. Ce site de plongée, profond et magnifique, est atteignable suivant les marées. Il fait partie du top 10 des plus beaux au monde et il mérite sa réputation&nbsp;: c'est le seul endroit aux Fidji où il neige&nbsp;!! Les clubs y allant à des dates précises, en général 2 fois par semaines, il convient de se renseigner pour tomber aux bonnes dates&nbsp;...
 

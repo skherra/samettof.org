@@ -7,7 +7,7 @@ permalink: /calendrier/
 lang: fr
 lang-flag: 🇫🇷
 
-title: Calendar
+title: Calendrier
 description: Sam & Tof - Calendrier
 
 sea: next

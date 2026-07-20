@@ -8,12 +8,12 @@ lang: fr
 lang-flag: 🇫🇷
 
 title: Plongée aux Philippines
-description: Sam & Tof - Plongée sous-marine aux Philipines
+description: Sam & Tof - Plongée sous-marine aux Philippines
 
 sea: pacific
 menu: Philippines
 visited-in: Mai 2023 et Février 2026
-h1: 🇵🇭 Philipines
+h1: 🇵🇭 Philippines
 
 country-desc: |
   Les **[Philippines](https://fr.wikipedia.org/wiki/Philippines){: target="_blank"}**, sont un archipel de plus de 5&nbsp;000 îles ou îlots entre les mer de Sulu, mer de Chine, mer des Célèbes et la mer des Philippines bordée par l'océan Pacifique. Il faut plusieurs voyages pour découvrir ce vaste pays où chaque destination se mérite car certains lieux sont difficilement accessibles et les transferts terrestres prennent du temps.
@@ -33,7 +33,7 @@ country-desc-sections:
     À **[Tubbataha](https://fr.wikipedia.org/wiki/R%C3%A9cif_de_Tubbataha){: target="_blank"}**, via une croisière au départ de Puerto Princessa, les deux beaux atolls nous ont régalé. De beaux plateaux de coraux durs et de belles gorgones, avec des requins à chaque plongée mais également des tortues et napoléons, carangues, barracudas font de ce spot le meilleur des Philippines et nous sommes prêts à le croire. Il y a aussi du tout petit comme des crabes araignées et des hippocampes pigmés. Il peut y avoir un fort courant et quand cela se produit, de belles surprises nous attendent dans le bleu comme des marteaux à 40 mètres. Nous avons eu une superbe visibilité. Tubbataha est à 9h-12h de navigation de Puerto Princessa.
 - title: Moalboal
   text: |
-    **Moalboal**{: .accent-color} est une province de Cebu, une des îles principales des Philippines, située à 4h de route de Cebu city. La côte est très belle et est connue pour ses sardines run, des bancs de sardines vivant à l'année dans la baie pour la joie des snorklers ou des plongeurs. L	&#38;île de Pescador et le mur le long du reef ne sont pas en reste&nbsp;: tortues, hippocampes pygmées, crabes de corail, beaucoup de petits, des galathées, des coraux mous et durs très colorés, des frog fishs dans les éponges&nbsp;... Les plongées y sont faciles (que des dérivantes) et riches en découvertes.
+    **Moalboal**{: .accent-color} est une province de Cebu, une des îles principales des Philippines, située à 4h de route de Cebu city. La côte est très belle et est connue pour ses sardines run, des bancs de sardines vivant à l'année dans la baie pour la joie des snorklers ou des plongeurs. L'île de Pescador et le mur le long du reef ne sont pas en reste&nbsp;: tortues, hippocampes pygmées, crabes de corail, beaucoup de petits, des galathées, des coraux mous et durs très colorés, des frog fishs dans les éponges&nbsp;... Les plongées y sont faciles (que des dérivantes) et riches en découvertes.
 - title: Malapascua
   text: |
     **[Malapascua](https://fr.wikipedia.org/wiki/Malapascua){: target="_blank"}** est une petite île au nord de Cebu. On y vient surtout pour les requins renards à Kimud Shoal. Les autres sites comme le pinacle Dakit sont à voir également pour la macro. Il y a beaucoup de plongeurs sur les sites, mais les dive masters font généralement bien respecter les règles et la courtoisie est de mise. <br /> La météo est très variable et les sorties requins sont parfois annulées par les gardes côtes, les sites étant à 1h de bateau. Il faut donc prévoir du temps sur l'île pour assurer une sortie requins renard. Les sites autour de l'île sont pour du petit mais sont moins riche.
@@ -59,7 +59,7 @@ accommodation: |
   Visité en février 2026.
   {: .visited-in}
 
-  **[Magic Island](https://magicisland.online/){: target="_blank"}** sur l'île de Cebu, dans la province de Moalboal, C'est un beau dive resort à l'écart de la ville, calme et propre avec une petite capacité, des guests plutôt germanophones. La carte est variée, il y a beaucoup de poissons et des plats végétariens, la cuisine est gouteuse. Le resort propose des excursions ainsi que des massages de qualité.
+  **[Magic Island](https://magicisland.online/){: target="_blank"}** sur l'île de Cebu, dans la province de Moalboal, c'est un beau dive resort à l'écart de la ville, calme et propre avec une petite capacité, des guests plutôt germanophones. La carte est variée, il y a beaucoup de poissons et des plats végétariens, la cuisine est goûteuse. Le resort propose des excursions ainsi que des massages de qualité.
 
   **[Tepanee beach resort](https://www.tepanee.com/){: target="_blank"}** un peu à l'écart de la ville avec une belle vue sur la baie. Les bungalows sont sympas, l'accueil est un peu dans son jus et cela reste difficile de se faire comprendre. L'hôtel reste peut-être l'endroit le plus calme de la ville si ce n'est qu'on entend les moteurs des bateaux dès 5h du matin.
 
@@ -70,7 +70,7 @@ accommodation: |
 
   **[Tao Sangat dive resort](https://sangat.com.ph/){: target="_blank"}** sur l'île de Sangat, ils s'occupent du transfert depuis l'aéroport de Coron ou du port. Petit resort eco lodge, où la nourriture est excellente, les employés prévenants. La vue et le calme sont de mise.
 
-  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** est un tout petit resort un peu excentré de la ville avec une vue imprenable pour le coucher de soleil, sur Caalan Beach. Il ne faut pas hésiter à prendre un touktouk par la plage depuis le ferry (c'est mal indiqué mais ils y vont ...). Le ressort est confortable un seul bungalow offre une vue plage magnifique. Ils offrent des repas Philippinesns simples et peu chers.
+  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** est un tout petit resort un peu excentré de la ville avec une vue imprenable pour le coucher de soleil, sur Caalan Beach. Il ne faut pas hésiter à prendre un touktouk par la plage depuis le ferry (c'est mal indiqué mais ils y vont ...). Le resort est confortable, un seul bungalow offre une vue sur la plage magnifique. Ils offrent des repas philippins simples et peu chers.
 
   **Muting paraiso**, hôtel très reposant pour un transit, piscine agréable et possibilité de massage Thai. Le chef cuisinier propose des plats savoureux.
 

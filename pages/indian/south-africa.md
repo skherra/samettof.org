@@ -50,7 +50,7 @@ log-books:
     place: Raggie Cave
     date: 30/01/2018
     text: |
-      Descente sur Raggie Cave, la visibilité s'améliore mais reste entre 5 et 6 mètres, nous apercevons de beaux requins taureaux, les fameux "raggies" dans une voute, petite dérivante, quelques jolies anémones, nous voyons sur le sable une raie pastenague d'au moins 3 mètres de diamètres. Toutes les espèces sont plus grosses ici&nbsp;!!
+      Descente sur Raggie Cave, la visibilité s'améliore mais reste entre 5 et 6 mètres, nous apercevons de beaux requins taureaux, les fameux "raggies" dans une voûte, petite dérivante, quelques jolies anémones, nous voyons sur le sable une raie pastenague d'au moins 3 mètres de diamètre. Toutes les espèces sont plus grosses ici&nbsp;!!
   - author: Sam
     place: Shark dive
     date: 31/01/2018

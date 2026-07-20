@@ -7,18 +7,18 @@ permalink: /mer-rouge/egypte/
 lang: fr
 lang-flag: 🇫🇷
 
-title: Plongée en Egypte
-description: Sam & Tof - Plongée sous-marine en Egypte
+title: Plongée en Égypte
+description: Sam & Tof - Plongée sous-marine en Égypte
 
 sea: redsea
-menu: Egypte
+menu: Égypte
 visited-in: Novembre 2021 et septembre 2022
-h1: 🇪🇬 Egypte
+h1: 🇪🇬 Égypte
 
 country-desc: |
-  L'**[Égypte](https://fr.wikipedia.org/wiki/Egypte){: target="_blank"}** est un pays baigné par la mer rouge et la mer méditerranée.
+  L'**[Égypte](https://fr.wikipedia.org/wiki/Egypte){: target="_blank"}** est un pays baigné par la mer Rouge et la mer Méditerranée.
 
-  Mecque de la plongée pendant très longtemps, le pays a souffert du manque de tourisme pendant des années à cause de la situation politique du pays. Un mal pour un bien, moins de plongeurs a fait du bien aux coraux et à la faune vivant dans la mer rouge. <br />Pour les spots de plongée, il y a l'embarras du choix au sud comme au nord. Nous avons choisi de faire le sud depuis le bord et via une croisière. La mer rouge est riche et poissonneuse, accessible en une journée sans décalage horaire à des prix raisonnables.
+  Mecque de la plongée pendant très longtemps, le pays a souffert du manque de tourisme pendant des années à cause de la situation politique du pays. Un mal pour un bien, moins de plongeurs a fait du bien aux coraux et à la faune vivant dans la mer Rouge. <br />Pour les spots de plongée, il y a l'embarras du choix au sud comme au nord. Nous avons choisi de faire le sud depuis le bord et via une croisière. La mer Rouge est riche et poissonneuse, accessible en une journée sans décalage horaire à des prix raisonnables.
 
   Marsa Alam est accessible en avion depuis le Caire ou par la route depuis les aéroports d'Hurghada ou de Luxor. Mais les transferts par la route sont longs et il peut y avoir beaucoup de checkpoints.
 
@@ -36,7 +36,7 @@ dive-shop: |
   Visités en décembre 2021.
   {: .visited-in}
 
-  **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Egypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
+  **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Égypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
 
   Visités en septembre 2022.
   {: .visited-in}
@@ -66,7 +66,7 @@ log-books:
   place: Marsa Abu Dabbab
   date: 29/11/2021
   text: |
-    Départ aux aurores pour profiter d'être les premiers sous l'eau, car la baie d'Abu Dabbab est très appréciée des plongeurs et des snorkelers. Nous passons 60 minutes à parcourir le grand herbier de la baie, au bout de 5 minutes un florilèges de tortues vertes géantes avec sur leur dos des rémoras de bonne taille, des raies pastenagues, des raies léopards, des raies à points bleus, des maquereaux, un calamar endormi. Tellement de richesse, c'est un peu les Galápagos du coin, on ne sait plus où donner de l'œil. Plongée magnifique avec une superbe lumière et une très bonne visibilité.
+    Départ aux aurores pour profiter d'être les premiers sous l'eau, car la baie d'Abu Dabbab est très appréciée des plongeurs et des snorkelers. Nous passons 60 minutes à parcourir le grand herbier de la baie, au bout de 5 minutes un florilège de tortues vertes géantes avec sur leur dos des rémoras de bonne taille, des raies pastenagues, des raies léopards, des raies à points bleus, des maquereaux, un calamar endormi. Tellement de richesse, c'est un peu les Galápagos du coin, on ne sait plus où donner de l'œil. Plongée magnifique avec une superbe lumière et une très bonne visibilité.
 - author: Sam
   place: Elphinstone
   date: 30/11/2021
