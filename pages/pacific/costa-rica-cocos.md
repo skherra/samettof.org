@@ -25,13 +25,13 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Cocos, le best of : **Manuelita Outside, Alcyone** et **Dirty Rock** : [<i class="fa fa-map"></i>](https://underseahunter.com/cocos-island/#dive-sites){: target="_blank"}.
 
 dive-shop: |
-  Visité en septembre 2019.
+  En septembre 2019.
   {: .visited-in}
 
   **[<i class="fa fa-ship"></i> Under Sea Hunter <i class="fa fa-heart"></i>](https://www.underseahunter.com/){: target="_blank"}**&nbsp;: Bateau très confortable, équipé de deux bateaux à moteurs rigides avec un toit couvert. Les capitaines des skiffs assurent la sécurité de surface pour les retours de plongées dans une mer agitée. 4 dive masters enthousiastes et attentionnés pour des groupes de 9 à 7 plongeurs. Trois plongées par jour, deux le matin, une l'après-midi. Le nitrox obligatoire est inclus dans le forfait, les plongées se font sans déco.
 
 accommodation: |
-  Visité en septembre 2019.
+  En septembre 2019.
   {: .visited-in}
 
   **[Grana de Oro](https://www.hotelgranodeoro.com/){: target="_blank"}** : Très bel hôtel luxueux joliment décoré à San José avec deux jacuzzis et un bon restaurant de style français. Les chambres sont grandes.
@@ -39,12 +39,12 @@ accommodation: |
   **[Manatus Hotel](https://manatuscostarica.com/){: target="_blank"}** : Bel hôtel dans le cadre splendide de Tortuguero, assez concerné par l'environnement. Notre guide plutôt discret nous a donné beaucoup d'explications sur le parc, sa faune et sa flore. Les chambres sont très grandes et le restaurant est correct.
 
 to-see: |
-  Visité en septembre 2019.
+  En septembre 2019.
   {: .visited-in}
 
   **[Le parc de Tortuguero](https://fr.wikipedia.org/wiki/Parc_national_de_Tortuguero){: target="_blank"}** pour assister à la ponte des tortues et observer les oiseaux, hérons, vautours, caïmans et singes sur les canaux du parc.
 
-  Visité en mars 2006.
+  En mars 2006.
   {: .visited-in}
 
   Le volcan **[Arenal](https://fr.wikipedia.org/wiki/Arenal_(volcan)){: target="_blank"}** en activité&nbsp;; la forêt humide de **Monte Verde** et sa forêt primaire&nbsp;; les plantations de café, la savane et les baobabs sur la route pour rejoindre **Rincon de la Vieja**&nbsp;; le paradis secret de **Drake bay** avec ces aras, paresseux, singes capucins, singes hurleurs et crocos.

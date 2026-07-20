@@ -41,14 +41,14 @@ country-desc-sections:
     Accessible en pirogues privées ou pirogues "ferry" au bout de 45 min, 1 heure.
 
 dive-shop: |
-  Visité en février 2026.
+  En février 2026.
   {: .visited-in}
 
   **[Magic Island <i class="fa fa-heart"></i>](https://magicisland.online/){: target="_blank"}** propose des formules tout compris avec 3 plongées par jour, une plongée de nuit sur demande et le reef house à disposition. Les guides ont l'œil pour débusquer du petit et les plongées sont vraiment cool. Les pirogues sont assez rudimentaires, nous partons en petites palanquées pour 2 plongées le matin, des fruits et du café nous attendent à l'intervalle de surface. Les sites sont à moins de 15 minutes. Le club organise une sortie plongée avec les requins baleines (10 m max) à Oslob.
 
   **[Thresher Shark Divers](https://malapascua-diving.com/){: target="_blank"}**, très gros club de plongée impersonnel. Les palanquées sont composées de 5 plongeurs maximum au petit bonheur la chance, les différents dive masters permutent les remontées afin de laisser profiter un maximum sous l'eau. Il y a plusieurs choix de sites par jour et il faut s'inscrire la veille, tout est en extra (parc marin, site de plongée, gasoil). Les 3 grandes pirogues sont assez confortables et ont des toilettes, ils ont deux petits bateaux rigides pour les plongées autour de l'île. On regrette qu'il n'y ait pas de snacks à l'intervalle de surface.
 
-  Visité en mai 2023.
+  En mai 2023.
   {: .visited-in}
 
   **[Tao Sangat dive resort <i class="fa fa-heart"></i>](https://sangat.com.ph/){: target="_blank"}**, le club est tenu par Tom un britannique plutôt flegmatique mais très attentionné et arrangeant. On peut plonger à la carte et les dive masters sont passionnés et souriants. Il n'y a rien à porter, notre matériel était nettoyé tous les jours. Le club est proche des épaves et aménage de bons horaires afin que nous soyons les seuls ou presque sur les sites.
@@ -56,7 +56,7 @@ dive-shop: |
   **[<i class="fa fa-ship"></i> Seadoors <i class="fa fa-heart"></i>](https://seadoors.net/){: target="_blank"}**, compagnie détenue par un français Pierre-Lo plongeur et photographe, que nous avons eu pendant la croisière. Le bateau possède plusieurs espaces à vivre pour 16 personnes, on y mange à chaque pause des plats variés et bons. Les dive masters Greg, Jeff et le directeur de croisière Axel sont très pro et sympathiques. L'itinéraire et les horaires de plongées sont calculés pour être le seul bateau sur le site&nbsp;: 4 plongées par jour sauf le premier et dernier jour. Deux palanquées de 8 qui partent en décalé, ce qui est un gros plus. L'équipage est au petit soin, serviettes en sortant, on n'a pas à s'occuper de notre matériel.
 
 accommodation: |
-  Visité en février 2026.
+  En février 2026.
   {: .visited-in}
 
   **[Magic Island](https://magicisland.online/){: target="_blank"}** sur l'île de Cebu, dans la province de Moalboal, c'est un beau dive resort à l'écart de la ville, calme et propre avec une petite capacité, des guests plutôt germanophones. La carte est variée, il y a beaucoup de poissons et des plats végétariens, la cuisine est goûteuse. Le resort propose des excursions ainsi que des massages de qualité.
@@ -65,7 +65,7 @@ accommodation: |
 
   **[Summit galleria à Cebu city](https://summithotels.ph/hotels/summit-galleria-cebu?utm_source=GBP&utm_medium=organic&utm_campaign=gbp-cebu){: target="_blank"}**
 
-  Visité en mai 2023.
+  En mai 2023.
   {: .visited-in}
 
   **[Tao Sangat dive resort](https://sangat.com.ph/){: target="_blank"}** sur l'île de Sangat, ils s'occupent du transfert depuis l'aéroport de Coron ou du port. Petit resort eco lodge, où la nourriture est excellente, les employés prévenants. La vue et le calme sont de mise.
@@ -77,7 +77,7 @@ accommodation: |
   **[Belmont Hotel](https://belmonthotelmanila.com){: target="_blank"}** permet de faire un bon transit sur Manille. Petit roof top et piscine bar au dernier étage. L'avantage est de pouvoir joindre depuis l'aéroport l'hôtel à pied en moins de 10 min.
 
 to-see: |
-  Visité en mai 2023.
+  En mai 2023.
   {: .visited-in}
 
   Notre itinéraire sur Palawan méritait un stop sur **[El Nido](https://fr.wikipedia.org/wiki/El_Nido){: target="_blank"}** bien que très touristique par rapport à Coron, les paysages et les tours A, B, C ou D (island hopping) sont de toutes beautés. Nous avons choisi les tours A et B, le B est relaxe et nous pose sur des îles paradisiaques peu fréquentées. Un petit tour de la ville mérite aussi le détour, entre les touktouk et la joyeuse agitation qui y règne.

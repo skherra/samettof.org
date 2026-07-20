@@ -31,7 +31,7 @@ country-desc-sections:
     Le parc national de **[Cabo Pulmo](https://fr.wikipedia.org/wiki/Parc_national_Cabo_Pulmo){: target="_blank"}** sur la mer de Cortés, lui aussi inscrit au patrimoine mondial de l'Unesco, est accessible par le petit village au bout d'une piste. On y vient pour le snorkeling ou la plongée. L'endroit est calme en basse saison et les pélicans sur la plage font le spectacle. Le parc est très réglementé et les sites de plongées sont fermés suivant un quota de fréquentation, les plongées ne durent que 45 à 50 minutes maximum. Nous avons eu la chance de tomber sur un petit club qui ne regardait pas l'horaire :) et sur la basse saison, les sites les plus réputés étaient ouverts. De belles rencontres dont des requins taureaux et des mérous goliaths. La visibilité n'était pas très bonne et l'eau assez froide, mais les plongées sont simples. Les fonds sableux sont au maximum à 25 mètres, de beaux récifs plein de vie et des bancs de carangues ou des mérous impressionnants. Nous avons pu voir un petit banc de mobulas très furtives sur la dernière plongée.
 
 dive-shop: |
-  Visité en avril 2024.
+  En avril 2024.
   {: .visited-in}
 
   **[<i class="fa fa-ship"></i> Nautilus Explorer <i class="fa fa-heart"></i>](https://www.nautilusexplorer.com/){: target="_blank"}** &nbsp;: Bateau d'une capacité de 18 personnes, confortable même si le lieu de vie à l'intérieur est un peu petit. Les cabines sont agréables avec de bons couchages. C'est l'orgie de nourriture, deux petits déjeuner, snacks&nbsp;... Accueillis avec du champagne, une soirée tacos, une soirée wine and cheese. Bref on ne meurt pas de faim. Beaucoup plonge côté équipage, et l'ambiance est très bonne. Les divemasters s'adaptent au niveau de la palanquée et ont à cœur de nous faire profiter un maximum. 4 plongées par jour au Nitrox, depuis des semi-rigides.
@@ -39,7 +39,7 @@ dive-shop: |
   **[Blue passion Baja <i class="fa fa-heart"></i>](https://www.bluepassionbaja.com/){: target="_blank"}**&nbsp;: Manuela est italienne et est installée à Cabo Pulmo, elle est super tranquille sous l'eau et au-dessus. Les capitaines sont expérimentées et repèrent les gros bancs de carangues pour nous faire profiter. Manuela n'a pas compté les minutes et nous a fait voir le best of des plongées à Cabo. 2 plongées possibles le matin ou l'après-midi.
 
 accommodation: |
-  Visité en avril 2024.
+  En avril 2024.
   {: .visited-in}
 
   **[Casa Bella Hotel](https://www.casabellahotel.com/){: target="_blank"}**&nbsp;: Très beau petit hôtel bien situé à côté de nombreux restaurants, possibilité de prendre la chambre dès 10h du matin et de la rendre vers 16h le soir s’il n'y a personne. Par contre, du bruit toute la nuit venant des bars et des clubs tout autour.
@@ -51,7 +51,7 @@ accommodation: |
   **[Hotel aeropuerto](https://www.hotelaeropuertoloscabos.com/){: target="_blank"}**&nbsp;: À 5 min de l'aéroport, (100 pesos en taxi). Les chambres sont spacieuses et calmes, le restaurant est correct. Parfait pour un transit après une longue journée de voyage. L'accueil et le service sont plutôt laborieux, il faut être patient.
 
 to-see: |
-  Visité en avril 2024.
+  En avril 2024.
   {: .visited-in}
 
   À fuir&nbsp;: Cabo San Lucas. L'ambiance spring breaks est détestable.
@@ -62,7 +62,7 @@ to-see: |
 
   Allez surfer sur la plage de **Los Cerritos**.
 
-  Visité en décembre 2010.
+  En décembre 2010.
   {: .visited-in}
 
   Nager avec les otaries sur **Esperitu Santo** même si très touristique, cela reste une très belle expérience, puis remonter la côte de la Paz à Mulegé en passant par **Loretto**, de jolis villages, de très belles églises du XVI ème, des baies à couper le souffle. Un très beau roadtrip entre mer et désert, ne pas rater les gravures rupestres dans la **Sierra de Guadalupe**.

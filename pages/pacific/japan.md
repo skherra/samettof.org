@@ -29,7 +29,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici les cartes et description des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](  https://www.reefencounters.org/dive-sites.html){: target="_blank"}
 
 dive-shop: |
-  Visité en mai 2014.
+  En mai 2014.
   {: .visited-in}
 
   Okinawa&nbsp;:  **[Reef encounters ](http://www.reefencounters.org/){: target="_blank"}**situé dans le quartier de Chatan. Tenu par un ancien marine, il était le seul a proposer des plongées sur les Kerama pour les personnes ne parlant pas Japonais. Uniquement plongée dérivante avec entrée négative pour la plupart des sites. Petit bateau, staff très pro et encadrant. 3 plongées par jour.
@@ -39,7 +39,7 @@ dive-shop: |
   Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais ; nous avons apprécié les briefings dessinés et l'encadrement d'Atsuko.
 
 accommodation: |
-  Visité en mai 2014.
+  En mai 2014.
   {: .visited-in}
 
   Dans le Kyushu&nbsp;: **[Ryokojin Sanso](https://ryokojin.com/){: target="_blank"}**, un superbe hôtel avec vue sur le Volcan de Kagoshima et des onsens privatifs plus beaux les uns que les autres dans une forêt fréquentées par de nombreux cerfs. <br/>**[Ryokan Sanga](https://www.sanga-ryokan.com/en/){: target="_blank"}**, dans une magnifique vallée, avec de beaux onsens privatisables et une bonne cuisine.

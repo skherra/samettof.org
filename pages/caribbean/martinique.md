@@ -23,7 +23,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} le best of&nbsp;: **Le diamant**&nbsp;
 
 dive-shop: |
-  Visité en décembre 2017.
+  En décembre 2017.
   {: .visited-in}
 
   **[Espace Plongée Martinique <i class="fa fa-heart"></i>](https://www.espaceplongee-martinique.com/){: target="_blank"}**, qui a repris la gestion de l'ancien Planète bleue (visité en avril 2005) à la pointe du bout aux 3 ilets.
@@ -33,7 +33,7 @@ dive-shop: |
   Il y règne une bonne humeur et les guides sont de bons conseils.
 
 accommodation: |
-  Visité en décembre 2017.
+  En décembre 2017.
   {: .visited-in}
 
   Prendre une location près des trois îlets pour la plongée et une voiture pour faire le tour de l'île. Nous avions apprécié la **villa Anqhub** pour la discrétion et la gentillesse des hôtes et sa situation sur la pointe du bout.

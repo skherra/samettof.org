@@ -29,7 +29,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles en Islande, surement non exhaustif&nbsp;: [<i class="fa fa-map"></i>](https://www.dive.is/dive-sites){: target="_blank"}
 
 dive-shop: |
-  Visité en mars 2019.
+  En mars 2019.
   {: .visited-in}
 
    **[Dive IS <i class="fa fa-heart"></i>](http://www.dive.is/){: target="_blank"}** propose plusieurs packages de deux plongées le matin. En les contactant directement ils peuvent proposer certains packages sur mesure.
@@ -39,7 +39,7 @@ dive-shop: |
   Les dive masters viennent du monde entier et sont très sympas. Le service est digne d'un 5 étoiles (même si les conditions de change, à l'arrière du camion sur un parking, peuvent être éprouvantes par temps glacial).
 
 accommodation: |
-  Visité en mars 2019.
+  En mars 2019.
   {: .visited-in}
 
   Il y a différents types d'hébergements à Reykjavik, le centre est petit, il faut juste prévoir une location d'appartement, une guest house ou un hôtel assez près d'un arrêt de bus pour les excursions.
@@ -47,7 +47,7 @@ accommodation: |
   Nous avons apprécié de loger dans le petit appartement très fonctionnel d'**Hreidar**.
 
 to-see: |
-  Visité en mars 2019.
+  En mars 2019.
   {: .visited-in}
 
   Reykjavik est une petite bourgade dont on fait le tour rapidement mais qui propose quelques attractions intéressantes&nbsp;:

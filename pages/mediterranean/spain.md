@@ -23,19 +23,19 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Tasco petit**&nbsp;; **La Vaca**&nbsp;; **El Dolfi**.
 
 dive-shop: |
-  Visité en juin 2005 et juin 2025.
+  En juin 2005 et juin 2025.
   {: .visited-in}
 
   **[ Unisub ](https://www.unisub.es/fr){: target="_blank"}**, club ayant pignon sur rue, nous l'avons préféré pour sa facilité à réserver, ses horaires (2 plongées matin et après-midi dont 2 sur Medes) et son bateau spacieux. Ils en ont un immense (20 personnes et plus), confortable avec WC, et un plus petit pour une dizaine de personnes. Il est possible de laisser ses affaires au club ou sur le gros bateau. Le bateau est à 10 min du club qui assure le transfert du matériel. Cela reste l'usine, si vous êtes autonomes débrouillez-vous ! Le briefing reste néanmoins clair et sympathique.
 
 accommodation: |
-  Visité en juin 2025.
+  En juin 2025.
   {: .visited-in}
 
   Le club de plongée propose un choix de logements, nous avons préféré louer un appartement au bout de la marina et proche du bateau de plongée. Il y a beaucoup de locations, nous étions au calme dans les appartements au bout de la route avec une superbe vue ...
 
 to-see: |
-  Visité en juin 2025.
+  En juin 2025.
   {: .visited-in}
 
   Estartit n'a plus rien de l'ancien village de pêcheurs, il y a quelques bons restaurants, une jolie plage et un chemin de randonnée à faire si la chaleur n'est pas accablante.

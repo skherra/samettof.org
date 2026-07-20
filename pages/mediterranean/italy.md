@@ -37,34 +37,34 @@ country-desc-sections:
     Accessible en ferry depuis Palerme, l'île est petite et tout peut se faire à pied, en vélo électrique ou en navette.
 
 dive-shop: |
-  Visité en septembre 2025.
+  En septembre 2025.
   {: .visited-in}
 
   **[ Blue Diving Ustica](https://www.bluedivingustica.it/fr/){: target="_blank"}**, club très sympathique qui gère les transferts, la location de logement. Il a deux semi rigides pour 12 plongeurs max, et offre des guides. 15 L pour tout le monde et des petits groupes par niveau permettent de profiter de plongées d'une heure. Nous avons plongé avec Davide et Paolo, très bon guides souriants parlant français, anglais. Pour l'intervalle de surface une petite collation thé et gâteaux est aussi offerte (assez rare en Europe pour le signaler). Le club part pour 2 plongées généralement le matin, mais rentre au port entre les deux.
 
-  Visité en septembre 2021.
+  En septembre 2021.
   {: .visited-in}
 
   **[ Nautilus Diving ](https://www.divesardegna.com/){: target="_blank"}** est un petit club à Palau, proche de l'archipel Magdalena et Lavezzi (à 50 minutes). Cette petite équipe prend soin de ses plongeurs avant et après plongées, sous l'eau ils sont très attentifs, mais pas très loquaces ce que nous avons regretté. <br/>Ils ont deux bateaux, un de taille moyenne couvert ce qui dans la région est appréciable qui peut accueillir 14 plongeurs et un semi rigide avec une capacité de 8 plongeurs. Les groupes sont répartis par niveaux. On part pour 2 plongées d'affilé le matin avec une limite de 60 minutes plus ou moins. Une plongée est possible l'après-midi. Plongées de type Padi (sans déco), Nitrox possible en supplément.
 
 accommodation: |
-  Visité en septembre 2025.
+  En septembre 2025.
   {: .visited-in}
 
   Le club de plongée nous a proposé un large choix de logements et a réservé pour nous. Nous avons beaucoup aimé **[ Cleia vue mer <i class="fa fa-heart"></i>](https://www.bbcasacleliaustica.it/){: target="_blank"}**, tenu par un couple adorable&nbsp;: petite terrasse ombragée très agréable, bon petit déjeuner avec les confitures du jardin. Bien équipé et calme, ce logement est un peu excentré mais reste accessible du port.
 
-  Visité en septembre 2021.
+  En septembre 2021.
   {: .visited-in}
 
   Le club de plongée nous a proposé un choix de logements, nous avons posé nos valises près de la petite marina vechio à la sortie de Palau, une maison bien équipée au calme et avec une vue magique sur les îles.
 
 to-see: |
-  Visité en septembre 2025.
+  En septembre 2025.
   {: .visited-in}
 
   Toutes les randonnées sont à faire pour admirer les points de vue. Elles sont faciles et faisables sur une demi-journée. On peut observer les nombreux **[oiseaux](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}** de l'île tel le guêpier, le faucon, le petit aigle marin, ... <br>
 
-  Visité en septembre 2021.
+  En septembre 2021.
   {: .visited-in}
 
   Autour de **Palau**, petite station balnéaire sans grand intérêt, les jolies plages ou cales splendides. Poussez jusqu'à **la pointe de Sardaigne**, on y trouve sur la route, des criques, des lagunes ... <br/>Les sites archéologiques **[ Nuraghe](https://fr.wikipedia.org/wiki/Nuraghe){: target="_blank"}** autour d'Arzachena. <br/>Le village de Santa Teresa di Galiera. <br/>Un peu plus loin, **[Castelsardo](https://fr.wikipedia.org/wiki/Castelsardo){: target="_blank"}**, petit village médiéval très charmant.

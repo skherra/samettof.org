@@ -33,18 +33,18 @@ country-desc-sections:
     **Marsa Alam**, le plus au sud pour des départs depuis la côte, offre plus d'une vingtaine de sites de plongées&nbsp;: des baies à herbier où l'on croise de grosses tortues vertes et de très beaux récifs. Les fonds sont fabuleux, nous avons eu de très bonnes conditions malgré la fin de saison (hiver). Les sites sont riches et les coraux de toute beauté comme ceux que l'on retrouve en indo-pacifique. Les requins dont le longimanus sont présents sur les récifs en pleine eau mais plutôt discrets.
 
 dive-shop: |
-  Visités en décembre 2021.
+  En décembre 2021.
   {: .visited-in}
 
   **Oasis Diving Resort <i class="fa fa-heart"></i>**  propose des packages plongées, on choisit la veille le programme des plongées. Attention cependant tout se paie en Égypte, les plus belles plongées sont en extras, soit l'entrée sur la plage d'un resort (même fermé), soit l'entrée des parcs marins, soit un supplément bateau ou zodiac. <br />Il est possible de plonger depuis le reef house, mais nous n'avons pas eu le temps de le faire. <br />Le personnel de plongées, guides, équipe gérant le compresseur ou le matériel sont d'une grande efficacité et sont très sympathiques. Tous les guides sont instructeurs et peut-être un peu trop "formatés" et surprotecteurs, mais ont à cœur de faire profiter tous les niveaux. Les palanquées sont arrangées par niveau, 60 min maximum, les brieffings sont très clairs et les plongées en autonome sont possibles.
 
-  Visités en septembre 2022.
+  En septembre 2022.
   {: .visited-in}
 
   **[ Diving Attitude](https://divingattitude.com/){: target="_blank"}** possède à l'heure actuelle deux bateaux et propose plusieurs croisières. L'Exocet est un beau bateau récent d'une capacité de 25 personnes avec des cabines très grandes. Ils privilégient les plongeurs autonomes. Le Nitrox est inclus, il y a au maximum 3 plongées par jour. L'ambiance est bonne, mais nous avons regretté de plonger tous en même temps sur les mêmes sites. L'Exocet reste l'un des meilleurs bateaux de croisière que l'on ait fait au niveau du confort, de la propreté et de la nourriture.
 
 accommodation: |
-  Visités en décembre 2021.
+  En décembre 2021.
   {: .visited-in}
 
   Le **[Steigenberger Nile Palace](https://www.steigenberger.com/fr/hotels/tous-les-hotels/egypte/luxor/steigenberger-nile-palace){: target="_blank"}** (à Luxor) est l'ex Méridien. Très grand complexe hôtelier, avec une très belle vue sur la vallée des rois, il propose plusieurs restaurants et un accueil chaleureux.
@@ -52,7 +52,7 @@ accommodation: |
   **[ Oasis Diving Resort](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/){: target="_blank"}** (au nord de Marsa Alam) propose des petits bungalows très agréables. Ceux face à la mer ont une vue époustouflante notamment au lever de soleil. L'endroit est très calme et dédié aux plongeurs (principalement germanophones). Le resort offre des packages avec la demi-pension, la cuisine est variée et très correcte. Le seul bémol est qu'il faille acheter des bouteilles d'eau en plastique tous les jours, alors que ce pays souffre de la pollution et des décharges sauvages, nous avons trouvé que ce n'était pas très approprié.
 
 to-see: |
-  Visités en décembre 2021.
+  En décembre 2021.
   {: .visited-in}
 
   L'Égypte regorge de sites somptueux autour de la vallée du Nil, il faudrait un voyage dédié pour tout voir. Il est possible de se débrouiller tout seul pour les visites, mais les services d'un guide et d'un chauffeur sont fortement conseillés pour apprécier au mieux.

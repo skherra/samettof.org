@@ -23,7 +23,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte de la croisière plongée que nous avons faite&nbsp;: [<i class="fa fa-map"></i>](/docs/maldives-itinerary.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en décembre 2015.
+  En décembre 2015.
   {: .visited-in}
 
   Croisière plongée **[<i class="fa fa-ship"></i> Aggressor 1 ](http://www.aggressor.com/maldives.php){: target="_blank"}**depuis Malé&nbsp;: 5 jours de "eat sleep and dive" avec 4 plongées par jour au nitrox dont des plongées de nuit. <br>Vieux bateau à voile pas très confortable mais l'équipage est aux petits soins. (Le groupe a changé d'itinéraire et de bateau en 2017) <br>Les plongées exclusivement dérivantes se pratiquent depuis le dhoni avec des dive-masters passionnés. (16 Guests max)

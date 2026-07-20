@@ -25,13 +25,13 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici une carte de notre itinéraire&nbsp;: le best of **Darwin Arch, Anchrorage,**  et **Cabo Douglas** [<i class="fa fa-map"></i>](/docs/galapagos-map.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en mai 2018.
+  En mai 2018.
   {: .visited-in}
 
   **[<i class="fa fa-ship"></i> Aggressor 3 <i class="fa fa-heart"></i>](http://www.aggressor.com/galapagos.php){: target="_blank"}** d'une capacité de 16 personnes, propose un excellent service et 2 divemasters passionnés. Le bateau, très confortable, part de Baltra et proprose 4 plongées par jour. Les plongées sont exclusivement dérivantes depuis un zodiak.
 
 accommodation: |
-  Visité en mai 2018.
+  En mai 2018.
   {: .visited-in}
 
   À Guayalquil&nbsp;: **[Ramada Hotel](https://www.hotelramada.com/){: target="_blank"}** pour un transit à Guayalquil, correct et très bien situé en face du Malecon.

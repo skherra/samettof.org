@@ -42,41 +42,41 @@ country-desc-sections:
     Depuis Bali nous avons pris un speed boat pour **Nusa Penida** depuis Sanure. Il faut compter 35 minutes. Sur la plage, tous les touristes attendent pour prendre le bateau. Les plongées sont sympathiques et si on est patients on pourra voir des Molas Molas et des Mantas.
 
 dive-shop: |
-  Visité en janvier 2025 et septembre 2017.
+  En janvier 2025 et septembre 2017.
   {: .visited-in}
 
   Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit). <br />Très beau bateau et excellent service pour 8 passagers maximum (2 palanquées de 4). Suivant les guides de plongées, on apprécie le petit comme le gros.
 
-  Visité en janvier 2025.
+  En janvier 2025.
   {: .visited-in}
 
   Resort plongée **[Papoua Paradise](https://www.papuaparadise.com/fr/){: target="_blank"}**, tenu par des européens, les bungalows sont un peu vétustes mais les repas, le service et les dive masters sont excellents. Une pause douce sur l'île d'Arefi sur Central Raja Ouest. Il y a cependant beaucoup de déchets ramenés par les courants et les marées, mais on peut voir des bancs de perroquets à bosse, des raies, des requins et beaucoup d'oiseaux, sans quitter son transat. Ils proposent 3 plongées par jour plus une plongée de nuit et avec des speeds boat, il est possible d'atteindre des sites de plongées plus lointains. Ils proposent aussi des excursions terrestres pour les non plongeurs.
 
-  Visité en septembre 2017.
+  En septembre 2017.
   {: .visited-in}
 
   **[Nico Dives Cool](https://nicodivescoolbali.com/){: target="_blank"}**, club francophone à Bali, très bon contact par mail. Guide cool et zen malgré l'effervescence des bateaux sur Nusa Penida.
 
 accommodation: |
-  Visité en janvier 2025.
+  En janvier 2025.
   {: .visited-in}
 
   **[Swiss Bellhotel](https://www.swiss-belhotel.com/en-gb/swiss-belhotel-sorong){: target="_blank"}**, à Sorong, hôtel confortable et accueillant.
 
-  Visité en septembre 2017.
+  En septembre 2017.
   {: .visited-in}
 
   **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, dans le nord de Sanure, dans un jardin luxuriant. <br>Belle adresse proposant de grandes chambres avec terrasse. Ils s'occupent de tout sur place&nbsp;: massage, excursions et même de commander à diner !
 
 to-see: |
-  Visité en février 2025.
+  En février 2025.
   {: .visited-in}
 
   Un treck rapide et simple sur l'île de Waigeo pour voir la célèbre vue de Raja Ampat, mais il y a plus ardu et beaucoup plus splendide et secret sur la baie de Wayag (Nord Raja Ampat).
 
   Sur la petite île privée de Wai (Central Raja Ampat), entre deux plongées il est possible d'observer des **[Couscous](https://fr.wikipedia.org/wiki/Couscous_(animal)){: target="_blank"}** et de belles chauves-souris fructivores.
 
-  Visité en septembre 2017.
+  En septembre 2017.
   {: .visited-in}
 
   Les **[dragons](https://fr.wikipedia.org/wiki/Dragon_de_Komodo){: target="_blank"}** sur l'île de Rinca ou sur l'île de Komodo.

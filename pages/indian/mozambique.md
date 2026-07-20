@@ -25,13 +25,13 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des sites de plongées, le best of **Pinacles**&nbsp;: [<i class="fa fa-map"></i>](/docs/mozambique-ponta-reefs-map.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   **[Scuba Addicts <i class="fa fa-heart"></i>](http://www.scubaaddicts.com/){: target="_blank"}** propose plusieurs packages Afrique du Sud et Mozambique. Sur Ponta 2 à 3 plongées dans la journée. <br/>Grand zodiaque, le skipper et le guide connaissent très bien les sites et la mer, et offrent des plongées en toute sécurité, par contre les plongées ne sont pas toujours possibles en fonction du temps. <br/>Nous avons nettement préféré l'équipe du Mozambique.
 
 accommodation: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   Le lodge de **[Scuba Addicts](https://www.scubaaddicts.com/scuba-diving-mozambique.html){: target="_blank"}** offre une immense terrasse, 2 petites piscines, et un beau lieu de vie avec vue sur la mer. Le club de plongée est dans le lodge. <br/>L'air conditionné est un plus contre les moustiques et la chaleur. Le lodge propose une restauration légère sur place et il y a plusieurs restaurants dans le village de Ponta do Oro en fonction de la saison. <br/>Les hôtes vivent au lodge ce qui rend l'accueil plus chaleureux.

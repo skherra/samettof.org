@@ -27,7 +27,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des parcs marins du Sud et Sud Est d'Afrique du Sud : [<i class="fa fa-map"></i>](/docs/south-africa-map.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
@@ -35,7 +35,7 @@ dive-shop: |
   Grand zodiaque, le skipper et le guide vivent et plongent depuis plus de vingt ans à Umkomass mais la mer et le temps sont capricieux sur ce bout de côte, la visibilité et la température peuvent chuter drastiquement.
 
 accommodation: |
-  Visité en février 2018.
+  En février 2018.
   {: .visited-in}
 
   Le lodge de **[Scuba Addicts](https://www.scubaaddicts.com/scuba-diving-south-africa.html){: target="_blank"}** est très spacieux et confortable. Toutes les chambres donnent sur la mer, il y a une petite piscine et le club de plongée est dans le lodge.

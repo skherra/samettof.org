@@ -25,7 +25,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Nous avons plongé autour des nombreux îlots sur la côte est&nbsp;: le sec **Sete Pedras, le canyon et les grottes de Santana**, des épaves Do Arroz, Pico Douro, Mikao et au nord le merveilleux **Lagoa Azul**.
 
 dive-shop: |
-  Visité en mai 2019.
+  En mai 2019.
   {: .visited-in}
 
    **[Atlantic Diving Center](https://www.atlanticdivingcenter.com/fr/index.html){: target="_blank"}** situé dans le club Santana&nbsp;: il faut prévoir une voiture pour y accéder ou résider au club. Alberto nous a concocté notre semaine aux petits oignons équilibrant les plongées. Les plongées sont de type dérivante, les sites les plus loin du club sont à 40 min de Bateau (Pedras). Ils proposent 2 sorties par jour.
@@ -35,7 +35,7 @@ dive-shop: |
   Alberto et l'autre divemaster parlent bien français et sont très professionnels.
 
 accommodation: |
-  Visité en mai 2019.
+  En mai 2019.
   {: .visited-in}
 
   **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**&nbsp;: dispose d'un club de plongée évitant ainsi les coûts et les temps de transferts. Le club est luxueux et confortable avec la piscine à l'eau de mer et le jacuzzi devant la baie. À noter que les prix sont 5 fois plus chers que sur le reste de l'île. Il y a une animation un soir par semaine le samedi excellent BBQ sur le bar de la plage, ce qui fait que le reste du temps c'est calme <i class="fa fa-smile-o"></i>. Nous ne pouvons que conseiller d'aller loger ailleurs sur l'île pour voir le vrai São Tomé.
@@ -43,7 +43,7 @@ accommodation: |
   **Casa Tiago** **<i class="fa fa-heart"></i>**{: .accent-color} dans le beau petit village de Belém à quelques minutes de Trinidade, dans la "jungle" est une petite maison traditionnelle en bois très confortable et bien équipée. Arcadio son propriétaire ainsi que celui de la Casa Ediana est un hôte accueillant qui a à cœur de faire découvrir son île hors des sentiers battus et proche de la population locale.
 
 to-see: |
-  Visité en mai 2019.
+  En mai 2019.
   {: .visited-in}
 
   São Tomé City&nbsp;: Déguster le chocolat du passionné **[ Claudio Corallo](https://claudiocorallo.com/index.php?lang=fr&Itemid=1322){: target="_blank"}** et visiter  **Cacau**, la galerie d'art contemporain des artistes locaux.

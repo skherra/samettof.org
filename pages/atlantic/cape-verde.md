@@ -23,19 +23,19 @@ country-desc: |
   Le départ des plongées se fait près du club nautique de Mindelo, il y a peu de touristes plongeurs et un seul club sur Sao Vicente, au maximum nous étions 8 sous l'eau.
 
 dive-shop: |
-  Visité en septembre 2016.
+  En septembre 2016.
   {: .visited-in}
 
   Sur Mindelo, un seul club de plongée difficile à trouver : **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.<br /> Il est possible de faire 2 à 3 plongées par jour matin et après-midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
 
 accommodation: |
-  Visité en septembre 2016.
+  En septembre 2016.
   {: .visited-in}
 
   **[Kira's boutique hôtel](http://www.kirashotel.com/){: target="_blank"}**, à quelque minutes du centre ville, calme, propre et accueillant. Petit déjeuner gargantuesque avec des spécialités locales. De plus cet hôtel dispose d'une terrasse accueillante et d'un roof top pour les soirées. Il est possible avec une carte de faire un plouf dans l'hotel voisin.
 
 to-see: |
-  Visité en septembre 2016.
+  En septembre 2016.
   {: .visited-in}
 
   Les concerts de musique en peu partout dans **[Mindelo](https://fr.wikipedia.org/wiki/Mindelo){: target="_blank"}**.<br /> Grimper sur le toit de Sao Vicente **[le Monte Verde](https://fr.wikipedia.org/wiki/Monte_Verde_(Cap-Vert)){: target="_blank"}**.<br /> Randonnées sur l'île de **[Santo Antao](https://fr.wikipedia.org/wiki/Santo_Ant%C3%A3o_(Cap-Vert)){: target="_blank"}**.

@@ -38,7 +38,7 @@ country-desc-sections:
     Nous n'avons fait que deux plongées aux **[Marquises](https://fr.wikipedia.org/wiki/%C3%8Eles_Marquises){: target="_blank"}** du fait du manque d'infrastructures. La mer est agitée et les plongées sont un peu challengeantes&nbsp;: mauvaise visibilité et houle à 15 mètres possible. On y vient surtout pour les belles mantas de récif assez nombreuses et les gros pélagiques, requins soyeux, bordés ou marteaux notamment. <br/> Il n'y a qu'un seul club de plongée sur toutes les Marquises à **[Hiva Oa](https://fr.wikipedia.org/wiki/Hiva_Oa){: target="_blank"}**  et une croisière plongée propose les Marquises. <br/>Il est cependant possible de louer des blocs et de partir en autonome sur **[Nuku Hiva](https://fr.wikipedia.org/wiki/Nuku_Hiva){: target="_blank"}**. <br/>Le Fenua Enata ("La terre des hommes") fait la part belle aux randonnées et aux décors splendides, elles regorgent de sites archéologiques.
 
 dive-shop: |
-  Visités en juillet-août-septembre 2020.
+  En juillet-août-septembre 2020.
   {: .visited-in}
 
   **Fakarava**&nbsp;: <br/>**[<i class="fa fa-ship"></i> Croisière Aquatiki <i class="fa fa-heart"></i>](http://www.aquapolynesie.com/){: target="_blank"}** Waouh&nbsp;... (déjà visité en 2017)  Beau catamaran d'une capacité maximum de 8 guests, nous n'étions à chaque fois que 5 plongeurs. L'équipage (skipper, directeur de plongée, cuisto-hôtesse) aime la mer et la plongée. Itinéraire&nbsp;: Faka nord et sud, Kauehi, Toau (en 2017&nbsp;: Faka Sud et Nord, Apataki, Toau) avec 2 plongées par jour avec déco selon le niveau de la palanquée. <br/>**[Kaina plongée <i class="fa fa-heart"></i>](http://www.kainaplongee.com/){: target="_blank"}**, petite structure très sympathique animée par Loïc et Jean-Charles des plongeurs passionnés et le skipper Mana qui joue du ukulélé en nous attendant.
@@ -51,7 +51,7 @@ dive-shop: |
 
   **Hiva Oa**&nbsp;: **[Marquises diving](https://www.marquisesdiving.com/fr/){: target="_blank"}**, petit club tenu par Humu (attention en septembre 2020 Humu avait perdu son moniteur de plongée). Il n'y a pas de diveshop mais le beau bateau neuf, d'une capacité de 12 personnes, est confortable. Il n'y a qu'un pilote et un divemaster (Humu). Le divemaster est plus un bon guide d'excursion qu'un patron de club. La sécurité est un peu inexistante. Les plongées sont plus chères qu'ailleurs.
 
-  Visités en mai 2017.
+  En mai 2017.
   {: .visited-in}
 
   **Manihi**&nbsp;: **[Blue Way <i class="fa fa-heart"></i>](http://www.blueway-manihi.com/){: target="_blank"}**&nbsp;: Club familial, Bernard et Martine ont partagé avec nous leur passion, de bons moments sous l'eau et à l'apéro ! Ils sont attentionnés, le bateau est confortable, 2 plongées par jour le matin.
@@ -63,7 +63,7 @@ dive-shop: |
 accommodation: |
   Préférez les pensions familiales, elles sont de loin les plus authentiques.
 
-  Visités en juillet-août-septembre 2020.
+  En juillet-août-septembre 2020.
   {: .visited-in}
 
   À **Papetee** (Tahiti)&nbsp;: **[Faré d'Hôtes Tutehau](https://www.faredhotestutehau.com/){: target="_blank"}**, chez Martine, espaces communs très sympathiques et frais, à 15 min du centre ville, possibilité de préparer à manger sur place, sans oublier les mangues du jardin en saison au petit déjeuner.
@@ -82,7 +82,7 @@ accommodation: |
 
   À **Hiva Oa**&nbsp;: **[Chalets Hanakee](http://chaletshanakee.com/){: target="_blank"}**, superbe vue sur les baies et l'îlot Hanakee, les chalets sont beaux et fonctionnels, les enfants de l'hôte sont attentifs, serviables et très gentils. Les chalets sont très excentrés du village.
 
-  Visités en mai 2017.
+  En mai 2017.
   {: .visited-in}
 
   À **Tikehau**&nbsp;: **Coconut beach**, chez Jean-Louis, à l'extérieur du village. Une mention spéciale pour la gentillesse et ses petits plats, une superbe vue sur le lagon.
@@ -92,7 +92,7 @@ accommodation: |
   À **Huahine**&nbsp;: **[Lapita Maitai](http://www.huahine.hotelmaitai.com/){: target="_blank"}**&nbsp;: Magnifique hôtel, à l'entrée du village.
 
 to-see: |
-  Visités en juillet-août-septembre 2020.
+  En juillet-août-septembre 2020.
   {: .visited-in}
 
   À **Tahiti**&nbsp;: Partir une journée sur la route de la traversée en **[4x4 avec un guide](http://www.tahiti-safari.com/){: target="_blank"}**. Eric raconte et nous conte la Polynésie comme il la vit. Les paysages sont grandioses. <br/>S'initier aux joies du surf ou paddle à Papara ou Papeno et aller au belvédère de Tahiti Iti.
@@ -107,7 +107,7 @@ to-see: |
 
   À **Hiva Oa**&nbsp;: De belles excursions sont possibles comme les Tiki géants, le tiki souriant et des superbes vues du nord et de l'est d'Hiva Oa.
 
-  Visités en mai 2017.
+  En mai 2017.
   {: .visited-in}
 
   Dans **les Tuamotus**, entre deux plongées, on a vite fait le tour des îles ou motus, alors profitez des balades sur les plages pour taquiner les requins pointes noires et admirer les couchers de soleil.

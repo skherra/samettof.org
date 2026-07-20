@@ -33,7 +33,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Yap, le best of&nbsp;: **Manta road, Palakir rendez-vous, Pehleng corner**&nbsp;: [<i class="fa fa-map"></i>](http://www.pohnpei-adventure.com/scuba/){: target="_blank"}.
 
 dive-shop: |
-  Visité en février-Mars 2020.
+  En février-Mars 2020.
   {: .visited-in}
 
   Chuuk&nbsp;: Le **[Blue Lagoon Dive Shop](https://www.trukbluelagoonresort.com/diveshop){: target="_blank"}** est situé dans le Blue Lagoon Resort, en travaux quand nous y étions. <br/>Pas de toilettes, ni de douches, les bateaux en bois avec toit couvrant ne sont pas confortables mais on retourne au club entre chaque plongée ou faisons une pause sur une petite île. Les sites sont à 25 min maximum. <br/>Une épave différente est proposée à chaque fois, plongée sans déco de 45 à 50 minutes, on va dire que c'est service minimum.
@@ -43,7 +43,7 @@ dive-shop: |
   **[Pohnpei Surf Club](http://pohnpeisurfclub.com/dive){: target="_blank"}** est situé dans le Mangrove Bay Resort. C'est l'unique club sur Pohnpei. <br/>Le responsable organise les plongées en fonction de la marée. Deux bateaux pour 7 guests maximum. <br/>Pendant l'intervalle de surface fruits du jardin et un cake à la banane à tomber.
 
 accommodation: |
-  Visité en février-Mars 2020.
+  En février-Mars 2020.
   {: .visited-in}
 
   **[Blue Lagoon Resort](https://www.trukbluelagoonresort.com/){: target="_blank"}** est situé dans un très bel endroit au sud de l'île de Weno. Le resort est dans son jus ce qui est dommage vu le potentiel. Le personnel est froid.

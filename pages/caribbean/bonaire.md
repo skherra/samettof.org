@@ -29,19 +29,19 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Morgate Bay**, **Tori's reef**, **The Lake**, **Calabas**.
 
 dive-shop: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
   **[Tropical divers](https://www.tropicaldiversbonaire.com/){: target="_blank"}**&nbsp;: Club familial, fait un package bungalow, voiture et bouteilles. Attentionnés et avec le sourire, ils proposent des fois des plongées en extras. Il y a suffisamment de bouteilles pour repasser entre deux sans attendre. Il est possible de plonger hors des horaires d'ouverture du club. Le club dispose d'un endroit assez grand pour y laisser sécher son matos. Il n'y a pas de vols dans les voitures, mais il est préférable de prendre une cloche pour y entreposer de l'argent et ses clefs.
 
 accommodation: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
   **[Tropical diver resort](https://www.tropicaldiversbonaire.com/){: target="_blank"}** à côté de l'aéroport, bien situés pour rayonner au nord comme au sud. Il y a des chambres et des appartements, ces derniers sont plus grands, relativement bien équipés et plus distants les uns des autres. La climatisation et la moustiquaire dans la chambre ne sont pas du luxe. Il y a, à quelques minutes en voiture, un grand super marché très bien achalandé.
 
 to-see: |
-  Visité en mars et décembre 2022.
+  En mars et décembre 2022.
   {: .visited-in}
 
   On y vient pour plonger mais faire le tour de l'île vaut le coup. L'île est petite, nous avons apprécié le sud, les marais salants et ses flamands roses, les ânes déambulant, les pélicans et les iguanes. L'île est plutôt désertique, malgré le vent, le soleil tape et il fait chaud.

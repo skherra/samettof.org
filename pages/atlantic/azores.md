@@ -23,7 +23,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} le best of&nbsp;: **Dori, Mirror, Formigas, Gruta Azul, Ambrosio**&nbsp;
 
 dive-shop: |
-  Visité en juillet 2024.
+  En juillet 2024.
   {: .visited-in}
 
   Excellent club, **[Best spot Azores <i class="fa fa-heart"></i>](https://fr.bestspotazores.com/){: target="_blank"}** propose des petites palanquées 4-5 plongeurs maximum en fonction des niveaux sur 2 bateaux semi-rigides. Ultra bien organisés, les dive masters sont très sympathiques et attentifs à leurs plongeurs au club et sous l'eau. On y plonge pour deux plongées le matin avec retour à la marina entre deux avec thé, café et biscuits et une shallow l'après-midi. Les plongées sont à 10-20 min de Ponta Delgada. On n'a rien à porter ou presque. Le Nitrox est possible en supplément cependant tout le monde plonge à l'air. Le club propose des plongées offshores, il faut cependant un groupe de 8 personnes.
@@ -31,13 +31,13 @@ dive-shop: |
    **[Water and Wind <i class="fa fa-ship"></i> <i class="fa fa-heart"></i>](https://www.waterandwind.eu/water-and-wind-diving-and-sailing-liveaboards-and-charters---azores-islands---fr.html#sobre){: target="_blank"}**, situé à la marina Vila Franca do Campo et affilié au club Espirito Azul, propose des croisières plongées. Grand catamaran très bien aménagé pour 8 guests, chacun y trouve sa place et les cabines ont de grands lits. L'équipage change semaine après semaine. Nous avons eu la chance d'avoir Claudia comme dive instructeur. Passionnés par la mer, l'équipage a à cœur de faire profiter tout le monde. L'itinéraire n'est pas fixe, ils n'hésitent pas à faire des détours pour chercher des bancs d'oiseaux ou de pélagiques. Les bons petits plats locaux et les desserts de Wouri, le chef cuisinier, viennent réchauffer les corps. Nous avons effectué trois plongées par jour depuis le catamaran.
 
 accommodation: |
-  Visité en juillet 2024.
+  En juillet 2024.
   {: .visited-in}
 
   Il y a différents types d'hébergements sur Sao Miguel. Nous avons trouvé des locations à Sao Roque proche de Ponta Delgada et à Vila Franca do Campo, chez <**Maria** notre coup de cœur pour la vue imprenable et sa gentillesse. Une voiture reste obligatoire car il n'y a pas de transports en commun pratiques.
 
 to-see: |
-  Visité en juillet 2024.
+  En juillet 2024.
   {: .visited-in}
 
   São Miguel est surnommée l'île verte, on y plonge, on peut pratiquer la randonnée et faire du surf.

@@ -25,13 +25,13 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles, distribué par l'office du tourisme : [<i class="fa fa-file-pdf-o"></i>](/docs/lanzarote-guia-ideal.pdf){: target="_blank"}.
 
 dive-shop: |
-  Visité en septembre 2014.
+  En septembre 2014.
   {: .visited-in}
 
   Nous aurions recommandé le super club francophone **Big Blue Sea <i class="fa fa-heart"></i>** tenu par Valérie Errens et sa compagne au centre de Santa Rosa mais le club a changé de propriétaire à l'été 2016.
 
 accommodation: |
-  Visité en septembre 2014.
+  En septembre 2014.
   {: .visited-in}
 
   Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina, ...

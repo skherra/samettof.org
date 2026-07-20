@@ -23,7 +23,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici le descriptif des plongées autour de Mesali&nbsp;: [<i class="fa fa-map"></i>](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}.
 
 dive-shop: |
-  Visité en septembre 2015.
+  En septembre 2015.
   {: .visited-in}
 
    **[Dive 170 ](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}** dans le Fundun Lagoon&nbsp;: le club de plongée est professionnel. Sortie sur l'île de Misali à la journée, 2 plongées. Les pique-niques sont tout simplement géants !

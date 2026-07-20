@@ -25,7 +25,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Depuis Playa del Carmen, le best of **El Pit**.
 
 dive-shop: |
-  Visité en décembre 2016.
+  En décembre 2016.
   {: .visited-in}
 
   **[Phocéa Cozumel et Playa <i class="fa fa-heart"></i>](http://mexique-plongee.fr/){: target="_blank"}**  est un très gros club, il offre plusieurs services dont le pick-up à l'aéroport de Cancun et des packages intéressants&nbsp;: Cozumel et/ou Cénotes. L'accueil un peu impersonnel est vite oublié car sous l'eau, les guides sont passionnés et soucieux de l'environnement (brieff sur les crèmes solaires et la fragilité des coraux).
@@ -33,7 +33,7 @@ dive-shop: |
   Il est possible de faire 2 plongées par jour et une plongée de nuit sur demande. Seul bémol&nbsp;: beaucoup de monde et palanquée de tous niveaux y compris grands débutants avec des niveaux 2 et plus. <br/>Le Club a fermé sur Cozumel vers 2019.
 
 accommodation: |
-  Visité en décembre 2016.
+  En décembre 2016.
   {: .visited-in}
 
   Afin d'éviter le ferry tous les matins, il est mieux de loger sur **Cozumel**{: .accent-color}. Nous n'avions pas apprécié l'hôtel attenant au club de plongée, ([Villa blanca](https://villablanca.net/){: target="_blank"}, vieillot et non entretenu, cher rapport qualité prix, surtout que le bar et le restaurant sont inexistants). Nous prenions d'excellents petits déjeuners au blue Angel à quelques pas.

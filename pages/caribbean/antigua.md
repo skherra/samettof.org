@@ -23,19 +23,19 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Nanton point**, **Rob's reef**, **Pillars of Hercule**.
 
 dive-shop: |
-  Visité en mai 2026.
+  En mai 2026.
   {: .visited-in}
 
   **[Dive Carib <i class="fa fa-heart"></i>](https://www.divecarib.com/){: target="_blank"}**&nbsp;: club tenu par Leigh avec Louis, deux britanniques très accueillants. Ils ont deux bateaux, un grand zodiac et un bateau sortant en pleine saison. Les sites sont à 15, 25 min du club. On sort pour deux plongées le matin, ils ont à cœur de faire à chaque fois des plongées différentes et de contenter tout le monde.
 
 accommodation: |
-  Visité en mai 2026.
+  En mai 2026.
   {: .visited-in}
 
   **[Energie](https://www.energieantigua.com/accommodation){: target="_blank"}**, propose des luxueux appartements assez bien équipés sur English Harbour, avec une magnifique vue face à la baie. Une belle salle de sport climatisée fait aussi le succès du lieu.
 
 to-see: |
-  Visité en mai 2026.
+  En mai 2026.
   {: .visited-in}
 
   Il y a plusieurs sites archéologiques dans l'île à visiter, des vieux forts et les moulins à sucre de **[Betty's Hope](https://sugarmills.blogs.bucknell.edu/bettys-hope/){: target="_blank"}**, Nelson’s dockyard et Fort Berkeley. <br/>  Grimper en haut du **[Fort Barrington](https://en.wikipedia.org/wiki/Fort_Barrington,_Antigua_and_Barbuda){: target="_blank"}** pour admirer la vue Mangrove et mer. <br />Admirer les pélicans, aigrettes, frégates, huitriers sur le **McKinnon's Salt Pond**, les alentours sont malheureusement pollués de déchets.

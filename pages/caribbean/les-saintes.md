@@ -23,7 +23,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color}Voici une carte et un descriptif des sites de plongées des Saintes&nbsp;: [<i class="fa fa-map"></i>](https://www.dive-bouteille.com/copie-de-description){: target="_blank"}.
 
 dive-shop: |
-  Visité en mars 2017.
+  En mars 2017.
   {: .visited-in}
 
   **[La dive bouteille <i class="fa fa-heart"></i>](http://www.dive-bouteille.com/){: target="_blank"}** &nbsp;: Laurence et Philippe sont un couple charmant, rigolo et passionné.

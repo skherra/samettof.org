@@ -25,7 +25,7 @@ country-desc: |
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici une carte des spots de plongée De Glover Reef : [<i class="fa fa-map"></i>](/docs/belize-glovers-atoll-dive-sites.webp){: target="_blank"}.
 
 dive-shop: |
-  Visité en mai 2015.
+  En mai 2015.
   {: .visited-in}
 
   Notre toute première croisière plongée avec **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](http://www.aggressor.com/belize.php){: target="_blank"}** depuis Belize city : 5 jours de "eat sleep and dive" avec 4 plongées par jour au nitrox et une plongée de nuit supplémentaire quand la météo le permet. <br>Le bateau est ultra confortable et tout l'équipage ou presque plonge. (20 Guests max / pour la grande majorité Américains).
@@ -33,7 +33,7 @@ dive-shop: |
   Sur Glover Reef : toutes les îles hôtels possèdent leur club de plongée. Nous avions plongé avec **[Isla Marisol resort](https://islamarisolresort.com/){: target="_blank"}**, les guides étaient bien, les fonds splendides mais leur seul bateau de plongée était en réfection quand nous y étions, nous avons dû nous accommoder d'un bateau non adapté (pas de repose bouteille, ni d'échelles ...), les plongées étaient dérivantes, on a déploré le manque de sécurité surface de la part du capitaine.
 
 accommodation: |
-  Visité en mai 2015.
+  En mai 2015.
   {: .visited-in}
 
   **[ Casa Blanca Guest House](http://www.casablancaguesthouse.com/){: target="_blank"}** à San Ignaco, charmante guest house, un pied à terre idéal pour la visite du pays Maya. Il est possible de réserver des tours avec de très bons guides locaux.

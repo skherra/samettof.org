@@ -39,14 +39,14 @@ country-desc-sections:
     Plonger au Cap d'Antibes dans les Alpes maritimes reste une expérience sympathique. L'eau est claire et chaude en été. Nous avons plongé sur le Cap à la Fourmigue (phare), nous avons croisé des petits barracudas, murènes et des poulpes.
 
 dive-shop: |
-  Visités en juillet, août 2023.
+  En juillet, août 2023.
   {: .visited-in}
 
   **Cap Antibes**&nbsp;: <br/>**[ Easy dive ](https://easydive.fr/){: target="_blank"}** sur le port, possède un grand bateau en aluminium. L'ambiance y est bonne, c'est relativement bien organisé. En été, il y a un monde fou, le club remplit son bateau au maximum de sa capacité et ce n'est guère agréable sur le bateau et dans l'eau. Le club fait une sortie par demi-journée. Les tarifs sont très chers, le club offre malgré tout une belle réduction parking si on pense à la demander au club.
 
   **La Londe**&nbsp;: <br/>**[ Aqualonde ](https://aqualonde-plongee.com/){: target="_blank"}** sur le port, possède un grand bateau confortable et un semi-rigide. Malgré le monde, l'ambiance est sympathique et les guides souriants. Le matériel est neuf et les combinaisons de 5 min ont été appréciées. Les tarifs sont plus chers que la moyenne en France, nous étions autonomes mais nous avons eu un guide.
 
-  Visités en mai-juin 2021.
+  En mai-juin 2021.
   {: .visited-in}
 
   **Cerbère**&nbsp;: <br/>**[ Plongée Cap Cerbère ](https://www.plongee-cap-cerbere.com/){: target="_blank"}** est un petit club très sympathique à quelques minutes à peine des sites et équipé d’un grand bateau avec ascenseur (du grand luxe). <br/>La réservation se fait facilement par email. Le club encourage les plongées autonomes. Les plongées encadrées sont automatiquement catégorisées niveau 1. Nous avons pu néanmoins faire une plongée à 40 mètres. Tous les moniteurs y compris le patron sont passionnés et très formateurs. L'espace extérieur et le parking sont appréciables.
@@ -56,12 +56,12 @@ dive-shop: |
 accommodation: |
   Nous avons à chaque fois loué un logement proche des clubs de plongées.
 
-  Visités en juillet 2023.
+  En juillet 2023.
   {: .visited-in}
 
   À **Soliès-Pont**, nous avons logé chez **Françoise et George**&nbsp;: un grand rez-de-chaussée avec jardin, très bien équipé et au calme. C'est un coin idéal pour sillonner la région en arrivant de Toulon.
 
-  Visités en mai-juin 2021.
+  En mai-juin 2021.
   {: .visited-in}
 
   À **Cerbère**, nous avons logé chez **Philip**&nbsp;: petite maison fonctionnelle au calme, vue sur la mer et petit jardin, à 5 min du village.
@@ -69,12 +69,12 @@ accommodation: |
   À **Marseille**, coup de cœur pour le logement <i class="fa fa-heart"></i> **"le petit Borely"** de Sylvie et Philippe dans le 8ᵉ arrondissement avec une belle terrasse.
 
 to-see: |
-  Visités en juillet 2023.
+  En juillet 2023.
   {: .visited-in}
 
   Le centre historique de **Hyères**, la presqu’île de Giens et les jolies plages notamment celle du Lavandou.
 
-  Visités en mai-juin 2021.
+  En mai-juin 2021.
   {: .visited-in}
 
   Autour de **Cerbère**, le joli village de **[Collioure](https://fr.wikipedia.org/wiki/Collioure){: target="_blank"}**, les Caps et les Anses de la réserve Cerbère-banyuls. <br/>Le petit musée de sculpture du **[ Maître cabestany](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany){: target="_blank"}** près de Perpignan et bien sûr **[Perpignan](https://fr.wikipedia.org/wiki/Perpignan){: target="_blank"}** avec le beau **[palais des rois de Majorque](https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque){: target="_blank"}**.
