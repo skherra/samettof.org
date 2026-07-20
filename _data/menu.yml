@@ -28,7 +28,7 @@
     - ref: seychelles
     - ref: tanzania
 - fr-label: Méditerranée
-  en-label: mediterranean
+  en-label: Mediterranean
   sublabels:
     - ref: spain
     - ref: france
