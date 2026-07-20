@@ -22,7 +22,7 @@ country-desc: |
 
   Le départ des plongées se fait de la plage Flamengo ou du deck de Puerto Calero. Les épaves sont accessibles à quelques minutes en bateau depuis Puerto Calero.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles, distribué par l'office du tourisme : [<i class="fa fa-file-pdf-o"></i>](/docs/lanzarote-guia-ideal.pdf){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles, distribué par l'office du tourisme&nbsp;: [<i class="fa fa-file-pdf-o"></i>](/docs/lanzarote-guia-ideal.pdf){: target="_blank"}.
 
 dive-shop: |
   En septembre 2014.
@@ -34,7 +34,7 @@ accommodation: |
   En septembre 2014.
   {: .visited-in}
 
-  Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina, ...
+  Il existe des locations de petites villas dans la Marina Rubicon à Santa Rosa, proche des commerces, des restaurants, de la marina,&nbsp;...
 
 to-see: |
   Le parc national des Volcans et **[el Golfo](https://fr.wikipedia.org/wiki/El_Golfo){: target="_blank"}**.

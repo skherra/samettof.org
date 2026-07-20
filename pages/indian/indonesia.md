@@ -66,7 +66,7 @@ accommodation: |
   En septembre 2017.
   {: .visited-in}
 
-  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, dans le nord de Sanure, dans un jardin luxuriant. <br>Belle adresse proposant de grandes chambres avec terrasse. Ils s'occupent de tout sur place&nbsp;: massage, excursions et même de commander à diner !
+  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, dans le nord de Sanure, dans un jardin luxuriant. <br>Belle adresse proposant de grandes chambres avec terrasse. Ils s'occupent de tout sur place&nbsp;: massage, excursions et même de commander à diner&nbsp;!
 
 to-see: |
   En février 2025.
@@ -90,25 +90,25 @@ log-books:
   place: 4 Kings - Misool
   date: 29/01/2025
   text: |
-    Immersion au petit matin sur le récif immergé des 4 rois, tirant son nom de Raja Ampat, nous n'avons pas de courant pourtant le récif foisonne de vie. Requins, tortues, platax, barracudas, sans parler des coraux mous magnifiques. Ce site est vraiment magique et restera notre best of de Raja Ampat !
+    Immersion au petit matin sur le récif immergé des 4 rois, tirant son nom de Raja Ampat, nous n'avons pas de courant pourtant le récif foisonne de vie. Requins, tortues, platax, barracudas, sans parler des coraux mous magnifiques. Ce site est vraiment magique et restera notre best of de Raja Ampat&nbsp;!
 - author: Sam
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête !
+    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête&nbsp;!
 - author: Sam
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête !
+    Descente à l'étale, ce qui nous va bien pour admirer les deux beaux pinacles de Crystal Bay et en faire le tour. Tortues, requins pointes blanches, pointes grises, carangues géantes noires sont encore là et attendent le courant. Les coraux, platiers et éponges sont de toute beauté et nous ne savons plus où donner de la tête&nbsp;!
 - author: Sam
   place: Shotgun - Komodo
   date: 10/09/2017
   text: |
-    Descente dans une eau à 27 degrés dans la passe de ShotGun, nous débutons sur les dunes de sables pour accéder à la passe proprement dite jonchée de sublimes coraux, mais voilà en plein courant deux grandes Mantas océaniques qui traversent devant nous. Nous nous agrippons tant bien que mal aux roches parsemées de coraux de feu (aie, aie) pour éviter de tamponner les belles Mantas qui remontent le courant. Puis, nous traversons et à peine arrivés de l'autre côté que 4 autres petites Mantas remontent, elles plus difficilement, le courant ! Ce fut un moment magique que de suivre cette voie rapide à Mantas !
+    Descente dans une eau à 27 degrés dans la passe de ShotGun, nous débutons sur les dunes de sables pour accéder à la passe proprement dite jonchée de sublimes coraux, mais voilà en plein courant deux grandes Mantas océaniques qui traversent devant nous. Nous nous agrippons tant bien que mal aux roches parsemées de coraux de feu (aie, aie) pour éviter de tamponner les belles Mantas qui remontent le courant. Puis, nous traversons et à peine arrivés de l'autre côté que 4 autres petites Mantas remontent, elles plus difficilement, le courant&nbsp;! Ce fut un moment magique que de suivre cette voie rapide à Mantas&nbsp;!
 - author: Sam
   place: Hot rocks - Sangeang
   date: 12/09/2017
   text: |
-    Descente dans le sable noir de l'île volcanique de Sangeang. C'est le paradis des nudibranches, tous différents. Nous n'en compterons pas moins d'une trentaine ! Plus loin des sources d'eau chaude, où il fait bon passer les mains et chercher les pierres chaudes dans le sable. Nous dérangeons un gros poulpe qui somnolait par là. Puis des anémones à Némo de couleur orange due au gaz volcanique. Très belle ambiance pour cette plongée aux couleurs et contrastes sublimes.
+    Descente dans le sable noir de l'île volcanique de Sangeang. C'est le paradis des nudibranches, tous différents. Nous n'en compterons pas moins d'une trentaine&nbsp;! Plus loin des sources d'eau chaude, où il fait bon passer les mains et chercher les pierres chaudes dans le sable. Nous dérangeons un gros poulpe qui somnolait par là. Puis des anémones à Némo de couleur orange due au gaz volcanique. Très belle ambiance pour cette plongée aux couleurs et contrastes sublimes.
 ---

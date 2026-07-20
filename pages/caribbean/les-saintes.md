@@ -18,7 +18,7 @@ h1: 🇬🇵 Les Saintes
 country-desc: |
   **[Les Saintes](https://fr.wikipedia.org/wiki/%C3%8Eles_des_Saintes){: target="_blank"}**, à quelques minutes de ferry de la Guadeloupe, est un petit coin de paradis. Trois compagnies desservent régulièrement l'île, depuis l'aéroport il est possible de prendre un taxi jusqu'à Trois rivières et de là prendre un ferry jusqu'aux Saintes.
 
-  Avec une vingtaine de sites accessibles depuis Terre de Haut, les sites sont riches en faune fixée et poissons tropicaux, avec peu de plongeurs. **Le sec paté** entre Terre de Haut et la Guadeloupe est de toute beauté !
+  Avec une vingtaine de sites accessibles depuis Terre de Haut, les sites sont riches en faune fixée et poissons tropicaux, avec peu de plongeurs. **Le sec paté** entre Terre de Haut et la Guadeloupe est de toute beauté&nbsp;!
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color}Voici une carte et un descriptif des sites de plongées des Saintes&nbsp;: [<i class="fa fa-map"></i>](https://www.dive-bouteille.com/copie-de-description){: target="_blank"}.
 

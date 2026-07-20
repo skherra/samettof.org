@@ -25,7 +25,7 @@ bubbles:
   day: ??
   icon: fa-ship
   content: |
-    Océan Pacifique&nbsp;: Cook, Tonga, Philippines, ...
+    Océan Pacifique&nbsp;: Cook, Tonga, Philippines,&nbsp;...
 - month: ????
   day: ??
   icon: fa-ship

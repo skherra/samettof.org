@@ -18,7 +18,7 @@ h1: 🇧🇶 Bonaire
 country-desc: |
   **[Bonaire](https://fr.wikipedia.org/wiki/Bonaire){: target="_blank"}** se situe tout au sud des caraïbes en face du Venezuela et constitue avec Aruba et Curaçao les petites Antilles sous le vent. Bonaire comme [Statia](/caraibes/statia/) fait partie des Pays-Bas.
 
-  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peut y en avoir tout au sud (White Slave, Margate Bay ...) et au Nord dans le parc.
+  C'est le paradis de la plongée autonome et c'est avec le [Belize](/caraibes/belize/) notre coup de cœur des Caraïbes  **<i class="fa fa-heart"></i>**{: .accent-color}. Les sites sont bien préservés. Toutes les plongées s'effectuent du bord sur la côte ouest, la mise à l'eau est relativement facile, ainsi que l'orientation (il y a souvent de bons points de repères, bouée de surface accrochée entre 5 et 7 mètres ou des patates de corail faciles à repérer). Il n'y a pas vraiment de courant mais il peut y en avoir tout au sud (White Slave, Margate Bay&nbsp;...) et au Nord dans le parc.
 
   Avec plus de 81 sites, l'île regorge de clubs de plongée qui proposent des packages hôtels, truck et bouteilles ou gonflage de bouteilles uniquement.
 

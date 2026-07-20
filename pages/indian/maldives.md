@@ -16,7 +16,7 @@ visited-in: Décembre 2015
 h1: 🇲🇻 Maldives
 
 country-desc: |
-  L'archipel des **[Maldives](https://fr.wikipedia.org/wiki/Maldives){: target="_blank"}** formé d'atolls dans l'océan Indien, regorge de merveilleux spots de plongées. On ne les présente plus, nous nous sommes régalés dans les passes, les pinacles&nbsp;: un escadron de raie aigles, une station de nettoyage de requins, des raies mantas océaniques ... Les plongées ne sont toutefois pas aisées, visibilité moyenne, des courants descendant ou ascendant ...
+  L'archipel des **[Maldives](https://fr.wikipedia.org/wiki/Maldives){: target="_blank"}** formé d'atolls dans l'océan Indien, regorge de merveilleux spots de plongées. On ne les présente plus, nous nous sommes régalés dans les passes, les pinacles&nbsp;: un escadron de raie aigles, une station de nettoyage de requins, des raies mantas océaniques&nbsp;... Les plongées ne sont toutefois pas aisées, visibilité moyenne, des courants descendant ou ascendant&nbsp;...
 
   La meilleure façon selon nous de parcourir ses richesses sous-marines est d'opter pour une croisière plongée au départ de Malé. Cela permet de visiter les atolls Ari, Malé Nord et Malé Sud.
 

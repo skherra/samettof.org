@@ -18,7 +18,7 @@ h1: 🇳🇱 Statia
 country-desc: |
   **[Statia](https://fr.wikipedia.org/wiki/Saint-Eustache_(Antilles)){: target="_blank"}** ou Saint Eustache dans les Antilles néerlandaises, à quelques minutes de vol de St Martin, est une toute petite île tranquille des Caraïbes où tout le monde se dit bonjour <i class="fa fa-smile-o"></i>.
 
-  C'est le paradis des épaves, anciennes ou récemment coulées et des langoustes que l'on croise à chaque plongée. Statia regorge de sites de plongées tous aussi beaux les uns que les autres, mais surtout notre préféré&nbsp;: le **Chien Tong** de nuit, Turtle paradise !
+  C'est le paradis des épaves, anciennes ou récemment coulées et des langoustes que l'on croise à chaque plongée. Statia regorge de sites de plongées tous aussi beaux les uns que les autres, mais surtout notre préféré&nbsp;: le **Chien Tong** de nuit, Turtle paradise&nbsp;!
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Chien Tong, Stenapa**.
 

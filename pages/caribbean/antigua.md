@@ -47,5 +47,5 @@ log-books:
   place: Nanton point
   date: 20/05/2026
   text: |
-    Immersion dans la houle après Nanton point, la visibilité est excellente, et d'un bleu profond. Beaucoup de poissons tropicaux, et bientôt 2, 3 puis 6 requins gris peu farouches qui nous suivent de près. Dans le bleu nous apercevons, un grand pélagique, peut-être une baleine pilote. Nous poursuivons la balade avec des cigales de mer, des langoustes, barracudas géants, thon, et banc de bécunes. Une de nos plus belles plongées dans les caraïbes, ne sachant plus où donner de la tête !
+    Immersion dans la houle après Nanton point, la visibilité est excellente, et d'un bleu profond. Beaucoup de poissons tropicaux, et bientôt 2, 3 puis 6 requins gris peu farouches qui nous suivent de près. Dans le bleu nous apercevons, un grand pélagique, peut-être une baleine pilote. Nous poursuivons la balade avec des cigales de mer, des langoustes, barracudas géants, thon, et banc de bécunes. Une de nos plus belles plongées dans les caraïbes, ne sachant plus où donner de la tête&nbsp;!
 ---

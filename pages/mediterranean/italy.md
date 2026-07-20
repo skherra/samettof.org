@@ -12,7 +12,7 @@ description: Sam & Tof - Plongée sous-marine en Méditerranée en Sardaigne
 
 sea: mediterranean
 menu: Italie
-visited-in: Septembre 2021, Septembre 2025
+visited-in: Septembre 2021, septembre 2025
 h1: 🇮🇹 Italie
 
 country-desc: |
@@ -62,12 +62,12 @@ to-see: |
   En septembre 2025.
   {: .visited-in}
 
-  Toutes les randonnées sont à faire pour admirer les points de vue. Elles sont faciles et faisables sur une demi-journée. On peut observer les nombreux **[oiseaux](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}** de l'île tel le guêpier, le faucon, le petit aigle marin, ... <br>
+  Toutes les randonnées sont à faire pour admirer les points de vue. Elles sont faciles et faisables sur une demi-journée. On peut observer les nombreux **[oiseaux](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}** de l'île tel le guêpier, le faucon, le petit aigle marin,&nbsp;... <br>
 
   En septembre 2021.
   {: .visited-in}
 
-  Autour de **Palau**, petite station balnéaire sans grand intérêt, les jolies plages ou cales splendides. Poussez jusqu'à **la pointe de Sardaigne**, on y trouve sur la route, des criques, des lagunes ... <br/>Les sites archéologiques **[Nuraghe](https://fr.wikipedia.org/wiki/Nuraghe){: target="_blank"}** autour d'Arzachena. <br/>Le village de Santa Teresa di Galiera. <br/>Un peu plus loin, **[Castelsardo](https://fr.wikipedia.org/wiki/Castelsardo){: target="_blank"}**, petit village médiéval très charmant.
+  Autour de **Palau**, petite station balnéaire sans grand intérêt, les jolies plages ou cales splendides. Poussez jusqu'à **la pointe de Sardaigne**, on y trouve sur la route, des criques, des lagunes&nbsp;... <br/>Les sites archéologiques **[Nuraghe](https://fr.wikipedia.org/wiki/Nuraghe){: target="_blank"}** autour d'Arzachena. <br/>Le village de Santa Teresa di Galiera. <br/>Un peu plus loin, **[Castelsardo](https://fr.wikipedia.org/wiki/Castelsardo){: target="_blank"}**, petit village médiéval très charmant.
 
 log-books:
 - author: Sam
@@ -79,5 +79,5 @@ log-books:
   place: Scoglio Medico
   date: 09/09/2025
   text: |
-    Descente dans les rochers, nous passons entre les failles, il y a un peu de courant, nous empruntons un tunnel qui mène à une jolie et vaste grotte&nbsp;; quelques coraux sur la paroi et un bernard-l'hermite que l'on vient déranger avec nos lumières. Puis nous sortons de la grotte et allons dans le bleu, Il y a beaucoup de vie, des groupes de mérous, plusieurs boules d'anchois que des carangues et des sérioles prennent en chasse. Splendide. Nous repartons à travers des canyons pour rejoindre le bateau. En chemin nous croisons des gros lièvres de mer noir.
+    Descente dans les rochers, nous passons entre les failles, il y a un peu de courant, nous empruntons un tunnel qui mène à une jolie et vaste grotte&nbsp;; quelques coraux sur la paroi et un bernard-l'hermite que l'on vient déranger avec nos lumières. Puis nous sortons de la grotte et allons dans le bleu, il y a beaucoup de vie, des groupes de mérous, plusieurs boules d'anchois que des carangues et des sérioles prennent en chasse. Splendide. Nous repartons à travers des canyons pour rejoindre le bateau. En chemin nous croisons des gros lièvres de mer noir.
 ---

@@ -65,12 +65,12 @@ log-books:
   text: |
     Descente le long du mur avec le capitaine, nous voyons des requins, du coup nous changeons complètement la plongée et continuons sur le mur, et là 3-4 marteaux dans le bleu, 3 white tips et 1 black tips, la visibilité est mauvaise nous avons du mal à les distinguer, pas mal de contre-courant pour se maintenir sur la petite passe. Au bout du mur, trois beaux bancs massifs de carangues, barracudas et bonites.
 
-    Waouh, nous nous croyons le long des murs de Polynésie !!
+    Waouh, nous nous croyons le long des murs de Polynésie&nbsp;!!
 
     Arrivés dans la passe petite dérivante entrante, nous voyons un mérou gigantesque. Le reste du groupe voulant remonter, et la fatigue se faisant sentir au bout de la quatrième plongée de la journée nous remontons sur le bateau.
 - author: Sam
   place: Nigali Passage
   date: 13/09/2018
   text: |
-    Descente le long du mur de la passe de Nigali, un black tips nous accueille à 15m, dans le bleu nous voyons des gris et des barracudas. Arrivé au canyon, une grosse patate de corail ronde est un bon repère pour le début du spectacle, banc de bonites et de carangues et tout autour des requins gris, white tips et black tips évoluent. Nous restons au fond du canyon pour les apprécier, nous ne savons plus où donner de la tête ! Mais nous devons bientôt retrouver le bateau, dommage, nous serions bien restés encore un peu ...
+    Descente le long du mur de la passe de Nigali, un black tips nous accueille à 15m, dans le bleu nous voyons des gris et des barracudas. Arrivé au canyon, une grosse patate de corail ronde est un bon repère pour le début du spectacle, banc de bonites et de carangues et tout autour des requins gris, white tips et black tips évoluent. Nous restons au fond du canyon pour les apprécier, nous ne savons plus où donner de la tête&nbsp;! Mais nous devons bientôt retrouver le bateau, dommage, nous serions bien restés encore un peu&nbsp;...
 ---

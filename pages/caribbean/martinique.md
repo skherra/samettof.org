@@ -16,7 +16,7 @@ visited-in: Avril 2005 & Décembre 2017
 h1: 🇲🇶 Martinique
 
 country-desc: |
-  La **[Martinique](https://fr.wikipedia.org/wiki/Martinique){: target="_blank"}** revêt pour nous un caractère particulier par rapport à tous les endroits visités&nbsp;: c'est l'île où nous avons passé notre baptême et appris à plonger !
+  La **[Martinique](https://fr.wikipedia.org/wiki/Martinique){: target="_blank"}** revêt pour nous un caractère particulier par rapport à tous les endroits visités&nbsp;: c'est l'île où nous avons passé notre baptême et appris à plonger&nbsp;!
 
   Toutes les plongées se font sur la côte protégée de la mer des Caraïbes. Il y a de nombreux sites très accessibles&nbsp;: La perle au nord vers St Pierre, tout au sud, le rocher du Diamant, autour des anses d'Arlet de jolies dérivantes poissonneuses ainsi que l'épave du Nahoon, la grotte aux couleurs, la piscine de Salomon&nbsp;...
 
@@ -52,7 +52,7 @@ log-books:
     place: La Perle
     date: 31/03/2005
     text: |
-      Je me souviendrai de ma deuxième plongée&nbsp;: une Tortue vient nous faire coucou, la première fois que j'en vois une ! Il a été très difficile pour moi de garder ma concentration, nous étions en plein exercice de stabilisation <i class="fa fa-smile-o"></i>.
+      Je me souviendrai de ma deuxième plongée&nbsp;: une Tortue vient nous faire coucou, la première fois que j'en vois une&nbsp;! Il a été très difficile pour moi de garder ma concentration, nous étions en plein exercice de stabilisation <i class="fa fa-smile-o"></i>.
   - author: Sam
     place: Le diamant
     date: 31/12/2017

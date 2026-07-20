@@ -20,9 +20,9 @@ country-desc: |
 
   L'île Cocos, digne du film de Jurassic Park, est une forêt tropicale humide. Elle est aussi le sanctuaire des fregates, des fous, des fous à pieds bleus ou rouges, ou des sternes blanches appelées ici "Esperitu Santo".
 
-  Le **[Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica){: target="_blank"}** terrestre regorge également de merveilles : plantes, insectes et animaux tropicaux. Écologistes avant l'heure, ce pays a mis en oeuvre depuis très longtemps la sauvegarde de son patrimoine. Pura Vida !
+  Le **[Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica){: target="_blank"}** terrestre regorge également de merveilles&nbsp;: plantes, insectes et animaux tropicaux. Écologistes avant l'heure, ce pays a mis en oeuvre depuis très longtemps la sauvegarde de son patrimoine. Pura Vida&nbsp;!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Cocos, le best of : **Manuelita Outside, Alcyone** et **Dirty Rock** : [<i class="fa fa-map"></i>](https://underseahunter.com/cocos-island/#dive-sites){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Cocos, le best of&nbsp;: **Manuelita Outside, Alcyone** et **Dirty Rock**&nbsp;: [<i class="fa fa-map"></i>](https://underseahunter.com/cocos-island/#dive-sites){: target="_blank"}.
 
 dive-shop: |
   En septembre 2019.
@@ -34,9 +34,9 @@ accommodation: |
   En septembre 2019.
   {: .visited-in}
 
-  **[Grana de Oro](https://www.hotelgranodeoro.com/){: target="_blank"}** : Très bel hôtel luxueux joliment décoré à San José avec deux jacuzzis et un bon restaurant de style français. Les chambres sont grandes.
+  **[Grana de Oro](https://www.hotelgranodeoro.com/){: target="_blank"}**&nbsp;: Très bel hôtel luxueux joliment décoré à San José avec deux jacuzzis et un bon restaurant de style français. Les chambres sont grandes.
 
-  **[Manatus Hotel](https://manatuscostarica.com/){: target="_blank"}** : Bel hôtel dans le cadre splendide de Tortuguero, assez concerné par l'environnement. Notre guide plutôt discret nous a donné beaucoup d'explications sur le parc, sa faune et sa flore. Les chambres sont très grandes et le restaurant est correct.
+  **[Manatus Hotel](https://manatuscostarica.com/){: target="_blank"}**&nbsp;: Bel hôtel dans le cadre splendide de Tortuguero, assez concerné par l'environnement. Notre guide plutôt discret nous a donné beaucoup d'explications sur le parc, sa faune et sa flore. Les chambres sont très grandes et le restaurant est correct.
 
 to-see: |
   En septembre 2019.
@@ -54,7 +54,7 @@ log-books:
     place: Manuelita Oustide
     date: 15/09/2019
     text: |
-      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui indique au divemaster de descendre un peu plus sur le fond sableux, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, une jolie raie aigle passe dans le bleu... Et cela ne s'arrête pas là, deux ou trois marteaux au-dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins !! Whaouh
+      Descente à la première cleaning stations, une mobula passe devant nous, les carangues sont devant nos yeux, un banc plutôt dense, ce qui indique au divemaster de descendre un peu plus sur le fond sableux, festival, deux gros galapagos, un tigre, des raies pastenagues sur le fond. Après une vingtaine de minutes, nous remontons sur le reef, une jolie raie aigle passe dans le bleu&nbsp;... Et cela ne s'arrête pas là, deux ou trois marteaux au-dessus de nous. Pour finir par une raie manta oceanique, de 6 mètres au moins&nbsp;!! Whaouh
   - author: Tof
     place: Alcyone
     date: 15/09/2019

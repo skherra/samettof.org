@@ -24,7 +24,7 @@ country-desc: |
 
   Ce type de plongées requière une formation Padi combinaison étanche ou une justification de 10 plongées en étanche (accessible dès l'Open Water). Il est possible de la passer en une journée sur place et de combiner avec des packages par la suite.
 
-  Attention cependant certains sites sont à plus de 6h de route de Reykjavik comme le site de Strytan. Nous avons fait 3 failles&nbsp;: Barney's crack, Silfra et David's crack de toutes beautés !!!
+  Attention cependant certains sites sont à plus de 6h de route de Reykjavik comme le site de Strytan. Nous avons fait 3 failles&nbsp;: Barney's crack, Silfra et David's crack de toutes beautés&nbsp;!!!
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des plongées possibles en Islande, surement non exhaustif&nbsp;: [<i class="fa fa-map"></i>](https://www.dive.is/dive-sites){: target="_blank"}
 
@@ -76,7 +76,7 @@ log-books:
   text: |
     Equipés sur le parking, nous attendons notre ordre de passage, la faille étant petite et la traversée en sens unique, le parc national a mis en place ce système plutôt ingénieux car on plonge à 4 uniquement.
 
-    La fraîcheur nous saisit mais elle est vite oubliée par la clarté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique !
+    La fraîcheur nous saisit mais elle est vite oubliée par la clarté de l'eau et les couleurs de la roche, des algues et les dégradés de bleus. C'est vraiment magique&nbsp;!
 
     Nous parcourons la faille, le trou, la cathédrale grandiose entre les deux plaques américaine et eurasiatique pour finir dans un lagon aux couleurs caraïbes qui est le point de sortie de Silfra.
 ---

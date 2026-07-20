@@ -55,12 +55,12 @@ log-books:
   place: Lava Tube - Kona
   date: 12/05/2016
   text: |
-    Entrée dans le LavaTube étroit et de plusieurs mètres de long. Peu de poissons, quelques crabes et crevettes, puis au loin la lumière ! Belle impression ce tunnel qui n'a pas encore été colonisé&nbsp;...
+    Entrée dans le LavaTube étroit et de plusieurs mètres de long. Peu de poissons, quelques crabes et crevettes, puis au loin la lumière&nbsp;! Belle impression ce tunnel qui n'a pas encore été colonisé&nbsp;...
 - author: Sam
   place: Turtle Pinacle - Kona
   date: 13/05/2016
   text: |
-    Près des coraux durs, les demoiselles dominos ne nous ont pas entendus, nous arrêtons de respirer et la magie opère, nous entendons les demoiselles chanter ! Des petits sons aigus, comme un xylophone&nbsp;!
+    Près des coraux durs, les demoiselles dominos ne nous ont pas entendus, nous arrêtons de respirer et la magie opère, nous entendons les demoiselles chanter&nbsp;! Des petits sons aigus, comme un xylophone&nbsp;!
 - author: Sam
   place: Vertical awareness - Niihau
   date: 24/05/2016

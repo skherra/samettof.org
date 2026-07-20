@@ -70,7 +70,7 @@ accommodation: |
 
   **[Tao Sangat dive resort](https://sangat.com.ph/){: target="_blank"}** sur l'île de Sangat, ils s'occupent du transfert depuis l'aéroport de Coron ou du port. Petit resort eco lodge, où la nourriture est excellente, les employés prévenants. La vue et le calme sont de mise.
 
-  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** est un tout petit resort un peu excentré de la ville avec une vue imprenable pour le coucher de soleil, sur Caalan Beach. Il ne faut pas hésiter à prendre un touktouk par la plage depuis le ferry (c'est mal indiqué mais ils y vont ...). Le resort est confortable, un seul bungalow offre une vue sur la plage magnifique. Ils offrent des repas philippins simples et peu chers.
+  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** est un tout petit resort un peu excentré de la ville avec une vue imprenable pour le coucher de soleil, sur Caalan Beach. Il ne faut pas hésiter à prendre un touktouk par la plage depuis le ferry (c'est mal indiqué mais ils y vont&nbsp;...). Le resort est confortable, un seul bungalow offre une vue sur la plage magnifique. Ils offrent des repas philippins simples et peu chers.
 
   **Muting paraiso**, hôtel très reposant pour un transit, piscine agréable et possibilité de massage Thai. Le chef cuisinier propose des plats savoureux.
 
@@ -87,10 +87,10 @@ log-books:
   place: Barracuda Lake
   date: 10/05/2023
   text: |
-    Arrivés de bonne heure pour éviter la foule, nous sommes les premiers à nous immerger dans le lac magnifique. Très vite la température monte à 38 degrés à 18 mètres, puis une halocline vers 22 mètres et la température redevient un peu plus supportable. Nous longeons une partie du lac pour admirer les façades lunaires, des poissons chats, gobies, crevettes et quelques sergents majors semblent s'être perdus dans ce lac. Plongée très originale et nous ressortons vers 9h du matin avec un monde fou !!
+    Arrivés de bonne heure pour éviter la foule, nous sommes les premiers à nous immerger dans le lac magnifique. Très vite la température monte à 38 degrés à 18 mètres, puis une halocline vers 22 mètres et la température redevient un peu plus supportable. Nous longeons une partie du lac pour admirer les façades lunaires, des poissons chats, gobies, crevettes et quelques sergents majors semblent s'être perdus dans ce lac. Plongée très originale et nous ressortons vers 9h du matin avec un monde fou&nbsp;!!
 - author: Sam
   place: Jessie Beagley
   date: 25/05/2023
   text: |
-    Immersion sur le plateau à contre-courant, visibilité et lumière magnifiques, barracudas, requins gris, carangues. Nous plongeons dans le bleu pour guetter les marteaux, au bout de 5 min, un s'approche de nous, puis deux autres de bonne taille nous tournent autour pendant 10 minutes, magique. Retour sur le plateau corallien, tortue, requins corail, et un banc de platax peu farouches se laisse approcher de près. Magnifique finish pour clôturer le séjour !
+    Immersion sur le plateau à contre-courant, visibilité et lumière magnifiques, barracudas, requins gris, carangues. Nous plongeons dans le bleu pour guetter les marteaux, au bout de 5 min, un s'approche de nous, puis deux autres de bonne taille nous tournent autour pendant 10 minutes, magique. Retour sur le plateau corallien, tortue, requins corail, et un banc de platax peu farouches se laisse approcher de près. Magnifique finish pour clôturer le séjour&nbsp;!
 ---

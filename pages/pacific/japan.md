@@ -36,7 +36,7 @@ dive-shop: |
 
   Yakushima&nbsp;: Plongée facile depuis la plage Isso, organisée par  **[Yes](http://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}** tour opérateur local.
 
-  Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais ; nous avons apprécié les briefings dessinés et l'encadrement d'Atsuko.
+  Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais&nbsp;; nous avons apprécié les briefings dessinés et l'encadrement d'Atsuko.
 
 accommodation: |
   En mai 2014.

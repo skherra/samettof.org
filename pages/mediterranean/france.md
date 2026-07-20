@@ -27,7 +27,7 @@ country-desc: |
 country-desc-sections:
 - title: Cerbère Banyuls
   text: |
-    La réserve de **[Cerbère Banyuls](https://reserves-naturelles.org/reserves/cerbere-banyuls/){: target="_blank"}** dans les Pyrénées orientales est de toute beauté. À la frontière espagnole, on se sent au bout du monde entre la montagne et la mer. On peut plonger en Espagne ou en France selon la météo. <br>L'eau n’est claire qu'un mois dans l'année, d’après les locaux ! Il y a beaucoup de particules et la vie reste entre 0 et 20 mètres. Les sites sont assez proches les uns des autres. La topographie est belle, on y trouve des petites cavités, de longs canyons, des arches. Certains sites ne sont pas simples à repérer pour les non connaisseurs du coin en raison de la faible visibilité.
+    La réserve de **[Cerbère Banyuls](https://reserves-naturelles.org/reserves/cerbere-banyuls/){: target="_blank"}** dans les Pyrénées orientales est de toute beauté. À la frontière espagnole, on se sent au bout du monde entre la montagne et la mer. On peut plonger en Espagne ou en France selon la météo. <br>L'eau n’est claire qu'un mois dans l'année, d’après les locaux&nbsp;! Il y a beaucoup de particules et la vie reste entre 0 et 20 mètres. Les sites sont assez proches les uns des autres. La topographie est belle, on y trouve des petites cavités, de longs canyons, des arches. Certains sites ne sont pas simples à repérer pour les non connaisseurs du coin en raison de la faible visibilité.
 - title: Riou
   text: |
     **[L'archipel de Riou <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/fr/archipel-iles-riou-marseille){: target="_blank"}** dans le parc national des calanques est tout simplement splendide. On accède à la réserve marine par le chenal de **[l'île de Maïre](https://fr.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** et le Cap Croisette, les îles sont des sanctuaires pour les oiseaux, et pour les plongeurs. <br/>Des murs de gorgones violettes, bleues, rouges ou jaunes. La vie y est foisonnante autour des pitons rocheux immergés, des grottes ou des tunnels. C'est la fête des mérous et des poulpes mais les barracudas ou les chapons ne sont pas en reste. L'eau y est très claire. <br/>Malheureusement, comme l'archipel est accessible à 20 minutes en bateau du grand port de Pointe rouge, il y a beaucoup de bateaux de plongeurs, surtout le week-end.
@@ -79,12 +79,12 @@ to-see: |
 
   Autour de **Cerbère**, le joli village de **[Collioure](https://fr.wikipedia.org/wiki/Collioure){: target="_blank"}**, les Caps et les Anses de la réserve Cerbère-banyuls. <br/>Le petit musée de sculpture du **[Maître cabestany](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Cabestany){: target="_blank"}** près de Perpignan et bien sûr **[Perpignan](https://fr.wikipedia.org/wiki/Perpignan){: target="_blank"}** avec le beau **[palais des rois de Majorque](https://fr.wikipedia.org/wiki/Palais_des_Rois_de_Majorque){: target="_blank"}**.
 
-  **[Marseille](https://fr.wikipedia.org/wiki/Marseille){: target="_blank"}** et le **[parc national des calanques](http://www.calanques-parcnational.fr/fr){: target="_blank"}** avec les calanques des Goudes de Cassis avec son petit port de Miou ...
+  **[Marseille](https://fr.wikipedia.org/wiki/Marseille){: target="_blank"}** et le **[parc national des calanques](http://www.calanques-parcnational.fr/fr){: target="_blank"}** avec les calanques des Goudes de Cassis avec son petit port de Miou&nbsp;...
 
 log-books:
 - author: Sam
   place: Moyades - Archipel de Riou
   date: 26/06/2021
   text: |
-    Plongée en autonome autour du rocher Moyade dans les 17 mètres, c'est Merouville, nous arrêtons de compter les mérous au dixième. Ce rocher est plein de vie, les chapons ne sont pas en reste, bien camouflés dans les creux. À la pointe Est, un banc de petits barracudas plutôt vifs semble nous indiquer la direction. Tout prêt de la bouée du bateau un gros poulpe peu farouche semble jouer avec nous en marchant tel une danseuse ... Très belle plongée.
+    Plongée en autonome autour du rocher Moyade dans les 17 mètres, c'est Merouville, nous arrêtons de compter les mérous au dixième. Ce rocher est plein de vie, les chapons ne sont pas en reste, bien camouflés dans les creux. À la pointe Est, un banc de petits barracudas plutôt vifs semble nous indiquer la direction. Tout prêt de la bouée du bateau un gros poulpe peu farouche semble jouer avec nous en marchant tel une danseuse&nbsp;... Très belle plongée.
 ---

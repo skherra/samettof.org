@@ -16,7 +16,7 @@ visited-in: Mai 2018
 h1: 🇪🇨 Galápagos
 
 country-desc: |
-  L'Archipel des **[Gal&aacute;pagos](https://fr.wikipedia.org/wiki/%C3%8Eles_Gal%C3%A1pagos){: target="_blank"}**, dans le pacifique, lieu mythique et dépaysant, regorge de diversité marine et terrestre ... <br>Il reste accessible à 2h d'avion du continent, moyennant des taxes assez élevées d'entrée et sur place pour limiter le tourisme. En effet l'état équatorien assume ce fait pour conserver **[ce patrimoine <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/1/){: target="_blank"}** sauvage et unique.
+  L'Archipel des **[Gal&aacute;pagos](https://fr.wikipedia.org/wiki/%C3%8Eles_Gal%C3%A1pagos){: target="_blank"}**, dans le pacifique, lieu mythique et dépaysant, regorge de diversité marine et terrestre&nbsp;... <br>Il reste accessible à 2h d'avion du continent, moyennant des taxes assez élevées d'entrée et sur place pour limiter le tourisme. En effet l'état équatorien assume ce fait pour conserver **[ce patrimoine <i class="fa fa-heart"></i>](https://whc.unesco.org/fr/list/1/){: target="_blank"}** sauvage et unique.
 
   Les plongées sont d'une richesse incomparable, mais la visibilité reste quelque peu capricieuse&nbsp;... Les plus belles plongées se font autour de Darwin, Wolf et Fernandina dans des eaux assez froides. Une croisière est indispensable pour rejoindre ces trois îles. Un arrêt sur l'île de Santa Cruz (à côté de l'île aéroport Baltra) constitue une bonne escale.
 
@@ -62,10 +62,10 @@ log-books:
   place: Cabo Douglas - Fernandina
   date: 15/05/2018
   text: |
-    Descente à l'heure où les Iguanes vont à la mer pour se nourrir, à 10 mètres, le soleil et la houle rendent la prairie fascinante, tortues, poulpes et otaries sont de la partie. Un pingouin se fraie un passage entre nous ! Les Iguanes broutent les algues vertes pour remonter tranquillement sur leur rocher au soleil.
+    Descente à l'heure où les Iguanes vont à la mer pour se nourrir, à 10 mètres, le soleil et la houle rendent la prairie fascinante, tortues, poulpes et otaries sont de la partie. Un pingouin se fraie un passage entre nous&nbsp;! Les Iguanes broutent les algues vertes pour remonter tranquillement sur leur rocher au soleil.
 - author: Sam
   place: Punta Vicente Roca - Isabella
   date: 15/05/2018
   text: |
-    Descente le long du rocher à 30 mètres, 3 gros Mola Molas évoluent tranquillement dans le bleu, quelques tortues nagent tout près, puis deux otaries coquines viennent jouer autour des plongeurs et effraient les Mola Molas qui disparaissent d'un coup ! On a joué avec les otaries le long du mur et petit canyon. Arrivés sur une zone sableuse volcanique, une station de nettoyage à tortues, des raies électriques&nbsp;: Torpidos. Nous avons froid, nous commençons notre remontée.
+    Descente le long du rocher à 30 mètres, 3 gros Mola Molas évoluent tranquillement dans le bleu, quelques tortues nagent tout près, puis deux otaries coquines viennent jouer autour des plongeurs et effraient les Mola Molas qui disparaissent d'un coup&nbsp;! On a joué avec les otaries le long du mur et petit canyon. Arrivés sur une zone sableuse volcanique, une station de nettoyage à tortues, des raies électriques&nbsp;: Torpidos. Nous avons froid, nous commençons notre remontée.
 ---

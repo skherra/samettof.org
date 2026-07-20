@@ -64,5 +64,5 @@ log-books:
   place: Sete Pedras
   date: 21/05/2019
   text: |
-    Descente sur le sec à l'ancre, car il y a beaucoup de courant, le sec est couvert d'anémones vertes et jaunes, très poissonneux, des poissons de l'Atlantique se mélangent aux poissons tropicaux, anges, des carangues noires et jaunes du golfe de Guinée ... Au-dessus de nous un banc d'une trentaine de thons passent tranquillement. Et bien sûr comme à chaque plongée à São Tomé des murènes, crevettes nettoyeuses et poulpes à foison. Nous remontons à l'ancre avec la houle que l'on sent dès 15 mètres. Les rochers de Pedras forment un cirque de grottes et tunnels, au loin on voit le petit picot "chien" sur la terre.
+    Descente sur le sec à l'ancre, car il y a beaucoup de courant, le sec est couvert d'anémones vertes et jaunes, très poissonneux, des poissons de l'Atlantique se mélangent aux poissons tropicaux, anges, des carangues noires et jaunes du golfe de Guinée&nbsp;... Au-dessus de nous un banc d'une trentaine de thons passent tranquillement. Et bien sûr comme à chaque plongée à São Tomé des murènes, crevettes nettoyeuses et poulpes à foison. Nous remontons à l'ancre avec la houle que l'on sent dès 15 mètres. Les rochers de Pedras forment un cirque de grottes et tunnels, au loin on voit le petit picot "chien" sur la terre.
 ---
