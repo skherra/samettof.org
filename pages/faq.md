@@ -32,7 +32,9 @@ qa:
   A: |
     Sans porter de jugement sur les types de formations dispensées, nous avons des certifications Padi et ANMP.
 
-    En voici les raisons&nbsp;: <br/>* **Padi**&nbsp;: Pour plonger partout dans le monde. C'est de plus en plus rare car la plongée loisir se développe, mais il faut savoir que les certifications européennes ne sont pas toujours reconnues dans les contrées lointaines (comme par exemple le Japon). <br/>* **ANMP** ou équivalente européenne&nbsp;: Pour la France, les DOM TOM, les pays d'outremer ou l’Afrique où elles sont mieux reconnues. Pour pouvoir plonger en toute autonomie des palanquées. Pour pouvoir tout simplement plonger dans les passes en Polynésie Française par exemple.
+    En voici les raisons&nbsp;:
+    * **Padi**&nbsp;: Pour plonger partout dans le monde. C'est de plus en plus rare car la plongée loisir se développe, mais il faut savoir que les certifications européennes ne sont pas toujours reconnues dans les contrées lointaines (comme par exemple le Japon).
+    * **ANMP** ou équivalente européenne&nbsp;: Pour la France, les DOM TOM, les pays d'outremer ou l’Afrique où elles sont mieux reconnues. Pour pouvoir plonger en toute autonomie des palanquées. Pour pouvoir tout simplement plonger dans les passes en Polynésie Française par exemple.
 
     Et pourquoi pas le Niveau 3 ou Dive Master ? Tout simplement parce qu’avec un Advanced Padi ou un niveau 2 Français, nous pouvons effectuer toutes les plongées que nous souhaitons sans limitations particulières.
 - N: 03
@@ -70,6 +72,12 @@ qa:
   A: |
     On nous pose souvent la question, et c'est très difficile d'y répondre ...  <i class="fa fa-smile-o"></i> <br/>Toutes les plongées ont leur charme et nous apprécions la richesse des océans Indien et Pacifique mais également les ambiances si particulières de l'Atlantique. De plus, plusieurs paramètres entrent en jeu&nbsp;: les saisons, la météo et surtout la chance jouent beaucoup !
 
-    À l'unanimité voici notre top 6 (à noter que ce ne sont pas les plongées les plus faciles en raison du fort courant)&nbsp;: <br/>* **[Fakarava Sud](/pacifique/polynesie-francaise/)**{: .accent-color} avec ses murs de requins époustouflants. <br/>* Les mythiques **[Galapagos](/pacifique/galapagos/)**{: .accent-color} pour leur extrême richesse à chaque plongée (Darwin, Wolf, Isabella). <br/>* Les murs de requins marteaux à **[Cocos](/pacifique/costa-rica-cocos/)**{: .accent-color} et autres beautés sous-marines (Requins tigres, Requins soyeux, Mantas, ... ). <br/>* **[Socorro](/pacifique/mexique-baja-california/)**{: .accent-color} pour les belles surprises à chaque plongée, Mantas, requins marteaux, dauphins ... <br/>* **[Indonésie](/indien/indonesie/)**{: .accent-color}&nbsp;: Komodo pour son autoroute à Mantas (Shotgun), Raja Ampat pour ses foisonnants bancs de poissons. <br/>* **[Palaos](/pacifique/palaos/)**{: .accent-color} pour l'incroyable diversité de la faune à chaque plongée et le moment d'exception pendant la reproduction des vivaneaux du Pacifique.
+    À l'unanimité voici notre top 6 (à noter que ce ne sont pas les plongées les plus faciles en raison du fort courant)&nbsp;:
+    * **[Fakarava Sud](/pacifique/polynesie-francaise/)**{: .accent-color} avec ses murs de requins époustouflants.
+    * Les mythiques **[Galapagos](/pacifique/galapagos/)**{: .accent-color} pour leur extrême richesse à chaque plongée (Darwin, Wolf, Isabella).
+    * Les murs de requins marteaux à **[Cocos](/pacifique/costa-rica-cocos/)**{: .accent-color} et autres beautés sous-marines (Requins tigres, Requins soyeux, Mantas, ... ).
+    * **[Socorro](/pacifique/mexique-baja-california/)**{: .accent-color} pour les belles surprises à chaque plongée, Mantas, requins marteaux, dauphins ...
+    * **[Indonésie](/indien/indonesie/)**{: .accent-color}&nbsp;: Komodo pour son autoroute à Mantas (Shotgun), Raja Ampat pour ses foisonnants bancs de poissons.
+    * **[Palaos](/pacifique/palaos/)**{: .accent-color} pour l'incroyable diversité de la faune à chaque plongée et le moment d'exception pendant la reproduction des vivaneaux du Pacifique.
 
 ---
