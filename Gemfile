@@ -8,4 +8,4 @@ gem "jekyll"
 
 gem "webrick", "~> 1.8"
 
-gem "json", "~> 2.7"
+gem "json", "~> 2.17"
