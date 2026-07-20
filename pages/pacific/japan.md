@@ -22,17 +22,17 @@ country-desc: |
 
   Puis nous avons continué sur l'île aux arbres millénaires&nbsp;: **[Yakushima](https://fr.wikipedia.org/wiki/Yakushima){: target="_blank"}** située dans l'archipel d'Osumi dans le Kyushu. La plongée y est totalement confidentielle.
 
-  Et nous avons fini par **[Iriomote ](https://fr.wikipedia.org/wiki/Iriomote-jima){: target="_blank"}**dans l'archipel de Sakishima, surnommé les Galapagos Japonaises, accessible par Ferry depuis Ishigaki. L'île est magnifique et la plongée reste riche avec ces platiers de coraux, nous n'oublierons jamais notre première Manta <i class="fa fa-smile-o"></i>.
+  Et nous avons fini par **[Iriomote](https://fr.wikipedia.org/wiki/Iriomote-jima){: target="_blank"}** dans l'archipel de Sakishima, surnommé les Galapagos Japonaises, accessible par Ferry depuis Ishigaki. L'île est magnifique et la plongée reste riche avec ces platiers de coraux, nous n'oublierons jamais notre première Manta <i class="fa fa-smile-o"></i>.
 
   Les îles sont accessibles en avion depuis l'île Kiushu. Il faut prévoir au minimum 2 semaines.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici les cartes et description des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](  https://www.reefencounters.org/dive-sites.html){: target="_blank"}
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici les cartes et description des sites de plongées&nbsp;: [<i class="fa fa-map"></i>](https://www.reefencounters.org/dive-sites.html){: target="_blank"}
 
 dive-shop: |
   En mai 2014.
   {: .visited-in}
 
-  Okinawa&nbsp;:  **[Reef encounters ](http://www.reefencounters.org/){: target="_blank"}**situé dans le quartier de Chatan. Tenu par un ancien marine, il était le seul a proposer des plongées sur les Kerama pour les personnes ne parlant pas Japonais. Uniquement plongée dérivante avec entrée négative pour la plupart des sites. Petit bateau, staff très pro et encadrant. 3 plongées par jour.
+  Okinawa&nbsp;:  **[Reef encounters](http://www.reefencounters.org/){: target="_blank"}** situé dans le quartier de Chatan. Tenu par un ancien marine, il était le seul a proposer des plongées sur les Kerama pour les personnes ne parlant pas Japonais. Uniquement plongée dérivante avec entrée négative pour la plupart des sites. Petit bateau, staff très pro et encadrant. 3 plongées par jour.
 
   Yakushima&nbsp;: Plongée facile depuis la plage Isso, organisée par  **[Yes](http://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}** tour opérateur local.
 

@@ -20,7 +20,7 @@ country-desc: |
 
   L'île Cocos, digne du film de Jurassic Park, est une forêt tropicale humide. Elle est aussi le sanctuaire des fregates, des fous, des fous à pieds bleus ou rouges, ou des sternes blanches appelées ici "Esperitu Santo".
 
-  Le **[ Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica){: target="_blank"}** terrestre regorge également de merveilles : plantes, insectes et animaux tropicaux. Écologistes avant l'heure, ce pays a mis en oeuvre depuis très longtemps la sauvegarde de son patrimoine. Pura Vida !
+  Le **[Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica){: target="_blank"}** terrestre regorge également de merveilles : plantes, insectes et animaux tropicaux. Écologistes avant l'heure, ce pays a mis en oeuvre depuis très longtemps la sauvegarde de son patrimoine. Pura Vida !
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées sur Cocos, le best of : **Manuelita Outside, Alcyone** et **Dirty Rock** : [<i class="fa fa-map"></i>](https://underseahunter.com/cocos-island/#dive-sites){: target="_blank"}.
 

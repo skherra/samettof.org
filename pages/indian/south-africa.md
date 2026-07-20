@@ -16,7 +16,7 @@ visited-in: Février 2018
 h1: 🇿🇦 Afrique du Sud
 
 country-desc: |
-  **[ Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
+  **[Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
 
   **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban. <br />Pourquoi baleine vache ? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
 

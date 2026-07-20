@@ -43,9 +43,9 @@ accommodation: |
 to-see: |
   À Guayalquil, se promener le long du **[Malecon](https://en.wikipedia.org/wiki/Malec%C3%B3n_2000){: target="_blank"}**, aux belles architectures et jardins remplis d'Iguanes. <br>Le Phare de Santa Ana, dans le quartier de **Las Penas**.
 
-  À Puerto Aroya, aller faire un tour à **l'église** en face du débarcadaire pour admirer ces vitraux, <br>À ne pas manquer&nbsp;: le **fish market** pour voir les otaries, pélicans, frégates, iguanes et hérons autour des pêcheurs, <br>La magnifique plage **Tortuga** constitue une belle balade. <br>Sans oublier le centre **[ Darwin](https://www.darwinfoundation.org/en/){: target="_blank"}** très intéressant et encore en activité.
+  À Puerto Aroya, aller faire un tour à **l'église** en face du débarcadaire pour admirer ces vitraux, <br>À ne pas manquer&nbsp;: le **fish market** pour voir les otaries, pélicans, frégates, iguanes et hérons autour des pêcheurs, <br>La magnifique plage **Tortuga** constitue une belle balade. <br>Sans oublier le centre **[Darwin](https://www.darwinfoundation.org/en/){: target="_blank"}** très intéressant et encore en activité.
 
-  À Cuenca, les musées et les façades du vieux centre, le site archéologique **Pumapungo** et le site **[ Ingapirca](https://fr.wikipedia.org/wiki/Ingapirca){: target="_blank"}** à 60 km de la ville.
+  À Cuenca, les musées et les façades du vieux centre, le site archéologique **Pumapungo** et le site **[Ingapirca](https://fr.wikipedia.org/wiki/Ingapirca){: target="_blank"}** à 60 km de la ville.
 
 log-books:
 - author: Sam

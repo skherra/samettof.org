@@ -16,7 +16,7 @@ visited-in: Avril 2024
 h1: 🇲🇽 Mexique Baja California
 
 country-desc: |
-  **[ Baja California](https://fr.wikipedia.org/wiki/Golfe_de_Californie){: target="_blank"}** est l'état le plus à l'ouest du Mexique, baigné entre la mer de Cortés et l'océan pacifique. C'est la terre des paysages désertiques grandioses et sauvages, le paradis des baleines à bosse, des raies, des pélicans, des vautours et des cactus. Il y a autant à voir à terre qu'en mer. Nous avions découvert cet état en 2010, en snorkeling uniquement, mais nous nous étions régalés avec la richesse des eaux et le nombre de raies que nous avions vu, sans compter les dauphins entre Loretto et Mulegé. <br/>On y vient pour embarquer sur une croisière pour Socorro ou plonger dans la mer de Cortés.
+  **[Baja California](https://fr.wikipedia.org/wiki/Golfe_de_Californie){: target="_blank"}** est l'état le plus à l'ouest du Mexique, baigné entre la mer de Cortés et l'océan pacifique. C'est la terre des paysages désertiques grandioses et sauvages, le paradis des baleines à bosse, des raies, des pélicans, des vautours et des cactus. Il y a autant à voir à terre qu'en mer. Nous avions découvert cet état en 2010, en snorkeling uniquement, mais nous nous étions régalés avec la richesse des eaux et le nombre de raies que nous avions vu, sans compter les dauphins entre Loretto et Mulegé. <br/>On y vient pour embarquer sur une croisière pour Socorro ou plonger dans la mer de Cortés.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} À Socorro, le best of **Canyon (San Benedicto), Funderadeo (San Benedicto), Roca Partita, Cabo Pearce (Socorro)**.
 

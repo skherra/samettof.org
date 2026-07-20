@@ -16,7 +16,7 @@ visited-in: Février 2018
 h1: 🇲🇿 Mozambique
 
 country-desc: |
-  **[ Ponta do Oro](https://fr.wikipedia.org/wiki/Ponta_do_Ouro){: target="_blank"}**  est une station balnéaire, proche de la frontière d'Afrique du Sud, au Mozambique située dans la grande réserve humide de **[Simangaliso](https://fr.wikipedia.org/wiki/Parc_de_la_zone_humide_d%27iSimangaliso){: target="_blank"}**. Par voie terrestre il faut environ 6h30 de voiture depuis l'aéroport de Durban. La frontière se passe facilement, mais il peut y avoir une longue attente, surtout pendant l'été. C'est un endroit très prisé des Sud-Africains, il y a beaucoup de lodges et de clubs de plongée sur place.
+  **[Ponta do Oro](https://fr.wikipedia.org/wiki/Ponta_do_Ouro){: target="_blank"}**  est une station balnéaire, proche de la frontière d'Afrique du Sud, au Mozambique située dans la grande réserve humide de **[Simangaliso](https://fr.wikipedia.org/wiki/Parc_de_la_zone_humide_d%27iSimangaliso){: target="_blank"}**. Par voie terrestre il faut environ 6h30 de voiture depuis l'aéroport de Durban. La frontière se passe facilement, mais il peut y avoir une longue attente, surtout pendant l'été. C'est un endroit très prisé des Sud-Africains, il y a beaucoup de lodges et de clubs de plongée sur place.
 
   Les mises à l'eau du zodiac avec l'aide des plongeurs, se font depuis la plage, puis il faut passer les vagues, ce qui rend les plongées un peu sportives.
 

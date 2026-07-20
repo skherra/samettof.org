@@ -16,7 +16,7 @@ visited-in: Décembre 2018
 h1: 🇲🇬 Madagascar
 
 country-desc: |
-  **[ Nosy Be](https://fr.wikipedia.org/wiki/Nosy_Be){: target="_blank"}** est une île située au nord-ouest de "la grande Terre"&nbsp;: Madagascar. C'est un point de chute agréable pour plonger à Madagascar dans le canal du Mozambique. Les plongées se font le long du grand plateau qui longe la côté malgache. Au sud se trouve l'Archipel des Radama, au nord l'Archipel des Mitsio.
+  **[Nosy Be](https://fr.wikipedia.org/wiki/Nosy_Be){: target="_blank"}** est une île située au nord-ouest de "la grande Terre"&nbsp;: Madagascar. C'est un point de chute agréable pour plonger à Madagascar dans le canal du Mozambique. Les plongées se font le long du grand plateau qui longe la côté malgache. Au sud se trouve l'Archipel des Radama, au nord l'Archipel des Mitsio.
 
   Nous avons effectué une croisière autour de l'archipel des **Radama** en partant de Nosy Be jusqu'à l'île Nosy Saba. Que ce soit au niveau topographie des sites comme les Trois Roches, Greg Wall ou le Banc du cyclone, le nord-ouest de Madagascar offre un panorama riche et varié&nbsp;: Gorgones géantes, arches, pentes douces sableuses pour du gros comme du petit ... <br />Les plongées se font en dérivantes, mais nous n'avions que très peu de courant et une assez bonne visibilité pour la période (fin décembre).
 

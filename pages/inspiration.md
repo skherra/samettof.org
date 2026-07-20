@@ -30,12 +30,12 @@ h1: Inspirations voyages ...
 
 <i class="fa fa-video-camera"></i> **[Blue Planet 2](https://www.imdb.com/video/vi3313810457?ref_=nv_sr_srsg_2){: target="_blank"}**{: .accent-color}
 
-<i class="fa fa-book"></i> **[À quoi pensent les poissons ? ](https://www.laplage.fr/catalogue/a-quoi-pensent-les-poissons-jonathan-balcombe/){: target="_blank"}**{: .accent-color} de Jonathan Balcombe
+<i class="fa fa-book"></i> **[À quoi pensent les poissons ?](https://www.laplage.fr/catalogue/a-quoi-pensent-les-poissons-jonathan-balcombe/){: target="_blank"}**{: .accent-color} de Jonathan Balcombe
 
-<i class="fa fa-video-camera"></i> **[How Wolves Change Rivers ](https://www.youtube.com/watch?v=ysa5OBhXz-Q){: target="_blank"}**{: .accent-color}
+<i class="fa fa-video-camera"></i> **[How Wolves Change Rivers](https://www.youtube.com/watch?v=ysa5OBhXz-Q){: target="_blank"}**{: .accent-color}
 
 <i class="fa fa-book"></i> **[Si loin du monde](https://fr.wikipedia.org/wiki/Si_loin_du_monde){: target="_blank"}**{: .accent-color} de Tavae Raioaoa
 
-<i class="fa fa-book"></i> **[ Contes et légendes des temps anciens de Tahiti et ses îles](https://www.auventdesiles.pf/catalogue/collections/jeunesse/histoires-legendes-des-temps-anciens-de-tahiti-et-des-iles/){: target="_blank"}**{: .accent-color} de Emy-Louis Dufour
+<i class="fa fa-book"></i> **[Contes et légendes des temps anciens de Tahiti et ses îles](https://www.auventdesiles.pf/catalogue/collections/jeunesse/histoires-legendes-des-temps-anciens-de-tahiti-et-des-iles/){: target="_blank"}**{: .accent-color} de Emy-Louis Dufour
 
 <i class="fa fa-book"></i> **[Hawaiian legend of Volcanoes](https://www.goodreads.com/book/show/6401875-hawaiian-legends-of-volcanoes){: target="_blank"}**{: .accent-color} de W.D Westervelt

@@ -18,7 +18,7 @@ h1: 🇲🇽 Mexique Yucatán
 country-desc: |
   **[Cozumel](https://fr.wikipedia.org/wiki/Cozumel){: target="_blank"}** au Mexique est rendue célèbre dans les années 60 par le commandant Cousteau. Les sites de Palancar (traduction de Palanquée) sont de très beaux sites de faunes fixés situés sur la barrière corallienne de la mer des caraïbes. Zone protégée, cela se ressent, tous les poissons tropicaux sont de très grandes tailles et en profusion.
 
-  La péninsule du **[ Yucatan](https://fr.wikipedia.org/wiki/Yucat%C3%A1n){: target="_blank"}** regorge de spots de plongées, mais les plus fameux restent l'île de Cozumel et les [**cénotes**](https://fr.wikipedia.org/wiki/C%C3%A9note){: target="_blank"} entre Playa del Carmen et Tulum. Les cénotes, ou puits sacrés offrent des ombres et lumières à couper le souffle.
+  La péninsule du **[Yucatan](https://fr.wikipedia.org/wiki/Yucat%C3%A1n){: target="_blank"}** regorge de spots de plongées, mais les plus fameux restent l'île de Cozumel et les [**cénotes**](https://fr.wikipedia.org/wiki/C%C3%A9note){: target="_blank"} entre Playa del Carmen et Tulum. Les cénotes, ou puits sacrés offrent des ombres et lumières à couper le souffle.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} À Cozumel, le best of **Palancar garden**.
 

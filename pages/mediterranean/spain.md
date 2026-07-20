@@ -26,7 +26,7 @@ dive-shop: |
   En juin 2005 et juin 2025.
   {: .visited-in}
 
-  **[ Unisub ](https://www.unisub.es/fr){: target="_blank"}**, club ayant pignon sur rue, nous l'avons préféré pour sa facilité à réserver, ses horaires (2 plongées matin et après-midi dont 2 sur Medes) et son bateau spacieux. Ils en ont un immense (20 personnes et plus), confortable avec WC, et un plus petit pour une dizaine de personnes. Il est possible de laisser ses affaires au club ou sur le gros bateau. Le bateau est à 10 min du club qui assure le transfert du matériel. Cela reste l'usine, si vous êtes autonomes débrouillez-vous ! Le briefing reste néanmoins clair et sympathique.
+  **[Unisub](https://www.unisub.es/fr){: target="_blank"}**, club ayant pignon sur rue, nous l'avons préféré pour sa facilité à réserver, ses horaires (2 plongées matin et après-midi dont 2 sur Medes) et son bateau spacieux. Ils en ont un immense (20 personnes et plus), confortable avec WC, et un plus petit pour une dizaine de personnes. Il est possible de laisser ses affaires au club ou sur le gros bateau. Le bateau est à 10 min du club qui assure le transfert du matériel. Cela reste l'usine, si vous êtes autonomes débrouillez-vous ! Le briefing reste néanmoins clair et sympathique.
 
 accommodation: |
   En juin 2025.
@@ -43,7 +43,7 @@ to-see: |
   La région reste riche en découverte&nbsp;:
 
   - Le site grec et romain d'**[Empuries](http://www.macempuries.cat/Sobre-el-MAC-Empuries/Itinerari-arqueologic){: target="_blank"}** est splendide.
-  - Les très beaux villages médiévaux comme  **Monells, Vullpellac, Ullastret, Canapost, [Peratallada](https://fr.wikipedia.org/wiki/Peratallada){: target="_blank"}, [ et Pals](https://www.spain.info/fr/destination/pals/){: target="_blank"}**. Flâner dans les rues de **[ Gérone](https://fr.wikipedia.org/wiki/G%C3%A9rone){: target="_blank"}**.
+  - Les très beaux villages médiévaux comme  **Monells, Vullpellac, Ullastret, Canapost, [Peratallada](https://fr.wikipedia.org/wiki/Peratallada){: target="_blank"}, [et Pals](https://www.spain.info/fr/destination/pals/){: target="_blank"}**. Flâner dans les rues de **[Gérone](https://fr.wikipedia.org/wiki/G%C3%A9rone){: target="_blank"}**.
   - Un panorama 360 du haut des remparts du **[Chateau de Montgris](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Montgr%C3%AD){: target="_blank"}**, après une courte randonnée.
 
 log-books:

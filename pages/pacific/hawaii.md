@@ -38,7 +38,7 @@ accommodation: |
   En mai 2016.
   {: .visited-in}
 
-  Sur Big Island&nbsp;: **[ B&B](http://www.makaihale.com/){: target="_blank"}** au nord de Big Island aux hôtes charmants et discrets, piscine et jacuzzi à disposition, et quelle vue les volcans et la mer&nbsp;...
+  Sur Big Island&nbsp;: **[B&B](http://www.makaihale.com/){: target="_blank"}** au nord de Big Island aux hôtes charmants et discrets, piscine et jacuzzi à disposition, et quelle vue les volcans et la mer&nbsp;...
 
   Sur Kauai&nbsp;: **[Prince Kuhio](http://www.prince-kuhio.com/){: target="_blank"}**&nbsp;: Location d'appartements dans une jolie résidence, à la sortie de Poipu à deux pas de la plage. Les appartements rooftops sont superbes&nbsp;!
 
@@ -46,7 +46,7 @@ to-see: |
   En mai 2016.
   {: .visited-in}
 
-  Big Island&nbsp;: les randonnées dans le **[ Volcano Park](https://www.nps.gov/havo/index.htm){: target="_blank"}** et admirer la lave de nuit. <br/>Les sites archéologiques **Petroglyphes**, **[Pu'uhonua o Honaunau](https://www.nps.gov/puho/index.htm){: target="_blank"}**&nbsp;... <br/>Savourer le bon **Café** du centre de Big Island. <br/>Aller tout en haut de **[Mauna Kea](https://fr.wikipedia.org/wiki/Mauna_Kea){: target="_blank"}**.
+  Big Island&nbsp;: les randonnées dans le **[Volcano Park](https://www.nps.gov/havo/index.htm){: target="_blank"}** et admirer la lave de nuit. <br/>Les sites archéologiques **Petroglyphes**, **[Pu'uhonua o Honaunau](https://www.nps.gov/puho/index.htm){: target="_blank"}**&nbsp;... <br/>Savourer le bon **Café** du centre de Big Island. <br/>Aller tout en haut de **[Mauna Kea](https://fr.wikipedia.org/wiki/Mauna_Kea){: target="_blank"}**.
 
   Kauai&nbsp;: **[Na pali coast](https://en.wikipedia.org/wiki/N%C4%81_Pali_Coast_State_Park){: target="_blank"}** canyon, randonnées grandioses.
 

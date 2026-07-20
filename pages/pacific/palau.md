@@ -36,7 +36,7 @@ accommodation: |
   En février 2020.
   {: .visited-in}
 
-  **[ DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}** à 15 min à pied du centre-ville de Koror, c'est un hôtel familial, avec de grandes chambres et un lobby / terrasse donnant sur le jardin. La clientèle est plutôt japonaise&nbsp;: plongeurs et surfeurs. L'ambiance est calme et fort sympathique. Il y a une cuisine à disposition.
+  **[DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}** à 15 min à pied du centre-ville de Koror, c'est un hôtel familial, avec de grandes chambres et un lobby / terrasse donnant sur le jardin. La clientèle est plutôt japonaise&nbsp;: plongeurs et surfeurs. L'ambiance est calme et fort sympathique. Il y a une cuisine à disposition.
 
   Il y a plusieurs locations d'appartements à tous les prix, ce qui reste pratique pour être un peu "chez soi" s'il l'on reste plus d'une semaine, nous avions apprécié le **Coconut house@Koror**.
 
@@ -44,9 +44,9 @@ to-see: |
   En février 2020.
   {: .visited-in}
 
-  Le **[ Jellyfish Lake](https://en.wikipedia.org/wiki/Jellyfish_Lake){: target="_blank"}** est une attraction phare de Palaos, un des 5 lacs aux méduses est ouvert au public (rouvert depuis 2 ans). L'expérience de nager parmi ces méduses qui ont perdu leur faculté urticante est assez magique.
+  Le **[Jellyfish Lake](https://en.wikipedia.org/wiki/Jellyfish_Lake){: target="_blank"}** est une attraction phare de Palaos, un des 5 lacs aux méduses est ouvert au public (rouvert depuis 2 ans). L'expérience de nager parmi ces méduses qui ont perdu leur faculté urticante est assez magique.
 
-  Un tour en Cessna avec **[ Smile air](https://smile-air.com){: target="_blank"}** pour voir la beauté des île de Palaos d'en haut, une très belle expérience.
+  Un tour en Cessna avec **[Smile air](https://smile-air.com){: target="_blank"}** pour voir la beauté des île de Palaos d'en haut, une très belle expérience.
 
 log-books:
 - author: Sam

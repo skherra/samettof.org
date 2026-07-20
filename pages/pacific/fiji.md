@@ -32,7 +32,7 @@ dive-shop: |
 
   **[Tavenui dive <i class="fa fa-heart"></i>](http://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** possède 3 bateaux sur une petite marina à 2 minutes à pied du resort. Le plus gros bateau peut accueillir 9 plongeurs. Il y a cinq dive masters. Nous avons plongé avec David et Alfred, deux locaux passionnés. Les palanquées sont maxi de 5-6 personnes, nous n'avons jamais refait le même site durant la semaine. <br/>Les sites sont à 15 minutes en bateau de la marina. Deux plongées le matin à partir de 8h et une proposée l'après-midi mais cette dernière reste compliquée au niveau horaire "Fidji Time" <i class="fa fa-smile-o"></i>
 
-  **[<i class="fa fa-ship"></i> Fiji Aggressor ](http://www.aggressor.com/){: target="_blank"}**  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac. <br/>Depuis 2019, cette croisière a été retirée du site aggressor.
+  **[<i class="fa fa-ship"></i> Fiji Aggressor](http://www.aggressor.com/){: target="_blank"}**  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac. <br/>Depuis 2019, cette croisière a été retirée du site aggressor.
 
 accommodation: |
   En septembre 2018.
@@ -47,7 +47,7 @@ accommodation: |
 to-see: |
   À Nadi&nbsp;: **Fidji escence and spa**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
 
-  À Suva&nbsp;: **[ Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
+  À Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
 
   À Gau ou Taveuni&nbsp;: Se faire inviter au village de **Somossomo**, pour discuter avec les villageois, écouter leurs chants et manger une délicieuse cuisine locale.
 

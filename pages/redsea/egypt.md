@@ -41,7 +41,7 @@ dive-shop: |
   En septembre 2022.
   {: .visited-in}
 
-  **[ Diving Attitude](https://divingattitude.com/){: target="_blank"}** possède à l'heure actuelle deux bateaux et propose plusieurs croisières. L'Exocet est un beau bateau récent d'une capacité de 25 personnes avec des cabines très grandes. Ils privilégient les plongeurs autonomes. Le Nitrox est inclus, il y a au maximum 3 plongées par jour. L'ambiance est bonne, mais nous avons regretté de plonger tous en même temps sur les mêmes sites. L'Exocet reste l'un des meilleurs bateaux de croisière que l'on ait fait au niveau du confort, de la propreté et de la nourriture.
+  **[Diving Attitude](https://divingattitude.com/){: target="_blank"}** possède à l'heure actuelle deux bateaux et propose plusieurs croisières. L'Exocet est un beau bateau récent d'une capacité de 25 personnes avec des cabines très grandes. Ils privilégient les plongeurs autonomes. Le Nitrox est inclus, il y a au maximum 3 plongées par jour. L'ambiance est bonne, mais nous avons regretté de plonger tous en même temps sur les mêmes sites. L'Exocet reste l'un des meilleurs bateaux de croisière que l'on ait fait au niveau du confort, de la propreté et de la nourriture.
 
 accommodation: |
   En décembre 2021.
@@ -49,7 +49,7 @@ accommodation: |
 
   Le **[Steigenberger Nile Palace](https://www.steigenberger.com/fr/hotels/tous-les-hotels/egypte/luxor/steigenberger-nile-palace){: target="_blank"}** (à Luxor) est l'ex Méridien. Très grand complexe hôtelier, avec une très belle vue sur la vallée des rois, il propose plusieurs restaurants et un accueil chaleureux.
 
-  **[ Oasis Diving Resort](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/){: target="_blank"}** (au nord de Marsa Alam) propose des petits bungalows très agréables. Ceux face à la mer ont une vue époustouflante notamment au lever de soleil. L'endroit est très calme et dédié aux plongeurs (principalement germanophones). Le resort offre des packages avec la demi-pension, la cuisine est variée et très correcte. Le seul bémol est qu'il faille acheter des bouteilles d'eau en plastique tous les jours, alors que ce pays souffre de la pollution et des décharges sauvages, nous avons trouvé que ce n'était pas très approprié.
+  **[Oasis Diving Resort](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/){: target="_blank"}** (au nord de Marsa Alam) propose des petits bungalows très agréables. Ceux face à la mer ont une vue époustouflante notamment au lever de soleil. L'endroit est très calme et dédié aux plongeurs (principalement germanophones). Le resort offre des packages avec la demi-pension, la cuisine est variée et très correcte. Le seul bémol est qu'il faille acheter des bouteilles d'eau en plastique tous les jours, alors que ce pays souffre de la pollution et des décharges sauvages, nous avons trouvé que ce n'était pas très approprié.
 
 to-see: |
   En décembre 2021.

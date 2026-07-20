@@ -36,14 +36,14 @@ accommodation: |
   En mai 2015.
   {: .visited-in}
 
-  **[ Casa Blanca Guest House](http://www.casablancaguesthouse.com/){: target="_blank"}** à San Ignaco, charmante guest house, un pied à terre idéal pour la visite du pays Maya. Il est possible de réserver des tours avec de très bons guides locaux.
+  **[Casa Blanca Guest House](http://www.casablancaguesthouse.com/){: target="_blank"}** à San Ignaco, charmante guest house, un pied à terre idéal pour la visite du pays Maya. Il est possible de réserver des tours avec de très bons guides locaux.
 
-  **[ Isla Marisol Resort](https://islamarisolresort.com/){: target="_blank"}**, à la mode Robinson. Le restaurant et les huttes sont sommaires ainsi que l'accueil. Les horaires des repas ne sont pas adaptés à la plongée qui reste la seule activité de ce resort. Le resort était envahi de mouches de sables quand nous y étions.
+  **[Isla Marisol Resort](https://islamarisolresort.com/){: target="_blank"}**, à la mode Robinson. Le restaurant et les huttes sont sommaires ainsi que l'accueil. Les horaires des repas ne sont pas adaptés à la plongée qui reste la seule activité de ce resort. Le resort était envahi de mouches de sables quand nous y étions.
 
 to-see: |
   **San Ignacio** : S'enfoncer dans la grotte **[ATM](https://en.wikivoyage.org/wiki/Actun_Tunichil_Muknal){: target="_blank"}** et les fascinants temples Mayas. <br> Faites votre propre chocolat à partir de la fève cacao chez **Ajaw Chocolate**.
 
-   **[Tikal](https://fr.wikipedia.org/wiki/Tikal){: target="_blank"}**, et **[ Yaxha](https://fr.wikipedia.org/wiki/Yaxha){: target="_blank"}** au Guatemala. À deux pas de la frontière avec le Belize.
+   **[Tikal](https://fr.wikipedia.org/wiki/Tikal){: target="_blank"}**, et **[Yaxha](https://fr.wikipedia.org/wiki/Yaxha){: target="_blank"}** au Guatemala. À deux pas de la frontière avec le Belize.
 
 log-books:
   - author: Sam
