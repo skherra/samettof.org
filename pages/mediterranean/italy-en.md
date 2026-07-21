@@ -48,7 +48,7 @@ dive-shop: |
   In September 2025.
   {: .visited-in}
 
-  **[Blue Diving Ustica](https://www.bluedivingustica.it/fr/){: target="_blank"}**, a really friendly club that handles transfers and accommodation booking. They have two rigid inflatables for 12 divers max, and provide guides. 15 L tanks for everyone and small groups by level make for enjoyable hour-long dives. We dived with Davide and Paolo, very good, smiling guides who speak French and English. During the surface interval, a little tea-and-cake snack is also offered (rare enough in Europe to be worth mentioning). The club typically goes out for 2 dives in the morning, but returns to the harbor in between.
+  **[Blue Diving Ustica](https://www.bluedivingustica.it/en/){: target="_blank"}**, a really friendly club that handles transfers and accommodation booking. They have two rigid inflatables for 12 divers max, and provide guides. 15 L tanks for everyone and small groups by level make for enjoyable hour-long dives. We dived with Davide and Paolo, very good, smiling guides who speak French and English. During the surface interval, a little tea-and-cake snack is also offered (rare enough in Europe to be worth mentioning). The club typically goes out for 2 dives in the morning, but returns to the harbor in between.
 
   In September 2021.
   {: .visited-in}
@@ -72,7 +72,7 @@ to-see: |
   In September 2025.
   {: .visited-in}
 
-  All the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,&nbsp;...
+  All the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/en/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,&nbsp;...
 
   In September 2021.
   {: .visited-in}

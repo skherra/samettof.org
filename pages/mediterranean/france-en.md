@@ -34,7 +34,7 @@ country-desc-sections:
     The water is only clear one month a year, according to locals&nbsp;! There's a lot of particulate matter, and marine life stays between 0 and 20 meters. The sites are fairly close to one another. The topography is beautiful, with small cavities, long canyons, arches. Some sites aren't easy to find if you don't know the area well, because of the low visibility.
 - title: Riou
   text: |
-    The **[Riou archipelago <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/fr/archipel-iles-riou-marseille){: target="_blank"}**, in the Calanques national park, is simply stunning. You reach the marine reserve via the channel by **[Île Maïre](https://en.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** and Cap Croisette, the islands are sanctuaries for birds, and for divers.
+    The **[Riou archipelago <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/en/riou-archipelago){: target="_blank"}**, in the Calanques national park, is simply stunning. You reach the marine reserve via the channel by **[Île Maïre](https://en.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** and Cap Croisette, the islands are sanctuaries for birds, and for divers.
 
     Walls of purple, blue, red or yellow gorgonians. Life teems around the submerged rocky pinnacles, caves and tunnels. It's a party for groupers and octopus, but barracudas and scorpionfish aren't left out either. The water there is very clear.
 
@@ -52,7 +52,7 @@ dive-shop: |
 
   **Cap Antibes**&nbsp;:
 
-  **[Easy dive](https://easydive.fr/){: target="_blank"}** at the harbor has a large aluminum boat. The atmosphere is good, and it's reasonably well organized. In summer, it gets really crowded, the club fills the boat to capacity, which isn't very pleasant either on the boat or in the water. The club runs one outing per half-day. Rates are quite expensive, though the club does offer a nice parking discount if you remember to ask for it.
+  **[Easy dive [FR]](https://easydive.fr/){: target="_blank"}** at the harbor has a large aluminum boat. The atmosphere is good, and it's reasonably well organized. In summer, it gets really crowded, the club fills the boat to capacity, which isn't very pleasant either on the boat or in the water. The club runs one outing per half-day. Rates are quite expensive, though the club does offer a nice parking discount if you remember to ask for it.
 
   **La Londe**&nbsp;:
 
@@ -101,7 +101,7 @@ to-see: |
 
   The small sculpture museum of the **[Master of Cabestany](https://en.wikipedia.org/wiki/Master_of_Cabestany){: target="_blank"}** near Perpignan, and of course **[Perpignan](https://en.wikipedia.org/wiki/Perpignan){: target="_blank"}** with the beautiful **[Palace of the Kings of Majorca](https://en.wikipedia.org/wiki/Palace_of_the_Kings_of_Majorca){: target="_blank"}**.
 
-  **[Marseille](https://en.wikipedia.org/wiki/Marseille){: target="_blank"}** and the **[Calanques national park](http://www.calanques-parcnational.fr/fr){: target="_blank"}**, with the calanques of Les Goudes and Cassis, and its little harbor at Miou,&nbsp;...
+  **[Marseille](https://en.wikipedia.org/wiki/Marseille){: target="_blank"}** and the **[Calanques national park](http://www.calanques-parcnational.fr/en){: target="_blank"}**, with the calanques of Les Goudes and Cassis, and its little harbor at Miou,&nbsp;...
 
 log-books:
 - author: Sam

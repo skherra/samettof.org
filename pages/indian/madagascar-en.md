@@ -40,7 +40,7 @@ accommodation: |
   In December 2018.
   {: .visited-in}
 
-  **[Gérard et Francine](http://www.gerard-et-francine.com/fr/){: target="_blank"}**, a charming hotel in a lovely house set back from Ambatoloaka beach, the rooms are small but the common areas are really nice. (Note&nbsp;: no air conditioning in the main building.)
+  **[Gérard et Francine](https://gerard-et-francine.com/index.php/en/){: target="_blank"}**, a charming hotel in a lovely house set back from Ambatoloaka beach, the rooms are small but the common areas are really nice. (Note&nbsp;: no air conditioning in the main building.)
 
   **[La Case Sakalava](http://www.case-sakalava.com/){: target="_blank"}**, up in the hills, simple but pleasant accommodation with half board and a diving package. The meals are generous. Beautiful view and absolute peace and quiet&nbsp;! The dive club is a 10-minute walk away on the beach.
 

@@ -54,7 +54,7 @@ dive-shop: |
   In January 2025.
   {: .visited-in}
 
-  The **[Papua Paradise](https://www.papuaparadise.com/fr/){: target="_blank"}** dive resort, run by Europeans, the bungalows are a bit dated, but the food, service and dive masters are excellent. A gentle break on Arefi island in Central Raja West. There's unfortunately a lot of debris brought in by the currents and tides, but you can spot schools of bumphead parrotfish, rays, sharks and plenty of birds without even leaving your lounger. They offer 3 dives a day plus a night dive, and with speedboats it's possible to reach more distant dive sites. They also offer land excursions for non-divers.
+  The **[Papua Paradise](https://www.papuaparadise.com/en/){: target="_blank"}** dive resort, run by Europeans, the bungalows are a bit dated, but the food, service and dive masters are excellent. A gentle break on Arefi island in Central Raja West. There's unfortunately a lot of debris brought in by the currents and tides, but you can spot schools of bumphead parrotfish, rays, sharks and plenty of birds without even leaving your lounger. They offer 3 dives a day plus a night dive, and with speedboats it's possible to reach more distant dive sites. They also offer land excursions for non-divers.
 
   In September 2017.
   {: .visited-in}
@@ -70,7 +70,7 @@ accommodation: |
   In September 2017.
   {: .visited-in}
 
-  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/fr/){: target="_blank"}**, in northern Sanur, set in a lush garden.
+  **[Bali Tropical Hotel](https://tropical-bali-hotel.com/){: target="_blank"}**, in northern Sanur, set in a lush garden.
 
   A lovely place with large rooms and a terrace. They take care of everything on site&nbsp;: massages, excursions, even ordering dinner&nbsp;!
 

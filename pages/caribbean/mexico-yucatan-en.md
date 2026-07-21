@@ -28,7 +28,7 @@ dive-shop: |
   In December 2016.
   {: .visited-in}
 
-  **[Phocéa Cozumel et Playa <i class="fa fa-heart"></i>](http://mexique-plongee.fr/){: target="_blank"}**  is a very large club, it offers several services including airport pickup from Cancún and interesting packages&nbsp;: Cozumel and/or Cenotes. The slightly impersonal welcome is quickly forgotten once underwater, where the guides are passionate and environmentally conscious (briefing on sunscreen and how fragile the corals are).
+  **[Phocéa Cozumel et Playa <i class="fa fa-heart"></i>](https://www.phocea-diving.com/){: target="_blank"}**  is a very large club, it offers several services including airport pickup from Cancún and interesting packages&nbsp;: Cozumel and/or Cenotes. The slightly impersonal welcome is quickly forgotten once underwater, where the guides are passionate and environmentally conscious (briefing on sunscreen and how fragile the corals are).
 
   It's possible to do 2 dives a day and a night dive on request. The only downside&nbsp;: crowded, with groups of mixed levels, including complete beginners alongside Level 2 divers and above.
 

@@ -27,9 +27,9 @@ country-desc: |
 country-desc-sections:
 - title: The Tuamotus
   text: |
-    The **[Tuamotu](https://fr.wikipedia.org/wiki/%C3%8Eles_Tuamotu){: target="_blank"}** archipelago in Polynesia is famous for its dive sites,&nbsp;...
+    The **[Tuamotu](https://en.wikipedia.org/wiki/Tuamotus){: target="_blank"}** archipelago in Polynesia is famous for its dive sites,&nbsp;...
 
-    Their reputation is well earned. Our absolute favorite is **[Fakarava <i class="fa fa-heart"></i>](https://en.wikipedia.org/wiki/Fakarava){: target="_blank"}**, **[a UNESCO biosphere reserve](https://www.mab-france.org/fr/reserve-de-biosphere/commune-de-fakarava/){: target="_blank"}**.
+    Their reputation is well earned. Our absolute favorite is **[Fakarava <i class="fa fa-heart"></i>](https://en.wikipedia.org/wiki/Fakarava){: target="_blank"}**, **[a UNESCO biosphere reserve](https://www.mab-france.org/en/biosphere-reserve/commune-of-fakarava/){: target="_blank"}**.
 
     The most extraordinary dives happen in the passes. You need to be comfortable with strong currents, but the show is worth it&nbsp;: "walls" of sharks, but not only that, spotted eagle rays, reef manta rays, dolphins, barracudas, dense schools of bigeyes (Ali Baba at North Fakarava), healthy hard corals, so much life,&nbsp;... A real paradise&nbsp;!
 
@@ -42,9 +42,9 @@ country-desc-sections:
     **Tikehau**&nbsp;: The pretty Tuheiava pass, more accessible than the others, lets you see barracudas, sennets, green and hawksbill turtles. The pearl farm site is a manta cleaning station at less than 10 meters.
 - title: The Society Islands
   text: |
-    The **[Society Islands](https://fr.wikipedia.org/wiki/Archipel_de_la_Soci%C3%A9t%C3%A9){: target="_blank"}** archipelago is made up of high islands (including Tahiti), geologically "young" islands.
+    The **[Society Islands](https://en.wikipedia.org/wiki/Society_Islands){: target="_blank"}** archipelago is made up of high islands (including Tahiti), geologically "young" islands.
 
-    We settled on **[Raiatea](https://www.tahitiheritage.pf/ile-raiatea/){: target="_blank"}** and **[Huahine](https://en.wikipedia.org/wiki/Huahine){: target="_blank"}**, two beautiful islands full of history and historical remains.
+    We settled on **[Raiatea [FR]](https://www.tahitiheritage.pf/ile-raiatea/){: target="_blank"}** and **[Huahine](https://en.wikipedia.org/wiki/Huahine){: target="_blank"}**, two beautiful islands full of history and historical remains.
 
     At **Raiatea**, there are several fairly fish-rich passes and the beautiful Nordby wreck. You can also dive at Tahaa on the Cérans pass, with some really beautiful topography.
 
@@ -53,11 +53,11 @@ country-desc-sections:
     Finally **[Moorea <i class="fa fa-heart"></i>](https://en.wikipedia.org/wiki/Moorea){: target="_blank"}**, to wrap up the Society Islands, a true favorite, wild and quiet while still being close to supplies and restaurants&nbsp;/ snack bars open around the clock,&nbsp;... The dives are really interesting, especially for the spotted eagle rays, green and hawksbill turtles and the very curious lemon sharks&nbsp;!! The sites are varied and easy. It would be a real shame to skip Moorea (reachable from Papeete by ferry).
 - title: The Marquesas
   text: |
-    We only did two dives in the **[Marquesas](https://fr.wikipedia.org/wiki/%C3%8Eles_Marquises){: target="_blank"}** because of the lack of infrastructure. The sea is rough and the dives are a bit challenging&nbsp;: poor visibility and swell possible down to 15 meters. People mainly come here for the beautiful and fairly numerous reef mantas and the big pelagics, especially silky, silvertip or hammerhead sharks.
+    We only did two dives in the **[Marquesas](https://en.wikipedia.org/wiki/Marquesas_Islands){: target="_blank"}** because of the lack of infrastructure. The sea is rough and the dives are a bit challenging&nbsp;: poor visibility and swell possible down to 15 meters. People mainly come here for the beautiful and fairly numerous reef mantas and the big pelagics, especially silky, silvertip or hammerhead sharks.
 
-    There's only a single dive club across the whole of the Marquesas, on **[Hiva Oa](https://fr.wikipedia.org/wiki/Hiva_Oa){: target="_blank"}**, and one dive cruise that covers the Marquesas.
+    There's only a single dive club across the whole of the Marquesas, on **[Hiva Oa](https://en.wikipedia.org/wiki/Hiva_Oa){: target="_blank"}**, and one dive cruise that covers the Marquesas.
 
-    That said, it's possible to rent tanks and dive independently on **[Nuku Hiva](https://fr.wikipedia.org/wiki/Nuku_Hiva){: target="_blank"}**.
+    That said, it's possible to rent tanks and dive independently on **[Nuku Hiva](https://en.wikipedia.org/wiki/Nuku_Hiva){: target="_blank"}**.
 
     The Fenua Enata ("The Land of Men") is big on hiking and stunning scenery, and it's packed with archaeological sites.
 
@@ -73,11 +73,11 @@ dive-shop: |
 
   **Rangiroa**&nbsp;: **[The 6 Passengers <i class="fa fa-heart"></i>](http://www.the6passengers.com/){: target="_blank"}**&nbsp;: A good-sized club, set up around a large deck facing the lagoon, perfect for lounging between dives. Several zodiacs. The guides and owners are passionate and always smiling. It's possible to do 3 dives a day, including one at dusk on request.
 
-  **Raiatea**&nbsp;: **[Hemisphere Sub](https://www.hemispheresub.com/fr/plongees.html){: target="_blank"}**, a large, friendly club located at the marina near the airport, 2 boats for 6 to 8 people, 4 instructors. Dives are scheduled the evening before for the next day, we appreciated Farid's WhatsApp messages offering à la carte dives.
+  **Raiatea**&nbsp;: **[Hemisphere Sub](https://www.hemispheresub.com/en/plongees.html){: target="_blank"}**, a large, friendly club located at the marina near the airport, 2 boats for 6 to 8 people, 4 instructors. Dives are scheduled the evening before for the next day, we appreciated Farid's WhatsApp messages offering à la carte dives.
 
-  **Moorea**&nbsp;: **[Moorea Fun Dive <i class="fa fa-heart"></i>](https://www.hemispheresub.com/fr/){: target="_blank"}**, a small club with Christian and Nathalie taking great care of us, not forgetting Philippe, really friendly and cheerful. A big favorite for this welcoming, passionate club. The team juggles levels and dive sites to keep everyone happy. Over more than a week on Moorea, we never did the same dive twice.
+  **Moorea**&nbsp;: **[Moorea Fun Dive <i class="fa fa-heart"></i>](https://www.hemispheresub.com/en/){: target="_blank"}**, a small club with Christian and Nathalie taking great care of us, not forgetting Philippe, really friendly and cheerful. A big favorite for this welcoming, passionate club. The team juggles levels and dive sites to keep everyone happy. Over more than a week on Moorea, we never did the same dive twice.
 
-  **Hiva Oa**&nbsp;: **[Marquises Diving](https://www.marquisesdiving.com/fr/){: target="_blank"}**, a small club run by Humu (note&nbsp;: in September 2020, Humu had lost his diving instructor). There's no proper dive shop, but the beautiful, brand-new boat, with a capacity of 12 people, is comfortable. There's only a pilot and a divemaster (Humu). The divemaster is more of a good excursion guide than a proper dive club owner. Safety is fairly nonexistent. The dives are more expensive than elsewhere.
+  **Hiva Oa**&nbsp;: **[Marquises Diving](https://www.marquisesdiving.com/en/){: target="_blank"}**, a small club run by Humu (note&nbsp;: in September 2020, Humu had lost his diving instructor). There's no proper dive shop, but the beautiful, brand-new boat, with a capacity of 12 people, is comfortable. There's only a pilot and a divemaster (Humu). The divemaster is more of a good excursion guide than a proper dive club owner. Safety is fairly nonexistent. The dives are more expensive than elsewhere.
 
   In May 2017.
   {: .visited-in}
@@ -86,7 +86,7 @@ dive-shop: |
 
   **Tikehau**&nbsp;: **[Raie Manta Club](http://www.raiemantaclub.com/){: target="_blank"}**&nbsp;: When we were there, there were three clubs on this tiny island, with a very poor atmosphere between them. There were only two of us on the boat, and we dived with the young couple running the club, though they were very serious, we felt the welcome and the soul of the place were both lacking.
 
-  **Huahine**&nbsp;: **[Pacific Blue Adventure <i class="fa fa-heart"></i>](https://www.pacific-blue-adventure.com/fr/){: target="_blank"}** _(the club has changed hands since our visit)_&nbsp;: Michel, the owner, offers really beautiful dives at reasonable prices. Cheerful and passionate about his job, he really cares about our satisfaction. Ask for a night dive in the Aquarium&nbsp;: more than 80 minutes underwater, followed by a debrief dinner in a nice spot. Comfortable boat, the club is right at the harbor, next to the pass, back to the club between dives, 2 dives a day in the morning, and a night dive on request.
+  **Huahine**&nbsp;: **[Pacific Blue Adventure <i class="fa fa-heart"></i>](https://www.pacific-blue-adventure.com/en/){: target="_blank"}** _(the club has changed hands since our visit)_&nbsp;: Michel, the owner, offers really beautiful dives at reasonable prices. Cheerful and passionate about his job, he really cares about our satisfaction. Ask for a night dive in the Aquarium&nbsp;: more than 80 minutes underwater, followed by a debrief dinner in a nice spot. Comfortable boat, the club is right at the harbor, next to the pass, back to the club between dives, 2 dives a day in the morning, and a night dive on request.
 
 accommodation: |
   Choose family-run guesthouses, they're by far the most authentic.
@@ -106,7 +106,7 @@ accommodation: |
 
   In **Moorea**&nbsp;: **Faré by the sea**, an Airbnb with Haivaki, an incredible view over Oponohu Bay, the house is very well equipped and comfortable. The host is easy to reach by message and very responsive. Best to have a car.
 
-  In **Nuku Hiva**&nbsp;: **[Pension Mave Mai](https://tahititourisme.fr/fr-fr/enterprise/mave-mai/){: target="_blank"}** simple and a bit rough around the edges, but a beautiful view from the terrace and the rooms. It's possible to arrange excursions through the guesthouse.
+  In **Nuku Hiva**&nbsp;: **[Pension Mave Mai](https://www.tahititourisme.com/service/mave-mai/){: target="_blank"}** simple and a bit rough around the edges, but a beautiful view from the terrace and the rooms. It's possible to arrange excursions through the guesthouse.
 
   In **Hiva Oa**&nbsp;: **[Chalets Hanakee](http://chaletshanakee.com/){: target="_blank"}**, a superb view over the bays and Hanakee islet, the chalets are beautiful and functional, the host's children are attentive, helpful and really kind. The chalets are quite far out from the village.
 
@@ -127,13 +127,13 @@ to-see: |
 
   Try your hand at surfing or paddleboarding at Papara or Papenoo, and go to the Tahiti Iti viewpoint.
 
-  In **Raiatea**&nbsp;: The road around the island is magnificent. Don't miss the great **[Taputapuatea marae](https://whc.unesco.org/fr/list/1529/){: target="_blank"}**, the street art in the town of Uturoa, the 3 waterfalls walk,&nbsp;...
+  In **Raiatea**&nbsp;: The road around the island is magnificent. Don't miss the great **[Taputapuatea marae](https://whc.unesco.org/en/list/1529/){: target="_blank"}**, the street art in the town of Uturoa, the 3 waterfalls walk,&nbsp;...
 
   In **Moorea**&nbsp;: The island loop road, the viewpoint and the walks&nbsp;: the Ancestors' Path around the maraes in the forest, and the Three Coconut Trees pass. From July to October, swim with the whales with **[Moorea Deep Blue](https://www.mooreadeepblue.com/){: target="_blank"}**, Jérôme and his amazing guide making sure we had the best possible time near the whales.
 
   In **North Fakarava**&nbsp;: Bike out to the north pass, and enjoy the beautiful beach at **PK9**.
 
-  In **Nuku Hiva**&nbsp;: There are lots of hikes you can easily do without a guide, it's best to rent a 4x4 to get around and tour the island. The drive down from the airport to the village of Taiohae is superb, and don't miss the beautiful **[Anaho Bay](https://www.tahitiheritage.pf/baie-anaho-nuku-hiva/){: target="_blank"}**, an easy hike.
+  In **Nuku Hiva**&nbsp;: There are lots of hikes you can easily do without a guide, it's best to rent a 4x4 to get around and tour the island. The drive down from the airport to the village of Taiohae is superb, and don't miss the beautiful **[Anaho Bay [FR]](https://www.tahitiheritage.pf/baie-anaho-nuku-hiva/){: target="_blank"}**, an easy hike.
 
   In **Hiva Oa**&nbsp;: There are some great excursions to do, like the giant Tiki, the smiling Tiki, and stunning views of northern and eastern Hiva Oa.
 
@@ -142,15 +142,15 @@ to-see: |
 
   In **the Tuamotus**, between dives, you'll go around the islands or motus pretty quickly, so make the most of walks on the beaches, teasing blacktip reef sharks and admiring the sunsets.
 
-  In **Tikehau**, go see **Hina's bell, [Te Oe A Hina](https://www.tahitiheritage.pf/tikehau-cloche-hina/){: target="_blank"}**.
+  In **Tikehau**, go see **Hina's bell, [Te Oe A Hina [FR]](https://www.tahitiheritage.pf/tikehau-cloche-hina/){: target="_blank"}**.
 
   In **Rangiroa**, sip a cocktail in a nice atmosphere at the **Te Mao** bar, the owner will drive you back to your guesthouse&nbsp;!
 
-  In **South Fakarava**, visit the village of **[Tetamanu](https://www.tahitiheritage.pf/oterava-tetamanu-fakarava/){: target="_blank"}**.
+  In **South Fakarava**, visit the village of **[Tetamanu [FR]](https://www.tahitiheritage.pf/oterava-tetamanu-fakarava/){: target="_blank"}**.
 
   In **Huahine**, set aside at least a day to tour the island&nbsp;:
 
-  Visit the many **[maraes](https://fr.wikipedia.org/wiki/Marae_en_Polyn%C3%A9sie_fran%C3%A7aise){: target="_blank"}**.
+  Visit the many **[maraes](https://en.wikipedia.org/wiki/Marae){: target="_blank"}**.
 
   Drive around the island as far as **Huahine Iti**.
 

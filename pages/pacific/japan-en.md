@@ -55,11 +55,11 @@ accommodation: |
   Iriomote&nbsp;: **[Pension Hoshinosuna](http://www.hoshinosuna.ne.jp/){: target="_blank"}**, a dive guesthouse, with a magnificent view over a starry-sand beach.
 
 to-see: |
-  **[Kyushu](https://en.wikipedia.org/wiki/Kyushu){: target="_blank"}** is full of beauty, with its volcanic landscapes, much less touristy than Honshu, and it's well worth the detour&nbsp;: a trek up Mount Aso, a walk around Miyazaki and the beautiful island of Aoshima, **[the Buddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  of Usuki and  **[Kumamoto Castle](https://en.wikipedia.org/wiki/Kumamoto_Castle){: target="_blank"}**.
+  **[Kyushu](https://en.wikipedia.org/wiki/Kyushu){: target="_blank"}** is full of beauty, with its volcanic landscapes, much less touristy than Honshu, and it's well worth the detour&nbsp;: a trek up Mount Aso, a walk around Miyazaki and the beautiful island of Aoshima, **[the Buddhas](https://en.japantravel.com/oita/the-stone-buddhas-of-usuki/7192){: target="_blank"}**  of Usuki and  **[Kumamoto Castle](https://en.wikipedia.org/wiki/Kumamoto_Castle){: target="_blank"}**.
 
   **[Yakushima](http://www.japan-guide.com/e/e4650.html){: target="_blank"}**&nbsp;: Take the time to drive around the island, soak up the forest that Miyazaki loved so much, and see the thousand-year-old cedars, including Jomon Sugi. Admire the temples with their toris on the beaches, and watch leatherback turtles nesting in season. (Operator **[Yes](http://www.yesyakushima.com/){: target="_blank"}**).
 
-  **[Iriomote](https://fr.wikivoyage.org/wiki/Iriomote){: target="_blank"}**&nbsp;: The island has no public transport, but the guesthouses handle getting you to the sites&nbsp;: to the north of the island, the beautiful starry-sand beach, and a trek near the Urauchi River to see some beautiful waterfalls.
+  **[Iriomote](https://en.wikivoyage.org/wiki/Iriomote){: target="_blank"}**&nbsp;: The island has no public transport, but the guesthouses handle getting you to the sites&nbsp;: to the north of the island, the beautiful starry-sand beach, and a trek near the Urauchi River to see some beautiful waterfalls.
 
 log-books:
 - author: Sam

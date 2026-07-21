@@ -53,7 +53,7 @@ accommodation: |
   In December 2021.
   {: .visited-in}
 
-  The **[Steigenberger Nile Palace](https://www.steigenberger.com/fr/hotels/tous-les-hotels/egypte/luxor/steigenberger-nile-palace){: target="_blank"}** (in Luxor) is the former Méridien. A very large hotel complex, with a beautiful view over the Valley of the Kings, offering several restaurants and a warm welcome.
+  The **[Steigenberger Nile Palace](https://hrewards.com/en/steigenberger-nile-palace-luxor){: target="_blank"}** (in Luxor) is the former Méridien. A very large hotel complex, with a beautiful view over the Valley of the Kings, offering several restaurants and a warm welcome.
 
   **[Oasis Diving Resort](https://www.oasis-marsaalam.com/en/diving-at-the-beautiful-house-reef/){: target="_blank"}** (north of Marsa Alam) offers really pleasant small bungalows. The ones facing the sea have a breathtaking view, especially at sunrise. The place is very quiet and dedicated to divers (mostly German-speaking). The resort offers half-board packages, with varied and pretty solid food. The only downside is having to buy plastic water bottles every day, which felt out of place given that this country already struggles with pollution and illegal dumping.
 

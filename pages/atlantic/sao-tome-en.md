@@ -28,7 +28,7 @@ dive-shop: |
   In May 2019.
   {: .visited-in}
 
-   **[Atlantic Diving Center](https://www.atlanticdivingcenter.com/fr/index.html){: target="_blank"}**, located at the Santana club&nbsp;: you'll need a car to get there, or stay at the club. Alberto put together a perfectly balanced week of dives for us. The dives are drift dives, the sites furthest from the club are a 40-minute boat ride away (Pedras). They run 2 outings a day.
+   **[Atlantic Diving Center](https://www.atlanticdivingcenter.com/){: target="_blank"}**, located at the Santana club&nbsp;: you'll need a car to get there, or stay at the club. Alberto put together a perfectly balanced week of dives for us. The dives are drift dives, the sites furthest from the club are a 40-minute boat ride away (Pedras). They run 2 outings a day.
 
   The club has a big, powerful boat (10 people), but not really set up for diving&nbsp;: a toilet with no pump, no benches, no roof for shade, and a small dinghy (4 people) that's actually more practical.
 
@@ -38,7 +38,7 @@ accommodation: |
   In May 2019.
   {: .visited-in}
 
-  **[Club Santana](https://www.clubsantana.com/fr/home){: target="_blank"}**&nbsp;: has its own dive club, sparing you the cost and time of transfers. The club is luxurious and comfortable, with a seawater pool and a jacuzzi facing the bay. Note that prices are 5 times higher than on the rest of the island. There's an evening of entertainment once a week, on Saturdays, an excellent BBQ on the beach bar, which means the rest of the time it's quiet <i class="fa fa-smile-o"></i>. We can only recommend staying elsewhere on the island to see the real São Tomé.
+  **[Club Santana](https://www.clubsantana.com/en/home){: target="_blank"}**&nbsp;: has its own dive club, sparing you the cost and time of transfers. The club is luxurious and comfortable, with a seawater pool and a jacuzzi facing the bay. Note that prices are 5 times higher than on the rest of the island. There's an evening of entertainment once a week, on Saturdays, an excellent BBQ on the beach bar, which means the rest of the time it's quiet <i class="fa fa-smile-o"></i>. We can only recommend staying elsewhere on the island to see the real São Tomé.
 
   **Casa Tiago** **<i class="fa fa-heart"></i>**{: .accent-color} in the pretty little village of Belém, a few minutes from Trinidade, in the "jungle", is a small, very comfortable and well-equipped traditional wooden house. Arcadio, its owner (also the owner of Casa Ediana), is a welcoming host who's passionate about showing off his island off the beaten path and close to the local people.
 
@@ -46,7 +46,7 @@ to-see: |
   In May 2019.
   {: .visited-in}
 
-  São Tomé City&nbsp;: Taste the chocolate of passionate chocolatier **[Claudio Corallo](https://claudiocorallo.com/index.php?lang=fr&Itemid=1322){: target="_blank"}** and visit **Cacau**, the contemporary art gallery of local artists.
+  São Tomé City&nbsp;: Taste the chocolate of passionate chocolatier **[Claudio Corallo](https://claudiocorallo.com/index.php?lang=en&Itemid=1322){: target="_blank"}** and visit **Cacau**, the contemporary art gallery of local artists.
 
   Around Trinidade&nbsp;: Visit the **[Monté Café](https://en.wikipedia.org/wiki/Monte_Caf%C3%A9){: target="_blank"}** museum and the **San Nicolau** waterfall.
 
