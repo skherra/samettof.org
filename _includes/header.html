@@ -9,12 +9,6 @@
     <a href="{{ home }}"><img src="/assets/img/dive-flag.webp" class="rounded-circle profile-picture" width="40" height="40" alt="" loading="lazy" /></a>
   </div>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <span class="navbar-text" id="lang">
-      {%- assign pages = site.pages | where:"ref", page.ref | sort: 'lang' -%}
-      {%- for p in pages -%}
-        {%if p.lang != page.lang %}<a href="{{ p.url }}" class="lang-flag">{{ p.lang-flag }}</a>{% endif %}
-      {%- endfor -%}
-    </span>
     <ul class="navbar-nav">
       {% for item in site.data.menu -%}
         {%- if item.sublabels -%}
@@ -40,6 +34,12 @@
         {% endif -%}
       {%- endfor -%}
     </ul>
+    <span class="navbar-text ml-auto" id="lang">
+      {%- assign pages = site.pages | where:"ref", page.ref | sort: 'lang' -%}
+      {%- for p in pages -%}
+        <a href="{{ p.url }}" class="lang-flag">{{ p.lang-flag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}
+      {%- endfor -%}
+    </span>
   </div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
