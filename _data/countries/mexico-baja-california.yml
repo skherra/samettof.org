@@ -5,15 +5,15 @@ atmosphere: 90
 
 water-temperatures:
   - fr-water-temperature-period: En avril à Socorro
-    en-water-temperature-period: In September
+    en-water-temperature-period: In April at Socorro
     water-temperature: 22-25
   - fr-water-temperature-period: En mai à Cabo Pulmo
-    en-water-temperature-period: Southern winter
+    en-water-temperature-period: In May at Cabo Pulmo
     water-temperature: 20-22
 best-seasons:
   - fr-best-season-from: octobre
     fr-best-season-to: mai
-    en-best-season-from: November
+    en-best-season-from: October
     en-best-season-to: May
 
 fauna:

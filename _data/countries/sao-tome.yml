@@ -10,9 +10,9 @@ water-temperatures:
 
 best-seasons:
   - fr-best-season-from: septembre
-    fr-best-season-to: fin mars
+    fr-best-season-to: mars
     en-best-season-from: September
-    en-best-season-to: end of March
+    en-best-season-to: March
 
 fauna:
   - fr-name: Anémones jaunes et vertes

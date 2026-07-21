@@ -1,19 +1,19 @@
 - num: 1
   img: 0001.webp
   fr-name: janvier
-  en-name: Jan
+  en-name: January
 - num: 2
   img: 0002.webp
   fr-name: février
-  en-name: Feb
+  en-name: February
 - num: 3
   img: 0003.webp
   fr-name: mars
-  en-name: Mar
+  en-name: March
 - num: 4
   img: 0004.webp
   fr-name: avril
-  en-name: Apr
+  en-name: April
 - num: 5
   img: 0005.webp
   fr-name: mai
@@ -21,28 +21,28 @@
 - num: 6
   img: 0006.webp
   fr-name: juin
-  en-name: Jun
+  en-name: June
 - num: 7
   img: 0007.webp
   fr-name: juillet
-  en-name: Jul
+  en-name: July
 - num: 8
   img: 0008.webp
   fr-name: août
-  en-name: Aug
+  en-name: August
 - num: 9
   img: 0009.webp
   fr-name: septembre
-  en-name: Sep
+  en-name: September
 - num: 10
   img: 0010.webp
   fr-name: octobre
-  en-name: Oct
+  en-name: October
 - num: 11
   img: 0011.webp
   fr-name: novembre
-  en-name: Nov
+  en-name: November
 - num: 12
   img: 0012.webp
   fr-name: décembre
-  en-name: Dec
+  en-name: December

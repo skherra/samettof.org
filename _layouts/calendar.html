@@ -12,14 +12,28 @@
 
 
 
+      {%- if page.lang == "fr" -%}
+        {%- assign monthField = "fr-name" -%}
+        {%- assign seasonFromField = "fr-best-season-from" -%}
+        {%- assign seasonToField = "fr-best-season-to" -%}
+      {%- else -%}
+        {%- assign monthField = "en-name" -%}
+        {%- assign seasonFromField = "en-best-season-from" -%}
+        {%- assign seasonToField = "en-best-season-to" -%}
+      {%- endif -%}
+
       <div id="calendarPortfolio" class="container-fluid p-5">
         <div class="row">
           {% for cal in site.data.calendar -%}
-          <div class="modal fade" id="{{ cal.fr-name }}Modal" tabindex="-1" role="dialog" aria-labelledby="{{ cal.fr-name }}Modal" aria-hidden="true">
+          <div class="modal fade" id="{{ cal[monthField] }}Modal" tabindex="-1" role="dialog" aria-labelledby="{{ cal[monthField] }}Modal" aria-hidden="true">
             <div class="modal-dialog" role="document">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title">Où partir en {{ cal.fr-name }} ?</h5>
+                  {%- if page.lang == "fr" -%}
+                  <h5 class="modal-title">Où partir en {{ cal[monthField] }} ?</h5>
+                  {%- else -%}
+                  <h5 class="modal-title">Where to go in {{ cal[monthField] }}?</h5>
+                  {%- endif -%}
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
@@ -29,8 +43,8 @@
                   {%- capture destinations -%}
                     {%- for countrie in site.data.countries -%}
 
-                      {%- assign datefrom=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-from -%}
-                      {%- assign dateto=site.data.calendar | where:"fr-name", countrie[1].best-seasons[0].fr-best-season-to -%}
+                      {%- assign datefrom=site.data.calendar | where: monthField, countrie[1].best-seasons[0][seasonFromField] -%}
+                      {%- assign dateto=site.data.calendar | where: monthField, countrie[1].best-seasons[0][seasonToField] -%}
                       {%- assign targets = site.pages | where : "ref", countrie[0] | where : "lang", page.lang -%}
 
                       {%- if datefrom[0].num > dateto[0].num -%}
@@ -62,10 +76,10 @@
           </div>
           <div class="col-md-4 p-3 m-0 text-center portfolio-span">
             <span>
-              <img src="/photos/calendar/{{ cal.img | replace: '.jpg', '.webp' }}" alt="{{ cal.fr-name }}" loading="lazy" />
+              <img src="/photos/calendar/{{ cal.img | replace: '.jpg', '.webp' }}" alt="{{ cal[monthField] }}" loading="lazy" />
               <div class="portfolio-item-content">
-                <a href="#{{ cal.fr-name }}Modal" role="button" data-toggle="modal" data-target="#{{ cal.fr-name }}Modal">
-                  <h3>{{cal.fr-name}}</h3>
+                <a href="#{{ cal[monthField] }}Modal" role="button" data-toggle="modal" data-target="#{{ cal[monthField] }}Modal">
+                  <h3>{{ cal[monthField] }}</h3>
                 </a>
                 <!--
               -->
