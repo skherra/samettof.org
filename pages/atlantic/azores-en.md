@@ -44,7 +44,7 @@ to-see: |
 
   São Miguel is nicknamed the green island&nbsp;: you can dive, hike and surf there.
 
-  - **[Hiking](https://trails.visitazores.com/en/azores-trails/sao-miguel){: target="_blank"}**, with our top picks&nbsp;: **Serra Devassa PRC05**, an easy and very varied hike near Sete Cidades, with the beautiful viewpoints over the Blue and Green lakes, along a road that's very popular with tourists, and **Janela do Inferno PRC37**, on the Lagoa side, for the views and the aqueducts along the way.
+  - **[Hiking](https://trails.visitazores.com/en/islands/sao-miguel-0){: target="_blank"}**, with our top picks&nbsp;: **Serra Devassa PRC05**, an easy and very varied hike near Sete Cidades, with the beautiful viewpoints over the Blue and Green lakes, along a road that's very popular with tourists, and **Janela do Inferno PRC37**, on the Lagoa side, for the views and the aqueducts along the way.
   - The **Nordeste** road and its beautiful miradouros are stunning, and less crowded too.
   - No need to linger in **Ponta Delgada**, but plan a few hours to admire the center and the fine buildings, including the churches. The 3 museums are quite small and free on Sundays. There are also two lovely botanical gardens.
 
