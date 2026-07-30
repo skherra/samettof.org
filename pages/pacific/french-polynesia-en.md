@@ -44,7 +44,7 @@ country-desc-sections:
   text: |
     The **[Society Islands](https://en.wikipedia.org/wiki/Society_Islands){: target="_blank"}** archipelago is made up of high islands (including Tahiti), geologically "young" islands.
 
-    We settled on **[Raiatea [FR]](https://www.tahitiheritage.pf/ile-raiatea/){: target="_blank"}** and **[Huahine](https://en.wikipedia.org/wiki/Huahine){: target="_blank"}**, two beautiful islands full of history and historical remains.
+    We settled on **[Raiatea](https://www.tahitiheritage.pf/ile-raiatea/){: target="_blank"}** and **[Huahine](https://en.wikipedia.org/wiki/Huahine){: target="_blank"}**, two beautiful islands full of history and historical remains.
 
     At **Raiatea**, there are several fairly fish-rich passes and the beautiful Nordby wreck. You can also dive at Tahaa on the Cérans pass, with some really beautiful topography.
 
@@ -133,7 +133,7 @@ to-see: |
 
   In **North Fakarava**&nbsp;: Bike out to the north pass, and enjoy the beautiful beach at **PK9**.
 
-  In **Nuku Hiva**&nbsp;: There are lots of hikes you can easily do without a guide, it's best to rent a 4x4 to get around and tour the island. The drive down from the airport to the village of Taiohae is superb, and don't miss the beautiful **[Anaho Bay [FR]](https://www.tahitiheritage.pf/baie-anaho-nuku-hiva/){: target="_blank"}**, an easy hike.
+  In **Nuku Hiva**&nbsp;: There are lots of hikes you can easily do without a guide, it's best to rent a 4x4 to get around and tour the island. The drive down from the airport to the village of Taiohae is superb, and don't miss the beautiful **[Anaho Bay](https://www.tahitiheritage.pf/baie-anaho-nuku-hiva/){: target="_blank"}**, an easy hike.
 
   In **Hiva Oa**&nbsp;: There are some great excursions to do, like the giant Tiki, the smiling Tiki, and stunning views of northern and eastern Hiva Oa.
 
@@ -142,11 +142,11 @@ to-see: |
 
   In **the Tuamotus**, between dives, you'll go around the islands or motus pretty quickly, so make the most of walks on the beaches, teasing blacktip reef sharks and admiring the sunsets.
 
-  In **Tikehau**, go see **Hina's bell, [Te Oe A Hina [FR]](https://www.tahitiheritage.pf/tikehau-cloche-hina/){: target="_blank"}**.
+  In **Tikehau**, go see **Hina's bell, [Te Oe A Hina](https://www.tahitiheritage.pf/tikehau-cloche-hina/){: target="_blank"}**.
 
   In **Rangiroa**, sip a cocktail in a nice atmosphere at the **Te Mao** bar, the owner will drive you back to your guesthouse&nbsp;!
 
-  In **South Fakarava**, visit the village of **[Tetamanu [FR]](https://www.tahitiheritage.pf/oterava-tetamanu-fakarava/){: target="_blank"}**.
+  In **South Fakarava**, visit the village of **[Tetamanu](https://www.tahitiheritage.pf/oterava-tetamanu-fakarava/){: target="_blank"}**.
 
   In **Huahine**, set aside at least a day to tour the island&nbsp;:
 

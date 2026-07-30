@@ -18,7 +18,7 @@ h1: Travel inspirations&nbsp;...
 
 ## <span>Our inspirations</span>
 
-<i class="fa fa-book"></i> **[Fishpedia [FR]](https://www.fishipedia.fr/){: target="_blank"}**{: .accent-color}
+<i class="fa fa-book"></i> **[Fishpedia](https://www.fishipedia.fr/){: target="_blank"}**{: .accent-color}
 
 <i class="fa fa-book"></i> **[Le tour du monde en 80 plongées d'exception](https://www.babelio.com/livres/Mioulane-Le-tour-du-monde-en-80-plongees-dexception/283395){: target="_blank"}**{: .accent-color} by Patrick Mioulane and Raymond Sahuquet
 
@@ -36,6 +36,6 @@ h1: Travel inspirations&nbsp;...
 
 <i class="fa fa-book"></i> **[Si loin du monde](https://fr.wikipedia.org/wiki/Si_loin_du_monde){: target="_blank"}**{: .accent-color} by Tavae Raioaoa
 
-<i class="fa fa-book"></i> **[Contes et légendes des temps anciens de Tahiti et ses îles [FR]](https://www.auventdesiles.pf/catalogue/collections/jeunesse/histoires-legendes-des-temps-anciens-de-tahiti-et-des-iles/){: target="_blank"}**{: .accent-color} by Emy-Louis Dufour
+<i class="fa fa-book"></i> **[Contes et légendes des temps anciens de Tahiti et ses îles](https://www.auventdesiles.pf/catalogue/collections/jeunesse/histoires-legendes-des-temps-anciens-de-tahiti-et-des-iles/){: target="_blank"}**{: .accent-color} by Emy-Louis Dufour
 
 <i class="fa fa-book"></i> **[Hawaiian legend of Volcanoes](https://www.goodreads.com/book/show/6401875-hawaiian-legends-of-volcanoes){: target="_blank"}**{: .accent-color} by W.D Westervelt

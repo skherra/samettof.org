@@ -52,7 +52,7 @@ dive-shop: |
 
   **Cap Antibes**&nbsp;:
 
-  **[Easy dive [FR]](https://easydive.fr/){: target="_blank"}** at the harbor has a large aluminum boat. The atmosphere is good, and it's reasonably well organized. In summer, it gets really crowded, the club fills the boat to capacity, which isn't very pleasant either on the boat or in the water. The club runs one outing per half-day. Rates are quite expensive, though the club does offer a nice parking discount if you remember to ask for it.
+  **[Easy dive](https://easydive.fr/){: target="_blank"}** at the harbor has a large aluminum boat. The atmosphere is good, and it's reasonably well organized. In summer, it gets really crowded, the club fills the boat to capacity, which isn't very pleasant either on the boat or in the water. The club runs one outing per half-day. Rates are quite expensive, though the club does offer a nice parking discount if you remember to ask for it.
 
   **La Londe**&nbsp;:
 
