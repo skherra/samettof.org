@@ -7,7 +7,7 @@
         <div class="member-photo">
           <img alt="{{ item.name }}" src="/photos/home-team/{{ item.img | replace: '.jpg', '.webp' }}" loading="lazy" />
           <div class="row">
-          <div class="col-md-6 member-social"><a href="https://www.instagram.com/{{ item.insta }}/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a></div>
+          <div class="col-md-6 member-social">{% if item.insta %}<a href="https://www.instagram.com/{{ item.insta }}/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}</div>
           <div class="col-md-6 member-name">{{ item.name }}</div>
         </div>
       </div>
