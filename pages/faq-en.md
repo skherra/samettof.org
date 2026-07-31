@@ -69,7 +69,7 @@ qa:
   I: fa-camera-retro
   Q: What camera gear do we use&nbsp;?
   A: |
-    We use a small, latest-generation **Sealife** camera with no separate housing. It's compact and practical for every type of dive. Its built-in filters are available at a shortcut. An extra lens is required for macro shots.
+    We use a small **Olympus** camera with a housing. It's compact and convenient for all types of dives. Its macro mode and color reproduction are incredible. Its built-in filters are accessible via shortcuts.
 
     A **GoPro** for footage and videos, from which we also pull photos. The GoPro is mounted on a mini tripod to help stabilize the shot.
 

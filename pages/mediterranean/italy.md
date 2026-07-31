@@ -20,9 +20,9 @@ country-desc: |
 
   En Sardaigne, nous étions impressionnés par la topographie et les canyons. Sur Ustica, nous avons trouvé beaucoup plus de vie, des boules d'anchois ou de sardines chassées par des carangues et de petits thons sur les secs, sans oublier les gros mérous.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Lavezzi** (Corse)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of de Sardaigne&nbsp;: **Lavezzi** (Corse)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Scoglio de Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of d'Ustica&nbsp;: **Scoglio de Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
 
 country-desc-sections:
 - title: La Sardaigne

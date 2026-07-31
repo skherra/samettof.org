@@ -69,7 +69,7 @@ qa:
   I: fa-camera-retro
   Q: Quel est notre matériel photo&nbsp;?
   A: |
-    Nous utilisons un petit appareil **Sealife** dernière génération sans caisson. Il est compact et pratique pour tous les types de plongées. Ses filtres intégrés sont disponibles en raccourci. Une lentille en sus est obligatoire pour la macro.
+    Nous utilisons un petit appareil **Olympus** avec caisson. Il est compact et pratique pour tous les types de plongées. Son mode macro et les rendus des couleurs sont incroyables. Ses filtres intégrés sont disponibles en raccourci.
 
     Une **GoPro** pour le rendu et les vidéos dont on extrait des photos. La GoPro est montée sur un mini trépied permettant de stabiliser la prise de vue.
 

@@ -20,9 +20,9 @@ country-desc: |
 
   In Sardinia, we were struck by the topography and the canyons. At Ustica, we found a lot more life&nbsp;: balls of anchovies or sardines hunted by jacks and small tuna over the seamounts, not to mention the big groupers.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Lavezzi** (Corsica)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Sardigna&nbsp;: **Lavezzi** (Corsica)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Scoglio del Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Ustica&nbsp;: **Scoglio del Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
 
 country-desc-sections:
 - title: Sardinia
