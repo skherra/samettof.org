@@ -12,7 +12,7 @@ description: Sam & Tof - Scuba diving in the Mediterranean in France
 
 sea: mediterranean
 menu: France
-visited-in: May, June 2021 and July, August 2023
+visited-in: May, June 2021, July and August 2023, August 2026
 h1: 🇫🇷 France
 
 country-desc: |
@@ -24,7 +24,7 @@ country-desc: |
 
   Reachable by train or plane, you'll need a car to get around. Remember to book dive clubs in advance, as most only take reservations.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Canadelles** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou)&nbsp;; **Planier** (Marseille).
 
 country-desc-sections:
 - title: Cerbère Banyuls
@@ -39,6 +39,11 @@ country-desc-sections:
     Walls of purple, blue, red or yellow gorgonians. Life teems around the submerged rocky pinnacles, caves and tunnels. It's a party for groupers and octopus, but barracudas and scorpionfish aren't left out either. The water there is very clear.
 
     Unfortunately, since the archipelago is just 20 minutes by boat from the large harbor of Pointe Rouge, there are a lot of dive boats, especially on weekends.
+- title: Marseille
+  text: |
+    **[Le Planier <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/%C3%8Ele_de_Planier){: target="_blank"}**, in the Calanques national park, is simply extraordinary. It's 25 minutes by boat from the old port, in calm weather. It's the lighthouse of Marseille.
+
+    There's something for everyone here, wrecks, walls, with beautiful fixed marine life and plenty of fish, moray eels in open water, big groupers, dentex, sea bream, scorpionfish&nbsp;... With great visibility and the morning light, the topography is lovely.
 - title: Porquerolles
   text: |
     The island of **[Porquerolles](https://en.wikipedia.org/wiki/Porquerolles){: target="_blank"}** in the Var is a 20-minute boat ride from the coast. Together with Giens and Port-Cros, there are at least 40 sites to discover. On Porquerolles, we didn't dive much, but we came across lots of groupers, moray eels and barracudas. The topography is beautiful, and it made us want to go back.
@@ -47,6 +52,13 @@ country-desc-sections:
     Diving at Cap d'Antibes, in the Alpes-Maritimes, remains an enjoyable experience. The water is clear and warm in summer. We dived at the Cap, at La Fourmigue (lighthouse), and came across small barracudas, moray eels and octopus.
 
 dive-shop: |
+  In August 2026.
+  {: .visited-in}
+
+  **Marseille**&nbsp;:
+
+  **[Le bateau jaune](https://www.lebateaujaune.com/){: target="_blank"}** on the old port has three boats, two of which are rigid inflatables. Several time slots per boat, and an impeccable, friendly service. Despite the crowds, everything is well organized and the instructors take the time for everyone. The living space is fairly large, with showers and toilets. Rates are quite affordable, and the gear is new.
+
   In July, August 2023.
   {: .visited-in}
 
@@ -76,6 +88,11 @@ dive-shop: |
 accommodation: |
   We always rented accommodation close to the dive clubs.
 
+  In August 2026.
+  {: .visited-in}
+
+  In **Marseille**, in Le Panier, **"Chez Mélanie"**, a cozy, spacious apartment.
+
   In July 2023.
   {: .visited-in}
 
@@ -89,6 +106,11 @@ accommodation: |
   In **Marseille**, our favorite <i class="fa fa-heart"></i> was **"le petit Borely"**, hosted by Sylvie and Philippe in the 8th arrondissement, with a beautiful terrace.
 
 to-see: |
+  In August 2026.
+  {: .visited-in}
+
+  Le Panier, the **[museum](https://musee-histoire.marseille.fr/){: target="_blank"}** of the history of Marseille for its impressive ships, and the **[Cosquer cave](https://www.grotte-cosquer.com/){: target="_blank"}**.
+
   In July 2023.
   {: .visited-in}
 

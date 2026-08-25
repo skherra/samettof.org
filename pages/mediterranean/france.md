@@ -109,7 +109,7 @@ to-see: |
  En août 2026.
   {: .visited-in}
 
-  Le panier, le **[musée](https://musee-histoire.marseille.fr/){: target="_blank"}** de l'histoire de la ville de marseille pour ces impressionnants bateaux, la **[grotte Cosque](https://www.grotte-cosquer.com/){: target="_blank"}**.
+  Le panier, le **[musée](https://musee-histoire.marseille.fr/){: target="_blank"}** de l'histoire de la ville de marseille pour ces impressionnants bateaux, la **[grotte Cosquer](https://www.grotte-cosquer.com/){: target="_blank"}**.
 
   En juillet 2023.
   {: .visited-in}
