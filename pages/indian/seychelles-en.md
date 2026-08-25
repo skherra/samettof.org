@@ -18,9 +18,9 @@ h1: 🇸🇨 Seychelles
 country-desc: |
   With more than 100 islands, the **[Seychelles](https://en.wikipedia.org/wiki/Seychelles){: target="_blank"}** archipelago sits in the Indian Ocean, between the Maldives and Madagascar. With its sharp granite landscapes and postcard-worthy white sand beaches, the Seychelles offer a great variety of dive sites with incredible wildlife. That said, the hard and soft corals suffered in 2014 and are gradually coming back to life.
 
-  We did a cruise around the **islands of Mahé, Praslin, La Digue, Grande Sœur, Petite Sœur and Félicité**, starting from Mahé. The dives are square-profile dives between 25 and 40 meters, sometimes in the middle of nowhere, with the dive director having discovered the sites himself&nbsp;! We had a bit of current and visibility that was fairly average to good for the Indian Ocean, with a strong swell. The most enjoyable dives remain around Mahé island.
+  We did a cruise around the **islands of Mahé, Praslin, La Digue, Grande Sœur, Petite Sœur and Félicité**, starting from Mahé. The dives are square-profile dives between 25 and 40 meters, sometimes in the middle of nowhere, with the dive director having discovered the sites himself! We had a bit of current and visibility that was fairly average to good for the Indian Ocean, with a strong swell. The most enjoyable dives remain around Mahé island.
 
-  The best of&nbsp;: **Shark banks**, **Dredger wrecks**, **L'Îlot** and **Bitter rocks**.
+  The best of: **Shark banks**, **Dredger wrecks**, **L'Îlot** and **Bitter rocks**.
 
 dive-shop: |
   In May 2022.
@@ -28,11 +28,11 @@ dive-shop: |
 
   **[Dive explorer](https://www.dive-explorer-seychelles.com/atolls-bird-denis/){: target="_blank"}**  offers 3- or 6-day cruises, with a capacity of 6 people. We were 4 guests, basically VIP diving. 3 to 4 dives a day, including a few night dives. A minimum of Level 2 is required.
 
-  One small downside though&nbsp;: the boat is small, a bit dated and lacking a bit in comfort, especially when it rains. In short, the value for money isn't great. Lunch is snacks, and dinner is a more elaborate, local dish.
+  One small downside though: the boat is small, a bit dated and lacking a bit in comfort, especially when it rains. In short, the value for money isn't great. Lunch is snacks, and dinner is a more elaborate, local dish.
 
   The crew is made up of 3 people (all locals), friendly and attentive, all divers, passionate and in good spirits.
 
-  **[Atoll divers <i class="fa fa-heart"></i>](https://atolldiverseychelles.com/){: target="_blank"}**, their boat, based at the small port of Bel Ombre, is spacious and has a toilet. You get there by minibus from the club. Two dives, morning or afternoon. A small, friendly operation with three guides. Probably for timing reasons, the dives are a bit short, 45 to 50 minutes. No nitrox, and the dives are relatively expensive, like everything in the Seychelles. But it's quickly forgotten thanks to the constant good mood, and Arthur and Sébastien, who are passionate underwater. Water and banana cake during the surface interval, a real treat,&nbsp;...
+  **[Atoll divers <i class="fa fa-heart"></i>](https://atolldiverseychelles.com/){: target="_blank"}**, their boat, based at the small port of Bel Ombre, is spacious and has a toilet. You get there by minibus from the club. Two dives, morning or afternoon. A small, friendly operation with three guides. Probably for timing reasons, the dives are a bit short, 45 to 50 minutes. No nitrox, and the dives are relatively expensive, like everything in the Seychelles. But it's quickly forgotten thanks to the constant good mood, and Arthur and Sébastien, who are passionate underwater. Water and banana cake during the surface interval, a real treat,...
 
 accommodation: |
   In May 2022.
@@ -46,7 +46,7 @@ to-see: |
   In May 2022.
   {: .visited-in}
 
-  We couldn't go trekking because of the rain, which made excursions a bit complicated, so we settled for touring the island and its beautiful hidden coves&nbsp;: Anse Royale, Anse à la Mouche.
+  We couldn't go trekking because of the rain, which made excursions a bit complicated, so we settled for touring the island and its beautiful hidden coves: Anse Royale, Anse à la Mouche.
 
   **[The Takamaka distillery](https://www.takamakarum.com/){: target="_blank"}**, with really enjoyable free guided tours, we even met the wife of one of the owners.
 
@@ -67,5 +67,5 @@ log-books:
   place: Anse Sévère - La Digue
   date: 20/05/2022
   text: |
-    An improvised night dive at Anse Sévère, we're like kids in a candy store, the site is so rich, sand and coral heads, we come across crabs, a sponge crab that's hard to make out, plenty of hermit crabs squatting various shells. Moray eels hunting in open water out of their holes. A real feast for the eyes. A curious batfish follows us the whole way. To finish, a few small cuttlefish at the surface, drawn in by our lights&nbsp;!
+    An improvised night dive at Anse Sévère, we're like kids in a candy store, the site is so rich, sand and coral heads, we come across crabs, a sponge crab that's hard to make out, plenty of hermit crabs squatting various shells. Moray eels hunting in open water out of their holes. A real feast for the eyes. A curious batfish follows us the whole way. To finish, a few small cuttlefish at the surface, drawn in by our lights!
 ---

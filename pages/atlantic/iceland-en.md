@@ -18,17 +18,17 @@ h1: 🇮🇸 Iceland
 country-desc: |
   **[Iceland](https://en.wikipedia.org/wiki/Iceland){: target="_blank"}** is a stunning island, washed by the Atlantic. It would be a shame to focus only on diving, since it's full of grand natural beauty.
 
-  A slightly "crazy" idea struck us, warm-water divers that we are&nbsp;: try cold-water diving (between 2 and 3 °C) and dive in a place unlike anywhere else in the world, the rift separating the Eurasian and North American continents&nbsp;: the legendary **[Silfra](https://en.wikipedia.org/wiki/Silfra#Scuba_diving){: target="_blank"}**. The extreme conditions are worth it, it's one of the most beautiful dives we've ever done.
+  A slightly "crazy" idea struck us, warm-water divers that we are: try cold-water diving (between 2 and 3 °C) and dive in a place unlike anywhere else in the world, the rift separating the Eurasian and North American continents: the legendary **[Silfra](https://en.wikipedia.org/wiki/Silfra#Scuba_diving){: target="_blank"}**. The extreme conditions are worth it, it's one of the most beautiful dives we've ever done.
 
-  Iceland does indeed offer unusual dives&nbsp;: in fissures, in lakes, or even in the ocean when conditions allow. The water in the fissures is demineralized and crystal clear, people come mainly for the beauty of the place and its topography.
+  Iceland does indeed offer unusual dives: in fissures, in lakes, or even in the ocean when conditions allow. The water in the fissures is demineralized and crystal clear, people come mainly for the beauty of the place and its topography.
 
   Another advantage is that you can dive there year-round, since the water temperature barely changes, only the outside temperature can force dives to be cancelled or make them more grueling (ice, snow, freezing wind).
 
   This type of diving requires a Padi Drysuit certification, or proof of 10 dives in a drysuit (open to Open Water divers). It can be done in a single day on site and combined with other packages afterwards.
 
-  Be careful though, some sites are more than 6 hours' drive from Reykjavik, like the Strytan site. We did 3 fissures&nbsp;: Barney's Crack, Silfra and David's Crack, all stunningly beautiful&nbsp;!!!
+  Be careful though, some sites are more than 6 hours' drive from Reykjavik, like the Strytan site. We did 3 fissures: Barney's Crack, Silfra and David's Crack, all stunningly beautiful!!!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a (probably non-exhaustive) description of possible dives in Iceland&nbsp;: [<i class="fa fa-map"></i>](https://www.dive.is/dive-sites){: target="_blank"}
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a (probably non-exhaustive) description of possible dives in Iceland: [<i class="fa fa-map"></i>](https://www.dive.is/dive-sites){: target="_blank"}
 
 dive-shop: |
   In March 2019.
@@ -52,13 +52,13 @@ to-see: |
   In March 2019.
   {: .visited-in}
 
-  Reykjavik is a small town you can go around quickly, but it has a few interesting attractions&nbsp;:
+  Reykjavik is a small town you can go around quickly, but it has a few interesting attractions:
 
   - **[Sundhöll pool](https://reykjavik.is/stadir/sundholl-reykjavikur){: target="_blank"}** and hot baths, very pleasant in cold weather.
   - **[The National Museum of Iceland](https://www.thjodminjasafn.is/){: target="_blank"}**, quite well done and interesting.
   - **[The Blue Lagoon](https://www.bluelagoon.com/){: target="_blank"}** for a relaxing soak in hot water.
 
-  The rest of Iceland to explore (visited in 2006)&nbsp;: **[the Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)){: target="_blank"}**, 45 min from Reykjavik, and the great South&nbsp;: **[Landmannalaugar](https://en.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**, Skaftafell, Jökulsárlón&nbsp;...
+  The rest of Iceland to explore (visited in 2006): **[the Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)){: target="_blank"}**, 45 min from Reykjavik, and the great South: **[Landmannalaugar](https://en.wikipedia.org/wiki/Landmannalaugar){: target="_blank"}**, Skaftafell, Jökulsárlón...
 
 log-books:
 - author: Tof
@@ -78,7 +78,7 @@ log-books:
   text: |
     Suited up in the parking lot, we wait for our turn to go in, since the fissure is narrow and crossed one-way only, the national park set up this rather clever system where only 4 divers go in at a time.
 
-    The cold grips us at first, but it's quickly forgotten thanks to the clarity of the water and the colors of the rock, the algae and the shades of blue. It's truly magical&nbsp;!
+    The cold grips us at first, but it's quickly forgotten thanks to the clarity of the water and the colors of the rock, the algae and the shades of blue. It's truly magical!
 
     We make our way through the fissure, the hole, the grand "cathedral" between the American and Eurasian plates, ending in a Caribbean-colored lagoon, which is Silfra's exit point.
 ---

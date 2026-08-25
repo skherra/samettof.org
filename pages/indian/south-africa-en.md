@@ -20,13 +20,13 @@ country-desc: |
 
   **[Umkomaas](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** ("cow whale" in Zulu) is the starting point for diving in the marine park, there are at least 4 dive clubs, and the small village sits a 45-minute drive from Durban airport.
 
-  Why cow whale&nbsp;? Southern right whales used to come and calve in the estuary.
+  Why cow whale? Southern right whales used to come and calve in the estuary.
 
-  With a sporty shore entry, low visibility, current, and good-sized sharks that aren't particularly shy, Aliwal Shoal will remain one of those guaranteed-thrills dive spots&nbsp;!
+  With a sporty shore entry, low visibility, current, and good-sized sharks that aren't particularly shy, Aliwal Shoal will remain one of those guaranteed-thrills dive spots!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the map of the dive sites&nbsp;: [<i class="fa fa-map"></i>](/docs/south-africa-alishoal-map.webp){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the map of the dive sites: [<i class="fa fa-map"></i>](/docs/south-africa-alishoal-map.webp){: target="_blank"}.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the map of the marine parks of southern and southeastern South Africa&nbsp;: [<i class="fa fa-map"></i>](/docs/south-africa-map.webp){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the map of the marine parks of southern and southeastern South Africa: [<i class="fa fa-map"></i>](/docs/south-africa-map.webp){: target="_blank"}.
 
 dive-shop: |
   In February 2018.
@@ -52,15 +52,15 @@ log-books:
     place: Raggie Cave
     date: 30/01/2018
     text: |
-      A descent onto Raggie Cave, visibility is improving but still only 5 to 6 meters, we spot beautiful ragged-tooth sharks, the famous "raggies", in an archway, a short drift dive, a few pretty anemones, on the sand we see a stingray at least 3 meters across. Every species is bigger here&nbsp;!!
+      A descent onto Raggie Cave, visibility is improving but still only 5 to 6 meters, we spot beautiful ragged-tooth sharks, the famous "raggies", in an archway, a short drift dive, a few pretty anemones, on the sand we see a stingray at least 3 meters across. Every species is bigger here!!
   - author: Sam
     place: Shark dive
     date: 31/01/2018
     text: |
-      A descent to 10 meters for some shark smelling, not a huge fan of this practice, but it's very common at Aliwal Shoal. Still, dozens of oceanic blacktip sharks brush calmly past us, drawn in by the scent. Some seem to charge straight at us and turn away at the last moment,&nbsp;... It stays impressive, and the sharks are majestic.
+      A descent to 10 meters for some shark smelling, not a huge fan of this practice, but it's very common at Aliwal Shoal. Still, dozens of oceanic blacktip sharks brush calmly past us, drawn in by the scent. Some seem to charge straight at us and turn away at the last moment,... It stays impressive, and the sharks are majestic.
   - author: Sam
     place: Manta Point
     date: 01/02/2018
     text: |
-      A descent into the channel, visibility is perfect, raggies, turtles, nudibranchs are all there, not to mention more than twenty stingrays&nbsp;! A beautiful last dive in South Africa that makes us want to come back,&nbsp;...
+      A descent into the channel, visibility is perfect, raggies, turtles, nudibranchs are all there, not to mention more than twenty stingrays! A beautiful last dive in South Africa that makes us want to come back,...
 ---

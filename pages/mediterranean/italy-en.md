@@ -18,18 +18,18 @@ h1: 🇮🇹 Italy
 country-desc: |
   Italy has several interesting Mediterranean dive spots, which we discovered rather late. In September, we found really good visibility, with more or less warm water (a slight thermocline). Every time, we were delighted by how professional and friendly the dive clubs were.
 
-  In Sardinia, we were struck by the topography and the canyons. At Ustica, we found a lot more life&nbsp;: balls of anchovies or sardines hunted by jacks and small tuna over the seamounts, not to mention the big groupers.
+  In Sardinia, we were struck by the topography and the canyons. At Ustica, we found a lot more life: balls of anchovies or sardines hunted by jacks and small tuna over the seamounts, not to mention the big groupers.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Sardigna&nbsp;: **Lavezzi** (Corsica)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Sardigna: **Lavezzi** (Corsica); **San Franscesco cave** (Caprera); **El Picchu** (Caprera).
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Ustica&nbsp;: **Scoglio del Medico** (Ustica)&nbsp;; **Seca della colombara** (Ustica)&nbsp;; **Punta Galera** (Ustica).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Ustica: **Scoglio del Medico** (Ustica); **Seca della colombara** (Ustica); **Punta Galera** (Ustica).
 
 country-desc-sections:
 - title: Sardinia
   text: |
     Northern Sardinia is simply gorgeous. With its very jagged coastline, overlooked by granite boulders, it offers small lagoon-colored beaches and natural pools. Right nearby, the Maddalena archipelago, and around a bend on some beach, you can spot Corsica.
 
-    You'll find the same topography underwater&nbsp;: very impressive rock formations that create beautiful walls dropping to nearly 30 meters. The dives are beautiful. It's a shame there isn't more fish, but the small stuff is a real treat (lots of nudibranchs, crabs, shrimp, a few seahorses and small gorgonians).
+    You'll find the same topography underwater: very impressive rock formations that create beautiful walls dropping to nearly 30 meters. The dives are beautiful. It's a shame there isn't more fish, but the small stuff is a real treat (lots of nudibranchs, crabs, shrimp, a few seahorses and small gorgonians).
 
     The water is warm and clear, and the climate is hot and humid in summer.
 
@@ -61,7 +61,7 @@ accommodation: |
   In September 2025.
   {: .visited-in}
 
-  The dive club offered us a wide choice of accommodation and booked it for us. We really loved **[Cleia vue mer <i class="fa fa-heart"></i>](https://www.bbcasacleliaustica.it/){: target="_blank"}**, run by an adorable couple&nbsp;: a really pleasant small shaded terrace, a good breakfast with homemade garden jams. Well equipped and quiet, this place is a bit out of the way but still reachable from the harbor.
+  The dive club offered us a wide choice of accommodation and booked it for us. We really loved **[Cleia vue mer <i class="fa fa-heart"></i>](https://www.bbcasacleliaustica.it/){: target="_blank"}**, run by an adorable couple: a really pleasant small shaded terrace, a good breakfast with homemade garden jams. Well equipped and quiet, this place is a bit out of the way but still reachable from the harbor.
 
   In September 2021.
   {: .visited-in}
@@ -72,12 +72,12 @@ to-see: |
   In September 2025.
   {: .visited-in}
 
-  All the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/en/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,&nbsp;...
+  All the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/en/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,...
 
   In September 2021.
   {: .visited-in}
 
-  Around **Palau**, a small seaside town without much to offer, the pretty beaches or stunning coves. Push on to **the tip of Sardinia**, where you'll find coves and lagoons along the way,&nbsp;...
+  Around **Palau**, a small seaside town without much to offer, the pretty beaches or stunning coves. Push on to **the tip of Sardinia**, where you'll find coves and lagoons along the way,...
 
   The **[Nuraghe](https://en.wikipedia.org/wiki/Nuraghe){: target="_blank"}** archaeological sites around Arzachena.
 
@@ -90,10 +90,10 @@ log-books:
   place: San Franscesco cave - Maddalena Archipelago
   date: 18/09/2021
   text: |
-    We descend along a granite rock face with beautiful shafts of sunlight, off Caprera island. We're spoiled&nbsp;: moray eels, shrimp in the crevices, a beautiful sea bream in the distance and a few mini groupers. We wind through small canyons in this maze of rocks. A really nice atmosphere. At the end of the dive, we go check out the "cave", which is actually a small tunnel opening onto a natural pool with turquoise water at 5m.
+    We descend along a granite rock face with beautiful shafts of sunlight, off Caprera island. We're spoiled: moray eels, shrimp in the crevices, a beautiful sea bream in the distance and a few mini groupers. We wind through small canyons in this maze of rocks. A really nice atmosphere. At the end of the dive, we go check out the "cave", which is actually a small tunnel opening onto a natural pool with turquoise water at 5m.
 - author: Sam
   place: Scoglio Medico
   date: 09/09/2025
   text: |
-    A descent among the rocks, we pass through crevices, there's a bit of current, we take a tunnel that leads to a beautiful, spacious cave&nbsp;; a few corals on the wall and a hermit crab we disturb with our lights. Then we exit the cave and head out into the blue, there's a lot of life, groups of groupers, several balls of anchovies being hunted by jacks and amberjacks. Stunning. We head back through canyons to reach the boat. Along the way we come across large black sea hares.
+    A descent among the rocks, we pass through crevices, there's a bit of current, we take a tunnel that leads to a beautiful, spacious cave; a few corals on the wall and a hermit crab we disturb with our lights. Then we exit the cave and head out into the blue, there's a lot of life, groups of groupers, several balls of anchovies being hunted by jacks and amberjacks. Stunning. We head back through canyons to reach the boat. Along the way we come across large black sea hares.
 ---

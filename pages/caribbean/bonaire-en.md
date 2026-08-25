@@ -18,7 +18,7 @@ h1: 🇧🇶 Bonaire
 country-desc: |
   **[Bonaire](https://en.wikipedia.org/wiki/Bonaire){: target="_blank"}** sits at the very south of the Caribbean, facing Venezuela, and together with Aruba and Curaçao forms the Dutch Leeward Antilles. Bonaire, like [Statia](/en/caribbean/statia/), is part of the Netherlands.
 
-  It's the paradise of independent diving, and along with [Belize](/en/caribbean/belize/) it's our favorite in the Caribbean  **<i class="fa fa-heart"></i>**{: .accent-color}. The sites are well preserved. Every dive is done from shore on the west coast, entry is fairly easy, as is orientation (there are usually good landmarks, a surface buoy anchored between 5 and 7 meters, or coral heads that are easy to spot). There's not really any current, but there can be some right at the south (White Slave, Margate Bay,&nbsp;...) and to the north in the park.
+  It's the paradise of independent diving, and along with [Belize](/en/caribbean/belize/) it's our favorite in the Caribbean  **<i class="fa fa-heart"></i>**{: .accent-color}. The sites are well preserved. Every dive is done from shore on the west coast, entry is fairly easy, as is orientation (there are usually good landmarks, a surface buoy anchored between 5 and 7 meters, or coral heads that are easy to spot). There's not really any current, but there can be some right at the south (White Slave, Margate Bay,...) and to the north in the park.
 
   With more than 81 sites, the island is packed with dive clubs offering hotel, truck and tank packages, or just tank fills.
 
@@ -26,13 +26,13 @@ country-desc: |
 
   Bonaire is reachable from Amsterdam after a 9.5-hour direct flight, with a technical stopover in Aruba on the way there. You need to pay a tourist tax and a marine park fee to dive.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Morgate Bay**, **Tori's reef**, **The Lake**, **Calabas**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of: **Morgate Bay**, **Tori's reef**, **The Lake**, **Calabas**.
 
 dive-shop: |
   In March and December 2022.
   {: .visited-in}
 
-  **[Tropical divers](https://www.tropicaldiversbonaire.com/){: target="_blank"}**&nbsp;: a family-run club offering a bungalow, car and tanks package. Attentive and always smiling, they sometimes offer extra dives too. There are enough tanks to switch between two dives without waiting. It's possible to dive outside the club's opening hours. The club has a good-sized spot to leave your gear to dry. There's no theft from the cars, but it's best to bring a lockbox for cash and keys.
+  **[Tropical divers](https://www.tropicaldiversbonaire.com/){: target="_blank"}**: a family-run club offering a bungalow, car and tanks package. Attentive and always smiling, they sometimes offer extra dives too. There are enough tanks to switch between two dives without waiting. It's possible to dive outside the club's opening hours. The club has a good-sized spot to leave your gear to dry. There's no theft from the cars, but it's best to bring a lockbox for cash and keys.
 
 accommodation: |
   In March and December 2022.
@@ -46,7 +46,7 @@ to-see: |
 
   You come here to dive, but touring the island is worth it too. The island is small, we enjoyed the south, the salt flats with their pink flamingos, wandering donkeys, pelicans and iguanas. The island is fairly arid, and despite the wind, the sun beats down and it gets hot.
 
-  The **Washington Slagbaai National Park** deserves at least half a day&nbsp;: a driving loop and a few hikes, beautiful views and plenty of birds to see.
+  The **Washington Slagbaai National Park** deserves at least half a day: a driving loop and a few hikes, beautiful views and plenty of birds to see.
 
 log-books:
 - author: Sam

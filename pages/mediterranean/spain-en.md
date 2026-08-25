@@ -22,19 +22,19 @@ country-desc: |
 
   The easiest way to reach Estartit is by road from Barcelona (2h30) or Perpignan (1h30).
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Tasco petit**&nbsp;; **La Vaca**&nbsp;; **El Dolfi**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of: **Tasco petit**; **La Vaca**; **El Dolfi**.
 
 dive-shop: |
   In June 2005 and June 2025.
   {: .visited-in}
 
-  **[Unisub](https://www.unisub.es/fr){: target="_blank"}**, an established, well-known club, we preferred it for how easy it is to book, its schedule (2 dives, morning and afternoon, including 2 at Medes) and its roomy boat. They have a huge one (20 people or more), comfortable, with a toilet, and a smaller one for around ten people. It's possible to leave your gear at the club or on the big boat. The boat is 10 minutes from the club, which handles transferring the equipment. It's still a bit of a factory, if you're independent, you're on your own&nbsp;! That said, the briefing stays clear and friendly.
+  **[Unisub](https://www.unisub.es/fr){: target="_blank"}**, an established, well-known club, we preferred it for how easy it is to book, its schedule (2 dives, morning and afternoon, including 2 at Medes) and its roomy boat. They have a huge one (20 people or more), comfortable, with a toilet, and a smaller one for around ten people. It's possible to leave your gear at the club or on the big boat. The boat is 10 minutes from the club, which handles transferring the equipment. It's still a bit of a factory, if you're independent, you're on your own! That said, the briefing stays clear and friendly.
 
 accommodation: |
   In June 2025.
   {: .visited-in}
 
-  The dive club offers a range of accommodation, we preferred renting an apartment at the end of the marina, close to the dive boat. There are lots of rentals, we were in a quiet spot in the apartments at the end of the road, with a stunning view,&nbsp;...
+  The dive club offers a range of accommodation, we preferred renting an apartment at the end of the marina, close to the dive boat. There are lots of rentals, we were in a quiet spot in the apartments at the end of the road, with a stunning view,...
 
 to-see: |
   In June 2025.
@@ -42,7 +42,7 @@ to-see: |
 
   Estartit no longer has anything of the old fishing village about it, there are a few good restaurants, a pretty beach and a hiking trail worth doing if the heat isn't too overwhelming.
 
-  The region remains rich with things to discover&nbsp;:
+  The region remains rich with things to discover:
 
   - The Greek and Roman site of **[Empúries](http://www.macempuries.cat/Sobre-el-MAC-Empuries/Itinerari-arqueologic){: target="_blank"}** is splendid.
   - The beautiful medieval villages like  **Monells, Vulpellac, Ullastret, Canapost, [Peratallada](https://en.wikipedia.org/wiki/Peratallada){: target="_blank"}, [and Pals](https://www.spain.info/en/destination/pals/){: target="_blank"}**. Wander the streets of **[Girona](https://en.wikipedia.org/wiki/Girona){: target="_blank"}**.
@@ -53,7 +53,7 @@ log-books:
   place: Tasco Petit - Medes
   date: 01/07/2025
   text: |
-    A dive along the ridge, a few barracudas greet us, visibility is clear. After a few minutes we reach the end, and there, a festival&nbsp;: about fifteen big groupers, a beautiful eagle ray, a school of barracuda. We spend a long time playing with these schools of big groupers.
+    A dive along the ridge, a few barracudas greet us, visibility is clear. After a few minutes we reach the end, and there, a festival: about fifteen big groupers, a beautiful eagle ray, a school of barracuda. We spend a long time playing with these schools of big groupers.
 
     Turning back, we come across a moray eel out in open water hunting near a hole, with marbled groupers watching over the leftovers. Lots of schools of fish. Magnificent.
 ---

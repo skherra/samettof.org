@@ -18,15 +18,15 @@ h1: 🇵🇼 Palau
 country-desc: |
   **[Palau](https://en.wikipedia.org/wiki/Palau){: target="_blank"}**, is an archipelago of 400 islands and islets between the Philippine Sea and the Pacific Ocean.
 
-  The young republic has bet on respecting the environment and protecting its islands&nbsp;: **[a pledge <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** that starts right at the customs stamp, along with nature reserves and a shark sanctuary (created in 2009).
+  The young republic has bet on respecting the environment and protecting its islands: **[a pledge <i class="fa fa-heart"></i>](https://palaupledge.com/){: target="_blank"}** that starts right at the customs stamp, along with nature reserves and a shark sanctuary (created in 2009).
 
-  This gem, a victim of its own success (diving, kayaking and other ocean-focused activities), encourages all-inclusive tours and fairly upscale tourism, state and park fees are very high. There's still far too much plastic sold in shops, water bottles, and little waste sorting,&nbsp;...
+  This gem, a victim of its own success (diving, kayaking and other ocean-focused activities), encourages all-inclusive tours and fairly upscale tourism, state and park fees are very high. There's still far too much plastic sold in shops, water bottles, and little waste sorting,...
 
   The islands of Palau are reachable by direct flight from Taipei, Seoul or Tokyo.
 
-  Every dive is a drift dive, very varied and rich&nbsp;: sharks, oceanic manta rays, but also hard and soft corals in abundance. Most sites are 45 minutes to 1 hour by speedboat from Koror. The clubs all offer the highlights to see the big stuff. They try to vary the sites as much as possible depending on conditions and divers. Some dives, like the cave or the wrecks, are only offered as a third dive (as an extra). The sites are fairly small, and there are sometimes several dive boats at the same spots.
+  Every dive is a drift dive, very varied and rich: sharks, oceanic manta rays, but also hard and soft corals in abundance. Most sites are 45 minutes to 1 hour by speedboat from Koror. The clubs all offer the highlights to see the big stuff. They try to vary the sites as much as possible depending on conditions and divers. Some dives, like the cave or the wrecks, are only offered as a third dive (as an extra). The sites are fairly small, and there are sometimes several dive boats at the same spots.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a description of the dive sites, the best of&nbsp;: **Blue Corner, Siaes Corner, Shark City, Peleliu Wall**&nbsp;: [<i class="fa fa-map"></i>](https://www.samstours.com/sams-diving){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a description of the dive sites, the best of: **Blue Corner, Siaes Corner, Shark City, Peleliu Wall**: [<i class="fa fa-map"></i>](https://www.samstours.com/sams-diving){: target="_blank"}.
 
 dive-shop: |
   In February 2020.
@@ -42,7 +42,7 @@ accommodation: |
   In February 2020.
   {: .visited-in}
 
-  **[DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}**, a 15-minute walk from downtown Koror, is a family-run hotel with large rooms and a lobby/terrace overlooking the garden. The clientele is mostly Japanese&nbsp;: divers and surfers. The atmosphere is calm and really pleasant. There's a kitchen available.
+  **[DW Motel](https://www.dwmotel-palau.com/){: target="_blank"}**, a 15-minute walk from downtown Koror, is a family-run hotel with large rooms and a lobby/terrace overlooking the garden. The clientele is mostly Japanese: divers and surfers. The atmosphere is calm and really pleasant. There's a kitchen available.
 
   There are several apartment rentals at all price points, which is handy for feeling a bit more "at home" if you're staying more than a week, we really liked the **Coconut House @ Koror**.
 
@@ -59,7 +59,7 @@ log-books:
   place: Shark City
   date: 07/02/2020
   text: |
-    An early morning dive, with a small, motivated group, to catch the spawning of the oceanic snapper. The current is medium, we descend onto the plateau at 26 meters to see a few scattered groups of snapper starting to spawn&nbsp;: they rise together near the surface and release eggs and sperm to be fertilized. It happens in 2 or 3 seconds and the group scatters. This phenomenon happens every full moon over 4 days. Other cannibalistic snapper try to eat the eggs. Once it's over, the snapper regroup, forming an actual wall to protect themselves from predators, indeed, bull and gray reef sharks aren't far off, waiting to grab exhausted snapper. We finned quite a bit to find a bigger group, and our efforts paid off, we were lucky enough to see a school of nearly 20,000 fish&nbsp;!! We stayed on the bottom for close to 15 minutes watching them. Very impressive and truly one of a kind&nbsp;!
+    An early morning dive, with a small, motivated group, to catch the spawning of the oceanic snapper. The current is medium, we descend onto the plateau at 26 meters to see a few scattered groups of snapper starting to spawn: they rise together near the surface and release eggs and sperm to be fertilized. It happens in 2 or 3 seconds and the group scatters. This phenomenon happens every full moon over 4 days. Other cannibalistic snapper try to eat the eggs. Once it's over, the snapper regroup, forming an actual wall to protect themselves from predators, indeed, bull and gray reef sharks aren't far off, waiting to grab exhausted snapper. We finned quite a bit to find a bigger group, and our efforts paid off, we were lucky enough to see a school of nearly 20,000 fish!! We stayed on the bottom for close to 15 minutes watching them. Very impressive and truly one of a kind!
 - author: Sam
   place: Saies Corner
   date: 07/02/2020

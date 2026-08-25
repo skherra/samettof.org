@@ -25,11 +25,11 @@ bubbles:
   day: ??
   icon: fa-ship
   content: |
-    Pacific Ocean&nbsp;: Cook, Tonga, Philippines,&nbsp;...
+    Pacific Ocean: Cook, Tonga, Philippines,...
 - month: ????
   day: ??
   icon: fa-ship
   content: |
-    Indian Ocean&nbsp;: Raja Ampat, Alor, Seychelles
+    Indian Ocean: Raja Ampat, Alor, Seychelles
 
 ---

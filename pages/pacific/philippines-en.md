@@ -20,7 +20,7 @@ country-desc: |
 
   There are a lot of cyclones in the Philippines, but between February and May the weather stays a bit milder around **[Palawan](https://en.wikipedia.org/wiki/Palawan){: target="_blank"}** and in the **[Visayas](https://en.wikipedia.org/wiki/Visayas){: target="_blank"}**.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the best of&nbsp;: **Barracuda Lake (Coron)**, **Okikawa Maru (Coron)**, **Shark Airport (Tubbataha)**, **Jessie Beagley (Tubbataha)**, **Kimud Shoal (Malapascua)**, **Dakit Dakit (Malapascua)**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the best of: **Barracuda Lake (Coron)**, **Okikawa Maru (Coron)**, **Shark Airport (Tubbataha)**, **Jessie Beagley (Tubbataha)**, **Kimud Shoal (Malapascua)**, **Dakit Dakit (Malapascua)**.
 
 country-desc-sections:
 - title: Coron
@@ -35,7 +35,7 @@ country-desc-sections:
     At **[Tubbataha](https://en.wikipedia.org/wiki/Tubbataha_Reef){: target="_blank"}**, via a cruise departing from Puerto Princesa, the two beautiful atolls treated us really well. Beautiful plateaus of hard coral and lovely gorgonians, with sharks on every dive but also turtles, Napoleon wrasse, jacks and barracudas make this spot the best in the Philippines, and we're ready to believe it. There's also tiny stuff like spider crabs and pygmy seahorses. There can be a strong current, and when it happens, beautiful surprises await out in the blue, like hammerheads at 40 meters. We had superb visibility. Tubbataha is 9 to 12 hours' sail from Puerto Princesa.
 - title: Moalboal
   text: |
-    **Moalboal**{: .accent-color} is a town in Cebu, one of the main islands of the Philippines, a 4-hour drive from Cebu City. The coast is beautiful and known for its sardine run, schools of sardines that live year-round in the bay, to the delight of snorkelers and divers. Pescador Island and the wall along the reef aren't left out either&nbsp;: turtles, pygmy seahorses, coral crabs, lots of small stuff, squat lobsters, brightly colored soft and hard corals, frogfish tucked in sponges,&nbsp;... The dives here are easy (all drift dives) and full of discoveries.
+    **Moalboal**{: .accent-color} is a town in Cebu, one of the main islands of the Philippines, a 4-hour drive from Cebu City. The coast is beautiful and known for its sardine run, schools of sardines that live year-round in the bay, to the delight of snorkelers and divers. Pescador Island and the wall along the reef aren't left out either: turtles, pygmy seahorses, coral crabs, lots of small stuff, squat lobsters, brightly colored soft and hard corals, frogfish tucked in sponges,... The dives here are easy (all drift dives) and full of discoveries.
 - title: Malapascua
   text: |
     **[Malapascua](https://en.wikipedia.org/wiki/Malapascua_Island){: target="_blank"}** is a small island north of Cebu. People mainly come here for the thresher sharks at Kimud Shoal. The other sites, like the Dakit pinnacle, are also worth seeing for the macro. There are a lot of divers at the sites, but the dive masters generally enforce the rules well, and courtesy is the norm.
@@ -57,7 +57,7 @@ dive-shop: |
 
   **[Tao Sangat Dive Resort <i class="fa fa-heart"></i>](https://sangat.com.ph/){: target="_blank"}**, the club is run by Tom, a rather laid-back Brit, but very attentive and accommodating. You can dive à la carte, and the dive masters are passionate and always smiling. There's nothing to carry, our gear was cleaned every day. The club is close to the wrecks and arranges good timing so that we're the only ones, or nearly so, at the sites.
 
-  **[<i class="fa fa-ship"></i> Seadoors <i class="fa fa-heart"></i>](https://seadoors.net/){: target="_blank"}**, a company owned by Pierre-Lo, a French diver and photographer, whom we had during the cruise. The boat has several living spaces for 16 people, at every break we ate varied, good meals. The dive masters Greg, Jeff and cruise director Axel are very professional and friendly. The itinerary and dive schedules are worked out so we're the only boat at each site&nbsp;: 4 dives a day, except on the first and last day. Two groups of 8 diving at staggered times, a big plus. The crew takes great care of us, towels waiting as we come out, we don't have to worry about our gear at all.
+  **[<i class="fa fa-ship"></i> Seadoors <i class="fa fa-heart"></i>](https://seadoors.net/){: target="_blank"}**, a company owned by Pierre-Lo, a French diver and photographer, whom we had during the cruise. The boat has several living spaces for 16 people, at every break we ate varied, good meals. The dive masters Greg, Jeff and cruise director Axel are very professional and friendly. The itinerary and dive schedules are worked out so we're the only boat at each site: 4 dives a day, except on the first and last day. Two groups of 8 diving at staggered times, a big plus. The crew takes great care of us, towels waiting as we come out, we don't have to worry about our gear at all.
 
 accommodation: |
   In February 2026.
@@ -74,7 +74,7 @@ accommodation: |
 
   **[Tao Sangat Dive Resort](https://sangat.com.ph/){: target="_blank"}** on Sangat island, they handle the transfer from Coron airport or the port. A small eco-lodge resort, where the food is excellent and the staff attentive. The view and the quiet are a given.
 
-  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** is a tiny resort a bit out of town with a stunning view for sunsets, on Caalan Beach. Don't hesitate to take a tuktuk along the beach from the ferry (it's poorly signposted, but they do go there,&nbsp;...). The resort is comfortable, with a single bungalow offering a view over the beautiful beach. They offer simple, inexpensive Filipino meals.
+  **[Angel Nido](https://www.angelnidoresort.com/){: target="_blank"}** is a tiny resort a bit out of town with a stunning view for sunsets, on Caalan Beach. Don't hesitate to take a tuktuk along the beach from the ferry (it's poorly signposted, but they do go there,...). The resort is comfortable, with a single bungalow offering a view over the beautiful beach. They offer simple, inexpensive Filipino meals.
 
   **Muting Paraiso**, a really restful hotel for a transit stop, a pleasant pool and Thai massage available. The chef serves tasty dishes.
 
@@ -91,10 +91,10 @@ log-books:
   place: Barracuda Lake
   date: 10/05/2023
   text: |
-    We arrive early to beat the crowds, and we're the first to go into the magnificent lake. Very quickly the temperature climbs to 38 degrees at 18 meters, then a halocline around 22 meters and the temperature becomes a bit more bearable again. We follow part of the lake to admire the moon-like walls, catfish, gobies, shrimp and a few sergeant majors seem to have gotten lost in this lake. A really original dive, and we come back out around 9am to quite a crowd&nbsp;!!
+    We arrive early to beat the crowds, and we're the first to go into the magnificent lake. Very quickly the temperature climbs to 38 degrees at 18 meters, then a halocline around 22 meters and the temperature becomes a bit more bearable again. We follow part of the lake to admire the moon-like walls, catfish, gobies, shrimp and a few sergeant majors seem to have gotten lost in this lake. A really original dive, and we come back out around 9am to quite a crowd!!
 - author: Sam
   place: Jessie Beagley
   date: 25/05/2023
   text: |
-    We go in on the plateau against the current, gorgeous visibility and light, barracudas, gray reef sharks, jacks. We swim out into the blue to look out for hammerheads, after about 5 minutes, one comes close to us, then two more, good-sized ones, circle around us for 10 minutes, magical. Back on the coral plateau, a turtle, coral catsharks, and a school of fairly relaxed batfish let us get close. A magnificent finish to wrap up the trip&nbsp;!
+    We go in on the plateau against the current, gorgeous visibility and light, barracudas, gray reef sharks, jacks. We swim out into the blue to look out for hammerheads, after about 5 minutes, one comes close to us, then two more, good-sized ones, circle around us for 10 minutes, magical. Back on the coral plateau, a turtle, coral catsharks, and a school of fairly relaxed batfish let us get close. A magnificent finish to wrap up the trip!
 ---

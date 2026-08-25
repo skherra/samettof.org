@@ -22,7 +22,7 @@ country-desc: |
 
   The Azores remain, for us, the most beautiful dives we've done in the Atlantic.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} the best of&nbsp;: **Dori, Mirror, Formigas, Gruta Azul, Ambrosio**&nbsp;
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} the best of: **Dori, Mirror, Formigas, Gruta Azul, Ambrosio**&nbsp;
 
 dive-shop: |
   In July 2024.
@@ -42,9 +42,9 @@ to-see: |
   In July 2024.
   {: .visited-in}
 
-  São Miguel is nicknamed the green island&nbsp;: you can dive, hike and surf there.
+  São Miguel is nicknamed the green island: you can dive, hike and surf there.
 
-  - **[Hiking](https://trails.visitazores.com/en/islands/sao-miguel-0){: target="_blank"}**, with our top picks&nbsp;: **Serra Devassa PRC05**, an easy and very varied hike near Sete Cidades, with the beautiful viewpoints over the Blue and Green lakes, along a road that's very popular with tourists, and **Janela do Inferno PRC37**, on the Lagoa side, for the views and the aqueducts along the way.
+  - **[Hiking](https://trails.visitazores.com/en/islands/sao-miguel-0){: target="_blank"}**, with our top picks: **Serra Devassa PRC05**, an easy and very varied hike near Sete Cidades, with the beautiful viewpoints over the Blue and Green lakes, along a road that's very popular with tourists, and **Janela do Inferno PRC37**, on the Lagoa side, for the views and the aqueducts along the way.
   - The **Nordeste** road and its beautiful miradouros are stunning, and less crowded too.
   - No need to linger in **Ponta Delgada**, but plan a few hours to admire the center and the fine buildings, including the churches. The 3 museums are quite small and free on Sundays. There are also two lovely botanical gardens.
 
@@ -53,7 +53,7 @@ log-books:
   place: Ambrosio
   date: 01/04/2024
   text: |
-    We entered at the buoy in open water, and stayed there for the whole dive; at 18 meters, a school of 40 mobula rays already comes right up close to us. Next to them, a large school of amberjacks. At the surface&nbsp;: yellowfin tuna and jacks. We ascend after 40 minutes along the line, there are other divers' bubbles below us, but we quickly forget about it because the mobulas keep circling around us. A gorgeous dive&nbsp;!
+    We entered at the buoy in open water, and stayed there for the whole dive; at 18 meters, a school of 40 mobula rays already comes right up close to us. Next to them, a large school of amberjacks. At the surface: yellowfin tuna and jacks. We ascend after 40 minutes along the line, there are other divers' bubbles below us, but we quickly forget about it because the mobulas keep circling around us. A gorgeous dive!
 - author: Sam
   place: Pedrinha
   date: 02/08/2024

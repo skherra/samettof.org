@@ -18,13 +18,13 @@ h1: 🇪🇬 Egypt
 country-desc: |
   **[Egypt](https://en.wikipedia.org/wiki/Egypt){: target="_blank"}** is a country bordered by the Red Sea and the Mediterranean Sea.
 
-  A diving mecca for a very long time, the country suffered from a lack of tourism for years because of its political situation. A blessing in disguise&nbsp;: fewer divers did the corals and marine life of the Red Sea a lot of good.
+  A diving mecca for a very long time, the country suffered from a lack of tourism for years because of its political situation. A blessing in disguise: fewer divers did the corals and marine life of the Red Sea a lot of good.
 
   For dive spots, there's no shortage of choice, in the south as in the north. We chose to do the south, from shore and via a cruise. The Red Sea is rich and full of fish, reachable in a single day with no time difference, at reasonable prices.
 
   Marsa Alam is reachable by plane from Cairo, or by road from Hurghada or Luxor airports. But road transfers are long, and there can be a lot of checkpoints.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Daedalus**, **Elphinstone**, **Dolphin House (Samadai)**, **Marsa Abu Dabbab**, **Shaab Claudia**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of: **Daedalus**, **Elphinstone**, **Dolphin House (Samadai)**, **Marsa Abu Dabbab**, **Shaab Claudia**.
 
 country-desc-sections:
 - title: Southern cruise
@@ -32,7 +32,7 @@ country-desc-sections:
     We took a cruise around **Elphinstone**, **Daedalus**, Zabargad, Rocky Island and the **Fury Shoals**, departing from Port Ghalib. A really beautiful cruise, with quite a bit of sailing involved. There are a few boats at the sites, especially at Elphinstone, since boats come there for the day. The open-water reefs are stunningly beautiful, dizzying walls with incredible, colorful marine life. Lucky divers might spot mantas and sharks. We went in late August, with water at 31 degrees, so unfortunately we didn't come across hammerheads or thresher sharks.
 - title: Marsa Alam
   text: |
-    **Marsa Alam**, the southernmost option for shore departures, offers more than twenty dive sites&nbsp;: seagrass bays where you come across big green turtles and really beautiful reefs. The seabed is fabulous, and we had really good conditions despite it being the end of the season (winter). The sites are rich, and the corals are as beautiful as those you'd find in the Indo-Pacific. Sharks, including oceanic whitetips, are present on the open-water reefs but tend to stay fairly discreet.
+    **Marsa Alam**, the southernmost option for shore departures, offers more than twenty dive sites: seagrass bays where you come across big green turtles and really beautiful reefs. The seabed is fabulous, and we had really good conditions despite it being the end of the season (winter). The sites are rich, and the corals are as beautiful as those you'd find in the Indo-Pacific. Sharks, including oceanic whitetips, are present on the open-water reefs but tend to stay fairly discreet.
 
 dive-shop: |
   In December 2021.
@@ -77,5 +77,5 @@ log-books:
   place: Elphinstone
   date: 30/11/2021
   text: |
-    Descent onto the Elphinstone plateau, around the big cruise boats, it's still early, so we have the fabulously rich coral wall to ourselves, which reminds us of Fiji. We come across a big hawksbill turtle, and moray eels with golden collars. After 25 minutes we reach the south side, and we're surprised by the down-current, beautiful angelfish move near us. We drop into open water and move away from the bubbles of divers coming down onto the corner. After 10 minutes at around 6 meters, we finally come across the oceanic whitetip shark. It moves not far from us, with its little pilot fish. We're surprised by how relatively small it is. It passes by two more times, but unfortunately it's time to ascend,&nbsp;...
+    Descent onto the Elphinstone plateau, around the big cruise boats, it's still early, so we have the fabulously rich coral wall to ourselves, which reminds us of Fiji. We come across a big hawksbill turtle, and moray eels with golden collars. After 25 minutes we reach the south side, and we're surprised by the down-current, beautiful angelfish move near us. We drop into open water and move away from the bubbles of divers coming down onto the corner. After 10 minutes at around 6 meters, we finally come across the oceanic whitetip shark. It moves not far from us, with its little pilot fish. We're surprised by how relatively small it is. It passes by two more times, but unfortunately it's time to ascend,...
 ---

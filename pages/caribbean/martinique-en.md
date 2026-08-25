@@ -16,11 +16,11 @@ visited-in: April 2005 & December 2017
 h1: 🇲🇶 Martinique
 
 country-desc: |
-  **[Martinique](https://en.wikipedia.org/wiki/Martinique){: target="_blank"}** holds a special place for us compared to everywhere else we've been&nbsp;: it's the island where we did our first try dive and learned to dive&nbsp;!
+  **[Martinique](https://en.wikipedia.org/wiki/Martinique){: target="_blank"}** holds a special place for us compared to everywhere else we've been: it's the island where we did our first try dive and learned to dive!
 
-  Every dive happens along the coast, sheltered by the Caribbean Sea. There are many easily accessible sites&nbsp;: La Perle to the north near St Pierre, all the way south, the Diamond Rock, around the Anses d'Arlet with lovely fish-filled drift dives, as well as the Nahoon wreck, the cave of colors, the Salomon pools,&nbsp;...
+  Every dive happens along the coast, sheltered by the Caribbean Sea. There are many easily accessible sites: La Perle to the north near St Pierre, all the way south, the Diamond Rock, around the Anses d'Arlet with lovely fish-filled drift dives, as well as the Nahoon wreck, the cave of colors, the Salomon pools,...
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} the best of&nbsp;: **Le Diamant**&nbsp;
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} the best of: **Le Diamant**&nbsp;
 
 dive-shop: |
   In December 2017.
@@ -45,17 +45,17 @@ to-see: |
 
   The pretty village of **Petite Anse d'Arlet**.
 
-  Stroll along the classic beaches&nbsp;: **Anse Mabouya**, the **Petit Macabou** or **Les Salines** (the most beautiful in the Antilles), and watch the sunset there.
+  Stroll along the classic beaches: **Anse Mabouya**, the **Petit Macabou** or **Les Salines** (the most beautiful in the Antilles), and watch the sunset there.
 
 log-books:
   - author: Sam
     place: La Perle
     date: 31/03/2005
     text: |
-      I'll always remember my second dive&nbsp;: a turtle comes over to say hello, the first time I'd ever seen one&nbsp;! It was very hard for me to stay focused, we were right in the middle of a buoyancy exercise <i class="fa fa-smile-o"></i>.
+      I'll always remember my second dive: a turtle comes over to say hello, the first time I'd ever seen one! It was very hard for me to stay focused, we were right in the middle of a buoyancy exercise <i class="fa fa-smile-o"></i>.
   - author: Sam
     place: Le diamant
     date: 31/12/2017
     text: |
-      We go in through the fissure at Diamant, at 20 meters, translucent blue water, with shafts of sunlight&nbsp;: simply stunning. Further into the fissure, an octopus, disturbed by the divers, flashes through a thousand colors before hiding behind a rock. We continue on to the cavern and the air bubble. Then we turn back through the fissure, no bubbles in sight, we have the scenery all to ourselves, in the distance a turtle hides beneath the arches of the tropical garden.
+      We go in through the fissure at Diamant, at 20 meters, translucent blue water, with shafts of sunlight: simply stunning. Further into the fissure, an octopus, disturbed by the divers, flashes through a thousand colors before hiding behind a rock. We continue on to the cavern and the air bubble. Then we turn back through the fissure, no bubbles in sight, we have the scenery all to ourselves, in the distance a turtle hides beneath the arches of the tropical garden.
 ---

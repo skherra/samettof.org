@@ -22,9 +22,9 @@ country-desc: |
 
   Around Bali and Sorong, the waters are polluted with plastic and all kinds of waste, including around the villages of Papua.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Komodo&nbsp;: **Crystal bay, Shotgun, Hot rocks**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Komodo: **Crystal bay, Shotgun, Hot rocks**.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Raja Ampat&nbsp;: **Boo West, Nudy Rock (Misool), 4 Kings (Misool), Melissa's garden, Sawandarek, Manta Wai, Blue Magic**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Raja Ampat: **Boo West, Nudy Rock (Misool), 4 Kings (Misool), Melissa's garden, Sawandarek, Manta Wai, Blue Magic**.
 
 country-desc-sections:
 - title: Komodo
@@ -33,7 +33,7 @@ country-desc-sections:
 
     We chose a long dive cruise from Bali to **Komodo**, passing through the islands of Satonda, Moyo and Sangeang. We got to enjoy very different reefs and atmospheres along the way. We loved Sangeang and its underwater geothermal vents, as well as Komodo itself. That said, from the island of Flores, it's entirely possible to reach the central and northern sites in an hour by boat.
 
-    It's a real shame to see the lack of protection for such an exceptional marine park at Komodo&nbsp;: boats drop anchor, and fishermen take their catch with dynamite or cyanide right at the edge of the marine park.
+    It's a real shame to see the lack of protection for such an exceptional marine park at Komodo: boats drop anchor, and fishermen take their catch with dynamite or cyanide right at the edge of the marine park.
 - title: Raja Ampat
   text: |
     A long cruise around Misool, Central Raja and the north lets you appreciate the diversity of the coral sites of West Papua.
@@ -72,7 +72,7 @@ accommodation: |
 
   **[Bali Tropical Hotel](https://tropical-bali-hotel.com/){: target="_blank"}**, in northern Sanur, set in a lush garden.
 
-  A lovely place with large rooms and a terrace. They take care of everything on site&nbsp;: massages, excursions, even ordering dinner&nbsp;!
+  A lovely place with large rooms and a terrace. They take care of everything on site: massages, excursions, even ordering dinner!
 
 to-see: |
   In February 2025.
@@ -96,25 +96,25 @@ log-books:
   place: 4 Kings - Misool
   date: 29/01/2025
   text: |
-    A morning dive on the submerged reef of the 4 Kings, taking its name from Raja Ampat, we had no current, yet the reef was teeming with life. Sharks, turtles, batfish, barracudas, not to mention the gorgeous soft corals. This site is truly magical and will remain our top pick of Raja Ampat&nbsp;!
+    A morning dive on the submerged reef of the 4 Kings, taking its name from Raja Ampat, we had no current, yet the reef was teeming with life. Sharks, turtles, batfish, barracudas, not to mention the gorgeous soft corals. This site is truly magical and will remain our top pick of Raja Ampat!
 - author: Sam
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    A slack-tide descent, which suits us perfectly to admire the two beautiful Crystal Bay pinnacles and go all the way around them. Turtles, whitetip and gray reef sharks, big black giant trevally are all still here, waiting for the current. The corals, reef flats and sponges are stunningly beautiful, we don't know where to look first&nbsp;!
+    A slack-tide descent, which suits us perfectly to admire the two beautiful Crystal Bay pinnacles and go all the way around them. Turtles, whitetip and gray reef sharks, big black giant trevally are all still here, waiting for the current. The corals, reef flats and sponges are stunningly beautiful, we don't know where to look first!
 - author: Sam
   place: Crystal Rock - Komodo
   date: 06/09/2017
   text: |
-    A slack-tide descent, which suits us perfectly to admire the two beautiful Crystal Bay pinnacles and go all the way around them. Turtles, whitetip and gray reef sharks, big black giant trevally are all still here, waiting for the current. The corals, reef flats and sponges are stunningly beautiful, we don't know where to look first&nbsp;!
+    A slack-tide descent, which suits us perfectly to admire the two beautiful Crystal Bay pinnacles and go all the way around them. Turtles, whitetip and gray reef sharks, big black giant trevally are all still here, waiting for the current. The corals, reef flats and sponges are stunningly beautiful, we don't know where to look first!
 - author: Sam
   place: Shotgun - Komodo
   date: 10/09/2017
   text: |
-    A descent into 27-degree water in the Shotgun pass, we start over the sand dunes to reach the pass itself, strewn with gorgeous corals, but right in the middle of the current, two large oceanic manta rays cross right in front of us. We cling as best we can to the rocks, dotted with fire coral (ouch, ouch), to avoid bumping into the beautiful mantas riding up the current. Then, just as we cross to the other side, 4 more small mantas come up too, struggling a bit more against the current&nbsp;! It was a magical moment, riding this manta highway&nbsp;!
+    A descent into 27-degree water in the Shotgun pass, we start over the sand dunes to reach the pass itself, strewn with gorgeous corals, but right in the middle of the current, two large oceanic manta rays cross right in front of us. We cling as best we can to the rocks, dotted with fire coral (ouch, ouch), to avoid bumping into the beautiful mantas riding up the current. Then, just as we cross to the other side, 4 more small mantas come up too, struggling a bit more against the current! It was a magical moment, riding this manta highway!
 - author: Sam
   place: Hot rocks - Sangeang
   date: 12/09/2017
   text: |
-    A descent onto the black sand of the volcanic island of Sangeang. It's a paradise for nudibranchs, all different from one another. We counted no fewer than thirty of them&nbsp;! Further on, hot springs, where it feels great to dip your hands in and search for warm stones in the sand. We disturb a large octopus dozing nearby. Then clownfish anemones, colored orange from the volcanic gas. A beautiful atmosphere for this dive, with stunning colors and contrasts.
+    A descent onto the black sand of the volcanic island of Sangeang. It's a paradise for nudibranchs, all different from one another. We counted no fewer than thirty of them! Further on, hot springs, where it feels great to dip your hands in and search for warm stones in the sand. We disturb a large octopus dozing nearby. Then clownfish anemones, colored orange from the volcanic gas. A beautiful atmosphere for this dive, with stunning colors and contrasts.
 ---

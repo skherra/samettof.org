@@ -18,15 +18,15 @@ h1: 🇦🇬 Antigua
 country-desc: |
   **[Antigua](https://en.wikipedia.org/wiki/Antigua){: target="_blank"}** and Barbuda are located in the northern Caribbean. Popular with sailors, Antigua is a pleasant island to stay on. We settled in English Harbour, in the south of the island, where a lovely marina and all amenities, nice hikes and two dive clubs are all within walking distance. A car is still needed to explore the rest of the island though.
 
-  The diving is beautiful&nbsp;: thanks to the small number of clubs and divers, the seabed is well preserved and the wildlife curious. The bottoms are sandy and the reefs aren't very deep. Sharks, rays, cuttlefish, crabs and lobsters are part of everyday diving in the south of Antigua. Diving here stays fairly under the radar and there aren't many dive sites, but the ones on the Atlantic point are beautiful and offer a very different topography.
+  The diving is beautiful: thanks to the small number of clubs and divers, the seabed is well preserved and the wildlife curious. The bottoms are sandy and the reefs aren't very deep. Sharks, rays, cuttlefish, crabs and lobsters are part of everyday diving in the south of Antigua. Diving here stays fairly under the radar and there aren't many dive sites, but the ones on the Atlantic point are beautiful and offer a very different topography.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of&nbsp;: **Nanton point**, **Rob's reef**, **Pillars of Hercule**.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of: **Nanton point**, **Rob's reef**, **Pillars of Hercule**.
 
 dive-shop: |
   In May 2026.
   {: .visited-in}
 
-  **[Dive Carib <i class="fa fa-heart"></i>](https://www.divecarib.com/){: target="_blank"}**&nbsp;: club run by Leigh with Louis, two very welcoming Brits. They have two boats&nbsp;: a large zodiac and a second boat only used in peak season. The sites are 15 to 25 min from the club. We went out for two dives in the morning, they're committed to doing different dives every time and making sure everyone's happy.
+  **[Dive Carib <i class="fa fa-heart"></i>](https://www.divecarib.com/){: target="_blank"}**: club run by Leigh with Louis, two very welcoming Brits. They have two boats: a large zodiac and a second boat only used in peak season. The sites are 15 to 25 min from the club. We went out for two dives in the morning, they're committed to doing different dives every time and making sure everyone's happy.
 
 accommodation: |
   In May 2026.
@@ -53,5 +53,5 @@ log-books:
   place: Nanton point
   date: 20/05/2026
   text: |
-    We went in through the swell after Nanton point, visibility is excellent, deep blue. Lots of tropical fish, and soon 2, 3 then 6 fairly relaxed gray reef sharks following us closely. Out in the blue we spot a large pelagic, maybe a pilot whale. We continue the dive past slipper lobsters, spiny lobsters, giant barracudas, tuna and a school of barracuda. One of our most beautiful dives in the Caribbean, we don't know where to look first&nbsp;!
+    We went in through the swell after Nanton point, visibility is excellent, deep blue. Lots of tropical fish, and soon 2, 3 then 6 fairly relaxed gray reef sharks following us closely. Out in the blue we spot a large pelagic, maybe a pilot whale. We continue the dive past slipper lobsters, spiny lobsters, giant barracudas, tuna and a school of barracuda. One of our most beautiful dives in the Caribbean, we don't know where to look first!
 ---
