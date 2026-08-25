@@ -12,7 +12,7 @@ description: Sam & Tof - Plongée sous-marine en Méditerranée en France
 
 sea: mediterranean
 menu: France
-visited-in: Mai, juin 2021 et juillet, août 2023
+visited-in: Mai, juin 2021, juillet et août 2023, août 2026
 h1: 🇫🇷 France
 
 country-desc: |
@@ -24,7 +24,7 @@ country-desc: |
 
   Accessible en train ou en avion, il faut prévoir une voiture pour se déplacer. Pensez à réserver à l'avance les clubs de plongées, qui ne prennent pour la plupart que sur réservation.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou).
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of&nbsp;: **Canadells** (Cerbère Banyuls)&nbsp;; **Pointe Caramassaigne** (Riou)&nbsp;; **Moyade** (Riou)&nbsp;; **Planier** (Marseille).
 
 country-desc-sections:
 - title: Cerbère Banyuls
@@ -39,6 +39,11 @@ country-desc-sections:
     Des murs de gorgones violettes, bleues, rouges ou jaunes. La vie y est foisonnante autour des pitons rocheux immergés, des grottes ou des tunnels. C'est la fête des mérous et des poulpes mais les barracudas ou les chapons ne sont pas en reste. L'eau y est très claire.
 
     Malheureusement, comme l'archipel est accessible à 20 minutes en bateau du grand port de Pointe rouge, il y a beaucoup de bateaux de plongeurs, surtout le week-end.
+- title: Marseille
+  text: |
+    **[Le planier <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/%C3%8Ele_de_Planier){: target="_blank"}** dans le parc national des calanques est tout simplement extraordinaire. A 25 min de bateau du vieux port, par temps calme. C'est le phare de Marseille. 
+
+    Il y en a pour tous les goûts, épaves, murs, avec une belle faune fixée et plutôt poissoneux, des murènes en pleine eau, de gros mérous, dentex, daurades, chapons ... Avec une belle visibilité et la lumière du matin, la topographie est chouette.
 - title: Porquerolles
   text: |
     L'île de **[Porquerolles](https://fr.wikipedia.org/wiki/%C3%8Ele_de_Porquerolles){: target="_blank"}** dans le Var est à 20 min de bateau de la côte. Avec Giens et Port-Cros, il y a au moins une 40aine de sites à découvrir. Sur Porquerolles, nous n'avons pas fait beaucoup de plongées mais nous avons croisé beaucoup de mérous, murènes et des barracudas. La topographie est très belle et cela nous a donné envie d'y retourner.
@@ -47,6 +52,13 @@ country-desc-sections:
     Plonger au Cap d'Antibes dans les Alpes maritimes reste une expérience sympathique. L'eau est claire et chaude en été. Nous avons plongé sur le Cap à la Fourmigue (phare), nous avons croisé des petits barracudas, murènes et des poulpes.
 
 dive-shop: |
+ En août 2026.
+  {: .visited-in}
+
+  **Marseille**&nbsp;:
+
+  **[Le bateau jaune](https://www.lebateaujaune.com/){: target="_blank"}** sur le vieux port, possède trois bateaux dont deux semi rigides. Plusieurs horaires par bateau et un service impeccable et souriant. Malgrè le monde, tout est bien organisé et les moniteurs prennent le temps pour chacun. L'espace de vie est assez grand, il y a douche et toilettes. Les tarifs sont assez abordables, le matériel est neuf.
+
   En juillet, août 2023.
   {: .visited-in}
 
@@ -76,6 +88,11 @@ dive-shop: |
 accommodation: |
   Nous avons à chaque fois loué un logement proche des clubs de plongées.
 
+   En août 2026.
+  {: .visited-in}
+
+   À **Marseille**, dans le panier, **"Chez Mélanie"** appartement cosy et spacieux.
+
   En juillet 2023.
   {: .visited-in}
 
@@ -89,6 +106,11 @@ accommodation: |
   À **Marseille**, coup de cœur pour le logement <i class="fa fa-heart"></i> **"le petit Borely"** de Sylvie et Philippe dans le 8ᵉ arrondissement avec une belle terrasse.
 
 to-see: |
+ En août 2026.
+  {: .visited-in}
+
+  Le panier, le **[musée](https://musee-histoire.marseille.fr/){: target="_blank"}** de l'histoire de la ville de marseille pour ces impressionnants bateaux, la **[grotte Cosque](https://www.grotte-cosquer.com/){: target="_blank"}**.
+
   En juillet 2023.
   {: .visited-in}
 

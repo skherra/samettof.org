@@ -442,3 +442,10 @@
   ref: philippines
   fr-date: mars 2026
   en-date: March 2026
+- lat: 43.198389
+  lng: 5.230199
+  icon: diveFlagIcon
+  place: Phare du Planier
+  ref: france
+  fr-date: août 2026
+  en-date: August 2026
