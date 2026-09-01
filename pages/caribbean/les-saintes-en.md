@@ -26,7 +26,7 @@ dive-shop: |
   In March 2017.
   {: .visited-in}
 
-  **[La dive bouteille <i class="fa fa-heart"></i>](http://www.dive-bouteille.com/){: target="_blank"}** : Laurence and Philippe are a charming, funny and passionate couple.
+  **[La dive bouteille <i class="fa fa-heart"></i>](https://www.dive-bouteille.com/){: target="_blank"}** : Laurence and Philippe are a charming, funny and passionate couple.
 
   We learned a lot and passed our Level 2 with Philippe, a great teacher.
 

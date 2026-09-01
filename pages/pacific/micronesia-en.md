@@ -34,7 +34,7 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a description of the dive sites at Yap, the best of: **Yap Cavern, M'il Channel and Rainbow Reef** for the mandarinfish: [<i class="fa fa-map"></i>](https://www.mantaray.com/dive-sites/){: target="_blank"}.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a description of the dive sites at Pohnpei, the best of: **Manta Road, Palikir Rendezvous, Pehleng Corner**: [<i class="fa fa-map"></i>](http://www.pohnpei-adventure.com/scuba/){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's a description of the dive sites at Pohnpei, the best of: **Manta Road, Palikir Rendezvous, Pehleng Corner**: [<i class="fa fa-map"></i>](https://www.pohnpei-adventure.com/scuba/){: target="_blank"}.
 
 dive-shop: |
   In February-March 2020.
@@ -71,7 +71,7 @@ accommodation: |
 to-see: |
   In Chuuk: There's not much to do outside of diving.
 
-  In Yap: **[Yap Day](http://www.visityap.com/events_in_yap.php){: target="_blank"}**, a national holiday celebrating Yapese culture. Wonderful, family-friendly and warm.
+  In Yap: **[Yap Day](https://www.visityap.com/events_in_yap.php){: target="_blank"}**, a national holiday celebrating Yapese culture. Wonderful, family-friendly and warm.
 
   Also worth a short tour of the island to see the stone money bank, the men's houses,...
 

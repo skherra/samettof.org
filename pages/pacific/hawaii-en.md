@@ -36,15 +36,15 @@ dive-shop: |
 
   That said, at the time of our stay, the staff was still learning the sites and had major staffing issues (tension among crew members).
 
-  **[Seasport Divers <i class="fa fa-heart"></i>](http://seasportdivers.com/){: target="_blank"}** on Kauai: a really good club based in Poipu, large staff and a comfortable boat. The main draw is the day trip out to Niihau: 3 unforgettable dives, with snorkeling with dolphins possible, in very small groups so as not to scare them off.
+  **[Seasport Divers <i class="fa fa-heart"></i>](https://seasportdivers.com/){: target="_blank"}** on Kauai: a really good club based in Poipu, large staff and a comfortable boat. The main draw is the day trip out to Niihau: 3 unforgettable dives, with snorkeling with dolphins possible, in very small groups so as not to scare them off.
 
 accommodation: |
   In May 2016.
   {: .visited-in}
 
-  On Big Island: **[B&B](http://www.makaihale.com/){: target="_blank"}** in northern Big Island, with charming, discreet hosts, a pool and jacuzzi available, and what a view, the volcanoes and the sea,...
+  On Big Island: **[B&B](https://www.makaihale.com/){: target="_blank"}** in northern Big Island, with charming, discreet hosts, a pool and jacuzzi available, and what a view, the volcanoes and the sea,...
 
-  On Kauai: **[Prince Kuhio](http://www.prince-kuhio.com/){: target="_blank"}**: apartment rentals in a lovely complex, right at the edge of Poipu, a stone's throw from the beach. The rooftop apartments are gorgeous!
+  On Kauai: **[Prince Kuhio](https://www.prince-kuhio.com/){: target="_blank"}**: apartment rentals in a lovely complex, right at the edge of Poipu, a stone's throw from the beach. The rooftop apartments are gorgeous!
 
 to-see: |
   In May 2016.

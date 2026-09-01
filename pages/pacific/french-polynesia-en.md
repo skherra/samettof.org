@@ -69,9 +69,9 @@ dive-shop: |
 
   **[<i class="fa fa-ship"></i> Aquatiki Cruise <i class="fa fa-heart"></i>](http://www.aquapolynesie.com/){: target="_blank"}** Wow,... (already visited in 2017)  A beautiful catamaran with a maximum capacity of 8 guests, each time there were only 5 of us diving. The crew (skipper, dive director, cook/hostess) love the sea and diving. Itinerary: North and South Faka, Kauehi, Toau (in 2017: South and North Faka, Apataki, Toau), with 2 dives a day, with deco stops depending on the group's level.
 
-  **[Kaina Plongée <i class="fa fa-heart"></i>](http://www.kainaplongee.com/){: target="_blank"}**, a really friendly small operation run by Loïc and Jean-Charles, passionate divers, and skipper Mana who plays the ukulele while waiting for us.
+  **[Kaina Plongée <i class="fa fa-heart"></i>](https://www.kainaplongee.com/){: target="_blank"}**, a really friendly small operation run by Loïc and Jean-Charles, passionate divers, and skipper Mana who plays the ukulele while waiting for us.
 
-  **Rangiroa**: **[The 6 Passengers <i class="fa fa-heart"></i>](http://www.the6passengers.com/){: target="_blank"}**: A good-sized club, set up around a large deck facing the lagoon, perfect for lounging between dives. Several zodiacs. The guides and owners are passionate and always smiling. It's possible to do 3 dives a day, including one at dusk on request.
+  **Rangiroa**: **[The 6 Passengers <i class="fa fa-heart"></i>](https://www.the6passengers.com/){: target="_blank"}**: A good-sized club, set up around a large deck facing the lagoon, perfect for lounging between dives. Several zodiacs. The guides and owners are passionate and always smiling. It's possible to do 3 dives a day, including one at dusk on request.
 
   **Raiatea**: **[Hemisphere Sub](https://www.hemispheresub.com/en/scubadiving.html){: target="_blank"}**, a large, friendly club located at the marina near the airport, 2 boats for 6 to 8 people, 4 instructors. Dives are scheduled the evening before for the next day, we appreciated Farid's WhatsApp messages offering à la carte dives.
 
@@ -108,7 +108,7 @@ accommodation: |
 
   In **Nuku Hiva**: **[Pension Mave Mai](https://www.tahititourisme.com/service/mave-mai/){: target="_blank"}** simple and a bit rough around the edges, but a beautiful view from the terrace and the rooms. It's possible to arrange excursions through the guesthouse.
 
-  In **Hiva Oa**: **[Chalets Hanakee](http://chaletshanakee.com/){: target="_blank"}**, a superb view over the bays and Hanakee islet, the chalets are beautiful and functional, the host's children are attentive, helpful and really kind. The chalets are quite far out from the village.
+  In **Hiva Oa**: **[Chalets Hanakee](https://chaletshanakee.com/){: target="_blank"}**, a superb view over the bays and Hanakee islet, the chalets are beautiful and functional, the host's children are attentive, helpful and really kind. The chalets are quite far out from the village.
 
   In May 2017.
   {: .visited-in}
@@ -117,13 +117,13 @@ accommodation: |
 
   In **Manihi**: **[Poerani Nui](https://sites.google.com/site/pensionpoeraninui/home){: target="_blank"}**, on a private motu, well maintained, you'll be spoiled with good home cooking and the company of dogs, cats,...
 
-  In **Huahine**: **[Lapita Maitai](http://www.huahine.hotelmaitai.com/){: target="_blank"}**: A magnificent hotel, right at the entrance of the village.
+  In **Huahine**: **[Lapita Maitai](https://www.huahine.hotelmaitai.com/){: target="_blank"}**: A magnificent hotel, right at the entrance of the village.
 
 to-see: |
   In July-August-September 2020.
   {: .visited-in}
 
-  In **Tahiti**: Spend a day on the crossing road with a **[4x4 and a guide](http://www.tahiti-safari.com/){: target="_blank"}**. Eric tells stories and shares Polynesia the way he lives it. The scenery is breathtaking.
+  In **Tahiti**: Spend a day on the crossing road with a **[4x4 and a guide](https://www.tahiti-safari.com/){: target="_blank"}**. Eric tells stories and shares Polynesia the way he lives it. The scenery is breathtaking.
 
   Try your hand at surfing or paddleboarding at Papara or Papenoo, and go to the Tahiti Iti viewpoint.
 

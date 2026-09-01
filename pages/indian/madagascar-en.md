@@ -28,13 +28,13 @@ dive-shop: |
   In December 2018.
   {: .visited-in}
 
-  **[Diving Cattitude <i class="fa fa-heart"></i>](http://www.diving-cattitude-nosybe.com/){: target="_blank"}** offers several custom cruises departing from Nosy Be.
+  **[Diving Cattitude <i class="fa fa-heart"></i>](https://www.diving-cattitude-nosybe.com/){: target="_blank"}** offers several custom cruises departing from Nosy Be.
 
   Their rather unique catamaran was custom-built with good engines. With a capacity of 6 people, it's very comfortable. The crew is made up of four people who take great care of you. Hassan, the chef, prepares good, varied dishes based on the day's catch.
 
   Dives around the Radama islands are done as drift dives straight from the boat. Malik is passionate about it, and dives with him always feel safe, he loves the big stuff and goes looking for it, to our great delight.
 
-  **[Sakalav' Diving <i class="fa fa-heart"></i>](http://www.sakalav-diving.com/){: target="_blank"}**, on the beach northwest of Nosy Be, facing Sakatia. We dived in the bay because of the weather, but we had a great time with Nathalie hunting for small critters. The club is a small operation but has three fairly comfortable boats. It's the lap of luxury, you don't carry or set up your own tank. You go out for two dives with a surface interval on the boat, where the mood is great and the conversation flows.
+  **[Sakalav' Diving <i class="fa fa-heart"></i>](https://www.sakalav-diving.com/){: target="_blank"}**, on the beach northwest of Nosy Be, facing Sakatia. We dived in the bay because of the weather, but we had a great time with Nathalie hunting for small critters. The club is a small operation but has three fairly comfortable boats. It's the lap of luxury, you don't carry or set up your own tank. You go out for two dives with a surface interval on the boat, where the mood is great and the conversation flows.
 
 accommodation: |
   In December 2018.
@@ -42,7 +42,7 @@ accommodation: |
 
   **[Gérard et Francine](https://gerard-et-francine.com/index.php/en/){: target="_blank"}**, a charming hotel in a lovely house set back from Ambatoloaka beach, the rooms are small but the common areas are really nice. (Note: no air conditioning in the main building.)
 
-  **[La Case Sakalava](http://www.case-sakalava.com/){: target="_blank"}**, up in the hills, simple but pleasant accommodation with half board and a diving package. The meals are generous. Beautiful view and absolute peace and quiet! The dive club is a 10-minute walk away on the beach.
+  **[La Case Sakalava](https://www.case-sakalava.com/){: target="_blank"}**, up in the hills, simple but pleasant accommodation with half board and a diving package. The meals are generous. Beautiful view and absolute peace and quiet! The dive club is a 10-minute walk away on the beach.
 
 to-see: |
   In December 2018.

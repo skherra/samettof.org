@@ -34,7 +34,7 @@ country-desc: |
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Yap, le best of&nbsp;: **Yap cavern, M'il Channel et Rainbow reef** pour les mandarins&nbsp;: [<i class="fa fa-map"></i>](https://www.mantaray.com/dive-sites/){: target="_blank"}.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Yap, le best of&nbsp;: **Manta road, Palakir rendez-vous, Pehleng corner**&nbsp;: [<i class="fa fa-map"></i>](http://www.pohnpei-adventure.com/scuba/){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici un descriptif des sites de plongées de Yap, le best of&nbsp;: **Manta road, Palakir rendez-vous, Pehleng corner**&nbsp;: [<i class="fa fa-map"></i>](https://www.pohnpei-adventure.com/scuba/){: target="_blank"}.
 
 dive-shop: |
   En février-Mars 2020.
@@ -71,7 +71,7 @@ accommodation: |
 to-see: |
   À Chuuk&nbsp;: Il n'y a pas grand chose à faire en dehors de la plongée.
 
-  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/events_in_yap.php){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux.
+  À Yap&nbsp;: **[Yap Day](https://www.visityap.com/events_in_yap.php){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux.
 
   Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes&nbsp;...
 

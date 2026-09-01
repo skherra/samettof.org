@@ -28,7 +28,7 @@ dive-shop: |
   En septembre 2016.
   {: .visited-in}
 
-  Sur Mindelo, un seul club de plongée difficile à trouver&nbsp;: **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.
+  Sur Mindelo, un seul club de plongée difficile à trouver&nbsp;: **[DiveTribe](https://www.dive-tribe.com/){: target="_blank"}**, nous n'avions pas rencontré le patron mais le personnel est sympathique et parle français.
 
   Il est possible de faire 2 à 3 plongées par jour matin et après-midi. Le zodiak est assez haut et sans échelle avec une capacité de 10 personnes.
 
@@ -36,7 +36,7 @@ accommodation: |
   En septembre 2016.
   {: .visited-in}
 
-  **[Kira's boutique hôtel](http://www.kirashotel.com/){: target="_blank"}**, à quelque minutes du centre ville, calme, propre et accueillant. Petit déjeuner gargantuesque avec des spécialités locales. De plus cet hôtel dispose d'une terrasse accueillante et d'un roof top pour les soirées. Il est possible avec une carte de faire un plouf dans l'hotel voisin.
+  **[Kira's boutique hôtel](https://www.kirashotel.com/){: target="_blank"}**, à quelque minutes du centre ville, calme, propre et accueillant. Petit déjeuner gargantuesque avec des spécialités locales. De plus cet hôtel dispose d'une terrasse accueillante et d'un roof top pour les soirées. Il est possible avec une carte de faire un plouf dans l'hotel voisin.
 
 to-see: |
   En septembre 2016.

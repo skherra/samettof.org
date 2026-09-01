@@ -24,7 +24,7 @@ h1: Travel inspirations...
 
 <i class="fa fa-video-camera"></i> **[One Breath Around The World](https://www.youtube.com/watch?v=OnvQggy3Ezw&feature=youtu.be){: target="_blank"}**{: .accent-color} and **[Ocean Gravity](https://www.youtube.com/watch?v=v11b84Okcm8){: target="_blank"}**{: .accent-color} by Julie Gautier and Guillaume Néry
 
-<i class="fa fa-video-camera"></i> **[The incredible journey of turtle](http://www.imdb.com/title/tt0970521/){: target="_blank"}**{: .accent-color}
+<i class="fa fa-video-camera"></i> **[The incredible journey of turtle](https://www.imdb.com/title/tt0970521/){: target="_blank"}**{: .accent-color}
 
 <i class="fa fa-video-camera"></i> **[Le peuple des océans](https://www.imdb.com/title/tt1920024/?ref_=nv_sr_srsg_1_tt_8_nm_0_in_0_q_Le%2520peuple%2520des%2520oc%25C3%25A9ans){: target="_blank"}**{: .accent-color}
 

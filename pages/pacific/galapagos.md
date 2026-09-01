@@ -30,7 +30,7 @@ dive-shop: |
   En mai 2018.
   {: .visited-in}
 
-  **[<i class="fa fa-ship"></i> Aggressor 3 <i class="fa fa-heart"></i>](http://www.aggressor.com/galapagos.php){: target="_blank"}** d'une capacité de 16 personnes, propose un excellent service et 2 divemasters passionnés. Le bateau, très confortable, part de Baltra et proprose 4 plongées par jour. Les plongées sont exclusivement dérivantes depuis un zodiak.
+  **[<i class="fa fa-ship"></i> Aggressor 3 <i class="fa fa-heart"></i>](https://www.aggressor.com/galapagos.php){: target="_blank"}** d'une capacité de 16 personnes, propose un excellent service et 2 divemasters passionnés. Le bateau, très confortable, part de Baltra et proprose 4 plongées par jour. Les plongées sont exclusivement dérivantes depuis un zodiak.
 
 accommodation: |
   En mai 2018.
@@ -38,7 +38,7 @@ accommodation: |
 
   À Guayalquil&nbsp;: **[Ramada Hotel](https://www.hotelramada.com/){: target="_blank"}** pour un transit à Guayalquil, correct et très bien situé en face du Malecon.
 
-  À Puerto de Aroya&nbsp;: **[La casa de Judy <i class="fa fa-heart"></i>](http://www.hotellacasadejudy.com/){: target="_blank"}** très joli hôtel, calme avec vue sur une canopée, bons petits déjeuners.
+  À Puerto de Aroya&nbsp;: **[La casa de Judy <i class="fa fa-heart"></i>](https://www.hotellacasadejudy.com/){: target="_blank"}** très joli hôtel, calme avec vue sur une canopée, bons petits déjeuners.
 
   À Cuenca&nbsp;: **Hotel Ines**, charmant hôtel typique dans le centre historique.
 

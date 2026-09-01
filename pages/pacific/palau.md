@@ -32,7 +32,7 @@ dive-shop: |
   En février 2020.
   {: .visited-in}
 
-  **[Sam's Tour](http://www.samstours.com/){: target="_blank"}** est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence.
+  **[Sam's Tour](https://www.samstours.com/){: target="_blank"}** est un très gros club avec une flotte de 6 grands bateaux rapides. Système PADI, 10 plongeurs avec 2 dive masters, les plongées sont sans déco et d'une soixantaine de minutes, au nitrox de préférence.
 
   Le club mélange un peu les niveaux de palanquée et on ne peut pas vraiment plonger à la carte.
 

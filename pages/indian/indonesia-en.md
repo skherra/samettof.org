@@ -47,7 +47,7 @@ dive-shop: |
   In January 2025 and September 2017.
   {: .visited-in}
 
-  The **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** dive cruise offers various itineraries, from Bali or Sorong (11 days with 3 nitrox dives a day and a few night dives).
+  The **[<i class="fa fa-ship"></i> Adelaar](https://www.adelaar-cruises.com/){: target="_blank"}** dive cruise offers various itineraries, from Bali or Sorong (11 days with 3 nitrox dives a day and a few night dives).
 
   A really beautiful boat and excellent service for up to 8 passengers (2 groups of 4). Depending on the dive guides, you get to appreciate both the small and the big stuff.
 

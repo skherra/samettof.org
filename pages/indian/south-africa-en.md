@@ -18,7 +18,7 @@ h1: 🇿🇦 South Africa
 country-desc: |
   **[Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  is part of **[KwaZulu-Natal](https://en.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** in South Africa, on the east coast. It's a protected marine area.
 
-  **[Umkomaas](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** ("cow whale" in Zulu) is the starting point for diving in the marine park, there are at least 4 dive clubs, and the small village sits a 45-minute drive from Durban airport.
+  **[Umkomaas](https://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** ("cow whale" in Zulu) is the starting point for diving in the marine park, there are at least 4 dive clubs, and the small village sits a 45-minute drive from Durban airport.
 
   Why cow whale? Southern right whales used to come and calve in the estuary.
 
@@ -32,7 +32,7 @@ dive-shop: |
   In February 2018.
   {: .visited-in}
 
-  **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**  offers several South Africa and Mozambique packages. At Aliwal Shoal, a two-dive outing is offered in the morning.
+  **[Scuba Addicts](https://www.scubaaddicts.com/){: target="_blank"}**  offers several South Africa and Mozambique packages. At Aliwal Shoal, a two-dive outing is offered in the morning.
 
   Large zodiac, the skipper and guide have lived and dived in Umkomaas for more than twenty years, but the sea and weather are unpredictable on this stretch of coast, and visibility and temperature can drop drastically.
 

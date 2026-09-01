@@ -28,7 +28,7 @@ dive-shop: |
   In February 2018.
   {: .visited-in}
 
-  **[Scuba Addicts <i class="fa fa-heart"></i>](http://www.scubaaddicts.com/){: target="_blank"}** offers several South Africa and Mozambique packages. At Ponta, 2 to 3 dives a day.
+  **[Scuba Addicts <i class="fa fa-heart"></i>](https://www.scubaaddicts.com/){: target="_blank"}** offers several South Africa and Mozambique packages. At Ponta, 2 to 3 dives a day.
 
   Large zodiac, the skipper and guide know the sites and the sea very well, and run safe dives, on the other hand, diving isn't always possible depending on the weather.
 

@@ -69,9 +69,9 @@ dive-shop: |
 
   **[<i class="fa fa-ship"></i> Croisière Aquatiki <i class="fa fa-heart"></i>](http://www.aquapolynesie.com/){: target="_blank"}** Waouh&nbsp;... (déjà visité en 2017)  Beau catamaran d'une capacité maximum de 8 guests, nous n'étions à chaque fois que 5 plongeurs. L'équipage (skipper, directeur de plongée, cuisto-hôtesse) aime la mer et la plongée. Itinéraire&nbsp;: Faka nord et sud, Kauehi, Toau (en 2017&nbsp;: Faka Sud et Nord, Apataki, Toau) avec 2 plongées par jour avec déco selon le niveau de la palanquée.
 
-  **[Kaina plongée <i class="fa fa-heart"></i>](http://www.kainaplongee.com/){: target="_blank"}**, petite structure très sympathique animée par Loïc et Jean-Charles des plongeurs passionnés et le skipper Mana qui joue du ukulélé en nous attendant.
+  **[Kaina plongée <i class="fa fa-heart"></i>](https://www.kainaplongee.com/){: target="_blank"}**, petite structure très sympathique animée par Loïc et Jean-Charles des plongeurs passionnés et le skipper Mana qui joue du ukulélé en nous attendant.
 
-  **Rangiroa**&nbsp;: **[The 6 passengers <i class="fa fa-heart"></i>](http://www.the6passengers.com/){: target="_blank"}**&nbsp;: Le club, de bonne taille, est aménagé autour d'un grand deck face au lagon, pour se poser dans les transats entre deux plongées. Plusieurs zodiacs. Les guides et les patrons sont passionnés et ont le sourire. Il est possible de faire 3 plongées par jour dont une à la tombée de la nuit sur demande.
+  **Rangiroa**&nbsp;: **[The 6 passengers <i class="fa fa-heart"></i>](https://www.the6passengers.com/){: target="_blank"}**&nbsp;: Le club, de bonne taille, est aménagé autour d'un grand deck face au lagon, pour se poser dans les transats entre deux plongées. Plusieurs zodiacs. Les guides et les patrons sont passionnés et ont le sourire. Il est possible de faire 3 plongées par jour dont une à la tombée de la nuit sur demande.
 
   **Raiatea**&nbsp;: **[Hemisphere Sub](https://www.hemispheresub.com/fr/plongees.html){: target="_blank"}**, gros club sympathique situé dans la marina proche de l'aéroport, 2 bateaux de 8 à 6 personnes, 4 moniteurs. Les plongées se programment le soir pour le lendemain, nous avons apprécié les whats'app de Farid proposant des plongées à la carte.
 
@@ -108,7 +108,7 @@ accommodation: |
 
   À **Nuku Hiva**&nbsp;: **[Pension Mave Mai](https://tahititourisme.fr/fr-fr/enterprise/mave-mai/){: target="_blank"}** simple et un peu dans son jus, mais belle vue depuis la terrasse et les chambres. Il est possible de préparer les excursions auprès de la pension.
 
-  À **Hiva Oa**&nbsp;: **[Chalets Hanakee](http://chaletshanakee.com/){: target="_blank"}**, superbe vue sur les baies et l'îlot Hanakee, les chalets sont beaux et fonctionnels, les enfants de l'hôte sont attentifs, serviables et très gentils. Les chalets sont très excentrés du village.
+  À **Hiva Oa**&nbsp;: **[Chalets Hanakee](https://chaletshanakee.com/){: target="_blank"}**, superbe vue sur les baies et l'îlot Hanakee, les chalets sont beaux et fonctionnels, les enfants de l'hôte sont attentifs, serviables et très gentils. Les chalets sont très excentrés du village.
 
   En mai 2017.
   {: .visited-in}
@@ -117,13 +117,13 @@ accommodation: |
 
   À **Manihi**&nbsp;: **[Poerani nui](https://sites.google.com/site/pensionpoeraninui/home){: target="_blank"}**, sur un motu privé, bien entretenu, vous serez comblés par les bons petits plats et la compagnie des chiens, chats,&nbsp;...
 
-  À **Huahine**&nbsp;: **[Lapita Maitai](http://www.huahine.hotelmaitai.com/){: target="_blank"}**&nbsp;: Magnifique hôtel, à l'entrée du village.
+  À **Huahine**&nbsp;: **[Lapita Maitai](https://www.huahine.hotelmaitai.com/){: target="_blank"}**&nbsp;: Magnifique hôtel, à l'entrée du village.
 
 to-see: |
   En juillet-août-septembre 2020.
   {: .visited-in}
 
-  À **Tahiti**&nbsp;: Partir une journée sur la route de la traversée en **[4x4 avec un guide](http://www.tahiti-safari.com/){: target="_blank"}**. Eric raconte et nous conte la Polynésie comme il la vit. Les paysages sont grandioses.
+  À **Tahiti**&nbsp;: Partir une journée sur la route de la traversée en **[4x4 avec un guide](https://www.tahiti-safari.com/){: target="_blank"}**. Eric raconte et nous conte la Polynésie comme il la vit. Les paysages sont grandioses.
 
   S'initier aux joies du surf ou paddle à Papara ou Papeno et aller au belvédère de Tahiti Iti.
 

@@ -22,16 +22,16 @@ country-desc: |
 
   Nous avons posé nos sacs près de l'île de Misali et plongé sur le reef où les fonds sont poissonneux et riches. Au maximum nous étions 4 ou 5 personnes sous l'eau&nbsp;!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici le descriptif des plongées autour de Mesali&nbsp;: [<i class="fa fa-map"></i>](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici le descriptif des plongées autour de Mesali&nbsp;: [<i class="fa fa-map"></i>](https://www.fundulagoon.com/#/ocean/diving){: target="_blank"}.
 
 dive-shop: |
   En septembre 2015.
   {: .visited-in}
 
-   **[Dive 170](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}** dans le Fundun Lagoon&nbsp;: le club de plongée est professionnel. Sortie sur l'île de Misali à la journée, 2 plongées. Les pique-niques sont tout simplement géants&nbsp;!
+   **[Dive 170](https://www.fundulagoon.com/#/ocean/diving){: target="_blank"}** dans le Fundun Lagoon&nbsp;: le club de plongée est professionnel. Sortie sur l'île de Misali à la journée, 2 plongées. Les pique-niques sont tout simplement géants&nbsp;!
 
 accommodation: |
-  **[Fundu Lagoon](http://www.fundulagoon.com/)**&nbsp;: Superbe endroit paradisiaque, cadre à couper le souffle, bon restaurant. Il se mérite, à l'autre bout de l'aéroport&nbsp;: 50 minutes de voiture et 20 minutes de bateau.
+  **[Fundu Lagoon](https://www.fundulagoon.com/)**&nbsp;: Superbe endroit paradisiaque, cadre à couper le souffle, bon restaurant. Il se mérite, à l'autre bout de l'aéroport&nbsp;: 50 minutes de voiture et 20 minutes de bateau.
 
 to-see: |
   Un Safari et la mer&nbsp;...

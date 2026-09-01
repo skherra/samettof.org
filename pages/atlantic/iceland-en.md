@@ -34,7 +34,7 @@ dive-shop: |
   In March 2019.
   {: .visited-in}
 
-   **[Dive IS <i class="fa fa-heart"></i>](http://www.dive.is/){: target="_blank"}** offers several two-dive morning packages. By contacting them directly, they can also put together custom packages.
+   **[Dive IS <i class="fa fa-heart"></i>](https://www.dive.is/){: target="_blank"}** offers several two-dive morning packages. By contacting them directly, they can also put together custom packages.
 
   Dive IS provides gear in very good condition, along with warm jackets, you should also bring wool underlayers and two thick pairs of socks for your feet (the M drysuits have built-in booties, size 42-43).
 

@@ -18,7 +18,7 @@ h1: 🇿🇦 Afrique du Sud
 country-desc: |
   **[Aliwal Shoal](https://en.wikivoyage.org/wiki/Diving_Aliwal_Shoal){: target="_blank"}**  fait partie du **[KwaZulu-Natal](https://fr.wikipedia.org/wiki/KwaZulu-Natal){: target="_blank"}** en Afrique du Sud, situé sur la "east coast". C'est une zone marine protégée.
 
-  **[Umkomass](http://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban.
+  **[Umkomass](https://www.southcoasthappenings.co.za/umkomaashomepage.htm){: target="_blank"}** (baleine vache en Zoulou) est le point de départ pour plonger dans le parc marin, il y a au moins 4 clubs de plongée et le petit village se situe à 45 min de voiture de l'aéroport de Durban.
 
   Pourquoi baleine vache&nbsp;? Autrefois les baleines blanches venaient se reproduire dans l'estuaire.
 
@@ -32,7 +32,7 @@ dive-shop: |
   En février 2018.
   {: .visited-in}
 
-  **[Scuba Addicts](http://www.scubaaddicts.com/){: target="_blank"}**  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
+  **[Scuba Addicts](https://www.scubaaddicts.com/){: target="_blank"}**  propose plusieurs packages Afrique du Sud et Mozambique. Sur Aliwal Shoal une sortie de 2 plongées est proposée le matin.
 
   Grand zodiaque, le skipper et le guide vivent et plongent depuis plus de vingt ans à Umkomass mais la mer et le temps sont capricieux sur ce bout de côte, la visibilité et la température peuvent chuter drastiquement.
 

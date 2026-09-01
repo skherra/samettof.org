@@ -24,17 +24,17 @@ country-desc: |
 
   Les plongées sont de type dérivante, et le courant peut être moyen à fort suivant la marée, mais il y a des plongées pour tous les niveaux.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la description  des sites de plongées sur Taveuni&nbsp;: [<i class="fa fa-map"></i>](http://www.taveunidiveresort.com/dive-guide#){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la description  des sites de plongées sur Taveuni&nbsp;: [<i class="fa fa-map"></i>](https://www.taveunidiveresort.com/dive-guide#){: target="_blank"}.
 
 dive-shop: |
   En septembre 2018.
   {: .visited-in}
 
-  **[Tavenui dive <i class="fa fa-heart"></i>](http://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** possède 3 bateaux sur une petite marina à 2 minutes à pied du resort. Le plus gros bateau peut accueillir 9 plongeurs. Il y a cinq dive masters. Nous avons plongé avec David et Alfred, deux locaux passionnés. Les palanquées sont maxi de 5-6 personnes, nous n'avons jamais refait le même site durant la semaine.
+  **[Tavenui dive <i class="fa fa-heart"></i>](https://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** possède 3 bateaux sur une petite marina à 2 minutes à pied du resort. Le plus gros bateau peut accueillir 9 plongeurs. Il y a cinq dive masters. Nous avons plongé avec David et Alfred, deux locaux passionnés. Les palanquées sont maxi de 5-6 personnes, nous n'avons jamais refait le même site durant la semaine.
 
   Les sites sont à 15 minutes en bateau de la marina. Deux plongées le matin à partir de 8h et une proposée l'après-midi mais cette dernière reste compliquée au niveau horaire "Fidji Time" <i class="fa fa-smile-o"></i>
 
-  **[<i class="fa fa-ship"></i> Fiji Aggressor](http://www.aggressor.com/){: target="_blank"}**  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac.
+  **[<i class="fa fa-ship"></i> Fiji Aggressor](https://www.aggressor.com/){: target="_blank"}**  a une capacité de 10 personnes, vieux bateau pas très bien entretenu avec une odeur désagréable dans les cabines, très chers vu la prestation dispensée. Seul le capitaine et le dive master sauvent la mise en proposant de très belles plongées suivant l'humeur et le temps&nbsp;: Macro ou bonne dérivante dans le courant. 4 à 5 plongées par jour quand la météo le permet, depuis le bateau ou le zodiac.
 
   Depuis 2019, cette croisière a été retirée du site aggressor.
 
@@ -42,16 +42,16 @@ accommodation: |
   En septembre 2018.
   {: .visited-in}
 
-  À Taveuni&nbsp;: **[Taveuni Dive resort](http://www.taveunidiveresort.com/){: target="_blank"}**&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
+  À Taveuni&nbsp;: **[Taveuni Dive resort](https://www.taveunidiveresort.com/){: target="_blank"}**&nbsp;: Très beau resort dans un jardin luxuriant, ouvert en 2017, peut encore s'améliorer, c'est plus un resort qu'un dive resort. Un peu cher rapport qualité prix.
 
-  À Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
+  À Suva&nbsp;: **[Grand Palace Hotel](https://grandpacifichotel.com.fj/){: target="_blank"}**&nbsp;: Une folie <i class="fa fa-smile-o"></i>, cet hôtel magnifique est chargé d'histoire, la reine Elizabeth y a séjourné. Les chambres sont grandes, et confortables. Le service est irréprochable.
 
   À Nadi&nbsp;: **Tropic of Capricorn <i class="fa fa-heart"></i>**&nbsp;: hôtel backpack simple avec une vue magnifique sur la baie de Wailoloa. Personnel adorable, petit bar où l'on peut commander à manger et à boire.
 
 to-see: |
   À Nadi&nbsp;: **Fidji escence and spa**, pour un transit fort agréable et des massages régénérants, à 5 minutes de l'aéroport de Nadi, transfert inclus.
 
-  À Suva&nbsp;: **[Grand Palace Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
+  À Suva&nbsp;: **[Grand Palace Hotel](https://grandpacifichotel.com.fj/){: target="_blank"}** pour le lieu historique, boire un verre ou diner. Un des seuls bâtiments qui vaille le coup à Suva.
 
   À Gau ou Taveuni&nbsp;: Se faire inviter au village de **Somossomo**, pour discuter avec les villageois, écouter leurs chants et manger une délicieuse cuisine locale.
 

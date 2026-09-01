@@ -36,15 +36,15 @@ dive-shop: |
 
   Mais à la date de notre séjour, le staff découvrait les sites et avait de gros problèmes de personnel. (tension entre les membres de l'équipage)
 
-  **[Seasport Divers <i class="fa fa-heart"></i>](http://seasportdivers.com/){: target="_blank"}** sur l'île de Kauai&nbsp;: très bon club situé à Poipu, gros staff et bateau confortable. L'intérêt majeur est de faire la sortie à la journée sur Niihau&nbsp;: 3 plongées inoubliables et snorkeling possible avec des dauphins en tout petits groupes pour ne pas les effrayer.
+  **[Seasport Divers <i class="fa fa-heart"></i>](https://seasportdivers.com/){: target="_blank"}** sur l'île de Kauai&nbsp;: très bon club situé à Poipu, gros staff et bateau confortable. L'intérêt majeur est de faire la sortie à la journée sur Niihau&nbsp;: 3 plongées inoubliables et snorkeling possible avec des dauphins en tout petits groupes pour ne pas les effrayer.
 
 accommodation: |
   En mai 2016.
   {: .visited-in}
 
-  Sur Big Island&nbsp;: **[B&B](http://www.makaihale.com/){: target="_blank"}** au nord de Big Island aux hôtes charmants et discrets, piscine et jacuzzi à disposition, et quelle vue les volcans et la mer&nbsp;...
+  Sur Big Island&nbsp;: **[B&B](https://www.makaihale.com/){: target="_blank"}** au nord de Big Island aux hôtes charmants et discrets, piscine et jacuzzi à disposition, et quelle vue les volcans et la mer&nbsp;...
 
-  Sur Kauai&nbsp;: **[Prince Kuhio](http://www.prince-kuhio.com/){: target="_blank"}**&nbsp;: Location d'appartements dans une jolie résidence, à la sortie de Poipu à deux pas de la plage. Les appartements rooftops sont superbes&nbsp;!
+  Sur Kauai&nbsp;: **[Prince Kuhio](https://www.prince-kuhio.com/){: target="_blank"}**&nbsp;: Location d'appartements dans une jolie résidence, à la sortie de Poipu à deux pas de la plage. Les appartements rooftops sont superbes&nbsp;!
 
 to-see: |
   En mai 2016.

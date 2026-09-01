@@ -28,7 +28,7 @@ dive-shop: |
   In May 2015.
   {: .visited-in}
 
-  Our very first dive cruise, with **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](http://www.aggressor.com/belize.php){: target="_blank"}** out of Belize City: 5 days of "eat sleep and dive" with 4 nitrox dives a day and an extra night dive whenever the weather allowed.
+  Our very first dive cruise, with **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](https://www.aggressor.com/belize.php){: target="_blank"}** out of Belize City: 5 days of "eat sleep and dive" with 4 nitrox dives a day and an extra night dive whenever the weather allowed.
 
   The boat is ultra comfortable and almost the whole crew dives too (20 guests max, mostly American).
 
@@ -38,7 +38,7 @@ accommodation: |
   In May 2015.
   {: .visited-in}
 
-  **[Casa Blanca Guest House](http://www.casablancaguesthouse.com/){: target="_blank"}** in San Ignacio, a charming guest house, a great base for visiting Mayan country. It's possible to book tours with very good local guides.
+  **[Casa Blanca Guest House](https://www.casablancaguesthouse.com/){: target="_blank"}** in San Ignacio, a charming guest house, a great base for visiting Mayan country. It's possible to book tours with very good local guides.
 
   **[Isla Marisol Resort](https://islamarisolresort.com/){: target="_blank"}**, Robinson Crusoe style. The restaurant and huts are basic, as is the welcome. Meal times aren't adapted to diving, which remains the resort's only activity. The resort was overrun with sand flies when we were there.
 

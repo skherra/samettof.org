@@ -28,21 +28,21 @@ dive-shop: |
   En Décembre 2018.
   {: .visited-in}
 
-  **[Diving Cattitude <i class="fa fa-heart"></i>](http://www.diving-cattitude-nosybe.com/){: target="_blank"}** propose plusieurs croisières à la carte au départ de Nosy Be.
+  **[Diving Cattitude <i class="fa fa-heart"></i>](https://www.diving-cattitude-nosybe.com/){: target="_blank"}** propose plusieurs croisières à la carte au départ de Nosy Be.
 
   Le catamaran plutôt unique a été fait sur mesure avec de bons moteurs. D'une capacité de 6 personnes, il est très confortable. L'équipage est composé de quatre personnes aux petits soins. Hassan le chef cuisinier prépare de bons petits plats variés et selon la pêche du jour.
 
   Les plongées sur les îles Radama se font depuis le bateau en dérivante. Malik est un passionné et les plongées avec lui se font en toute sécurité, il aime le gros et le recherche pour notre plus grand plaisir.
 
-  **[Sakalav' Diving <i class="fa fa-heart"></i>](http://www.sakalav-diving.com/){: target="_blank"}**, sur la plage au nord-ouest de Nosy Be en face de Sakatia. Nous avons plongé dans la baie du fait de la météo mais nous nous sommes régalés avec Nathalie à la recherche du petit. Le club est une petite structure mais possède trois bateaux plutôt confortables. Du luxe, on ne porte ni ne grée sa bouteille. On part pour deux plongées avec un intervalle de surface sur le bateau où l'ambiance est bonne et les discussions vont bon train.
+  **[Sakalav' Diving <i class="fa fa-heart"></i>](https://www.sakalav-diving.com/){: target="_blank"}**, sur la plage au nord-ouest de Nosy Be en face de Sakatia. Nous avons plongé dans la baie du fait de la météo mais nous nous sommes régalés avec Nathalie à la recherche du petit. Le club est une petite structure mais possède trois bateaux plutôt confortables. Du luxe, on ne porte ni ne grée sa bouteille. On part pour deux plongées avec un intervalle de surface sur le bateau où l'ambiance est bonne et les discussions vont bon train.
 
 accommodation: |
   En Décembre 2018.
   {: .visited-in}
 
-  **[Gérard et Francine](http://www.gerard-et-francine.com/fr/){: target="_blank"}**, charmant hôtel dans une belle maison à l'écart de la plage d'Ambatoloaka, les chambres sont petites mais le lieu de vie est très sympathique. (Attention pas de climatisation dans le bâtiment principal.)
+  **[Gérard et Francine](https://www.gerard-et-francine.com/fr/){: target="_blank"}**, charmant hôtel dans une belle maison à l'écart de la plage d'Ambatoloaka, les chambres sont petites mais le lieu de vie est très sympathique. (Attention pas de climatisation dans le bâtiment principal.)
 
-  **[La Case Sakalava](http://www.case-sakalava.com/){: target="_blank"}**, sur les hauteurs, logement simple mais agréable en demi-pension et forfait plongée. Les repas sont copieux. Très belle vue et calme absolu&nbsp;! Le club de plongée est à 10 minutes à pied sur la plage.
+  **[La Case Sakalava](https://www.case-sakalava.com/){: target="_blank"}**, sur les hauteurs, logement simple mais agréable en demi-pension et forfait plongée. Les repas sont copieux. Très belle vue et calme absolu&nbsp;! Le club de plongée est à 10 minutes à pied sur la plage.
 
 to-see: |
   En Décembre 2018.

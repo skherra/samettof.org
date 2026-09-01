@@ -26,7 +26,7 @@ dive-shop: |
   En mars 2017.
   {: .visited-in}
 
-  **[La dive bouteille <i class="fa fa-heart"></i>](http://www.dive-bouteille.com/){: target="_blank"}** &nbsp;: Laurence et Philippe sont un couple charmant, rigolo et passionné.
+  **[La dive bouteille <i class="fa fa-heart"></i>](https://www.dive-bouteille.com/){: target="_blank"}** &nbsp;: Laurence et Philippe sont un couple charmant, rigolo et passionné.
 
   Nous avons beaucoup appris et passé notre niveau 2 avec Philippe très pédagogue.
 

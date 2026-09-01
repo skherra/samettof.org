@@ -28,7 +28,7 @@ dive-shop: |
   En mai 2015.
   {: .visited-in}
 
-  Notre toute première croisière plongée avec **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](http://www.aggressor.com/belize.php){: target="_blank"}** depuis Belize city&nbsp;: 5 jours de "eat sleep and dive" avec 4 plongées par jour au nitrox et une plongée de nuit supplémentaire quand la météo le permet.
+  Notre toute première croisière plongée avec **[<i class="fa fa-ship"></i> Aggressor Sundancer 2 <i class="fa fa-heart"></i>](https://www.aggressor.com/belize.php){: target="_blank"}** depuis Belize city&nbsp;: 5 jours de "eat sleep and dive" avec 4 plongées par jour au nitrox et une plongée de nuit supplémentaire quand la météo le permet.
 
   Le bateau est ultra confortable et tout l'équipage ou presque plonge. (20 Guests max / pour la grande majorité Américains).
 
@@ -38,7 +38,7 @@ accommodation: |
   En mai 2015.
   {: .visited-in}
 
-  **[Casa Blanca Guest House](http://www.casablancaguesthouse.com/){: target="_blank"}** à San Ignaco, charmante guest house, un pied à terre idéal pour la visite du pays Maya. Il est possible de réserver des tours avec de très bons guides locaux.
+  **[Casa Blanca Guest House](https://www.casablancaguesthouse.com/){: target="_blank"}** à San Ignaco, charmante guest house, un pied à terre idéal pour la visite du pays Maya. Il est possible de réserver des tours avec de très bons guides locaux.
 
   **[Isla Marisol Resort](https://islamarisolresort.com/){: target="_blank"}**, à la mode Robinson. Le restaurant et les huttes sont sommaires ainsi que l'accueil. Les horaires des repas ne sont pas adaptés à la plongée qui reste la seule activité de ce resort. Le resort était envahi de mouches de sables quand nous y étions.
 

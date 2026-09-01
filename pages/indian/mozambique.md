@@ -28,7 +28,7 @@ dive-shop: |
   En février 2018.
   {: .visited-in}
 
-  **[Scuba Addicts <i class="fa fa-heart"></i>](http://www.scubaaddicts.com/){: target="_blank"}** propose plusieurs packages Afrique du Sud et Mozambique. Sur Ponta 2 à 3 plongées dans la journée.
+  **[Scuba Addicts <i class="fa fa-heart"></i>](https://www.scubaaddicts.com/){: target="_blank"}** propose plusieurs packages Afrique du Sud et Mozambique. Sur Ponta 2 à 3 plongées dans la journée.
 
   Grand zodiaque, le skipper et le guide connaissent très bien les sites et la mer, et offrent des plongées en toute sécurité, par contre les plongées ne sont pas toujours possibles en fonction du temps.
 

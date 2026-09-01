@@ -34,9 +34,9 @@ dive-shop: |
   In May 2014.
   {: .visited-in}
 
-  Okinawa:  **[Reef Encounters](http://www.reefencounters.org/){: target="_blank"}**, in the Chatan neighborhood. Run by a former marine, it was the only club offering dives on the Keramas for non-Japanese speakers. Only drift diving, with negative entries for most sites. Small boat, very professional, hands-on staff. 3 dives a day.
+  Okinawa:  **[Reef Encounters](https://www.reefencounters.org/){: target="_blank"}**, in the Chatan neighborhood. Run by a former marine, it was the only club offering dives on the Keramas for non-Japanese speakers. Only drift diving, with negative entries for most sites. Small boat, very professional, hands-on staff. 3 dives a day.
 
-  Yakushima: Easy diving from Isso beach, organized by  **[Yes](http://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}**, a local tour operator.
+  Yakushima: Easy diving from Isso beach, organized by  **[Yes](https://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}**, a local tour operator.
 
   Iriomote: Dive club at the  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}** guesthouse. There are two of them on the boat, the captain and the dive master. Large, comfortable boat. They don't speak English, we appreciated Atsuko's drawn-out briefings and hands-on guiding.
 
@@ -52,12 +52,12 @@ accommodation: |
 
   Yakushima: **Soyotei**, a traditional guesthouse overlooking a beautiful beach in the south.
 
-  Iriomote: **[Pension Hoshinosuna](http://www.hoshinosuna.ne.jp/){: target="_blank"}**, a dive guesthouse, with a magnificent view over a starry-sand beach.
+  Iriomote: **[Pension Hoshinosuna](https://www.hoshinosuna.ne.jp/){: target="_blank"}**, a dive guesthouse, with a magnificent view over a starry-sand beach.
 
 to-see: |
   **[Kyushu](https://en.wikipedia.org/wiki/Kyushu){: target="_blank"}** is full of beauty, with its volcanic landscapes, much less touristy than Honshu, and it's well worth the detour: a trek up Mount Aso, a walk around Miyazaki and the beautiful island of Aoshima, **[the Buddhas](https://en.japantravel.com/oita/the-stone-buddhas-of-usuki/7192){: target="_blank"}**  of Usuki and  **[Kumamoto Castle](https://en.wikipedia.org/wiki/Kumamoto_Castle){: target="_blank"}**.
 
-  **[Yakushima](http://www.japan-guide.com/e/e4650.html){: target="_blank"}**: Take the time to drive around the island, soak up the forest that Miyazaki loved so much, and see the thousand-year-old cedars, including Jomon Sugi. Admire the temples with their toris on the beaches, and watch leatherback turtles nesting in season. (Operator **[Yes](http://www.yesyakushima.com/){: target="_blank"}**).
+  **[Yakushima](https://www.japan-guide.com/e/e4650.html){: target="_blank"}**: Take the time to drive around the island, soak up the forest that Miyazaki loved so much, and see the thousand-year-old cedars, including Jomon Sugi. Admire the temples with their toris on the beaches, and watch leatherback turtles nesting in season. (Operator **[Yes](https://www.yesyakushima.com/){: target="_blank"}**).
 
   **[Iriomote](https://en.wikivoyage.org/wiki/Iriomote){: target="_blank"}**: The island has no public transport, but the guesthouses handle getting you to the sites: to the north of the island, the beautiful starry-sand beach, and a trek near the Urauchi River to see some beautiful waterfalls.
 

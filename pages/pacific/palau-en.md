@@ -32,7 +32,7 @@ dive-shop: |
   In February 2020.
   {: .visited-in}
 
-  **[Sam's Tours](http://www.samstours.com/){: target="_blank"}** is a very large club with a fleet of 6 big, fast boats. PADI system, 10 divers with 2 dive masters, dives are no-deco and last around sixty minutes, preferably on nitrox.
+  **[Sam's Tours](https://www.samstours.com/){: target="_blank"}** is a very large club with a fleet of 6 big, fast boats. PADI system, 10 divers with 2 dive masters, dives are no-deco and last around sixty minutes, preferably on nitrox.
 
   The club mixes group levels a bit, and you can't really dive à la carte.
 

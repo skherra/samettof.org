@@ -22,16 +22,16 @@ country-desc: |
 
   We settled in near Misali island and dived the reef there, where the seabed is teeming with fish and life. At most, we were 4 or 5 people underwater!
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the description of the dives around Misali: [<i class="fa fa-map"></i>](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the description of the dives around Misali: [<i class="fa fa-map"></i>](https://www.fundulagoon.com/#/ocean/diving){: target="_blank"}.
 
 dive-shop: |
   In September 2015.
   {: .visited-in}
 
-   **[Dive 170](http://www.fundulagoon.com/#/ocean/diving){: target="_blank"}** at Fundu Lagoon: a professional dive club. Day trip out to Misali island, 2 dives. The picnics are simply enormous!
+   **[Dive 170](https://www.fundulagoon.com/#/ocean/diving){: target="_blank"}** at Fundu Lagoon: a professional dive club. Day trip out to Misali island, 2 dives. The picnics are simply enormous!
 
 accommodation: |
-  **[Fundu Lagoon](http://www.fundulagoon.com/)**: A stunning slice of paradise, breathtaking setting, good restaurant. It takes some effort to get to, on the far side of the airport: 50 minutes by car and 20 minutes by boat.
+  **[Fundu Lagoon](https://www.fundulagoon.com/)**: A stunning slice of paradise, breathtaking setting, good restaurant. It takes some effort to get to, on the far side of the airport: 50 minutes by car and 20 minutes by boat.
 
 to-see: |
   A safari and the sea,...

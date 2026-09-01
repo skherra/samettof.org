@@ -34,9 +34,9 @@ dive-shop: |
   En mai 2014.
   {: .visited-in}
 
-  Okinawa&nbsp;:  **[Reef encounters](http://www.reefencounters.org/){: target="_blank"}** situé dans le quartier de Chatan. Tenu par un ancien marine, il était le seul a proposer des plongées sur les Kerama pour les personnes ne parlant pas Japonais. Uniquement plongée dérivante avec entrée négative pour la plupart des sites. Petit bateau, staff très pro et encadrant. 3 plongées par jour.
+  Okinawa&nbsp;:  **[Reef encounters](https://www.reefencounters.org/){: target="_blank"}** situé dans le quartier de Chatan. Tenu par un ancien marine, il était le seul a proposer des plongées sur les Kerama pour les personnes ne parlant pas Japonais. Uniquement plongée dérivante avec entrée négative pour la plupart des sites. Petit bateau, staff très pro et encadrant. 3 plongées par jour.
 
-  Yakushima&nbsp;: Plongée facile depuis la plage Isso, organisée par  **[Yes](http://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}** tour opérateur local.
+  Yakushima&nbsp;: Plongée facile depuis la plage Isso, organisée par  **[Yes](https://www.yesyakushima.com/yakushima-activities/yakushima-ocean-activities/yakushima-diving-snorkelling/){: target="_blank"}** tour opérateur local.
 
   Iriomote&nbsp;: Club de plongée dans la pension  **[Hoshinosuna](https://hoshinosuna.ne.jp/){: target="_blank"}**. Ils sont deux sur le bateau, le capitaine et la dive-master. Grand bateau confortable. Ne parlant pas anglais&nbsp;; nous avons apprécié les briefings dessinés et l'encadrement d'Atsuko.
 
@@ -52,12 +52,12 @@ accommodation: |
 
   Yakushima&nbsp;: **Soyotei**, pension traditionnelle donnant sur une belle plage du Sud.
 
-  Iriomote&nbsp;: **[Pension Hoshinosuna](http://www.hoshinosuna.ne.jp/){: target="_blank"}**, pension plongée, avec une vue magnifique sur une plage de sable étoilé.
+  Iriomote&nbsp;: **[Pension Hoshinosuna](https://www.hoshinosuna.ne.jp/){: target="_blank"}**, pension plongée, avec une vue magnifique sur une plage de sable étoilé.
 
 to-see: |
   Le **[Kyūshū](https://fr.wikipedia.org/wiki/Ky%C5%ABsh%C5%AB){: target="_blank"}** regorge de beauté pour ses paysages volcaniques, beaucoup moins touristiques que le Honshu, il mérite le détour&nbsp;: Treck sur le mont Aso, balade autour de Miyasaki et la belle île de Aoshima, **[les Bouddhas](https://fr.japantravel.com/%C5%8Dita/bouddhas-pierre-usuki-falaise/22157){: target="_blank"}**  d'Usuki et  **[le château de Kumamoto](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Kumamoto){: target="_blank"}**.
 
-  **[Yakushima](http://www.japan-guide.com/e/e4650.html){: target="_blank"}**&nbsp;: Prendre le temps de parcourir l'île en voiture, s'imprégner de la forêt chère à Miyasaki et voir les cèdres millénaires dont Jomonsugi. Admirer les temples avec les Toris sur les plages et voir la ponte des tortues luth quand c'est la saison. (Opérateur **[Yes](http://www.yesyakushima.com/){: target="_blank"}**).
+  **[Yakushima](https://www.japan-guide.com/e/e4650.html){: target="_blank"}**&nbsp;: Prendre le temps de parcourir l'île en voiture, s'imprégner de la forêt chère à Miyasaki et voir les cèdres millénaires dont Jomonsugi. Admirer les temples avec les Toris sur les plages et voir la ponte des tortues luth quand c'est la saison. (Opérateur **[Yes](https://www.yesyakushima.com/){: target="_blank"}**).
 
   **[Iriomote](https://fr.wikivoyage.org/wiki/Iriomote){: target="_blank"}**&nbsp;: L'île ne possède pas de transport mais les pensions se chargent de vous amener sur les sites&nbsp;: Au nord de l'île, la belle plage de sable étoilée, et un treck près du fleuve Urauchi pour y voir de belles cascades.
 

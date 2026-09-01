@@ -30,7 +30,7 @@ dive-shop: |
   In May 2018.
   {: .visited-in}
 
-  **[<i class="fa fa-ship"></i> Aggressor 3 <i class="fa fa-heart"></i>](http://www.aggressor.com/galapagos.php){: target="_blank"}**, with a capacity of 16 people, offers excellent service and 2 passionate dive masters. The boat, very comfortable, departs from Baltra and offers 4 dives a day. The dives are exclusively drift dives from a zodiac.
+  **[<i class="fa fa-ship"></i> Aggressor 3 <i class="fa fa-heart"></i>](https://www.aggressor.com/galapagos.php){: target="_blank"}**, with a capacity of 16 people, offers excellent service and 2 passionate dive masters. The boat, very comfortable, departs from Baltra and offers 4 dives a day. The dives are exclusively drift dives from a zodiac.
 
 accommodation: |
   In May 2018.
@@ -38,7 +38,7 @@ accommodation: |
 
   In Guayaquil: **[Ramada Hotel](https://www.hotelramada.com/){: target="_blank"}** for a transit stop in Guayaquil, decent and very well located, facing the Malecón.
 
-  In Puerto Ayora: **[La Casa de Judy <i class="fa fa-heart"></i>](http://www.hotellacasadejudy.com/){: target="_blank"}** a really lovely hotel, quiet, with a view over a canopy, good breakfasts.
+  In Puerto Ayora: **[La Casa de Judy <i class="fa fa-heart"></i>](https://www.hotellacasadejudy.com/){: target="_blank"}** a really lovely hotel, quiet, with a view over a canopy, good breakfasts.
 
   In Cuenca: **Hotel Inés**, a charming, typical hotel in the historic center.
 

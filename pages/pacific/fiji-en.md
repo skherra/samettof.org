@@ -24,17 +24,17 @@ country-desc: |
 
   The dives are drift dives, and the current can be moderate to strong depending on the tide, but there are dives for every level.
 
-  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the description of the dive sites at Taveuni: [<i class="fa fa-map"></i>](http://www.taveunidiveresort.com/dive-guide#){: target="_blank"}.
+  **<i class="fa fa-mail-forward"></i>**{: .accent-color} Here's the description of the dive sites at Taveuni: [<i class="fa fa-map"></i>](https://www.taveunidiveresort.com/dive-guide#){: target="_blank"}.
 
 dive-shop: |
   In September 2018.
   {: .visited-in}
 
-  **[Taveuni Dive <i class="fa fa-heart"></i>](http://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** has 3 boats at a small marina a 2-minute walk from the resort. The biggest boat can take 9 divers. There are five dive masters. We dived with David and Alfred, two passionate locals. Groups are capped at 5-6 people, we never did the same site twice all week.
+  **[Taveuni Dive <i class="fa fa-heart"></i>](https://www.taveunidiveresort.com/dive-shop/){: target="_blank"}** has 3 boats at a small marina a 2-minute walk from the resort. The biggest boat can take 9 divers. There are five dive masters. We dived with David and Alfred, two passionate locals. Groups are capped at 5-6 people, we never did the same site twice all week.
 
   The sites are 15 minutes by boat from the marina. Two dives in the morning starting at 8am, and one offered in the afternoon, though the timing on that one stays tricky, "Fiji Time" <i class="fa fa-smile-o"></i>
 
-  **[<i class="fa fa-ship"></i> Fiji Aggressor](http://www.aggressor.com/){: target="_blank"}**  has a capacity of 10 people, an old boat that isn't particularly well maintained, with an unpleasant smell in the cabins, quite expensive for what's on offer. Only the captain and the dive master save the trip, offering some really beautiful dives depending on the mood and the weather: macro or a good drift dive in the current. 4 to 5 dives a day when the weather allows, from the boat or the zodiac.
+  **[<i class="fa fa-ship"></i> Fiji Aggressor](https://www.aggressor.com/){: target="_blank"}**  has a capacity of 10 people, an old boat that isn't particularly well maintained, with an unpleasant smell in the cabins, quite expensive for what's on offer. Only the captain and the dive master save the trip, offering some really beautiful dives depending on the mood and the weather: macro or a good drift dive in the current. 4 to 5 dives a day when the weather allows, from the boat or the zodiac.
 
   Since 2019, this cruise has been pulled from the Aggressor website.
 
@@ -42,16 +42,16 @@ accommodation: |
   In September 2018.
   {: .visited-in}
 
-  In Taveuni: **[Taveuni Dive Resort](http://www.taveunidiveresort.com/){: target="_blank"}**: A really beautiful resort set in a lush garden, opened in 2017, still has room to improve, it's more of a resort than a dive resort. A bit pricey for what you get.
+  In Taveuni: **[Taveuni Dive Resort](https://www.taveunidiveresort.com/){: target="_blank"}**: A really beautiful resort set in a lush garden, opened in 2017, still has room to improve, it's more of a resort than a dive resort. A bit pricey for what you get.
 
-  In Suva: **[Grand Pacific Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}**: A splurge <i class="fa fa-smile-o"></i>, this magnificent hotel is steeped in history, Queen Elizabeth once stayed here. The rooms are large and comfortable. The service is impeccable.
+  In Suva: **[Grand Pacific Hotel](https://grandpacifichotel.com.fj/){: target="_blank"}**: A splurge <i class="fa fa-smile-o"></i>, this magnificent hotel is steeped in history, Queen Elizabeth once stayed here. The rooms are large and comfortable. The service is impeccable.
 
   In Nadi: **Tropic of Capricorn <i class="fa fa-heart"></i>**: a simple backpacker hotel with a magnificent view over Wailoaloa Bay. Lovely staff, small bar where you can order food and drinks.
 
 to-see: |
   In Nadi: **Fiji Essence and Spa**, for a really pleasant transit and rejuvenating massages, 5 minutes from Nadi airport, transfer included.
 
-  In Suva: **[Grand Pacific Hotel](http://grandpacifichotel.com.fj/){: target="_blank"}** for the historic setting, to grab a drink or dinner. One of the only buildings worth seeing in Suva.
+  In Suva: **[Grand Pacific Hotel](https://grandpacifichotel.com.fj/){: target="_blank"}** for the historic setting, to grab a drink or dinner. One of the only buildings worth seeing in Suva.
 
   At Gau or Taveuni: Get invited to the village of **Somosomo**, to chat with the villagers, listen to their songs and enjoy delicious local food.
 

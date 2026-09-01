@@ -34,7 +34,7 @@ dive-shop: |
   En mars 2019.
   {: .visited-in}
 
-   **[Dive IS <i class="fa fa-heart"></i>](http://www.dive.is/){: target="_blank"}** propose plusieurs packages de deux plongées le matin. En les contactant directement ils peuvent proposer certains packages sur mesure.
+   **[Dive IS <i class="fa fa-heart"></i>](https://www.dive.is/){: target="_blank"}** propose plusieurs packages de deux plongées le matin. En les contactant directement ils peuvent proposer certains packages sur mesure.
 
   Dive IS fournit un matériel en très bon état et des doudounes, il convient de prévoir des sous-vêtements en laine également et deux grosses paires de chaussettes pour les petits pieds (les combinaisons M ont des bottillons intégrés de taille 42-43).
 

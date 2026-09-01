@@ -28,7 +28,7 @@ dive-shop: |
   In September 2016.
   {: .visited-in}
 
-  In Mindelo, a single dive club, tricky to find: **[DiveTribe](http://www.dive-tribe.com/){: target="_blank"}**, we never met the owner, but the staff are friendly and speak French.
+  In Mindelo, a single dive club, tricky to find: **[DiveTribe](https://www.dive-tribe.com/){: target="_blank"}**, we never met the owner, but the staff are friendly and speak French.
 
   It's possible to do 2 to 3 dives a day, morning and afternoon. The zodiac sits quite high with no ladder and has a capacity of 10 people.
 
@@ -36,7 +36,7 @@ accommodation: |
   In September 2016.
   {: .visited-in}
 
-  **[Kira's boutique hotel](http://www.kirashotel.com/){: target="_blank"}**, a few minutes from downtown, quiet, clean and welcoming. A huge breakfast with local specialties. The hotel also has a lovely terrace and a roof top for evenings. With a card, it's possible to take a dip at the hotel next door.
+  **[Kira's boutique hotel](https://www.kirashotel.com/){: target="_blank"}**, a few minutes from downtown, quiet, clean and welcoming. A huge breakfast with local specialties. The hotel also has a lovely terrace and a roof top for evenings. With a card, it's possible to take a dip at the hotel next door.
 
 to-see: |
   In September 2016.

@@ -26,7 +26,7 @@ dive-shop: |
   In December 2015.
   {: .visited-in}
 
-  **[<i class="fa fa-ship"></i> Aggressor 1](http://www.aggressor.com/maldives.php){: target="_blank"}** dive cruise from Malé: 5 days of "eat sleep and dive" with 4 nitrox dives a day, including night dives.
+  **[<i class="fa fa-ship"></i> Aggressor 1](https://www.aggressor.com/maldives.php){: target="_blank"}** dive cruise from Malé: 5 days of "eat sleep and dive" with 4 nitrox dives a day, including night dives.
 
   An old sailing boat, not very comfortable, but the crew takes great care of you. (The company changed itinerary and boat in 2017)
 

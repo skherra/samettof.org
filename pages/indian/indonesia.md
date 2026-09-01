@@ -47,7 +47,7 @@ dive-shop: |
   En janvier 2025 et septembre 2017.
   {: .visited-in}
 
-  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](http://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit).
+  Croisière plongée **[<i class="fa fa-ship"></i> Adelaar](https://www.adelaar-cruises.com/){: target="_blank"}** propose différents itinéraires, depuis Bali ou Sorong (11 jours avec 3 plongées par jour au nitrox et quelques plongées de nuit).
 
   Très beau bateau et excellent service pour 8 passagers maximum (2 palanquées de 4). Suivant les guides de plongées, on apprécie le petit comme le gros.
 
