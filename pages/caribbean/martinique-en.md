@@ -39,7 +39,7 @@ accommodation: |
   Get a rental near Les Trois-Îlets for the diving, and a car to tour the island. We enjoyed **villa Anqhub** for its privacy, the kindness of the hosts and its location on Pointe du Bout.
 
 to-see: |
-  Visiting the distilleries, including the **[Clément](https://en.wikipedia.org/wiki/Cl%C3%A9ment_distillery){: target="_blank"}** estate.
+  Visiting the distilleries, including the **[Clément](https://fr.wikipedia.org/wiki/Habitation_Cl%C3%A9ment){: target="_blank"}** estate.
 
   **La Route de la Trace** and the Atlantic coast.
 

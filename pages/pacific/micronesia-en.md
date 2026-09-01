@@ -71,7 +71,7 @@ accommodation: |
 to-see: |
   In Chuuk: There's not much to do outside of diving.
 
-  In Yap: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, a national holiday celebrating Yapese culture. Wonderful, family-friendly and warm.
+  In Yap: **[Yap Day](http://www.visityap.com/events_in_yap.php){: target="_blank"}**, a national holiday celebrating Yapese culture. Wonderful, family-friendly and warm.
 
   Also worth a short tour of the island to see the stone money bank, the men's houses,...
 

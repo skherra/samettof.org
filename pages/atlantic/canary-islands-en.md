@@ -37,7 +37,7 @@ accommodation: |
   Small villa rentals are available in the Marina Rubicon in Santa Rosa, close to the shops, restaurants, the marina...
 
 to-see: |
-  The Timanfaya volcanoes national park and **[el Golfo](https://en.wikipedia.org/wiki/El_Golfo,_Lanzarote){: target="_blank"}**.
+  The Timanfaya volcanoes national park and **[el Golfo](https://fr.wikipedia.org/wiki/El_Golfo){: target="_blank"}**.
 
   The architecture of **[Cesar Manrique](https://en.wikipedia.org/wiki/C%C3%A9sar_Manrique){: target="_blank"}**.
 

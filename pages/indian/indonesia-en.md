@@ -80,7 +80,7 @@ to-see: |
 
   A quick and easy trek on Waigeo island for the famous Raja Ampat viewpoint, but there's something more challenging and far more spectacular and secret over at Wayag Bay (North Raja Ampat).
 
-  On the small private island of Wai (Central Raja Ampat), between dives you can spot **[cuscuses](https://en.wikipedia.org/wiki/Cuscus_(marsupial)){: target="_blank"}** and beautiful fruit bats.
+  On the small private island of Wai (Central Raja Ampat), between dives you can spot **[cuscuses](https://en.wikipedia.org/wiki/Cuscus){: target="_blank"}** and beautiful fruit bats.
 
   In September 2017.
   {: .visited-in}

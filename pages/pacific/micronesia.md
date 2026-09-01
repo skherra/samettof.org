@@ -71,7 +71,7 @@ accommodation: |
 to-see: |
   À Chuuk&nbsp;: Il n'y a pas grand chose à faire en dehors de la plongée.
 
-  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/things-to-do/yap-day/){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux.
+  À Yap&nbsp;: **[Yap Day](http://www.visityap.com/events_in_yap.php){: target="_blank"}**, fête nationale et célébration de la culture Yapeese. Superbe, familial et chaleureux.
 
   Faire également un petit tour de l'île pour voir la banque de monnaies de pierre, les maisons des hommes&nbsp;...
 

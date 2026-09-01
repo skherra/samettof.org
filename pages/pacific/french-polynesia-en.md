@@ -73,7 +73,7 @@ dive-shop: |
 
   **Rangiroa**: **[The 6 Passengers <i class="fa fa-heart"></i>](http://www.the6passengers.com/){: target="_blank"}**: A good-sized club, set up around a large deck facing the lagoon, perfect for lounging between dives. Several zodiacs. The guides and owners are passionate and always smiling. It's possible to do 3 dives a day, including one at dusk on request.
 
-  **Raiatea**: **[Hemisphere Sub](https://www.hemispheresub.com/en/plongees.html){: target="_blank"}**, a large, friendly club located at the marina near the airport, 2 boats for 6 to 8 people, 4 instructors. Dives are scheduled the evening before for the next day, we appreciated Farid's WhatsApp messages offering à la carte dives.
+  **Raiatea**: **[Hemisphere Sub](https://www.hemispheresub.com/en/scubadiving.html){: target="_blank"}**, a large, friendly club located at the marina near the airport, 2 boats for 6 to 8 people, 4 instructors. Dives are scheduled the evening before for the next day, we appreciated Farid's WhatsApp messages offering à la carte dives.
 
   **Moorea**: **[Moorea Fun Dive <i class="fa fa-heart"></i>](https://www.hemispheresub.com/en/){: target="_blank"}**, a small club with Christian and Nathalie taking great care of us, not forgetting Philippe, really friendly and cheerful. A big favorite for this welcoming, passionate club. The team juggles levels and dive sites to keep everyone happy. Over more than a week on Moorea, we never did the same dive twice.
 

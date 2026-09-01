@@ -52,7 +52,7 @@ to-see: |
 
   Try the local specialties at the **"Kioskes"** and Christina's famous **Calulu** in the Kabelo Mole neighborhood. Stroll through the forest at Belém and taste freshly tapped palm wine.
 
-  Around Bom Sucesso: Walk to **[lagoa Amelia](https://en.wikipedia.org/wiki/Lagoa_Am%C3%A9lia){: target="_blank"}** in the primary forest.
+  Around Bom Sucesso: Walk to **[lagoa Amelia](https://fr.wikipedia.org/wiki/Lagoa_Am%C3%A9lia){: target="_blank"}** in the primary forest.
 
 log-books:
 - author: Sam

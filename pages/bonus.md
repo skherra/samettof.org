@@ -26,4 +26,4 @@ h1: Bonus
 
 **<i class="fa fa-mail-forward"></i> Chili**&nbsp;: Puritama dans le désert d'Atacama, Jurasi (à 3500 m d'altitude) près de Putre
 
-**<i class="fa fa-mail-forward"></i> [Baja California (Mexique)](/pacifique/mexique/)**{: .accent-color}, la sierra de la Laguna
+**<i class="fa fa-mail-forward"></i> [Baja California (Mexique)](/pacifique/mexique-baja-california/)**{: .accent-color}, la sierra de la Laguna

@@ -34,7 +34,7 @@ country-desc-sections:
     The water is only clear one month a year, according to locals! There's a lot of particulate matter, and marine life stays between 0 and 20 meters. The sites are fairly close to one another. The topography is beautiful, with small cavities, long canyons, arches. Some sites aren't easy to find if you don't know the area well, because of the low visibility.
 - title: Riou
   text: |
-    The **[Riou archipelago <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/en/riou-archipelago){: target="_blank"}**, in the Calanques national park, is simply stunning. You reach the marine reserve via the channel by **[Île Maïre](https://en.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** and Cap Croisette, the islands are sanctuaries for birds, and for divers.
+    The **[Riou archipelago <i class="fa fa-heart"></i>](http://www.calanques-parcnational.fr/en/riou-archipelago){: target="_blank"}**, in the Calanques national park, is simply stunning. You reach the marine reserve via the channel by **[Île Maïre](https://fr.wikipedia.org/wiki/%C3%8Ele_Ma%C3%AFre){: target="_blank"}** and Cap Croisette, the islands are sanctuaries for birds, and for divers.
 
     Walls of purple, blue, red or yellow gorgonians. Life teems around the submerged rocky pinnacles, caves and tunnels. It's a party for groupers and octopus, but barracudas and scorpionfish aren't left out either. The water there is very clear.
 

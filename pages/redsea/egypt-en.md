@@ -65,7 +65,7 @@ to-see: |
 
   **[Luxor](https://en.wikipedia.org/wiki/Luxor){: target="_blank"}** with the tombs of **[the Valley of the Kings](https://en.wikipedia.org/wiki/Valley_of_the_Kings){: target="_blank"}**, **[the Mortuary Temple of Hatshepsut](https://en.wikipedia.org/wiki/Mortuary_Temple_of_Hatshepsut){: target="_blank"}**, **[the Colossi of Memnon](https://en.wikipedia.org/wiki/Colossi_of_Memnon){: target="_blank"}**, **[the magnificent temple of Karnak](https://en.wikipedia.org/wiki/Karnak){: target="_blank"}**.
 
-  **[Edfu](https://en.wikipedia.org/wiki/Temple_of_Horus_at_Edfu){: target="_blank"}** and **[the small temple of Esna](https://en.wikipedia.org/wiki/Temple_of_Khnum_(Esna)){: target="_blank"}**.
+  **[Edfu](https://en.wikipedia.org/wiki/Temple_of_Horus_at_Edfu){: target="_blank"}** and **[the small temple of Esna](https://en.wikipedia.org/wiki/Esna){: target="_blank"}**.
 
 log-books:
 - author: Sam
