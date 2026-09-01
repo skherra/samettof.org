@@ -8,6 +8,6 @@ gem "jekyll"
 
 gem "webrick", "~> 1.8"
 
-gem "json", "~> 2.19"
+gem "json", "~> 2.21"
 
 gem "html-proofer"
