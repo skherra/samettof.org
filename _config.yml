@@ -17,3 +17,5 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - README.md
+  - specs/
+  - CLAUDE.md
