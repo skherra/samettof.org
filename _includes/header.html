@@ -24,22 +24,16 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink{{ forloop.index }}">
             {%- for subitem in item.sublabels -%}
               {%- assign pages=site.pages | where:"ref", subitem.ref | where:"lang", page.lang -%}
-              <a class="dropdown-item" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>
+              <a class="dropdown-item" href="{{ pages[0].url }}">{{ pages[0].h1 }}</a>
             {% endfor -%}
           </div>
         </li>
         {% else -%}
           {%- assign pages=site.pages | where:"ref", item.ref | where:"lang", page.lang -%}
-          <li class="nav-item"><a class="nav-link" href="{{ pages[0].url }}">{{ pages[0].menu }}</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ pages[0].url }}">{{ pages[0].h1 }}</a></li>
         {% endif -%}
       {%- endfor -%}
     </ul>
-    <span class="navbar-text ml-auto" id="lang">
-      {%- assign pages = site.pages | where:"ref", page.ref | sort: 'lang' -%}
-      {%- for p in pages -%}
-        <a href="{{ p.url }}" class="lang-flag">{{ p.lang-flag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}
-      {%- endfor -%}
-    </span>
   </div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

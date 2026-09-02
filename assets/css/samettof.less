@@ -8,6 +8,7 @@
 @dark-grey: #444;
 
 @navbar-full-height: 66px;
+@footer-height: 36px;
 
 /*----------------------------------------------------------------------------*/
 /* General                                                                    */
@@ -26,6 +27,7 @@ main {
   font-size: 14px;
   line-height: 20px;
   margin-top: @navbar-full-height;
+  margin-bottom: @footer-height;
 }
 
 strong {
@@ -149,6 +151,39 @@ a:hover {
   color: white;
   text-decoration: none;
   background-color: @blue;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Footer                                                                     */
+/*----------------------------------------------------------------------------*/
+
+footer#site-footer {
+  height: @footer-height;
+  background-color: #FFF;
+  border-top: 1px solid rgba(0, 0, 0, .125);
+  padding: 0 15px;
+  flex-wrap: nowrap;
+  font-size: 12px;
+  a {
+    color: @grey;
+  }
+  a:hover {
+    color: @blue;
+    text-decoration: none;
+  }
+  #footer-license i {
+    font-size: 14px;
+    margin-right: 2px;
+  }
+  #footer-license span {
+    margin-left: 4px;
+  }
+  #footer-lang .lang-flag {
+    font-size: 14px;
+    line-height: normal;
+    padding: 0;
+    margin: 0 4px;
+  }
 }
 
 /*----------------------------------------------------------------------------*/
@@ -609,7 +644,7 @@ a:hover {
 }
 
 #worldMap {
-  height: calc(~"100vh - @{navbar-full-height}");
+  height: calc(~"100vh - @{navbar-full-height} - @{footer-height}");
 }
 
 /* Calendar -----------------------------------------------------------------*/

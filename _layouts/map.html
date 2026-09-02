@@ -11,6 +11,7 @@
       <div id="worldMap"></div>
     </div>
   </main>
+  {% include footer.html %}
 
 </body>
 
@@ -84,7 +85,7 @@
       {%- if country-label -%}
         {%- assign country = country | append: country-label -%}
       {%- else -%}
-        {%- assign country = country | append: pages[0].menu -%}
+        {%- assign country = country | append: pages[0].h1 -%}
       {%- endif -%}
       {%- assign country = country | append: '</a>' -%}
     {%- elsif country-label -%}

@@ -130,9 +130,9 @@ log-books:
 | `ref` | Identifiant partagé entre les deux langues de cette page (voir "Conventions générales") ; aussi la clé vers `_data/countries/<ref>.yml` et vers le dossier `photos/<ref>/` |
 | `permalink` | Traduit indépendamment par langue, y compris le segment d'océan (voir "Conventions de nommage" dans `technical-specifications.md`) |
 | `sea` | Un des six océans (`atlantic`, `caribbean`, `indian`, `mediterranean`, `pacific`, `redsea`), pilote la variante visuelle de la bannière de page (voir `style-guide.md`) |
-| `menu` | Libellé affiché dans le sous-menu de navigation et repris comme libellé par défaut sur la carte du monde et le portfolio d'accueil quand aucun libellé dédié n'est fourni |
+| `menu` | Libellé court sans emoji, utilisé comme texte alternatif (`alt`) de la photo sur le portfolio d'accueil |
 | `visited-in` | Date(s) de visite en texte libre (ex. "Décembre 2015"), affichée en italique dans le bloc pratique |
-| `h1` | Nom de la destination précédé d'un emoji drapeau ISO du pays |
+| `h1` | Nom de la destination précédé d'un emoji drapeau ISO du pays ; affiché en tête de la page pays (voir `style-guide.md`) et repris comme texte des liens vers cette page dans le sous-menu de navigation, le portfolio d'accueil et la carte du monde (repli par défaut, voir "Carte du monde" ci-dessous) |
 | `country-desc` | Texte de présentation (Markdown), peut contenir des liens vers des fichiers de `docs/` (voir ci-dessous) |
 | `country-desc-sections` | **Optionnel**, présent sur seulement 7 des 33 pages pays (`indonesia`, `france`, `italy`, `french-polynesia`, `philippines`, `mexico-baja-california`, `egypt`) : liste de sous-sections (`title`/`text`) affichées en accordéon sous `country-desc`, pour les destinations couvrant plusieurs sites géographiques distincts |
 | `dive-shop`, `accommodation`, `to-see` | Toujours présents (vérifié sans exception sur les pages existantes), affichés dans un accordéon à 3 volets même si le texte est court |
@@ -237,7 +237,7 @@ Convention de nommage : `<ref>-<description>.webp` (ou `.pdf`), avec une excepti
 |---|---|
 | `lat`, `lng` | Obligatoires |
 | `icon` | `diveFlagIcon` (destination de plongée) ou `homeIcon` (un seul point, "Home sweet home", Paris) |
-| `ref` | Optionnel : lie le point à une page pays existante. Si présent, le libellé du popup devient un lien vers cette page ; à défaut de `fr-country`/`en-country`, le libellé affiché est `menu` de la page cible, et à défaut de `fr-date`/`en-date`, la date affichée est `visited-in` de la page cible |
+| `ref` | Optionnel : lie le point à une page pays existante. Si présent, le libellé du popup devient un lien vers cette page ; à défaut de `fr-country`/`en-country`, le libellé affiché est `h1` de la page cible, et à défaut de `fr-date`/`en-date`, la date affichée est `visited-in` de la page cible |
 | `place` | Optionnel, sous-titre libre ajouté après un tiret (utile pour les archipels avec plusieurs points, ex. Polynésie française ×11, Philippines ×4) |
 | `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref`. Une seule entrée n'a ni `ref` ni `fr-country`/`en-country` : le point "Home sweet home" (icône `homeIcon`), dont le popup n'affiche alors que `place` |
 | `fr-date` / `en-date` | Optionnel, voir `ref` ci-dessus |

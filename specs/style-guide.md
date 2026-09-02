@@ -19,6 +19,7 @@ Variables LESS (`@variable`), définies une seule fois en tête de `assets/css/s
 @grey:        #666;
 @dark-grey:   #444;
 @navbar-full-height: 66px;
+@footer-height: 36px;
 ```
 
 Toutes ces variables sont utilisées ailleurs dans le fichier (aucune orpheline détectée).
@@ -32,7 +33,8 @@ Plusieurs couleurs sont codées en dur dans `samettof.less` sans être remontée
 | `#ffffff` | Fond de repli des bannières de page |
 | `rgba(68, 68, 68, 0.75)` | Fond de la modale plein écran des galeries photo |
 | `black` | Ombre portée du portrait circulaire de l'en-tête |
-| `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), texte au survol des items de menu déroulant, lien de fermeture de la modale photo |
+| `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), fond du pied de page, texte au survol des items de menu déroulant, lien de fermeture de la modale photo |
+| `rgba(0, 0, 0, .125)` | Bordure haute du pied de page (même valeur que la bordure de `.card` Bootstrap, réutilisée plutôt que dupliquée) |
 
 Le bleu par défaut de Bootstrap 4 (`#007bff`) est présent dans les variables CSS vendored mais n'est utilisé nulle part dans le HTML/LESS custom du site : l'accent visuel du site est systématiquement `@blue` (`#0a9fd8`), pas le bleu Bootstrap.
 
@@ -68,8 +70,14 @@ Pas d'échelle d'espacement custom : la grille et les classes utilitaires de Boo
 - Navbar Bootstrap `fixed-top` (toujours visible en scrollant ; `main { margin-top: @navbar-full-height }` compense la hauteur fixe de 66px).
 - Logo : `assets/img/dive-flag.webp` (300×300 px), affiché en 40×40 px, `rounded-circle`, ombre portée (`box-shadow: 1px 1px 2px black`), lien vers l'accueil de la langue courante.
 - Menu généré depuis `_data/menu.yml` : liens simples et sous-menus déroulants par océan (voir `data-model.md`). `.nav-link` en `@dark-grey`, `@blue` au survol. `.dropdown-item:hover` : fond `@blue`, texte blanc.
-- Sélecteur de langue (drapeaux emoji 🇫🇷/🇬🇧) intégré au menu, **à l'intérieur du volet qui se replie derrière le bouton "burger"** sur mobile — pas de zone séparée toujours visible.
-- Pas de pied de page sur ce site (voir "Navigation" dans `functional-specifications.md`).
+- Le sélecteur de langue ne fait pas partie de l'en-tête : il vit dans le pied de page (voir "Pied de page" ci-dessous).
+
+### Pied de page (`_includes/footer.html`)
+
+- Navbar Bootstrap `fixed-bottom` (toujours visible en scrollant ; `main { margin-bottom: @footer-height }` compense la hauteur fixe de 36px), fond blanc, bordure haute `1px solid rgba(0, 0, 0, .125)`. Réutilise la classe `.navbar` (et son flex `justify-content: space-between`) pour répartir ses deux seuls enfants sans grille custom.
+- Licence à gauche (`#footer-license`) : lien vers la licence Creative Commons BY-NC-SA 4.0 du contenu (`deed.fr`/`deed.en` selon `page.lang`), icônes Font Awesome (`fab fa-creative-commons`, `-by`, `-nc-eu`, `-sa`) suivies du libellé `CC BY-NC-SA 4.0`.
+- Sélecteur de langue à droite (`#footer-lang`, drapeaux emoji 🇫🇷/🇬🇧) : même logique Liquid que l'ancien sélecteur d'en-tête (`site.pages | where:"ref", page.ref`), réutilise la classe `.lang-flag` avec un `padding`/`line-height` réduits propres au pied de page (surchargés sous `#footer-lang`).
+- `#worldMap` (carte du monde plein écran) et le cas particulier de la page 404 tiennent compte de cette hauteur fixe en plus de celle de l'en-tête : `height: calc(100vh - @navbar-full-height - @footer-height)` (voir "Cartes interactives" ci-dessous).
 
 ### Bannière de page (`_includes/page-banner.html`, toutes les pages hors accueil)
 
@@ -126,7 +134,7 @@ Le carousel d'accueil masque sa légende (`h1`/`h2`) sous le breakpoint `md` (`d
 - Marqueurs custom : `diveFlagIcon` (drapeau bleu, site bien exploré), `diveFlagIconGrey` (drapeau gris, site secondaire), `homeIcon` (point "maison", un seul point sur la carte du monde). Toutes les icônes de marqueur : 16×27 px affichées (fichiers sources 50×83 px), avec ombre portée dédiée (`shadow.png`, 76×47 px source, 19×12 px affichée).
 - Une icône `eyeIcon` est déclarée dans le script mais n'est utilisée par aucune donnée actuelle (`_data/world-map.yml`, `_data/countries/*.yml`) — probablement prévue pour un usage futur, à vérifier avant de la considérer comme morte.
 - `country-map.html` : une carte Leaflet par entrée de `maps` (hauteur fixe 550px), réparties en lignes de 3 colonnes (`col-md-4`) ; le reliquat de la division par 3 (0, 1 ou 2 cartes) se partage à parts égales la largeur de sa propre ligne (ex. 4 cartes → 3 en `col-md-4` + 1 seule en `col-md-12` ; 5 cartes → 3 en `col-md-4` + 2 en `col-md-6`). N'apparaît que si le pays a un champ `maps` (21 des 33 destinations, voir `data-model.md`).
-- `map.html` : carte plein écran (`height: calc(100vh - 66px)`), centrée sur `[0, 0]`, zoom initial 2, un marqueur par entrée de `_data/world-map.yml`.
+- `map.html` : carte plein écran (`height: calc(100vh - 66px - 36px)`, hauteur de l'en-tête puis du pied de page), centrée sur `[0, 0]`, zoom initial 2, un marqueur par entrée de `_data/world-map.yml`.
 - `404.html` : même mécanisme que `map.html`, mais centrée sur un point océanique fictif ("Nemo Point"), avec un unique marqueur menant à un article externe (nouvel onglet).
 
 ### Calendrier (`_layouts/calendar.html`)
@@ -182,6 +190,7 @@ Font Awesome, chargé via Kit distant (voir `technical-specifications.md`), pas 
 | Manifeste (8 items) | `fa-flag-o`, `fa-eye`, `fa-paw`, `fa-anchor`, `fa-certificate`, `fa-globe`, `fa-heart`, `fa-camera-retro` |
 | FAQ (par question, front matter `I:`) | variable selon la question (ex. `fa-flag`, `fa-certificate`, `fa-adjust`, `fa-cog`, `fa-briefcase`, `fa-eye`, `fa-camera-retro`, `fa-binoculars`) |
 | Lien vers un document annexe (`docs/`) | `fa-mail-forward` (renvoi), `fa-map` ou `fa-file-pdf-o` selon le type de fichier |
+| Licence (pied de page) | `fab fa-creative-commons`, `fab fa-creative-commons-by`, `fab fa-creative-commons-nc-eu`, `fab fa-creative-commons-sa` |
 
 | Usage | Emoji |
 |---|---|

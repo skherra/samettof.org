@@ -13,7 +13,7 @@ description: Sam & Tof - Scuba diving at Cocos (Costa Rica)
 sea: pacific
 menu: Costa Rica - Cocos
 visited-in: September 2019
-h1: 🇨🇷 Cocos Island
+h1: 🇨🇷 Costa Rica - Cocos
 
 country-desc: |
   **[Cocos Island](https://en.wikipedia.org/wiki/Cocos_Island){: target="_blank"}**, a small paradise for hammerhead sharks and seabirds. It has to be earned, since it takes 36 hours by boat to get there from Punta Arenas, with sometimes very rough seas.
