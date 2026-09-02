@@ -442,6 +442,10 @@
   ref: philippines
   fr-date: mars 2026
   en-date: March 2026
+- lat: 17.016122
+  lng: -61.776540
+  icon: diveFlagIcon
+  ref: antigua
 - lat: 43.198389
   lng: 5.230199
   icon: diveFlagIcon
