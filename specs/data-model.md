@@ -5,7 +5,7 @@
 Le site porte plusieurs familles de contenu, chacune avec son propre front matter et, pour certaines, son propre fichier `_data/*.yml` :
 
 - **Page pays / destination** (voir `screens/country.md`) : une trentaine de pages, chacune combinant un front matter riche (texte éditorial) et un fichier `_data/countries/<ref>.yml` (données chiffrées et structurées).
-- **Page d'accueil**, **carte du monde**, **calendrier**, **FAQ**, **bonus**, **inspiration**, **prochaines bulles** : une page fonctionnelle chacune, pilotée par un ou plusieurs fichiers `_data/*.yml` dédiés.
+- **Page d'accueil**, **carte du monde**, **calendrier**, **FAQ**, **bonus**, **inspiration** : une page fonctionnelle chacune, pilotée par un ou plusieurs fichiers `_data/*.yml` dédiés.
 - **Page 404** : une seule page, sans équivalent par langue.
 
 Toutes les pages (sauf la 404) existent en deux fichiers Markdown, un par langue, reliés par un champ `ref` commun (voir "Conventions générales" ci-dessous). Aucun script ne valide automatiquement la cohérence de ces données (voir "Conventions générales").
@@ -41,7 +41,7 @@ Le carousel plein écran de l'accueil n'a pas de fichier de données dédié : c
 
 | Fichier | Rôle |
 |---|---|
-| `_data/home-manifest.yml` (FR) / `_data/home-manifest-en.yml` (EN) | 8 items du bloc "manifeste" (`icon`, `title`, `text`) — **seule donnée du site dupliquée en deux fichiers séparés par langue plutôt qu'en clés bilingues** (voir "Conventions générales") |
+| `_data/home-manifest.yml` | 8 items du bloc "manifeste" (`icon`, `fr-title`/`en-title`, `fr-text`/`en-text`), bilingue dans un seul fichier (voir "Conventions générales") |
 | `_data/home-team.yml` | Présentation de l'équipe, bilingue dans un seul fichier (voir ci-dessous) |
 | `_data/portfolio.yml` | Sélection de photos "dernières plongées", bilingue (voir ci-dessous) |
 
@@ -185,7 +185,7 @@ maps:                   # optionnel, voir ci-dessous
 | Champ | Description |
 |---|---|
 | `difficulty`, `visibility`, `diversity`, `atmosphere` | Entiers 0-100, toujours présents sur les 33 fichiers, affichés en barres de progression "x/10" (voir `screens/country.md`) |
-| `water-temperatures` | Toujours présent, une entrée par période distincte (généralement une seule ; 8 destinations en ont plusieurs : `bonaire`, `egypt`, `france`, `french-polynesia`, `martinique`, `mexico-baja-california`, `philippines` (2 chacune), `indonesia` (3)). `water-temperature` est généralement un entier mais peut être une plage textuelle (ex. `"17-20"` pour `south-africa`) |
+| `water-temperatures` | Toujours présent, une entrée par période distincte (généralement une seule ; 8 destinations en ont plusieurs : `bonaire`, `egypt`, `france`, `french-polynesia`, `martinique`, `mexico-baja-california`, `philippines` (2 chacune), `indonesia` (3)). `water-temperature` est un entier dans la majorité des cas, mais treize destinations sur trente-trois ont au moins une plage textuelle (ex. `"17-20"`) : `azores`, `costa-rica-cocos`, `egypt`, `galapagos`, `iceland`, `italy`, `madagascar`, `mexico-baja-california`, `micronesia`, `palau`, `sao-tome`, `south-africa`, `spain` |
 | `best-seasons` | Toujours présent, même structure à entrées multiples possibles (une seule destination en a plusieurs : `indonesia`, 3 entrées) |
 | `fauna` | Toujours présent, liste de taille variable (2 à 42 entrées observées) |
 | `maps` | **Optionnel**, présent sur 21 des 33 fichiers (les 12 sans carte : belize, canary-islands, cape-verde, hawaii, japan, les-saintes, madagascar, maldives, mozambique, sao-tome, south-africa, tanzania). Une entrée par carte (une destination peut en avoir plusieurs, jusqu'à 4 pour les Philippines), chaque carte avec ses propres `points` (voir "Cartes interactives" dans `style-guide.md` pour l'affichage et la répartition en grille) |
@@ -239,14 +239,14 @@ Convention de nommage : `<ref>-<description>.webp` (ou `.pdf`), avec une excepti
 | `icon` | `diveFlagIcon` (destination de plongée) ou `homeIcon` (un seul point, "Home sweet home", Paris) |
 | `ref` | Optionnel : lie le point à une page pays existante. Si présent, le libellé du popup devient un lien vers cette page ; à défaut de `fr-country`/`en-country`, le libellé affiché est `menu` de la page cible, et à défaut de `fr-date`/`en-date`, la date affichée est `visited-in` de la page cible |
 | `place` | Optionnel, sous-titre libre ajouté après un tiret (utile pour les archipels avec plusieurs points, ex. Polynésie française ×11, Philippines ×4) |
-| `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref` |
+| `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref`. Une seule entrée n'a ni `ref` ni `fr-country`/`en-country` : le point "Home sweet home" (icône `homeIcon`), dont le popup n'affiche alors que `place` |
 | `fr-date` / `en-date` | Optionnel, voir `ref` ci-dessus |
 
 Un même `ref` peut apparaître plusieurs fois (plusieurs sites dans le même pays).
 
 ## Calendrier (front matter et données)
 
-`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (partagé avec `next-bubbles`, sert uniquement à choisir la variante de bannière, voir `style-guide.md`). Pas de contenu propre au-delà du front matter commun : toute la donnée vient de `_data/calendar.yml` croisé avec `best-seasons` de chaque `_data/countries/<ref>.yml` (voir `screens/calendar.md`).
+`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (choisit la variante de bannière, voir `style-guide.md`). Pas de contenu propre au-delà du front matter commun : toute la donnée vient de `_data/calendar.yml` croisé avec `best-seasons` de chaque `_data/countries/<ref>.yml` (voir `screens/calendar.md`).
 
 `_data/calendar.yml` :
 
@@ -282,30 +282,9 @@ qa:
 
 `pages/inspiration.md` / `-en.md`, `layout: inspiration`, `ref: inspiration`, `sea: inspiration`. Contenu Markdown libre (liste de recommandations livres/vidéos avec liens externes). Pas de galerie photo : une image statique unique (`/assets/img/inspiration.webp`) sert d'illustration, voir `style-guide.md`.
 
-## Prochaines bulles (front matter)
-
-`pages/next-bubbles.md` / `-en.md`, `layout: next`, `ref: next-bubbles`, `sea: next` :
-
-```yaml
-h2: Souhaits de bubulles
-bubbles:
-  - month: Mar
-    day:
-    icon: fa-flag
-    content: |
-      ?
-  - month: "????"
-    day: "??"
-    icon: fa-ship
-    content: |
-      Océan Pacifique : Cook, Tonga, Philippines, ...
-```
-
-`bubbles` : liste ordonnée manuellement (pas de tri par date). Une envie sans date encore fixée s'exprime par convention littérale plutôt que par un champ absent : `day` vide, ou `month`/`day` renseignés à `"????"`/`"??"`. Cette page n'apparaît pas dans `_data/menu.yml` (voir "Navigation" dans `functional-specifications.md`).
-
 ## Conventions générales
 
 - **Slugs** : minuscules ASCII et tirets (kebab-case) en anglais pour tout identifiant technique (`ref`, noms de fichiers `_data/countries/*.yml`, dossiers `photos/*/`), ex. `french-polynesia`, `mexico-baja-california`.
 - **`ref` commun aux deux langues d'une même page**, toujours identique entre le fichier FR et le fichier EN (vérifié sans exception) : c'est la clé qui relie les deux versions linguistiques (sélecteur de langue, alternates `hreflang`, sitemap, image Open Graph par défaut, voir `technical-specifications.md`). Le `permalink`, lui, est traduit indépendamment par langue (voir "Conventions de nommage" dans `technical-specifications.md`) — ne jamais utiliser le `permalink` pour retrouver l'équivalent d'une page dans l'autre langue, toujours passer par `ref`.
-- **Un contenu ajouté existe dans les deux langues** : chaque page `pages/*.md` a son pendant `-en.md` (vérifié systématiquement), et chaque fichier `_data/countries/<ref>.yml` sert les deux langues via des clés `fr-*`/`en-*` plutôt que des fichiers séparés — seule exception : `home-manifest.yml`/`home-manifest-en.yml`, dupliqué en deux fichiers plutôt qu'en clés bilingues dans un seul (incohérence de convention à signaler, pas à corriger sans validation).
+- **Un contenu ajouté existe dans les deux langues** : chaque page `pages/*.md` a son pendant `-en.md` (vérifié systématiquement), et chaque fichier `_data/*.yml` (y compris `_data/countries/<ref>.yml`) sert les deux langues via des clés `fr-*`/`en-*` dans un seul fichier plutôt que des fichiers séparés par langue.
 - **Pas de script de validation des données** : aucune vérification automatique de l'unicité des `ref`, de la présence des deux fichiers de langue, ou de la correspondance entre une page pays et son fichier `_data/countries/<ref>.yml`. Ces règles sont respectées par convention, pas vérifiées mécaniquement (la CI ne fait qu'un `jekyll build` suivi d'un `html-proofer` non bloquant, voir `technical-specifications.md`).

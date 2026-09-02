@@ -43,22 +43,30 @@
                   {%- capture destinations -%}
                     {%- for countrie in site.data.countries -%}
 
-                      {%- assign datefrom=site.data.calendar | where: monthField, countrie[1].best-seasons[0][seasonFromField] -%}
-                      {%- assign dateto=site.data.calendar | where: monthField, countrie[1].best-seasons[0][seasonToField] -%}
                       {%- assign targets = site.pages | where : "ref", countrie[0] | where : "lang", page.lang -%}
+                      {%- assign matched = false -%}
 
-                      {%- if datefrom[0].num > dateto[0].num -%}
-                        {%- if cal.num >= 1 and cal.num <= dateto[0].num -%}
-                          |{{ targets[0].h1 | slice: 3,128 }}#{{ targets[0].url }}#{{ targets[0].h1 }}
+                      {%- for season in countrie[1].best-seasons -%}
+                        {%- assign datefrom=site.data.calendar | where: monthField, season[seasonFromField] -%}
+                        {%- assign dateto=site.data.calendar | where: monthField, season[seasonToField] -%}
+
+                        {%- if datefrom[0].num > dateto[0].num -%}
+                          {%- if cal.num >= 1 and cal.num <= dateto[0].num -%}
+                            {%- assign matched = true -%}
+                          {%- endif -%}
+                          {%- if cal.num >= datefrom[0].num and cal.num <= 12 -%}
+                            {%- assign matched = true -%}
+                          {%- endif -%}
                         {%- endif -%}
-                        {%- if cal.num >= datefrom[0].num and cal.num <= 12 -%}
-                          |{{ targets[0].h1 | slice: 3,128 }}#{{ targets[0].url }}#{{ targets[0].h1 }}
+                        {%- if datefrom[0].num <= dateto[0].num -%}
+                          {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
+                            {%- assign matched = true -%}
+                          {%- endif -%}
                         {%- endif -%}
-                      {%- endif -%}
-                      {%- if datefrom[0].num < dateto[0].num -%}
-                        {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
-                          |{{ targets[0].h1 | slice: 3,128 }}#{{ targets[0].url }}#{{ targets[0].h1 }}
-                        {%- endif -%}
+                      {%- endfor -%}
+
+                      {%- if matched -%}
+                        |{{ targets[0].h1 | slice: 3,128 }}#{{ targets[0].url }}#{{ targets[0].h1 }}
                       {%- endif -%}
 
                     {%- endfor -%}

@@ -13,7 +13,7 @@
       {% for item in site.data.menu -%}
         {%- if item.sublabels -%}
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             {%- if page.lang == "fr" -%}
               {{ item.fr-label }}
             {%- endif -%}
@@ -21,7 +21,7 @@
               {{- item.en-label -}}
             {%- endif -%}
           </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink{{ forloop.index }}">
             {%- for subitem in item.sublabels -%}
               {%- assign pages=site.pages | where:"ref", subitem.ref | where:"lang", page.lang -%}
               <a class="dropdown-item" href="{{ pages[0].url }}">{{ pages[0].menu }}</a>

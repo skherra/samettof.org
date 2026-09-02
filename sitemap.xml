@@ -10,7 +10,7 @@ sitemap:
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {% for page in site.pages -%}
   {%- assign include_page = false -%}
-  {%- if page.title and page.lang == site.lang -%}
+  {%- if page.title -%}
     {%- unless page.sitemap.exclude == "yes" or page.name == "feed.xml" -%}
       {%- assign include_page = true -%}
     {%- endunless -%}

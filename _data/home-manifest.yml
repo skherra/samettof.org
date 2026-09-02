@@ -1,24 +1,40 @@
 - icon: fa fa-flag-o
-  title: Plongeurs responsables
-  text: Sous l'eau, nous ne touchons ni ne ramassons rien. Nous ne participons pas au feeding, smelling ou toutes autres activités qui perturbent le comportement des espèces sous-marines.
+  fr-title: Plongeurs responsables
+  en-title: Responsible divers
+  fr-text: Sous l'eau, nous ne touchons ni ne ramassons rien. Nous ne participons pas au feeding, smelling ou toutes autres activités qui perturbent le comportement des espèces sous-marines.
+  en-text: Underwater, we don't touch anything, nor pick up anything. We do not participate in feeding, smelling or any other activity that disturbs the behavior of underwater species.
 - icon: fa fa-eye
-  title: Culture
-  text: Nous essayons le plus possible de visiter les pays où nous plongeons, de partager et surtout d'écouter les gens qui y vivent.
+  fr-title: Culture
+  en-title: Culture
+  fr-text: Nous essayons le plus possible de visiter les pays où nous plongeons, de partager et surtout d'écouter les gens qui y vivent.
+  en-text: We try as much as possible to visit the countries where we dive, to share and above all to listen to the people who live there.
 - icon: fa fa-paw
-  title: Green attitude
-  text: Nous évitons les crèmes solaires avec des produits de synthèse et non naturels qui endommagent les coraux. Nous évitons également d'utiliser les sacs et bouteilles en plastique.
+  fr-title: Green attitude
+  en-title: Green attitude
+  fr-text: Nous évitons les crèmes solaires avec des produits de synthèse et non naturels qui endommagent les coraux. Nous évitons également d'utiliser les sacs et bouteilles en plastique.
+  en-text: We avoid sunscreens with synthetic and unnatural products that damage corals. We also avoid using plastic bags and bottles.
 - icon: fa fa-anchor
-  title: La mer
-  text: Nous ne consommons ni du requin, ni de la tortue&nbsp;... ni aucun autre produit issu des espèces protégées (animaux séchés, bijoux,&nbsp;...). Nous restons humbles et émerveillés par la beauté de la nature.
+  fr-title: La mer
+  en-title: The sea
+  fr-text: Nous ne consommons ni du requin, ni de la tortue&nbsp;... ni aucun autre produit issu des espèces protégées (animaux séchés, bijoux,&nbsp;...). Nous restons humbles et émerveillés par la beauté de la nature.
+  en-text: We do not consume sharks or turtles... or any other product from protected species (dried animals, jewelry, etc.). We remain humble and amazed by the beauty of nature.
 - icon: fa fa-certificate
-  title: Certifications
-  text: Nous sommes Padi Advanced et Niveau 2 ANMP.
+  fr-title: Certifications
+  en-title: Certificates
+  fr-text: Nous sommes Padi Advanced et Niveau 2 ANMP.
+  en-text: We are Padi Advanced Open Water and ANMP Level 2.
 - icon: fa fa-globe
-  title: Notre rêve
-  text: Plonger aux 4 coins du globe, enfin, dans des températures raisonnables&nbsp;!
+  fr-title: Notre rêve
+  en-title: Our dream
+  fr-text: Plonger aux 4 coins du globe, enfin, dans des températures raisonnables&nbsp;!
+  en-text: To dive all around the globe, as long as temperatures are reasonable.
 - icon: fa fa-heart
-  title: Recommandations
-  text: Nous recommandons des clubs et croisères de plongées, ceux qui partagent les mêmes valeurs que nous.
+  fr-title: Recommandations
+  en-title: Recommendations
+  fr-text: Nous recommandons des clubs et croisères de plongées, ceux qui partagent les mêmes valeurs que nous.
+  en-text: We recommend diving clubs and cruises, those who share the same values ​​as us.
 - icon: fa fa-camera-retro
-  title: Photos
-  text: Nous aimons la photographie en amateur, toutes les photos du site sont nos propres photos.
+  fr-title: Photos
+  en-title: Pictures
+  fr-text: Nous aimons la photographie en amateur, toutes les photos du site sont nos propres photos.
+  en-text: We love amateur photography, all photos on the site are our own photos.

@@ -1,6 +1,6 @@
 # samettof.org
 
-Site de voyages plongée sous-marine de Sam & Tof (et Ti'Crab) : une page par pays/destination visitée (description, club de plongée, hébergement, carnet de plongée, carte des sites), une carte du monde, un calendrier des meilleures saisons, une FAQ, une page bonus (sources d'eau chaude) et une page d'envies de voyage à venir. Site statique, multilingue (français / anglais), généré avec Jekyll et hébergé sur GitHub Pages.
+Site de voyages plongée sous-marine de Sam & Tof (et Ti'Crab) : une page par pays/destination visitée (description, club de plongée, hébergement, carnet de plongée, carte des sites), une carte du monde, un calendrier des meilleures saisons, une FAQ et une page bonus (sources d'eau chaude). Site statique, multilingue (français / anglais), généré avec Jekyll et hébergé sur GitHub Pages.
 
 ## Rôle de `specs/`
 
@@ -9,7 +9,7 @@ Site de voyages plongée sous-marine de Sam & Tof (et Ti'Crab) : une page par pa
 ## Structure de `specs/`
 
 - **`functional-specifications.md`** : périmètre du site, visiteurs cibles, parcours utilisateurs, règles transverses (multilingue, navigation, absence de pied de page).
-- **`data-model.md`** : les familles de contenu (page pays, page d'accueil, calendrier, carte du monde, FAQ, bonus, inspiration, prochaines bulles), leurs fichiers de données (`_data/*.yml`), le front matter des pages, les conventions de nommage (`ref`, permalinks traduits par langue).
+- **`data-model.md`** : les familles de contenu (page pays, page d'accueil, calendrier, carte du monde, FAQ, bonus, inspiration), leurs fichiers de données (`_data/*.yml`), le front matter des pages, les conventions de nommage (`ref`, permalinks traduits par langue).
 - **`technical-specifications.md`** : stack technique, hébergement/déploiement, architecture (génération des pages, routage), performance, accessibilité, SEO.
 - **`style-guide.md`** : charte graphique (couleurs, typographie, espacements), composants UI de base (en-tête, bannière de page, carousels, cartes Leaflet, barres de progression), iconographie.
 - **`screens/`** : une spécification fonctionnelle par écran (objectif, contenu, interactions, états, responsive) :
@@ -20,7 +20,6 @@ Site de voyages plongée sous-marine de Sam & Tof (et Ti'Crab) : une page par pa
   - `faq.md` — foire aux questions
   - `bonus.md` — sources d'eau chaude
   - `inspiration.md` — inspirations voyage (livres, vidéos)
-  - `next-bubbles.md` — envies de prochains voyages
 
 ## Quand et comment utiliser ces specs
 

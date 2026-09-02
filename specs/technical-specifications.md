@@ -77,7 +77,6 @@ Contrairement à un mécanisme à base de plugin `Jekyll::Generator`, **toutes l
 | FAQ | `faq` | `/faq/` | `/en/faq/` |
 | Bonus | `bonus` | `/bonus/` | `/en/bonus/` |
 | Inspiration | `inspiration` | `/inspiration/` | `/en/inspiration/` |
-| Prochaines bulles | `next` | `/prochaines-bulles/` | `/en/next-bubbles/` |
 | 404 | `404` | `/404.html` (page unique, bilingue) | — |
 | robots.txt | `null` | `/robots.txt` | — |
 | sitemap.xml | `null` | `/sitemap.xml` | — |
@@ -86,7 +85,7 @@ Les pages françaises n'ont pas de préfixe de langue (français = langue par d�
 
 ### Textes d'interface
 
-Pas de fichier centralisé de traductions : chaque libellé conditionnel est écrit directement dans les layouts et includes, sous la forme `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (répété dans la plupart des includes `country-*`, `home-*`, `page-banner.html`). Les autres contenus multilingues passent par des clés `fr-*`/`en-*` dans les fichiers `_data/*.yml`, ou par des fichiers dupliqués par langue (voir "Conventions générales" dans `data-model.md`).
+Pas de fichier centralisé de traductions : chaque libellé conditionnel est écrit directement dans les layouts et includes, sous la forme `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (répété dans la plupart des includes `country-*`, `home-*`, `page-banner.html`). Les autres contenus multilingues passent par des clés `fr-*`/`en-*` dans les fichiers `_data/*.yml` (voir "Conventions générales" dans `data-model.md`).
 
 ---
 
@@ -104,7 +103,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 
 ## Performance
 
-- Lazy loading (`loading="lazy"`) sur certaines images : logo de l'en-tête, carousel d'accueil, portfolio d'accueil, équipe, vignettes des carousels de pages pays, images des modales mensuelles du calendrier. **Absent** sur les images de la modale plein écran des galeries et sur l'image statique de la page inspiration (la page prochaines bulles n'a quant à elle aucune image, seulement des icônes).
+- Lazy loading (`loading="lazy"`) sur certaines images : logo de l'en-tête, carousel d'accueil, portfolio d'accueil, équipe, vignettes des carousels de pages pays, images des modales mensuelles du calendrier. **Absent** sur les images de la modale plein écran des galeries et sur l'image statique de la page inspiration.
 - Toutes les photos sont au format WebP.
 - Aucun script n'est chargé avec `defer`/`async` (voir "JavaScript" ci-dessus).
 - Pas de cookies, pas de tracking, pas d'analytics.
@@ -131,7 +130,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 - **Twitter Card** (`summary_large_image`, titre, description).
 - **Pas de JSON-LD**, **pas de balise CSP** (`Content-Security-Policy`) sur ce site.
 - `robots.txt` (page Jekyll, `layout: null`) : autorise l'indexation, référence `sitemap.xml`.
-- **`sitemap.xml`** : page Jekyll auto-générée (`layout: null`, boucle Liquid sur `site.pages`), pas le plugin `jekyll-sitemap`. Elle liste comme entrée `<url>` les pages où `page.title` est renseigné ET `page.lang == site.lang` (donc les pages françaises), à l'exclusion des pages marquées `sitemap.exclude: 'yes'` (mécanisme utilisé par `sitemap.xml` elle-même et par `404.md` pour s'auto-exclure), avec les alternates `hreflang` correspondants à l'intérieur de chaque entrée. Inclut des extensions `image:image` pour les photos d'une page pays.
+- **`sitemap.xml`** : page Jekyll auto-générée (`layout: null`, boucle Liquid sur `site.pages`), pas le plugin `jekyll-sitemap`. Elle liste comme entrée `<url>` toutes les pages où `page.title` est renseigné, FR comme EN, à l'exclusion des pages marquées `sitemap.exclude: 'yes'` (mécanisme utilisé par `sitemap.xml` elle-même et par `404.md` pour s'auto-exclure). Chaque entrée reprend, via `site.pages | where: "ref", page.ref`, le jeu complet des alternates `hreflang` (y compris auto-référent), conformément à la pratique recommandée par Google pour les sitemaps multilingues. Inclut des extensions `image:image` pour les photos d'une page pays.
 - Un fichier de vérification de propriété (Google Search Console ou équivalent) n'a pas été identifié à la racine lors de cette recherche — à vérifier si un tel mécanisme est utilisé.
 
 ---
@@ -154,7 +153,6 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │   ├── faq.html                     # accordéon
 │   ├── bonus.html                   # contenu + galerie
 │   ├── inspiration.html             # contenu + image statique
-│   ├── next.html                    # liste des envies de voyage
 │   ├── default.html                 # non utilisé : aucune page ni layout n'a `layout: default`
 │   └── 404.html
 │
@@ -181,12 +179,11 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │
 ├── pages/<ocean>/<slug>[-en].md     # pages pays, 6 dossiers par océan (atlantic, caribbean, indian,
 │                                     # mediterranean, pacific, redsea)
-├── pages/{calendar,world-map,faq,bonus,inspiration,next-bubbles}[-en].md
+├── pages/{calendar,world-map,faq,bonus,inspiration}[-en].md
 │
 ├── _data/
 │   ├── countries/<ref>.yml          # un fichier par pays (33), données chiffrées bilingues
-│   ├── calendar.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingues, un seul fichier
-│   └── home-manifest.yml / home-manifest-en.yml   # exception : dupliqués par langue
+│   └── calendar.yml, home-manifest.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingues, un seul fichier
 │
 └── photos/
     ├── <ref>/NNNN[-th].webp         # photos + vignettes par pays (et `bonus/`)

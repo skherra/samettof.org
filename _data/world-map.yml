@@ -18,6 +18,7 @@
   lng: 7.04842
   icon: diveFlagIcon
   place: Ile de Lerins
+  ref: france
   fr-date: juin 2005
   en-date: June 2005
 - lat: 42.045051
@@ -138,14 +139,14 @@
   ref: french-polynesia
   place: Les Tuamotus - Fakarava
   fr-date: mai 2017 et juillet 2020
-  en-date: May 2017 and Jully 2020
+  en-date: May 2017 and July 2020
 - lat: -15.9100537
   lng: -145.8975259
   icon: diveFlagIcon
   ref: french-polynesia
   place: Les Tuamotus - Toao
   fr-date: mai 2017 et juillet 2020
-  en-date: May 2017 and Jully 2020
+  en-date: May 2017 and July 2020
 - lat: -14.97182
   lng: -147.63419
   icon: diveFlagIcon
@@ -413,7 +414,7 @@
   icon: diveFlagIcon
   ref: azores
   fr-date: juillet 2024
-  en-date: Jully 2024
+  en-date: July 2024
 - lat: -0.58079
   lng: 130.54207
   icon: diveFlagIcon
@@ -442,6 +443,10 @@
   ref: philippines
   fr-date: mars 2026
   en-date: March 2026
+- lat: 17.016122
+  lng: -61.776540
+  icon: diveFlagIcon
+  ref: antigua
 - lat: 43.198389
   lng: 5.230199
   icon: diveFlagIcon

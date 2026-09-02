@@ -70,26 +70,25 @@
   {% for item in site.data.world-map -%}
     {%- assign marker = 'L.marker([' | append: item.lat | append: ', ' | append: item.lng | append: '], {icon: ' | append: item.icon | append: '}).addTo(mymap).bindPopup("' -%}
 
+    {%- assign country-label = '' -%}
+    {%- if page.lang == 'fr' -%}
+      {%- assign country-label = item.fr-country -%}
+    {%- elsif page.lang == 'en' -%}
+      {%- assign country-label = item.en-country -%}
+    {%- endif -%}
+
     {%- assign country = '' -%}
     {%- if item.ref -%}
       {%- assign pages=site.pages | where:'ref', item.ref | where:'lang', page.lang -%}
       {%- assign country = '<a href=\"' | append: pages[0].url | append: '\">' -%}
-      {%- if item.fr-country -%}
-        {%- if page.lang == 'fr' -%}
-            {%- assign country = country | append: item.fr-country -%}
-          {%- elsif page.lang == 'en' -%}
-            {%- assign country = country | append: item.en-country -%}
-          {%- endif -%}
+      {%- if country-label -%}
+        {%- assign country = country | append: country-label -%}
       {%- else -%}
         {%- assign country = country | append: pages[0].menu -%}
       {%- endif -%}
       {%- assign country = country | append: '</a>' -%}
-    {%- elsif item.fr-country -%}
-      {%- if page.lang == 'fr' -%}
-          {%- assign country = item.fr-country -%}
-        {%- elsif page.lang == 'en' -%}
-          {%- assign country = item.en-country -%}
-        {%- endif -%}
+    {%- elsif country-label -%}
+      {%- assign country = country-label -%}
     {%- endif -%}
     {%- assign marker = marker | append: '<strong>' | append: country | append: '</strong>' -%}
 
@@ -100,13 +99,16 @@
       {%- assign marker = marker | append: item.place -%}
     {%- endif -%}
 
+    {%- assign date-label = '' -%}
+    {%- if page.lang == 'fr' -%}
+      {%- assign date-label = item.fr-date -%}
+    {%- elsif page.lang == 'en' -%}
+      {%- assign date-label = item.en-date -%}
+    {%- endif -%}
+
     {%- assign date = '' -%}
-    {%- if item.fr-date -%}
-      {%- if page.lang == 'fr' -%}
-        {%- assign date = item.fr-date -%}
-      {%- elsif page.lang == 'en' -%}
-        {%- assign date = item.en-date -%}
-      {%- endif -%}
+    {%- if date-label -%}
+      {%- assign date = date-label -%}
     {%- elsif item.ref -%}
       {%- assign date = pages[0].visited-in -%}
     {%- endif -%}
