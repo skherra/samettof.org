@@ -130,7 +130,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 - **Twitter Card** (`summary_large_image`, titre, description).
 - **Pas de JSON-LD**, **pas de balise CSP** (`Content-Security-Policy`) sur ce site.
 - `robots.txt` (page Jekyll, `layout: null`) : autorise l'indexation, référence `sitemap.xml`.
-- **`sitemap.xml`** : page Jekyll auto-générée (`layout: null`, boucle Liquid sur `site.pages`), pas le plugin `jekyll-sitemap`. Elle liste comme entrée `<url>` les pages où `page.title` est renseigné ET `page.lang == site.lang` (donc les pages françaises), à l'exclusion des pages marquées `sitemap.exclude: 'yes'` (mécanisme utilisé par `sitemap.xml` elle-même et par `404.md` pour s'auto-exclure), avec les alternates `hreflang` correspondants à l'intérieur de chaque entrée. Inclut des extensions `image:image` pour les photos d'une page pays.
+- **`sitemap.xml`** : page Jekyll auto-générée (`layout: null`, boucle Liquid sur `site.pages`), pas le plugin `jekyll-sitemap`. Elle liste comme entrée `<url>` toutes les pages où `page.title` est renseigné, FR comme EN, à l'exclusion des pages marquées `sitemap.exclude: 'yes'` (mécanisme utilisé par `sitemap.xml` elle-même et par `404.md` pour s'auto-exclure). Chaque entrée reprend, via `site.pages | where: "ref", page.ref`, le jeu complet des alternates `hreflang` (y compris auto-référent), conformément à la pratique recommandée par Google pour les sitemaps multilingues. Inclut des extensions `image:image` pour les photos d'une page pays.
 - Un fichier de vérification de propriété (Google Search Console ou équivalent) n'a pas été identifié à la racine lors de cette recherche — à vérifier si un tel mécanisme est utilisé.
 
 ---
