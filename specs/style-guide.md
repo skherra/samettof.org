@@ -29,7 +29,7 @@ Plusieurs couleurs sont codées en dur dans `samettof.less` sans être remontée
 |---|---|
 | `#36353A` | Halo `text-shadow` (`0px 0px 20px #36353A`) sur les titres en surimpression de photo : `h1`/`h2` du carousel d'accueil, bannière de page, légendes (`h3`) des vignettes de portfolio d'accueil et du calendrier, nom/lien du membre en surimpression de photo (équipe) |
 | `#050F1E` | Texte du bloc `.portfolio-item-content` (portfolio d'accueil et du calendrier) |
-| `#f9f9f9` / `#ffffff` | Fond de repli des bannières de page (mer Rouge et Méditerranée utilisent `#ffffff`, les huit autres `#f9f9f9`) |
+| `#ffffff` | Fond de repli des bannières de page |
 | `rgba(68, 68, 68, 0.75)` | Fond de la modale plein écran des galeries photo |
 | `black` | Ombre portée du portrait circulaire de l'en-tête |
 | `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), texte au survol des items de menu déroulant, lien de fermeture de la modale photo |
