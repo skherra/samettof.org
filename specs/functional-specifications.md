@@ -43,14 +43,14 @@ Le contenu (descriptions, carnets de plongée, données de chaque destination) e
 - Le site est disponible en français et en anglais.
 - Le français est la langue par défaut (`lang: "fr"` dans `_config.yml`) : ses pages sont servies à la racine du site, sans préfixe (`/`, `/faq/`...). L'anglais est préfixé par `/en/`.
 - Chaque page existe en deux fichiers sources distincts (un par langue), reliés entre eux par un identifiant commun (`ref`, voir `data-model.md`) plutôt que par une traduction dynamique.
-- Contrairement à un site avec pied de page, le sélecteur de langue est intégré à l'en-tête (drapeaux emoji 🇫🇷/🇬🇧), à l'intérieur du menu qui se replie derrière le bouton "burger" sur mobile (voir "En-tête / navigation" dans `style-guide.md`, commun à tout le site).
+- Le sélecteur de langue (drapeaux emoji 🇫🇷/🇬🇧) vit dans le pied de page, toujours visible, à droite (voir "Pied de page" dans `style-guide.md`, commun à tout le site).
 - Il n'existe aucun mécanisme de détection automatique de la langue du navigateur ni de mémorisation d'un choix de langue : chaque page est statique et sert la langue de son URL.
 - Il n'y a pas de contenu partiellement traduit dans ce site : chaque destination et chaque page fonctionnelle existent systématiquement dans les deux langues (voir "Conventions générales" dans `data-model.md`), à l'exception de la page non trouvée (voir ci-dessous).
 
 ### Navigation
 
 - Menu de navigation unique, en en-tête, présent sur toutes les pages (`fixed-top`, toujours visible en scrollant) : un lien par page fonctionnelle simple (carte du monde, calendrier, inspiration, FAQ, bonus) et un sous-menu déroulant par océan listant ses destinations (voir `_data/menu.yml` dans `data-model.md`). L'ordre des entrées suit l'ordre éditorial du fichier de données, pas un tri alphabétique (ex. dans les Caraïbes, les Saintes apparaît après le Mexique-Yucatán).
-- **Pas de pied de page** sur ce site (contrairement à d'autres projets de l'auteur) : aucune information (réseaux sociaux, licence, sélecteur de langue) n'est répétée en bas de page. Le sélecteur de langue vit dans l'en-tête (voir "Multilingue" ci-dessus).
+- **Pied de page fixe** (`fixed-bottom`, toujours visible en scrollant), présent sur toutes les pages : licence du contenu à gauche, sélecteur de langue à droite (voir "Multilingue" ci-dessus et "Pied de page" dans `style-guide.md`). Pas de réseaux sociaux ni d'autre information répétée en pied de page.
 - Aucun lien externe vers d'autres sites de l'auteur n'a été trouvé sur ce site (pas de "sites soeurs" au sens où d'autres projets de l'auteur le pratiquent) : les seuls liens externes identitaires sont les comptes Instagram individuels de Tof et Ti'Crab dans la présentation de l'équipe sur l'accueil (voir `screens/home.md`), Sam n'en ayant pas de renseigné.
 
 ### Page non trouvée

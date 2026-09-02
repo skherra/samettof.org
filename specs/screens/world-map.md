@@ -9,7 +9,7 @@ Donner une vue d'ensemble géographique de tous les lieux visités par les auteu
 ## Contenu et structure
 
 - Pas de bannière de page (le layout n'inclut pas `page-banner.html`, contrairement aux autres écrans hors accueil).
-- Carte Leaflet plein écran (`#worldMap`, hauteur `calc(100vh - 66px)`), centrée sur `[0, 0]`, zoom initial 2, fond de tuiles satellite Esri World Imagery (voir `style-guide.md`).
+- Carte Leaflet plein écran (`#worldMap`, hauteur `calc(100vh - 66px - 36px)`, entre l'en-tête et le pied de page), centrée sur `[0, 0]`, zoom initial 2, fond de tuiles satellite Esri World Imagery (voir `style-guide.md`).
 - Un marqueur par entrée de `_data/world-map.yml` (voir `data-model.md` pour le détail des champs), plus un marqueur "Home sweet home" (icône dédiée `homeIcon`) à Paris.
 
 ## Interactions
@@ -24,4 +24,4 @@ Donner une vue d'ensemble géographique de tous les lieux visités par les auteu
 
 ## Responsive
 
-Pas de media query custom : la carte occupe systématiquement `calc(100vh - 66px)`, quelle que soit la taille d'écran ; le zoom/pan tactile est géré nativement par Leaflet sur mobile.
+Pas de media query custom : la carte occupe systématiquement `calc(100vh - 66px - 36px)`, quelle que soit la taille d'écran ; le zoom/pan tactile est géré nativement par Leaflet sur mobile.

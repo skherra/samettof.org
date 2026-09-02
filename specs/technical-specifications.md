@@ -113,7 +113,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 ## Accessibilité
 
 - **Navigateurs cibles :** non explicitement documentés dans le code ; à défaut d'exigence connue, dernières versions stables des navigateurs évergreens (Chrome, Firefox, Safari, Edge).
-- `aria-label` présent sur les composants interactifs standards de Bootstrap (bouton de fermeture de modale, bouton "burger" de la navbar).
+- `aria-label` présent sur les composants interactifs standards de Bootstrap (bouton de fermeture de modale, bouton "burger" de la navbar) ainsi que sur le lien de licence du pied de page (libellé localisé selon `page.lang`).
 - Texte alternatif sur les images : qualité inégale — descriptif sur certains blocs (équipe, portfolio d'accueil), mais souvent littéral ou vide sur les carousels de photos (galeries pays, carousel d'accueil) : limite d'accessibilité connue, pas corrigée à ce jour.
 - Navigation : composants Bootstrap 4 standards (modale, accordéon, dropdown), pas de gestion clavier custom au-delà de leur comportement natif.
 - `role="main"` sur l'élément `<main>` de chaque layout.
@@ -158,7 +158,8 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │
 ├── _includes/
 │   ├── head.html                    # <head> : meta, OG, hreflang, fonts, CSS, Leaflet conditionnel
-│   ├── header.html                  # navbar fixe : menu, sous-menus par océan, sélecteur de langue
+│   ├── header.html                  # navbar fixe (haut) : menu, sous-menus par océan
+│   ├── footer.html                  # navbar fixe (bas) : licence CC, sélecteur de langue
 │   ├── scripts.html                 # scripts JS en fin de <body>
 │   ├── page-banner.html             # bannière de page (hors accueil), variante par `sea`
 │   ├── home-carousel.html, home-manifest.html, home-portfolio.html, home-team.html, home-counters.html

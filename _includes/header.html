@@ -34,12 +34,6 @@
         {% endif -%}
       {%- endfor -%}
     </ul>
-    <span class="navbar-text ml-auto" id="lang">
-      {%- assign pages = site.pages | where:"ref", page.ref | sort: 'lang' -%}
-      {%- for p in pages -%}
-        <a href="{{ p.url }}" class="lang-flag">{{ p.lang-flag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}
-      {%- endfor -%}
-    </span>
   </div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
