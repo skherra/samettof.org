@@ -1,16 +1,10 @@
-{%- if page.lang == "fr" -%}
-  {%- assign dataset = site.data.home-manifest -%}
-{%- endif -%}
-{%- if page.lang == "en" -%}
-  {%- assign dataset = site.data.home-manifest-en -%}
-{%- endif -%}
 <div id="homeManifest" class="container-fluid">
   <div class="row pl-5 pr-5">
-  {% for item in dataset -%}
+  {% for item in site.data.home-manifest -%}
     <div class="col-md-3 col-sm-6 mt-5 text-center">
       <i class="{{ item.icon }} fa-3x accent-color"></i>
-      <h3>{{ item.title }}</h3>
-      <p>{{ item.text }}</p>
+      <h3>{%- if page.lang == "fr" -%}{{ item.fr-title }}{%- elsif page.lang == "en" -%}{{ item.en-title }}{%- endif -%}</h3>
+      <p>{%- if page.lang == "fr" -%}{{ item.fr-text }}{%- elsif page.lang == "en" -%}{{ item.en-text }}{%- endif -%}</p>
     </div><!-- /.col -->
   {% endfor -%}
   </div><!-- /.row -->

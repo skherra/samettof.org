@@ -41,7 +41,7 @@ Le carousel plein écran de l'accueil n'a pas de fichier de données dédié : c
 
 | Fichier | Rôle |
 |---|---|
-| `_data/home-manifest.yml` (FR) / `_data/home-manifest-en.yml` (EN) | 8 items du bloc "manifeste" (`icon`, `title`, `text`) — **seule donnée du site dupliquée en deux fichiers séparés par langue plutôt qu'en clés bilingues** (voir "Conventions générales") |
+| `_data/home-manifest.yml` | 8 items du bloc "manifeste" (`icon`, `fr-title`/`en-title`, `fr-text`/`en-text`), bilingue dans un seul fichier (voir "Conventions générales") |
 | `_data/home-team.yml` | Présentation de l'équipe, bilingue dans un seul fichier (voir ci-dessous) |
 | `_data/portfolio.yml` | Sélection de photos "dernières plongées", bilingue (voir ci-dessous) |
 
@@ -286,5 +286,5 @@ qa:
 
 - **Slugs** : minuscules ASCII et tirets (kebab-case) en anglais pour tout identifiant technique (`ref`, noms de fichiers `_data/countries/*.yml`, dossiers `photos/*/`), ex. `french-polynesia`, `mexico-baja-california`.
 - **`ref` commun aux deux langues d'une même page**, toujours identique entre le fichier FR et le fichier EN (vérifié sans exception) : c'est la clé qui relie les deux versions linguistiques (sélecteur de langue, alternates `hreflang`, sitemap, image Open Graph par défaut, voir `technical-specifications.md`). Le `permalink`, lui, est traduit indépendamment par langue (voir "Conventions de nommage" dans `technical-specifications.md`) — ne jamais utiliser le `permalink` pour retrouver l'équivalent d'une page dans l'autre langue, toujours passer par `ref`.
-- **Un contenu ajouté existe dans les deux langues** : chaque page `pages/*.md` a son pendant `-en.md` (vérifié systématiquement), et chaque fichier `_data/countries/<ref>.yml` sert les deux langues via des clés `fr-*`/`en-*` plutôt que des fichiers séparés — seule exception : `home-manifest.yml`/`home-manifest-en.yml`, dupliqué en deux fichiers plutôt qu'en clés bilingues dans un seul (incohérence de convention à signaler, pas à corriger sans validation).
+- **Un contenu ajouté existe dans les deux langues** : chaque page `pages/*.md` a son pendant `-en.md` (vérifié systématiquement), et chaque fichier `_data/*.yml` (y compris `_data/countries/<ref>.yml`) sert les deux langues via des clés `fr-*`/`en-*` dans un seul fichier plutôt que des fichiers séparés par langue.
 - **Pas de script de validation des données** : aucune vérification automatique de l'unicité des `ref`, de la présence des deux fichiers de langue, ou de la correspondance entre une page pays et son fichier `_data/countries/<ref>.yml`. Ces règles sont respectées par convention, pas vérifiées mécaniquement (la CI ne fait qu'un `jekyll build` suivi d'un `html-proofer` non bloquant, voir `technical-specifications.md`).

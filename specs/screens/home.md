@@ -11,7 +11,7 @@ Présenter les auteurs (Sam, Tof, Ti'Crab) et donner accès aux différentes sec
 Cinq blocs assemblés dans cet ordre (pas de bannière de page, contrairement aux autres écrans, voir `page-banner.html` dans `style-guide.md`) :
 
 1. **Carousel** (`home-carousel.html`) : galerie plein écran des photos de `photos/home-carousel/` (voir "Images" dans `data-model.md` pour la construction dynamique de la liste). Légende en surimpression : `page.h1` / `page.h2` (front matter, voir `data-model.md`).
-2. **Manifeste** (`home-manifest.html`) : 8 blocs icône + titre + texte (`_data/home-manifest.yml` / `-en.yml`, voir `data-model.md`).
+2. **Manifeste** (`home-manifest.html`) : 8 blocs icône + titre + texte (`_data/home-manifest.yml`, voir `data-model.md`).
 3. **Portfolio** (`home-portfolio.html`) : grille de photos "dernières plongées" (`_data/portfolio.yml`), chaque tuile liant vers la page pays correspondante avec son libellé et sa date de visite.
 4. **Équipe** (`home-team.html`) : une colonne par membre (`_data/home-team.yml`), photo, centres d'intérêt en barres de progression, lien Instagram optionnel.
 5. **Compteurs** (`home-counters.html`) : 4 chiffres clés animés (pays visités, plongées, croisières, "plongeurs heureux").

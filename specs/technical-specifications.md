@@ -85,7 +85,7 @@ Les pages françaises n'ont pas de préfixe de langue (français = langue par d�
 
 ### Textes d'interface
 
-Pas de fichier centralisé de traductions : chaque libellé conditionnel est écrit directement dans les layouts et includes, sous la forme `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (répété dans la plupart des includes `country-*`, `home-*`, `page-banner.html`). Les autres contenus multilingues passent par des clés `fr-*`/`en-*` dans les fichiers `_data/*.yml`, ou par des fichiers dupliqués par langue (voir "Conventions générales" dans `data-model.md`).
+Pas de fichier centralisé de traductions : chaque libellé conditionnel est écrit directement dans les layouts et includes, sous la forme `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (répété dans la plupart des includes `country-*`, `home-*`, `page-banner.html`). Les autres contenus multilingues passent par des clés `fr-*`/`en-*` dans les fichiers `_data/*.yml` (voir "Conventions générales" dans `data-model.md`).
 
 ---
 
@@ -184,8 +184,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │
 ├── _data/
 │   ├── countries/<ref>.yml          # un fichier par pays (33), données chiffrées bilingues
-│   ├── calendar.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingues, un seul fichier
-│   └── home-manifest.yml / home-manifest-en.yml   # exception : dupliqués par langue
+│   └── calendar.yml, home-manifest.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingues, un seul fichier
 │
 └── photos/
     ├── <ref>/NNNN[-th].webp         # photos + vignettes par pays (et `bonus/`)
