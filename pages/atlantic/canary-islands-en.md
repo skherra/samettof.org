@@ -13,7 +13,7 @@ description: Sam & Tof - Scuba diving in the Canary Islands
 sea: atlantic
 menu: Canary Islands
 visited-in: September 2014
-h1: 🇮🇨 Lanzarote
+h1: 🇮🇨 Canary Islands - Lanzarote
 
 country-desc: |
   **[Lanzarote](https://en.wikipedia.org/wiki/Lanzarote){: target="_blank"}** is the easternmost island of the Canary Islands archipelago (Spain), off the coast of Morocco, washed by the Atlantic Ocean.

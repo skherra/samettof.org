@@ -13,7 +13,7 @@ description: Sam & Tof - Plongée sous-marine aux Canaries
 sea: atlantic
 menu: Canaries
 visited-in: Septembre 2014
-h1: 🇮🇨 Lanzarote
+h1: 🇮🇨 Canaries - Lanzarote
 
 country-desc: |
   **[Lanzarote](https://fr.wikipedia.org/wiki/Lanzarote){: target="_blank"}** est l'île la plus à l'est de l'archipel des Canaries (Espagne), au large du Maroc, elle est baignée par l'océan Atlantique.

@@ -13,7 +13,7 @@ description: Sam & Tof - Plongée sous-marine à Cocos (Costa Rica)
 sea: pacific
 menu: Costa Rica - Cocos
 visited-in: Septembre 2019
-h1: 🇨🇷 Île Cocos
+h1: 🇨🇷 Costa Rica - Cocos
 
 country-desc: |
   **[L'île Cocos](https://fr.wikipedia.org/wiki/%C3%8Ele_Cocos){: target="_blank"}**, petit paradis des requins Marteaux et des oiseaux marins. Elle se mérite car il faut 36 heures de bateau pour la rejoindre depuis Punta Arenas avec une mer parfois très agitée.
