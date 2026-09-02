@@ -239,7 +239,7 @@ Convention de nommage : `<ref>-<description>.webp` (ou `.pdf`), avec une excepti
 | `icon` | `diveFlagIcon` (destination de plongée) ou `homeIcon` (un seul point, "Home sweet home", Paris) |
 | `ref` | Optionnel : lie le point à une page pays existante. Si présent, le libellé du popup devient un lien vers cette page ; à défaut de `fr-country`/`en-country`, le libellé affiché est `menu` de la page cible, et à défaut de `fr-date`/`en-date`, la date affichée est `visited-in` de la page cible |
 | `place` | Optionnel, sous-titre libre ajouté après un tiret (utile pour les archipels avec plusieurs points, ex. Polynésie française ×11, Philippines ×4) |
-| `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref` |
+| `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref`. Une seule entrée n'a ni `ref` ni `fr-country`/`en-country` : le point "Home sweet home" (icône `homeIcon`), dont le popup n'affiche alors que `place` |
 | `fr-date` / `en-date` | Optionnel, voir `ref` ci-dessus |
 
 Un même `ref` peut apparaître plusieurs fois (plusieurs sites dans le même pays).
