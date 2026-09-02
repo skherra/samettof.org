@@ -8,7 +8,7 @@ Aider le visiteur à choisir une période de voyage en listant, mois par mois, l
 
 ## Contenu et structure
 
-- Bannière de page (`sea: next`, partagée avec l'écran "Prochaines bulles" ; le premier `h1` de la bannière reste vide puisque `next` ne correspond à aucun des six océans, voir `style-guide.md`).
+- Bannière de page (`sea: next` ; le premier `h1` de la bannière reste vide puisque `next` ne correspond à aucun des six océans, voir `style-guide.md`).
 - Grille de 12 tuiles, une par mois (`_data/calendar.yml`, voir `data-model.md`), même traitement visuel que le portfolio d'accueil (voir "Portfolio" dans `style-guide.md`) à la différence que la légende du mois reste toujours visible (pas seulement au survol).
 
 ## Interactions

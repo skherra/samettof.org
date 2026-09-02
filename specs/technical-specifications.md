@@ -153,7 +153,6 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │   ├── faq.html                     # accordéon
 │   ├── bonus.html                   # contenu + galerie
 │   ├── inspiration.html             # contenu + image statique
-│   ├── next.html                    # liste des envies de voyage
 │   ├── default.html                 # non utilisé : aucune page ni layout n'a `layout: default`
 │   └── 404.html
 │
