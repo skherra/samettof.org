@@ -58,7 +58,7 @@
                             {%- assign matched = true -%}
                           {%- endif -%}
                         {%- endif -%}
-                        {%- if datefrom[0].num < dateto[0].num -%}
+                        {%- if datefrom[0].num <= dateto[0].num -%}
                           {%- if cal.num >= datefrom[0].num and cal.num <= dateto[0].num -%}
                             {%- assign matched = true -%}
                           {%- endif -%}
