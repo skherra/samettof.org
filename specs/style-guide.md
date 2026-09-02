@@ -32,8 +32,7 @@ Plusieurs couleurs sont codées en dur dans `samettof.less` sans être remontée
 | `#f9f9f9` / `#ffffff` | Fond de repli des bannières de page (mer Rouge et Méditerranée utilisent `#ffffff`, les huit autres `#f9f9f9`) |
 | `rgba(68, 68, 68, 0.75)` | Fond de la modale plein écran des galeries photo |
 | `black` | Ombre portée du portrait circulaire de l'en-tête |
-| `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), texte au survol des items de menu déroulant, lien de fermeture de la modale photo, texte/icône du badge de date des prochaines bulles |
-| `#444` | Fond du badge de date des prochaines bulles (même valeur que `@dark-grey`, mais écrite en dur plutôt que via la variable) |
+| `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), texte au survol des items de menu déroulant, lien de fermeture de la modale photo |
 
 Le bleu par défaut de Bootstrap 4 (`#007bff`) est présent dans les variables CSS vendored mais n'est utilisé nulle part dans le HTML/LESS custom du site : l'accent visuel du site est systématiquement `@blue` (`#0a9fd8`), pas le bleu Bootstrap.
 
@@ -138,10 +137,6 @@ Le carousel d'accueil masque sa légende (`h1`/`h2`) sous le breakpoint `md` (`d
 
 - Même structure `.card`/`.card-header`/`.collapse` que les autres accordéons du site, mais **toutes les questions sont fermées par défaut** (contrairement à `country-practical.html`, dont le premier volet est ouvert).
 
-### Prochaines bulles (`_layouts/next.html`)
-
-- Liste chronologique, chaque entrée avec un badge date (fond `#444`, voir "Couleurs" ci-dessus, jour 20px bold + mois 11px majuscules) et une icône Font Awesome dans un carré `@blue` de 42×40 px.
-
 ### Bonus / Inspiration (`_layouts/bonus.html`, `_layouts/inspiration.html`)
 
 - Deux colonnes (`col-md-6`) : contenu Markdown d'un côté, illustration de l'autre.
@@ -187,7 +182,6 @@ Font Awesome, chargé via Kit distant (voir `technical-specifications.md`), pas 
 | Manifeste (8 items) | `fa-flag-o`, `fa-eye`, `fa-paw`, `fa-anchor`, `fa-certificate`, `fa-globe`, `fa-heart`, `fa-camera-retro` |
 | FAQ (par question, front matter `I:`) | variable selon la question (ex. `fa-flag`, `fa-certificate`, `fa-adjust`, `fa-cog`, `fa-briefcase`, `fa-eye`, `fa-camera-retro`, `fa-binoculars`) |
 | Lien vers un document annexe (`docs/`) | `fa-mail-forward` (renvoi), `fa-map` ou `fa-file-pdf-o` selon le type de fichier |
-| Prochaines bulles (par entrée, front matter `icon:`) | variable (ex. `fa-flag`, `fa-ship`) |
 
 | Usage | Emoji |
 |---|---|

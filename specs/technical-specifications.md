@@ -77,7 +77,6 @@ Contrairement à un mécanisme à base de plugin `Jekyll::Generator`, **toutes l
 | FAQ | `faq` | `/faq/` | `/en/faq/` |
 | Bonus | `bonus` | `/bonus/` | `/en/bonus/` |
 | Inspiration | `inspiration` | `/inspiration/` | `/en/inspiration/` |
-| Prochaines bulles | `next` | `/prochaines-bulles/` | `/en/next-bubbles/` |
 | 404 | `404` | `/404.html` (page unique, bilingue) | — |
 | robots.txt | `null` | `/robots.txt` | — |
 | sitemap.xml | `null` | `/sitemap.xml` | — |
@@ -104,7 +103,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 
 ## Performance
 
-- Lazy loading (`loading="lazy"`) sur certaines images : logo de l'en-tête, carousel d'accueil, portfolio d'accueil, équipe, vignettes des carousels de pages pays, images des modales mensuelles du calendrier. **Absent** sur les images de la modale plein écran des galeries et sur l'image statique de la page inspiration (la page prochaines bulles n'a quant à elle aucune image, seulement des icônes).
+- Lazy loading (`loading="lazy"`) sur certaines images : logo de l'en-tête, carousel d'accueil, portfolio d'accueil, équipe, vignettes des carousels de pages pays, images des modales mensuelles du calendrier. **Absent** sur les images de la modale plein écran des galeries et sur l'image statique de la page inspiration.
 - Toutes les photos sont au format WebP.
 - Aucun script n'est chargé avec `defer`/`async` (voir "JavaScript" ci-dessus).
 - Pas de cookies, pas de tracking, pas d'analytics.
@@ -181,7 +180,7 @@ Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vign
 │
 ├── pages/<ocean>/<slug>[-en].md     # pages pays, 6 dossiers par océan (atlantic, caribbean, indian,
 │                                     # mediterranean, pacific, redsea)
-├── pages/{calendar,world-map,faq,bonus,inspiration,next-bubbles}[-en].md
+├── pages/{calendar,world-map,faq,bonus,inspiration}[-en].md
 │
 ├── _data/
 │   ├── countries/<ref>.yml          # un fichier par pays (33), données chiffrées bilingues

@@ -530,53 +530,6 @@ a:hover {
   max-width: 90%;
   padding-top: 20px;
 }
-/* Next bubbles --------------------------------------------------------------*/
-.post-row {
-  margin-bottom: 20px;
-  height: 100px;
-}
-.post-row p {
-  margin: 0px;
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-.post-row .left-meta-post {
-  float: left;
-  text-align: center;
-  margin-right: 12px;
-  margin-bottom: 0;
-  border-radius: 3px;
-  overflow: hidden;
-}
-.post-row .left-meta-post .date {
-  padding: 8px 0;
-  width: 42px;
-  background-color: #444;
-  color: #fff;
-}
-.post-row .left-meta-post .date .day {
-  font-size: 20px;
-  font-weight: 700;
-  display: block;
-  letter-spacing: 1px;
-}
-.post-row .left-meta-post .date .month {
-  display: block;
-  text-transform: uppercase;
-  line-height: 14px;
-  font-size: 11px;
-  letter-spacing: 1px;
-}
-.post-row .left-meta-post .type i {
-  display: block;
-  height: 40px;
-  line-height: 39px;
-  width: 42px;
-  background-color: #0a9fd8;
-  color: #fff;
-  font-size: 1.4em;
-}
 /* World map -----------------------------------------------------------------*/
 #worldMapContainer {
   margin: 0px;

@@ -5,7 +5,7 @@
 Le site porte plusieurs familles de contenu, chacune avec son propre front matter et, pour certaines, son propre fichier `_data/*.yml` :
 
 - **Page pays / destination** (voir `screens/country.md`) : une trentaine de pages, chacune combinant un front matter riche (texte éditorial) et un fichier `_data/countries/<ref>.yml` (données chiffrées et structurées).
-- **Page d'accueil**, **carte du monde**, **calendrier**, **FAQ**, **bonus**, **inspiration**, **prochaines bulles** : une page fonctionnelle chacune, pilotée par un ou plusieurs fichiers `_data/*.yml` dédiés.
+- **Page d'accueil**, **carte du monde**, **calendrier**, **FAQ**, **bonus**, **inspiration** : une page fonctionnelle chacune, pilotée par un ou plusieurs fichiers `_data/*.yml` dédiés.
 - **Page 404** : une seule page, sans équivalent par langue.
 
 Toutes les pages (sauf la 404) existent en deux fichiers Markdown, un par langue, reliés par un champ `ref` commun (voir "Conventions générales" ci-dessous). Aucun script ne valide automatiquement la cohérence de ces données (voir "Conventions générales").
@@ -246,7 +246,7 @@ Un même `ref` peut apparaître plusieurs fois (plusieurs sites dans le même pa
 
 ## Calendrier (front matter et données)
 
-`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (partagé avec `next-bubbles`, sert uniquement à choisir la variante de bannière, voir `style-guide.md`). Pas de contenu propre au-delà du front matter commun : toute la donnée vient de `_data/calendar.yml` croisé avec `best-seasons` de chaque `_data/countries/<ref>.yml` (voir `screens/calendar.md`).
+`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (choisit la variante de bannière, voir `style-guide.md`). Pas de contenu propre au-delà du front matter commun : toute la donnée vient de `_data/calendar.yml` croisé avec `best-seasons` de chaque `_data/countries/<ref>.yml` (voir `screens/calendar.md`).
 
 `_data/calendar.yml` :
 
@@ -281,27 +281,6 @@ qa:
 ## Inspiration (front matter)
 
 `pages/inspiration.md` / `-en.md`, `layout: inspiration`, `ref: inspiration`, `sea: inspiration`. Contenu Markdown libre (liste de recommandations livres/vidéos avec liens externes). Pas de galerie photo : une image statique unique (`/assets/img/inspiration.webp`) sert d'illustration, voir `style-guide.md`.
-
-## Prochaines bulles (front matter)
-
-`pages/next-bubbles.md` / `-en.md`, `layout: next`, `ref: next-bubbles`, `sea: next` :
-
-```yaml
-h2: Souhaits de bubulles
-bubbles:
-  - month: Mar
-    day:
-    icon: fa-flag
-    content: |
-      ?
-  - month: "????"
-    day: "??"
-    icon: fa-ship
-    content: |
-      Océan Pacifique : Cook, Tonga, Philippines, ...
-```
-
-`bubbles` : liste ordonnée manuellement (pas de tri par date). Une envie sans date encore fixée s'exprime par convention littérale plutôt que par un champ absent : `day` vide, ou `month`/`day` renseignés à `"????"`/`"??"`. Cette page n'apparaît pas dans `_data/menu.yml` (voir "Navigation" dans `functional-specifications.md`).
 
 ## Conventions générales
 

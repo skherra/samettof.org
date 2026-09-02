@@ -2,7 +2,7 @@
 
 ## Contexte et objectifs
 
-Le site présente les voyages de plongée sous-marine de Sam, Tof et Ti'Crab : une trentaine de destinations visitées à travers le monde (Atlantique, Caraïbes, océan Indien, Méditerranée, mer Rouge, Pacifique), chacune documentée par une description du site, du club de plongée fréquenté, de l'hébergement, un carnet de plongée (extraits vécus) et une carte des spots. Le site propose aussi une vue d'ensemble (carte du monde, calendrier des meilleures saisons par destination) et des pages de contenu éditorial (FAQ, bonus, inspirations, envies de prochains voyages).
+Le site présente les voyages de plongée sous-marine de Sam, Tof et Ti'Crab : une trentaine de destinations visitées à travers le monde (Atlantique, Caraïbes, océan Indien, Méditerranée, mer Rouge, Pacifique), chacune documentée par une description du site, du club de plongée fréquenté, de l'hébergement, un carnet de plongée (extraits vécus) et une carte des spots. Le site propose aussi une vue d'ensemble (carte du monde, calendrier des meilleures saisons par destination) et des pages de contenu éditorial (FAQ, bonus, inspirations).
 
 L'objectif est d'aider un visiteur qui prépare un voyage de plongée à choisir une destination et une période, et à trouver des informations pratiques issues de l'expérience directe des auteurs.
 
@@ -17,7 +17,6 @@ Dans le périmètre :
 - FAQ pratique sur la préparation d'un voyage de plongée (voir `screens/faq.md`).
 - Page bonus (sources d'eau chaude visitées) (voir `screens/bonus.md`).
 - Page d'inspirations voyage (livres, vidéos) (voir `screens/inspiration.md`).
-- Page des envies de prochains voyages (voir `screens/next-bubbles.md`).
 - Page non trouvée (voir "Page non trouvée" ci-dessous).
 - Site multilingue (français, anglais).
 
