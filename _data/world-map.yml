@@ -138,14 +138,14 @@
   ref: french-polynesia
   place: Les Tuamotus - Fakarava
   fr-date: mai 2017 et juillet 2020
-  en-date: May 2017 and Jully 2020
+  en-date: May 2017 and July 2020
 - lat: -15.9100537
   lng: -145.8975259
   icon: diveFlagIcon
   ref: french-polynesia
   place: Les Tuamotus - Toao
   fr-date: mai 2017 et juillet 2020
-  en-date: May 2017 and Jully 2020
+  en-date: May 2017 and July 2020
 - lat: -14.97182
   lng: -147.63419
   icon: diveFlagIcon
@@ -413,7 +413,7 @@
   icon: diveFlagIcon
   ref: azores
   fr-date: juillet 2024
-  en-date: Jully 2024
+  en-date: July 2024
 - lat: -0.58079
   lng: 130.54207
   icon: diveFlagIcon
