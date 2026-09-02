@@ -13,12 +13,12 @@ Aider le visiteur à choisir une période de voyage en listant, mois par mois, l
 
 ## Interactions
 
-- **Clic sur une tuile mois** : ouvre une modale Bootstrap listant, par ordre alphabétique, toutes les destinations dont la première meilleure saison (`best-seasons[0]` de `_data/countries/<ref>.yml`, voir `data-model.md`) couvre ce mois, avec un lien vers chaque page pays. La logique gère le passage d'une saison à cheval sur deux années civiles (ex. décembre → avril).
+- **Clic sur une tuile mois** : ouvre une modale Bootstrap listant, par ordre alphabétique, toutes les destinations dont au moins une entrée `best-seasons` (`_data/countries/<ref>.yml`, voir `data-model.md`) couvre ce mois, avec un lien vers chaque page pays. La logique gère le passage d'une saison à cheval sur deux années civiles (ex. décembre → avril). Une destination avec plusieurs entrées `best-seasons` correspondant au même mois n'apparaît qu'une seule fois dans la liste.
 - **Survol d'une tuile** : zoom léger de l'image de fond (voir `style-guide.md`).
 
 ## États (chargement, erreur, vide)
 
-- Seule la première entrée `best-seasons[0]` de chaque destination est prise en compte pour le classement mensuel (une seule destination a plusieurs entrées `best-seasons` : `indonesia`, 3 entrées).
+- Toutes les entrées `best-seasons` de chaque destination sont prises en compte pour le classement mensuel (une seule destination en a plusieurs : `indonesia`, 3 entrées).
 - Un mois sans destination correspondante affiche une modale vide (comportement non vérifié explicitement).
 
 ## Responsive
