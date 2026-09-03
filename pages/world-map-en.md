@@ -11,6 +11,6 @@ title: Scuba diving around the world
 description: Sam & Tof - Scuba diving around the world
 
 menu: Map
-h1: Map
+h1: 🌍 Map
 
 ---

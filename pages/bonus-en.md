@@ -12,7 +12,7 @@ description: Sam & Tof - Bonus
 
 sea: bonus
 menu: Bonus
-h1: Bonus
+h1: ♨️ Bonus
 
 ---
 

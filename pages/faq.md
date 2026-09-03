@@ -12,7 +12,7 @@ description: Sam & Tof - FAQ
 
 sea: faq
 menu: FAQ
-h1: FAQ
+h1: 💬 FAQ
 
 qa:
 - N: 01
