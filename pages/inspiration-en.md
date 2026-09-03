@@ -12,7 +12,7 @@ description: Sam & Tof - Travel inspirations
 
 sea: inspiration
 menu: Inspiration
-h1: Travel inspirations...
+h1: 💡 Inspiration
 
 ---
 

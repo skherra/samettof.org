@@ -12,6 +12,6 @@ description: Sam & Tof - Calendrier
 
 sea: next
 menu: Quand partir
-h1: 📅 Calendrier
+h1: 📅 Quand partir
 
 ---

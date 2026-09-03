@@ -12,6 +12,6 @@ description: Sam & Tof - Calendar
 
 sea: next
 menu: When to go
-h1: 📅 Calendar
+h1: 📅 When to go
 
 ---
