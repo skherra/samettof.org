@@ -198,8 +198,3 @@ Font Awesome, chargé via Kit distant (voir `technical-specifications.md`), pas 
 | Sélecteur de langue EN | 🇬🇧 |
 | Page 404 (bilingue) | 🇫🇷 🇬🇧 |
 | `h1` d'une page pays | Drapeau ISO du pays concerné (un par destination, ex. 🇲🇻 Maldives) |
-| Titre du calendrier | 📅 |
-| Titre de la page inspiration | 💡 |
-| Titre de la page FAQ | 💬 |
-| Titre de la page bonus | ♨️ |
-| Titre de la carte du monde | 🌍 |
