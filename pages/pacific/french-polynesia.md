@@ -82,7 +82,7 @@ dive-shop: |
   En mai 2017.
   {: .visited-in}
 
-  **Manihi**&nbsp;: **[Blue Way <i class="fa fa-heart"></i>](http://www.blueway-manihi.com/){: target="_blank"}**&nbsp;: Club familial, Bernard et Martine ont partagé avec nous leur passion, de bons moments sous l'eau et à l'apéro&nbsp;! Ils sont attentionnés, le bateau est confortable, 2 plongées par jour le matin.
+  **Manihi**&nbsp;: **[Blue Way <i class="fa fa-heart"></i>](https://tahititourisme.pf/experiences/le-plein-activites/blue-way-manihi-dive-manihi-fr-3363447/){: target="_blank"}**&nbsp;: Club familial, Bernard et Martine ont partagé avec nous leur passion, de bons moments sous l'eau et à l'apéro&nbsp;! Ils sont attentionnés, le bateau est confortable, 2 plongées par jour le matin.
 
   **Tikehau**&nbsp;: **[Raie Manta Club](http://www.raiemantaclub.com/){: target="_blank"}**&nbsp;: À l'époque où nous y étions il y avait trois clubs sur cette toute petite île avec une très mauvaise ambiance entre les clubs. Nous n'étions que deux sur le bateau et avons plongé avec ce jeune couple qui tenait le club, bien que très sérieux, nous avons regretté le manque d'accueil et le manque d'âme.
 
