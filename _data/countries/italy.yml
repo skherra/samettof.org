@@ -9,9 +9,9 @@ water-temperatures:
     water-temperature: 22-24
 best-seasons:
   - fr-best-season-from: mai
-    fr-best-season-to: septembre
+    fr-best-season-to: octobre
     en-best-season-from: May
-    en-best-season-to: September
+    en-best-season-to: October
 
 fauna:
   - fr-name: Mérous
@@ -40,6 +40,12 @@ fauna:
     strong: true
   - fr-name: Girelles paon
     en-name: Peacock wrasse
+    strong: false
+  - fr-name: Anchois
+    en-name: Anchovies
+    strong: false
+  - fr-name: Sardines
+    en-name: Sardines
     strong: false
   - fr-name: Langoustes
     en-name: Spiny lobsters
@@ -87,6 +93,9 @@ fauna:
     en-name: Red coral
     strong: true
   - fr-name: Barracudas
+    en-name: Barracudas
+    strong: true
+  - fr-name: Bécunes
     en-name: Barracudas
     strong: true
   - fr-name: Thons
@@ -163,3 +172,21 @@ maps:
         lng: 13.173599
         icon: diveFlagIcon
         place: Punta della Arpa
+  - id: portofino
+    center-lat: 44.298622 
+    center-lng: 9.218330
+    zoom: 12
+    points:
+      - lat: 44.298458
+        lng: 9.218947
+        icon: diveFlagIcon
+        place: Faro di Portofino
+      - lat: 38.715480
+        lng: 13.155440
+        icon: diveFlagIcon
+        place: Scoglio del Medico
+      - lat: 38.69484
+        lng: 13.15186
+        icon: diveFlagIcon
+        place: Seca d Africa
+    
