@@ -173,20 +173,16 @@ maps:
         icon: diveFlagIcon
         place: Punta della Arpa
   - id: portofino
-    center-lat: 44.298622 
-    center-lng: 9.218330
+    center-lat: 44.310730
+    center-lng: 9.175822
     zoom: 12
     points:
       - lat: 44.298458
         lng: 9.218947
         icon: diveFlagIcon
         place: Faro di Portofino
-      - lat: 38.715480
-        lng: 13.155440
+      - lat: 44.32054
+        lng: 9.14459
         icon: diveFlagIcon
-        place: Scoglio del Medico
-      - lat: 38.69484
-        lng: 13.15186
-        icon: diveFlagIcon
-        place: Seca d Africa
+        place: Seca dell Isuella
     

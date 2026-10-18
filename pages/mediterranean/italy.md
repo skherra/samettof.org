@@ -45,7 +45,7 @@ country-desc-sections:
     Accessible en ferry depuis Palerme, l'île est petite et tout peut se faire à pied, en vélo électrique ou en navette.
 - title: Portofino
   text: |
-    **[Portofino <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Ustica){: target="_blank"}** est une réserve marine depuis 1999. Très poissonneuse et avec une bonne visibilité en fin de saison : gros méroux, banc d'anchois, de bécunes. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à quelques minutes en bateau du port. Les plongées sont très belles.
+    **[Portofino <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Ustica){: target="_blank"}** est une réserve marine depuis 1999. Très poissonneuse et avec une bonne visibilité en fin de saison : gros méroux, banc d'anchois, de bécunes. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à quelques minutes en bateau du port. Les plongées entre 20 et 40 mètres très belles.
 
     Accessible en train depuis Milan ou Gênes, Rappallo ou Santa Margherita de Ligure sont un bon camp de base pour partir plonger.
 
@@ -53,7 +53,7 @@ dive-shop: |
   En octobre 2026.
   {: .visited-in}
 
-  **[Diving Group Portofino](https://dgportofino.com/){: target="_blank"}**, ont deux bases, une à Rapallo avec laquelle nous avons plongé et une à Santa Margherita de Ligure. Un club sérieux, à deux pas du port, une voiturette charge les sacs et les bouteilles, et les plongeurs rejoignent à pied le bateau. Le matériel est neuf, le club a plusieurs bateaux, dont des rigides pour une dizaine de plongeurs max. Nous avons plongé avec Cécilia, très bon guide calme et tranquille. Ils sont sympathiques mais peu locaces, il faut deviner comment cela marche ... Le club part pour 1 plongée (4 plongeurs minimum) et revient au port.
+  **[Diving Group Portofino](https://dgportofino.com/){: target="_blank"}**, ont deux bases, une à Rapallo avec laquelle nous avons plongé et une à Santa Margherita de Ligure. Un gros club, pour ne pas dire l'usine le week end avec les clubs locaux, sont à deux pas du port. **Nous ne recommandons pas ce club**, tellement nous les avons trouvé laxistes sur les brieffings et les précautions usuelles et non challants, pourtant ils ont tout pour en faire quelque chose de bien. 
 
   En septembre 2025.
   {: .visited-in}
@@ -87,7 +87,7 @@ to-see: |
   En octobre 2026.
   {: .visited-in}
 
-  Accessible en train **[Gênes](https://fr.wikipedia.org/wiki/G%C3%AAnes){: target="_blank"}** ,
+  Accessible en train **[Gênes](https://fr.wikipedia.org/wiki/G%C3%AAnes){: target="_blank"}** , pour ces églises et palacios.
 
   Quelques randonnées dans le **[parc de Portofino](https://parcoportofino.it/enparprtfn/zf/index.php/servizi-aggiuntivi/index/index/idtesto/197){: target="_blank"}** 
 
