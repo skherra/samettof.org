@@ -7,18 +7,18 @@ permalink: /en/mediterranean/italy/
 lang: en
 lang-flag: 🇬🇧
 
-title: Diving in the Mediterranean in Sardinia
-description: Sam & Tof - Scuba diving in the Mediterranean in Sardinia
+title: Diving in the Mediterranean in Italy
+description: Sam & Tof - Scuba diving in the Mediterranean in Italy
 
 sea: mediterranean
 menu: Italy
-visited-in: September 2021, September 2025
+visited-in: September 2021, September 2025, October 2026
 h1: 🇮🇹 Italy
 
 country-desc: |
   Italy has several interesting Mediterranean dive spots, which we discovered rather late. In September, we found really good visibility, with more or less warm water (a slight thermocline). Every time, we were delighted by how professional and friendly the dive clubs were.
 
-  In Sardinia, we were struck by the topography and the canyons. At Ustica, we found a lot more life: balls of anchovies or sardines hunted by jacks and small tuna over the seamounts, not to mention the big groupers.
+  In Sardinia, we were struck by the topography and the canyons. At Ustica and Portofino, we found a lot more life: balls of anchovies or sardines hunted by jacks and small tuna over the seamounts, not to mention the big groupers.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} The best of Sardigna: **Lavezzi** (Corsica); **San Franscesco cave** (Caprera); **El Picchu** (Caprera).
 
@@ -43,8 +43,18 @@ country-desc-sections:
     The clubs leave at staggered times so that each boat is alone (or nearly so) underwater.
 
     Reachable by ferry from Palermo, the island is small, and everything can be done on foot, by electric bike, or by shuttle.
+- title: Portofino
+  text: |
+    **[Portofino <i class="fa fa-heart"></i>](https://en.wikipedia.org/wiki/Portofino){: target="_blank"}** has been a marine reserve since 1999. Teeming with fish and with good visibility at the end of the season: big groupers, schools of anchovies and barracudas. There's a good twenty dive sites, the furthest of which are just a few minutes by boat from the harbor. The dives, between 20 and 40 meters, are really beautiful.
+
+    Reachable by train from Milan or Genoa, Rapallo and Santa Margherita Ligure make good bases for diving.
 
 dive-shop: |
+  In October 2026.
+  {: .visited-in}
+
+  **[Diving Group Portofino](https://dgportofino.com/){: target="_blank"}** has two bases, one in Rapallo, where we dived, and one in Santa Margherita Ligure. It's a big club, not to say a factory at weekends with the local clubs, a stone's throw from the harbor. **We don't recommend this club**: we found them far too lax on briefings and standard safety precautions, and rather nonchalant, even though they have everything it takes to do a good job.
+
   In September 2025.
   {: .visited-in}
 
@@ -58,6 +68,11 @@ dive-shop: |
   They have two boats, a covered, mid-sized one, which is a nice bonus in this region, that can take 14 divers, and a rigid inflatable with a capacity of 8 divers. Groups are split by level. You go out for 2 dives back to back in the morning, with a roughly 60-minute limit. An afternoon dive is possible. Padi-style no-deco dives, Nitrox available for an extra fee.
 
 accommodation: |
+  In October 2026.
+  {: .visited-in}
+
+  We chose Santa Margherita Ligure as our base, a really pretty little town with a variety of quiet accommodation. The Rapallo club is reachable by bus (10 min) or on foot (50 min).
+
   In September 2025.
   {: .visited-in}
 
@@ -69,10 +84,17 @@ accommodation: |
   The dive club offered us a choice of accommodation, we settled near the small Vecchio marina on the outskirts of Palau, a well-equipped, quiet house with a magical view over the islands.
 
 to-see: |
+  In October 2026.
+  {: .visited-in}
+
+  Reachable by train: **[Genoa](https://en.wikipedia.org/wiki/Genoa){: target="_blank"}**, for its churches and palazzi.
+
+  A few hikes in the **[Portofino park](https://parcoportofino.it/enparprtfn/zf/index.php/servizi-aggiuntivi/index/index/idtesto/197){: target="_blank"}**.
+
   In September 2025.
   {: .visited-in}
 
-  All the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/en/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,...
+  On Ustica, all the hikes are worth doing for the viewpoints. They're easy and doable in half a day. You can spot the island's many **[birds](https://www.birdingplaces.eu/en/birdingplaces/italy/isola-di-ustica){: target="_blank"}**, like bee-eaters, falcons, the small sea eagle,...
 
   In September 2021.
   {: .visited-in}
