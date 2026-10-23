@@ -7,18 +7,18 @@ permalink: /mediterranee/italie/
 lang: fr
 lang-flag: 🇫🇷
 
-title: Plongée en Méditerranée en Sardaigne
-description: Sam & Tof - Plongée sous-marine en Méditerranée en Sardaigne
+title: Plongée en Méditerranée en Italie
+description: Sam & Tof - Plongée sous-marine en Méditerranée en Italie
 
 sea: mediterranean
 menu: Italie
-visited-in: Septembre 2021, septembre 2025
+visited-in: Septembre 2021, septembre 2025, octobre 2026
 h1: 🇮🇹 Italie
 
 country-desc: |
   L'Italie possède plusieurs spots intéressants sur la mer Méditerranée, que nous avons découverts sur le tard. En septembre, nous avons trouvé une très belle visibilité, avec une eau plus ou moins chaude (petite thermocline). Nous avons été ravis par le professionnalisme et la gentillesse des clubs à chaque fois.
 
-  En Sardaigne, nous étions impressionnés par la topographie et les canyons. Sur Ustica, nous avons trouvé beaucoup plus de vie, des boules d'anchois ou de sardines chassées par des carangues et de petits thons sur les secs, sans oublier les gros mérous.
+  En Sardaigne, nous étions impressionnés par la topographie et les canyons. Sur Ustica ou à Portofino, nous avons trouvé beaucoup plus de vie, des boules d'anchois ou de sardines chassées par des carangues et de petits thons sur les secs, sans oublier les gros mérous.
 
   **<i class="fa fa-mail-forward"></i>**{: .accent-color} Le best of de Sardaigne&nbsp;: **Lavezzi** (Corse)&nbsp;; **San Franscesco cave** (Caprera)&nbsp;; **El Picchu** (Caprera).
 
@@ -36,15 +36,25 @@ country-desc-sections:
     Accessible en ferry ou en avion, il faut prévoir une voiture pour se déplacer.
 - title: Ustica
   text: |
-    **[Ustica <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Ustica){: target="_blank"}** est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongées, l'île est petite et très agréable. Les activités sont la plongée et la randonnée. Il y a une bonne vingtaine de sites de plongées, les plus loin sont à 15 minutes en bateau du port.
+    **[Ustica <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Ustica){: target="_blank"}** est une réserve marine depuis 1986. Elle fut la première d'Italie. Encore préservée du tourisme de masse, malgré le gros ferry et les 8 clubs de plongée, l'île est petite et très agréable. Les activités sont la plongée et la randonnée. Il y a une bonne vingtaine de sites de plongée, les plus loin sont à 15 minutes en bateau du port.
 
     Nous avons vu beaucoup de gros mérous, de boules de petits, de belles actions de chasse sur les tombants. Les grottes et les arches offrent des petits coraux et des crustacés. Les plongées sont très belles.
 
     Les clubs partent en décalé pour que chaque bateau soit seul (ou presque) sous l'eau.
 
     Accessible en ferry depuis Palerme, l'île est petite et tout peut se faire à pied, en vélo électrique ou en navette.
+- title: Portofino
+  text: |
+    **[Portofino <i class="fa fa-heart"></i>](https://fr.wikipedia.org/wiki/Portofino){: target="_blank"}** est une réserve marine depuis 1999. Très poissonneuse et avec une bonne visibilité en fin de saison&nbsp;: gros mérous, bancs d'anchois et de bécunes. Il y a une bonne vingtaine de sites de plongée, les plus loin sont à quelques minutes en bateau du port. Les plongées, entre 20 et 40 mètres, sont très belles.
+
+    Accessible en train depuis Milan ou Gênes, Rapallo ou Santa Margherita Ligure sont de bons camps de base pour partir plonger.
 
 dive-shop: |
+  En octobre 2026.
+  {: .visited-in}
+
+  **[Diving Group Portofino](https://dgportofino.com/){: target="_blank"}** a deux bases, une à Rapallo avec laquelle nous avons plongé et une à Santa Margherita Ligure. C'est un gros club, pour ne pas dire une usine le week-end avec les clubs locaux, à deux pas du port. **Nous ne recommandons pas ce club**, tellement nous les avons trouvés laxistes sur les briefings et les précautions usuelles et nonchalants, pourtant ils ont tout pour en faire quelque chose de bien.
+
   En septembre 2025.
   {: .visited-in}
 
@@ -58,6 +68,11 @@ dive-shop: |
   Ils ont deux bateaux, un de taille moyenne couvert ce qui dans la région est appréciable qui peut accueillir 14 plongeurs et un semi rigide avec une capacité de 8 plongeurs. Les groupes sont répartis par niveaux. On part pour 2 plongées d'affilé le matin avec une limite de 60 minutes plus ou moins. Une plongée est possible l'après-midi. Plongées de type Padi (sans déco), Nitrox possible en supplément.
 
 accommodation: |
+  En octobre 2026.
+  {: .visited-in}
+
+  Nous avons choisi Santa Margherita Ligure comme camp de base, très jolie petite ville offrant des logements divers et au calme. Le club de Rapallo est accessible en bus (10 min) ou à pied (50 min).
+
   En septembre 2025.
   {: .visited-in}
 
@@ -69,10 +84,17 @@ accommodation: |
   Le club de plongée nous a proposé un choix de logements, nous avons posé nos valises près de la petite marina vechio à la sortie de Palau, une maison bien équipée au calme et avec une vue magique sur les îles.
 
 to-see: |
+  En octobre 2026.
+  {: .visited-in}
+
+  Accessible en train&nbsp;: **[Gênes](https://fr.wikipedia.org/wiki/G%C3%AAnes){: target="_blank"}**, pour ses églises et palazzi.
+
+  Quelques randonnées dans le **[parc de Portofino](https://parcoportofino.it/enparprtfn/zf/index.php/servizi-aggiuntivi/index/index/idtesto/197){: target="_blank"}**.
+
   En septembre 2025.
   {: .visited-in}
 
-  Toutes les randonnées sont à faire pour admirer les points de vue. Elles sont faciles et faisables sur une demi-journée. On peut observer les nombreux **[oiseaux](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}** de l'île tel le guêpier, le faucon, le petit aigle marin,&nbsp;...
+  A Ustica, toutes les randonnées sont à faire pour admirer les points de vue. Elles sont faciles et faisables sur une demi-journée. On peut observer les nombreux **[oiseaux](https://www.birdingplaces.eu/fr/birdingplaces/italy/isola-di-ustica){: target="_blank"}** de l'île tel le guêpier, le faucon, le petit aigle marin,&nbsp;...
 
   En septembre 2021.
   {: .visited-in}
