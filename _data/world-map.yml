@@ -27,7 +27,7 @@
   place: Iles Medes
   ref: spain
   fr-date: septembre 2005 et juin 2025
-  en-date: September 2005
+  en-date: September 2005 and June 2025
 - lat: 48.85334
   lng: 2.34886
   icon: homeIcon
@@ -406,7 +406,7 @@
   place: Socorro
   ref: mexico-baja-california
   fr-date: avril-mai 2024
-  en-date: April 2024
+  en-date: April-May 2024
 - lat: 37.74293
   lng: -25.62799
   icon: diveFlagIcon
@@ -456,6 +456,6 @@
   lng: 9.218947
   icon: diveFlagIcon
   place: Faro di Portofino
-  ref: italie
+  ref: italy
   fr-date: octobre 2026
   en-date: October 2026
