@@ -452,3 +452,10 @@
   ref: france
   fr-date: août 2026
   en-date: August 2026
+- lat: 44.298458
+  lng: 9.218947
+  icon: diveFlagIcon
+  place: Faro di Portofino
+  ref: italie
+  fr-date: octobre 2026
+  en-date: October 2026
