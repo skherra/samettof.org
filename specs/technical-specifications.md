@@ -141,6 +141,7 @@ No `scripts/` folder, no `Rakefile`, no local generation of thumbnails or detail
 /
 ├── _config.yml
 ├── CNAME                            # www.samettof.org
+├── LICENSE                          # CC0 1.0 Universal (code and content, see README)
 ├── 404.md                           # single, bilingual page
 ├── index.md / index-en.md           # home (FR / EN)
 ├── robots.txt / sitemap.xml         # auto-generated Jekyll pages, layout: null
@@ -159,7 +160,7 @@ No `scripts/` folder, no `Rakefile`, no local generation of thumbnails or detail
 ├── _includes/
 │   ├── head.html                    # <head>: meta, OG, hreflang, fonts, CSS, conditional Leaflet
 │   ├── header.html                  # fixed navbar (top): menu, per-ocean submenus
-│   ├── footer.html                  # fixed navbar (bottom): CC license, language switcher
+│   ├── footer.html                  # fixed navbar (bottom): CC0 license, language switcher
 │   ├── scripts.html                 # JS scripts at the end of <body>
 │   ├── page-banner.html             # page banner (except home), variant per `sea`
 │   ├── home-carousel.html, home-manifest.html, home-portfolio.html, home-team.html, home-counters.html
@@ -215,9 +216,10 @@ exclude:
   - README.md
   - specs/
   - CLAUDE.md
+  - LICENSE
 ```
 
-No plugin declared (see "Site generation" above). `exclude:` removes `specs/` and `CLAUDE.md` from the build: they are working files of the repository, not site content, and Jekyll would otherwise publish them as-is under `_site/`.
+No plugin declared (see "Site generation" above). `exclude:` removes `specs/`, `CLAUDE.md` and `LICENSE` from the build: they are working files of the repository, not site content, and Jekyll would otherwise publish them as-is under `_site/`.
 
 ---
 

@@ -50,7 +50,7 @@ The content (descriptions, dive logs, per-destination data) is written by the au
 ### Navigation
 
 - Single navigation menu, in the header, present on every page (`fixed-top`, always visible while scrolling): one link per simple functional page (world map, calendar, inspiration, FAQ, bonus) and one dropdown submenu per ocean listing its destinations (see `_data/menu.yml` in `data-model.md`). The order of the entries follows the editorial order of the data file, not an alphabetical sort (e.g. in the Caribbean, Les Saintes comes after Mexico-Yucatán).
-- **Fixed footer** (`fixed-bottom`, always visible while scrolling), present on every page: content license on the left, language switcher on the right (see "Multilingual" above and "Footer" in `style-guide.md`). No social networks or other repeated information in the footer.
+- **Fixed footer** (`fixed-bottom`, always visible while scrolling), present on every page: site license (CC0 1.0 Universal, code and content) on the left, language switcher on the right (see "Multilingual" above and "Footer" in `style-guide.md`). No social networks or other repeated information in the footer.
 - No external link to other sites of the author was found on this site (no "sister sites" in the sense practiced by other projects of the author): the only identity-related external links are the individual Instagram accounts of Tof and Ti'Crab in the team presentation on the home page (see `screens/home.md`), Sam having none set.
 
 ### Page not found

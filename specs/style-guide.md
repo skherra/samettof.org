@@ -75,7 +75,7 @@ No custom spacing scale: the Bootstrap 4 grid and utility classes (`container`, 
 ### Footer (`_includes/footer.html`)
 
 - Bootstrap `fixed-bottom` navbar (always visible while scrolling; `main { margin-bottom: @footer-height }` offsets the fixed 36px height), white background, top border `1px solid rgba(0, 0, 0, .125)`. Reuses the `.navbar` class (and its `justify-content: space-between` flex) to lay out its only two children without a custom grid.
-- License on the left (`#footer-license`): link to the content's Creative Commons BY-NC-SA 4.0 license (`deed.fr`/`deed.en` according to `page.lang`), Font Awesome icons (`fab fa-creative-commons`, `-by`, `-nc-eu`, `-sa`) followed by the label `CC BY-NC-SA 4.0`.
+- License on the left (`#footer-license`): link to the site's Creative Commons CC0 1.0 Universal dedication, covering code and content (`deed.fr`/`deed.en` according to `page.lang`; see `LICENSE` at the repository root), Font Awesome icons (`fab fa-creative-commons`, `-zero`) followed by the label `CC0 1.0`.
 - Language switcher on the right (`#footer-lang`, emoji flags 🇫🇷/🇬🇧): same Liquid logic as the former header switcher (`site.pages | where:"ref", page.ref`), reuses the `.lang-flag` class with a reduced `padding`/`line-height` specific to the footer (overridden under `#footer-lang`).
 - `#worldMap` (full-screen world map) and the special case of the 404 page account for this fixed height in addition to the header's: `height: calc(100vh - @navbar-full-height - @footer-height)` (see "Interactive maps" below).
 
@@ -190,7 +190,7 @@ Font Awesome, loaded through a remote Kit (see `technical-specifications.md`), n
 | Manifesto (8 items) | `fa-flag-o`, `fa-eye`, `fa-paw`, `fa-anchor`, `fa-certificate`, `fa-globe`, `fa-heart`, `fa-camera-retro` |
 | FAQ (per question, front matter `I:`) | varies by question (e.g. `fa-flag`, `fa-certificate`, `fa-adjust`, `fa-cog`, `fa-briefcase`, `fa-eye`, `fa-camera-retro`, `fa-binoculars`) |
 | Link to an attached document (`docs/`) | `fa-mail-forward` (pointer), `fa-map` or `fa-file-pdf-o` depending on the file type |
-| License (footer) | `fab fa-creative-commons`, `fab fa-creative-commons-by`, `fab fa-creative-commons-nc-eu`, `fab fa-creative-commons-sa` |
+| License (footer) | `fab fa-creative-commons`, `fab fa-creative-commons-zero` |
 
 | Usage | Emoji |
 |---|---|

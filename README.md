@@ -45,3 +45,17 @@ conventions.
 
 Automatic, via GitHub Actions (`.github/workflows/jekyll.yml`) on every
 push to `master`.
+
+## License
+
+The site's code and content (texts, photos, data) are dedicated to the
+public domain under [CC0 1.0 Universal](LICENSE).
+
+Third-party files included in the repository are not covered by this
+dedication and remain under their own terms:
+
+- `assets/dist/`: Bootstrap and jQuery (MIT), Leaflet (BSD-2-Clause).
+- `assets/js/jquery.appear.js` (MIT).
+- `docs/`: dive maps and guides published by dive centers or tourist
+  offices, reproduced here for information; rights belong to their
+  respective authors.
