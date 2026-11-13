@@ -19,3 +19,4 @@ exclude:
   - README.md
   - specs/
   - CLAUDE.md
+  - LICENSE

@@ -1,18 +1,16 @@
 <footer id="site-footer" class="navbar fixed-bottom">
   <div id="footer-license">
     {%- if page.lang == "fr" -%}
-      {%- assign license-url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" -%}
-      {%- assign license-label = "Licence Creative Commons BY-NC-SA 4.0" -%}
+      {%- assign license-url = "https://creativecommons.org/publicdomain/zero/1.0/deed.fr" -%}
+      {%- assign license-label = "Creative Commons CC0 1.0 Universel" -%}
     {%- else -%}
-      {%- assign license-url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" -%}
-      {%- assign license-label = "Creative Commons License BY-NC-SA 4.0" -%}
+      {%- assign license-url = "https://creativecommons.org/publicdomain/zero/1.0/deed.en" -%}
+      {%- assign license-label = "Creative Commons CC0 1.0 Universal" -%}
     {%- endif -%}
     <a rel="license noopener noreferrer" href="{{ license-url }}" target="_blank" aria-label="{{ license-label }}">
       <i class="fab fa-creative-commons"></i>
-      <i class="fab fa-creative-commons-by"></i>
-      <i class="fab fa-creative-commons-nc-eu"></i>
-      <i class="fab fa-creative-commons-sa"></i>
-      <span>CC BY-NC-SA 4.0</span>
+      <i class="fab fa-creative-commons-zero"></i>
+      <span>CC0 1.0</span>
     </a>
   </div>
   <div id="footer-lang">
