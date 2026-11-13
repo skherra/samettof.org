@@ -1,17 +1,17 @@
-# Charte graphique
+# Style guide
 
-## Couleurs
+## Colors
 
 ### Palette
 
-Variables LESS (`@variable`), définies une seule fois en tête de `assets/css/samettof.less` :
+LESS variables (`@variable`), defined once at the top of `assets/css/samettof.less`:
 
-| Rôle | Variable | Hex |
+| Role | Variable | Hex |
 |---|---|---|
-| Accent, liens, éléments actifs | `@blue` | `#0a9fd8` |
-| Texte courant (`html`/`body`) | `@grey` | `#666` |
-| Texte fort, titres internes, nav-links | `@dark-grey` | `#444` |
-| Texte secondaire (légende "visité en") | `@light-grey` | `#ACB2B8` |
+| Accent, links, active elements | `@blue` | `#0a9fd8` |
+| Body text (`html`/`body`) | `@grey` | `#666` |
+| Strong text, inner headings, nav-links | `@dark-grey` | `#444` |
+| Secondary text ("visited in" caption) | `@light-grey` | `#ACB2B8` |
 
 ```less
 @blue:        #0a9fd8;
@@ -22,179 +22,179 @@ Variables LESS (`@variable`), définies une seule fois en tête de `assets/css/s
 @footer-height: 36px;
 ```
 
-Toutes ces variables sont utilisées ailleurs dans le fichier (aucune orpheline détectée).
+All these variables are used elsewhere in the file (no orphan detected).
 
-Plusieurs couleurs sont codées en dur dans `samettof.less` sans être remontées en variable, à ne pas dupliquer sans d'abord les y ajouter si elles doivent devenir réutilisables :
+Several colors are hard-coded in `samettof.less` without being promoted to variables; do not duplicate them without first adding them there if they need to become reusable:
 
-| Couleur | Usage |
+| Color | Usage |
 |---|---|
-| `#36353A` | Halo `text-shadow` (`0px 0px 20px #36353A`) sur les titres en surimpression de photo : `h1`/`h2` du carousel d'accueil, bannière de page, légendes (`h3`) des vignettes de portfolio d'accueil et du calendrier, nom/lien du membre en surimpression de photo (équipe) |
-| `#050F1E` | Texte du bloc `.portfolio-item-content` (portfolio d'accueil et du calendrier) |
-| `#ffffff` | Fond de repli des bannières de page |
-| `rgba(68, 68, 68, 0.75)` | Fond de la modale plein écran des galeries photo |
-| `black` | Ombre portée du portrait circulaire de l'en-tête |
-| `white` / `#FFF` | Texte en surimpression de photo, mais aussi : fond de page (`body`), fond du pied de page, texte au survol des items de menu déroulant, lien de fermeture de la modale photo |
-| `rgba(0, 0, 0, .125)` | Bordure haute du pied de page (même valeur que la bordure de `.card` Bootstrap, réutilisée plutôt que dupliquée) |
+| `#36353A` | `text-shadow` halo (`0px 0px 20px #36353A`) on headings overlaid on photos: `h1`/`h2` of the home carousel, page banner, captions (`h3`) of the home portfolio and calendar tiles, member name/link overlaid on the photo (team) |
+| `#050F1E` | Text of the `.portfolio-item-content` block (home portfolio and calendar) |
+| `#ffffff` | Fallback background of the page banners |
+| `rgba(68, 68, 68, 0.75)` | Background of the photo galleries' full-screen modal |
+| `black` | Drop shadow of the round portrait in the header |
+| `white` / `#FFF` | Text overlaid on photos, but also: page background (`body`), footer background, text of dropdown menu items on hover, close link of the photo modal |
+| `rgba(0, 0, 0, .125)` | Footer top border (same value as the Bootstrap `.card` border, reused rather than duplicated) |
 
-Le bleu par défaut de Bootstrap 4 (`#007bff`) est présent dans les variables CSS vendored mais n'est utilisé nulle part dans le HTML/LESS custom du site : l'accent visuel du site est systématiquement `@blue` (`#0a9fd8`), pas le bleu Bootstrap.
+The default Bootstrap 4 blue (`#007bff`) is present in the vendored CSS variables but is not used anywhere in the site's custom HTML/LESS: the site's visual accent is always `@blue` (`#0a9fd8`), not the Bootstrap blue.
 
-### Utilisation
+### Usage
 
-Fond clair par défaut (pas de variable `@bg` : le site n'a pas de fond sombre global, contrairement à d'autres projets de l'auteur). Texte courant en `@grey`. Liens en `@blue` (pas de couleur de survol distincte définie pour les liens simples). Icônes d'accent et éléments actifs (barres de progression, indicateurs de carousel, boutons d'accordéon ouverts) en `@blue`.
+Light background by default (no `@bg` variable: the site has no global dark background, unlike other projects of the author). Body text in `@grey`. Links in `@blue` (no distinct hover color defined for plain links). Accent icons and active elements (progress bars, carousel indicators, open accordion buttons) in `@blue`.
 
-## Typographie
+## Typography
 
-- **Police unique** : Ubuntu (Google Fonts), `font-family: Ubuntu, sans-serif` sur `html`/`body`. Pas de police de titres distincte (contrairement à d'autres projets de l'auteur qui combinent deux familles).
-- Chargée via l'ancienne API Google Fonts (`css?family=Ubuntu`), sans graisse explicite : seul le poids 400 est effectivement chargé. Les titres utilisent `font-weight: bolder` (mot-clé relatif) : le rendu gras est donc vraisemblablement un gras synthétique du navigateur, pas une graisse Ubuntu dédiée chargée — voir `technical-specifications.md`.
-- `rel="preconnect"` vers `fonts.googleapis.com` et `fonts.gstatic.com`.
+- **Single typeface**: Ubuntu (Google Fonts), `font-family: Ubuntu, sans-serif` on `html`/`body`. No separate heading typeface (unlike other projects of the author that combine two families).
+- Loaded through the old Google Fonts API (`css?family=Ubuntu`), with no explicit weight: only weight 400 is actually loaded. Headings use `font-weight: bolder` (relative keyword): the bold rendering is therefore most likely a browser-synthesized bold, not a dedicated loaded Ubuntu weight. See `technical-specifications.md`.
+- `rel="preconnect"` to `fonts.googleapis.com` and `fonts.gstatic.com`.
 
-| Usage | Taille | Graisse | Notes |
+| Usage | Size | Weight | Notes |
 |---|---|---|---|
-| `h1` carousel d'accueil | 32px | bolder | Majuscules (`text-transform: uppercase`), halo `#36353A` |
-| `h2` carousel d'accueil | 24px | bolder | Halo `#36353A` |
-| `h1` bannière de page (hors accueil) | 20px | bolder | Majuscules, halo `#36353A` |
-| `h1` portfolio / équipe (accueil) | 32px | bolder | Titre de section (pas en surimpression de photo), couleur `@dark-grey`, centré, pas de halo |
-| `h3` manifeste / portfolio (halo `#36353A`, en surimpression) / good-to-know | 20px (good-to-know : `font-size` 14px, `line-height` 18px) | bolder | |
-| `h2` de contenu (pages simples) | 16px | bolder | `border-bottom: 2px solid #eee`, `span` interne souligné `@blue` (2px) |
-| Corps de texte, `main` | 14px, `line-height: 20px` | normal | Couleur `@grey` |
-| Légende "visité en" | 14px | normal, italique | Couleur `@light-grey` |
+| Home carousel `h1` | 32px | bolder | Uppercase (`text-transform: uppercase`), `#36353A` halo |
+| Home carousel `h2` | 24px | bolder | `#36353A` halo |
+| Page banner `h1` (except home) | 20px | bolder | Uppercase, `#36353A` halo |
+| Portfolio / team `h1` (home) | 32px | bolder | Section heading (not overlaid on a photo), `@dark-grey` color, centered, no halo |
+| Manifesto / portfolio (`#36353A` halo, overlaid) / good-to-know `h3` | 20px (good-to-know: `font-size` 14px, `line-height` 18px) | bolder | |
+| Content `h2` (simple pages) | 16px | bolder | `border-bottom: 2px solid #eee`, inner `span` underlined in `@blue` (2px) |
+| Body text, `main` | 14px, `line-height: 20px` | normal | `@grey` color |
+| "Visited in" caption | 14px | normal, italic | `@light-grey` color |
 
-## Espacements et grille
+## Spacing and grid
 
-Pas d'échelle d'espacement custom : la grille et les classes utilitaires de Bootstrap 4 (`container`, `container-fluid`, `row`/`col-*`, `p-*`/`m-*`) sont utilisées telles quelles. Aucune media query custom dans `samettof.less` : le responsive repose entièrement sur la grille Bootstrap et le comportement natif de `navbar-expand-lg` (bascule en menu "burger" sous le breakpoint `lg`, 992px).
+No custom spacing scale: the Bootstrap 4 grid and utility classes (`container`, `container-fluid`, `row`/`col-*`, `p-*`/`m-*`) are used as-is. No custom media query in `samettof.less`: responsiveness relies entirely on the Bootstrap grid and the native behavior of `navbar-expand-lg` (switches to a "burger" menu below the `lg` breakpoint, 992px).
 
-## Composants UI de base
+## Base UI components
 
-### En-tête / navigation (`_includes/header.html`)
+### Header / navigation (`_includes/header.html`)
 
-- Navbar Bootstrap `fixed-top` (toujours visible en scrollant ; `main { margin-top: @navbar-full-height }` compense la hauteur fixe de 66px).
-- Logo : `assets/img/dive-flag.webp` (300×300 px), affiché en 40×40 px, `rounded-circle`, ombre portée (`box-shadow: 1px 1px 2px black`), lien vers l'accueil de la langue courante.
-- Menu généré depuis `_data/menu.yml` : liens simples et sous-menus déroulants par océan (voir `data-model.md`). `.nav-link` en `@dark-grey`, `@blue` au survol. `.dropdown-item:hover` : fond `@blue`, texte blanc.
-- Le sélecteur de langue ne fait pas partie de l'en-tête : il vit dans le pied de page (voir "Pied de page" ci-dessous).
+- Bootstrap `fixed-top` navbar (always visible while scrolling; `main { margin-top: @navbar-full-height }` offsets the fixed 66px height).
+- Logo: `assets/img/dive-flag.webp` (300×300 px), displayed at 40×40 px, `rounded-circle`, drop shadow (`box-shadow: 1px 1px 2px black`), link to the home page of the current language.
+- Menu generated from `_data/menu.yml`: plain links and per-ocean dropdown submenus (see `data-model.md`). `.nav-link` in `@dark-grey`, `@blue` on hover. `.dropdown-item:hover`: `@blue` background, white text.
+- The language switcher is not part of the header: it lives in the footer (see "Footer" below).
 
-### Pied de page (`_includes/footer.html`)
+### Footer (`_includes/footer.html`)
 
-- Navbar Bootstrap `fixed-bottom` (toujours visible en scrollant ; `main { margin-bottom: @footer-height }` compense la hauteur fixe de 36px), fond blanc, bordure haute `1px solid rgba(0, 0, 0, .125)`. Réutilise la classe `.navbar` (et son flex `justify-content: space-between`) pour répartir ses deux seuls enfants sans grille custom.
-- Licence à gauche (`#footer-license`) : lien vers la licence Creative Commons BY-NC-SA 4.0 du contenu (`deed.fr`/`deed.en` selon `page.lang`), icônes Font Awesome (`fab fa-creative-commons`, `-by`, `-nc-eu`, `-sa`) suivies du libellé `CC BY-NC-SA 4.0`.
-- Sélecteur de langue à droite (`#footer-lang`, drapeaux emoji 🇫🇷/🇬🇧) : même logique Liquid que l'ancien sélecteur d'en-tête (`site.pages | where:"ref", page.ref`), réutilise la classe `.lang-flag` avec un `padding`/`line-height` réduits propres au pied de page (surchargés sous `#footer-lang`).
-- `#worldMap` (carte du monde plein écran) et le cas particulier de la page 404 tiennent compte de cette hauteur fixe en plus de celle de l'en-tête : `height: calc(100vh - @navbar-full-height - @footer-height)` (voir "Cartes interactives" ci-dessous).
+- Bootstrap `fixed-bottom` navbar (always visible while scrolling; `main { margin-bottom: @footer-height }` offsets the fixed 36px height), white background, top border `1px solid rgba(0, 0, 0, .125)`. Reuses the `.navbar` class (and its `justify-content: space-between` flex) to lay out its only two children without a custom grid.
+- License on the left (`#footer-license`): link to the content's Creative Commons BY-NC-SA 4.0 license (`deed.fr`/`deed.en` according to `page.lang`), Font Awesome icons (`fab fa-creative-commons`, `-by`, `-nc-eu`, `-sa`) followed by the label `CC BY-NC-SA 4.0`.
+- Language switcher on the right (`#footer-lang`, emoji flags 🇫🇷/🇬🇧): same Liquid logic as the former header switcher (`site.pages | where:"ref", page.ref`), reuses the `.lang-flag` class with a reduced `padding`/`line-height` specific to the footer (overridden under `#footer-lang`).
+- `#worldMap` (full-screen world map) and the special case of the 404 page account for this fixed height in addition to the header's: `height: calc(100vh - @navbar-full-height - @footer-height)` (see "Interactive maps" below).
 
-### Bannière de page (`_includes/page-banner.html`, toutes les pages hors accueil)
+### Page banner (`_includes/page-banner.html`, every page except home)
 
-- Hauteur fixe **150px**, `padding: 50px 0`, image de fond en `cover`, une variante par valeur de `sea` (`.banner-{sea}`, image `/assets/img/banner/<sea>.webp`, 1440×150 px).
-- Deux `h1` : le premier affiche le nom de l'océan (seulement pour les 6 valeurs de `sea` correspondant à un océan réel ; pour `next`/`bonus`/`faq`/`inspiration`, ce premier `h1` reste vide alors que la classe `.banner-<sea>` s'applique quand même au fond), le second affiche `page.h1`. Texte blanc, halo `#36353A`.
+- Fixed height **150px**, `padding: 50px 0`, `cover` background image, one variant per `sea` value (`.banner-{sea}`, image `/assets/img/banner/<sea>.webp`, 1440×150 px).
+- Two `h1`: the first shows the ocean name (only for the 6 `sea` values matching an actual ocean; for `next`/`bonus`/`faq`/`inspiration`, this first `h1` stays empty while the `.banner-<sea>` class still applies to the background), the second shows `page.h1`. White text, `#36353A` halo.
 
 ### Carousels (Bootstrap 4, `data-ride="carousel"`)
 
-Le site utilise le composant carousel Bootstrap à cinq endroits, avec des réglages différents :
+The site uses the Bootstrap carousel component in five places, with different settings:
 
-| Carousel | Autoplay | Indicateurs | Flèches |
+| Carousel | Autoplay | Indicators | Arrows |
 |---|---|---|---|
-| Accueil (`home-carousel.html`) | Oui | Oui (points) | Standard Bootstrap |
-| Galerie pays/bonus, vignettes (`country-carousel.html`, `#photosCarousel`) | Oui | Oui | Custom (`fa-angle-left`/`fa-angle-right`) |
-| Galerie pays/bonus, modale plein écran (`#modalCarousel`) | **Non** (`data-ride="false"`) | — | Positionné sur la photo cliquée au clic sur une vignette |
-| Carnet de plongée (`country-logbook.html`, `#logCarousel`) | Oui, `data-interval="10000"` (10s) | Non | Custom (`fa-chevron-circle-left`/`-right`), superposées en haut à droite |
+| Home (`home-carousel.html`) | Yes | Yes (dots) | Standard Bootstrap |
+| Country/bonus gallery, thumbnails (`country-carousel.html`, `#photosCarousel`) | Yes | Yes | Custom (`fa-angle-left`/`fa-angle-right`) |
+| Country/bonus gallery, full-screen modal (`#modalCarousel`) | **No** (`data-ride="false"`) | n/a | Positioned on the clicked photo when a thumbnail is clicked |
+| Dive log (`country-logbook.html`, `#logCarousel`) | Yes, `data-interval="10000"` (10s) | No | Custom (`fa-chevron-circle-left`/`-right`), overlaid at the top right |
 
-Le carousel d'accueil masque sa légende (`h1`/`h2`) sous le breakpoint `md` (`d-none d-md-block`).
+The home carousel hides its caption (`h1`/`h2`) below the `md` breakpoint (`d-none d-md-block`).
 
-### Compteurs animés (`_includes/home-counters.html`, accueil uniquement)
+### Animated counters (`_includes/home-counters.html`, home only)
 
-- 4 colonnes, icônes Font Awesome 3x en `@blue`, chiffre 48px bolder `@blue`.
-- Animation d'incrémentation (0 → valeur cible en 5000ms) déclenchée sans condition au chargement de la page (`$(document).ready`), puis redéclenchée une seconde fois au premier passage du bloc dans le viewport (`jquery.appear.js` + `counter.js`, voir `technical-specifications.md`).
-- Les valeurs cibles (`data-to`) sont codées en dur dans le HTML de l'include, pas calculées depuis les données du site.
+- 4 columns, 3x Font Awesome icons in `@blue`, 48px bolder figure in `@blue`.
+- Increment animation (0 → target value in 5000ms) triggered unconditionally when the page loads (`$(document).ready`), then triggered a second time the first time the block enters the viewport (`jquery.appear.js` + `counter.js`, see `technical-specifications.md`).
+- The target values (`data-to`) are hard-coded in the include's HTML, not computed from the site data.
 
-### Portfolio (`_includes/home-portfolio.html`, `_includes/country-carousel.html` vignettes, calendrier)
+### Portfolio (`_includes/home-portfolio.html`, `_includes/country-carousel.html` thumbnails, calendar)
 
-- Tuile `position: relative; overflow: hidden`, image `width/height: 100%`.
-- Au survol (`transition: all .5s` sur l'accueil et le calendrier) : zoom + légère rotation de l'image (`scale(1.3) rotate(3deg)`), apparition d'un voile et d'une légende (`opacity: 0 → 1`).
-- **Différence entre l'accueil et le calendrier** : sur l'accueil, le texte du bloc (`#050F1E`) n'apparaît qu'au survol (`opacity: 0` par défaut) ; sur le calendrier, il est **toujours visible** (`opacity: 1`), seul le zoom de l'image se déclenche au survol.
-- Aucune dimension fixe pour les images sources du portfolio d'accueil : ratios variables (ex. 1000×750, 1004×564, 1024×576).
+- Tile `position: relative; overflow: hidden`, image `width/height: 100%`.
+- On hover (`transition: all .5s` on the home page and the calendar): zoom + slight rotation of the image (`scale(1.3) rotate(3deg)`), a veil and a caption appear (`opacity: 0 → 1`).
+- **Difference between the home page and the calendar**: on the home page, the block's text (`#050F1E`) only appears on hover (`opacity: 0` by default); on the calendar, it is **always visible** (`opacity: 1`), only the image zoom is triggered on hover.
+- No fixed dimensions for the home portfolio source images: variable ratios (e.g. 1000×750, 1004×564, 1024×576).
 
-### Équipe (`_includes/home-team.html`, accueil)
+### Team (`_includes/home-team.html`, home)
 
-- Une colonne par membre, photo 800×600 px pleine largeur de colonne.
-- Nom en surimpression bas-droite (blanc, 20px bolder, halo `#36353A`).
-- Icône Instagram en surimpression bas-gauche, affichée uniquement si `item.insta` est renseigné (absent pour Sam).
-- Barres de progression fines (`height: 3px`, remplissage `@blue`) sous chaque centre d'intérêt (`likes`), avec le pourcentage `grade`.
+- One column per member, 800×600 px photo at full column width.
+- Name overlaid at the bottom right (white, 20px bolder, `#36353A` halo).
+- Instagram icon overlaid at the bottom left, displayed only if `item.insta` is set (absent for Sam).
+- Thin progress bars (`height: 3px`, `@blue` fill) under each interest (`likes`), with the `grade` percentage.
 
-### Page pays : présentation et carnet (`country-about.html`, `country-logbook.html`)
+### Country page: description and dive log (`country-about.html`, `country-logbook.html`)
 
-- `country-about.html` : texte libre (`country-desc`), suivi d'un accordéon optionnel (`country-desc-sections`, seulement 7 destinations) réutilisant les mêmes classes `.card`/`.card-header`/`.collapse` que `country-practical` et la FAQ, avec une icône `fa-angle-up.control-icon` qui pivote (`rotate(-180deg)`) selon l'état ouvert/fermé.
-- `country-logbook.html` : gros guillemet ouvrant (`“`, 64px, `@blue`) chevauchant le texte (`margin-bottom: -40px`) au-dessus de chaque extrait de carnet.
+- `country-about.html`: free text (`country-desc`), followed by an optional accordion (`country-desc-sections`, only 7 destinations) reusing the same `.card`/`.card-header`/`.collapse` classes as `country-practical` and the FAQ, with a `fa-angle-up.control-icon` icon that rotates (`rotate(-180deg)`) according to the open/closed state.
+- `country-logbook.html`: large opening quotation mark (`“`, 64px, `@blue`) overlapping the text (`margin-bottom: -40px`) above each log excerpt.
 
-### Page pays : avis chiffrés et informations pratiques (`country-opinion.html`, `country-practical.html`, `country-good-to-know.html`)
+### Country page: ratings and practical information (`country-opinion.html`, `country-practical.html`, `country-good-to-know.html`)
 
-- `country-opinion.html` : 4 barres de progression (`height: 1.2rem`) pour Difficulté / Visibilité / Richesse / Ambiance, libellé "x/10" affiché dans la barre (avec décimale si non multiple de 10, ex. 65 → "6.5/10").
-- `country-practical.html` : accordéon Bootstrap à 3 volets fixes (Club de plongée, Hébergement, À voir), premier volet ouvert par défaut. Toujours affiché, même si le texte associé est court — pas de garde conditionnelle sur le contenu vide.
-- `country-good-to-know.html` : trois blocs d'information (température de l'eau, meilleure saison, faune/flore), chacun avec sa propre icône (voir "Iconographie" ci-dessous).
+- `country-opinion.html`: 4 progress bars (`height: 1.2rem`) for Difficulty / Visibility / Diversity / Atmosphere, "x/10" label displayed inside the bar (with a decimal if not a multiple of 10, e.g. 65 → "6.5/10").
+- `country-practical.html`: Bootstrap accordion with 3 fixed panels (Dive shop, Accommodation, To see), first panel open by default. Always displayed, even if the associated text is short: no conditional guard on empty content.
+- `country-good-to-know.html`: three information blocks (water temperature, best season, fauna/flora), each with its own icon (see "Iconography" below).
 
-### Cartes interactives (Leaflet, `country-map.html`, `map.html`, `404.html`)
+### Interactive maps (Leaflet, `country-map.html`, `map.html`, `404.html`)
 
-- Fond de tuiles satellite Esri World Imagery (pas Google Maps), pas de plugin de clustering.
-- Marqueurs custom : `diveFlagIcon` (drapeau bleu, site bien exploré), `diveFlagIconGrey` (drapeau gris, site secondaire), `homeIcon` (point "maison", un seul point sur la carte du monde). Toutes les icônes de marqueur : 16×27 px affichées (fichiers sources 50×83 px), avec ombre portée dédiée (`shadow.png`, 76×47 px source, 19×12 px affichée).
-- Une icône `eyeIcon` est déclarée dans le script mais n'est utilisée par aucune donnée actuelle (`_data/world-map.yml`, `_data/countries/*.yml`) — probablement prévue pour un usage futur, à vérifier avant de la considérer comme morte.
-- `country-map.html` : une carte Leaflet par entrée de `maps` (hauteur fixe 550px), réparties en lignes de 3 colonnes (`col-md-4`) ; le reliquat de la division par 3 (0, 1 ou 2 cartes) se partage à parts égales la largeur de sa propre ligne (ex. 4 cartes → 3 en `col-md-4` + 1 seule en `col-md-12` ; 5 cartes → 3 en `col-md-4` + 2 en `col-md-6`). N'apparaît que si le pays a un champ `maps` (21 des 33 destinations, voir `data-model.md`).
-- `map.html` : carte plein écran (`height: calc(100vh - 66px - 36px)`, hauteur de l'en-tête puis du pied de page), centrée sur `[0, 0]`, zoom initial 2, un marqueur par entrée de `_data/world-map.yml`.
-- `404.html` : même mécanisme que `map.html`, mais centrée sur un point océanique fictif ("Nemo Point"), avec un unique marqueur menant à un article externe (nouvel onglet).
+- Esri World Imagery satellite tile layer (not Google Maps), no clustering plugin.
+- Custom markers: `diveFlagIcon` (blue flag, well-explored site), `diveFlagIconGrey` (grey flag, secondary site), `homeIcon` ("home" point, a single point on the world map). All marker icons: displayed at 16×27 px (50×83 px source files), with a dedicated drop shadow (`shadow.png`, 76×47 px source, displayed at 19×12 px).
+- An `eyeIcon` icon is declared in the script but is used by no current data (`_data/world-map.yml`, `_data/countries/*.yml`): probably intended for future use, to be checked before considering it dead.
+- `country-map.html`: one Leaflet map per `maps` entry (fixed 550px height), laid out in rows of 3 columns (`col-md-4`); the remainder of the division by 3 (0, 1 or 2 maps) shares the width of its own row equally (e.g. 4 maps → 3 in `col-md-4` + a single one in `col-md-12`; 5 maps → 3 in `col-md-4` + 2 in `col-md-6`). Only appears if the country has a `maps` field (21 of the 33 destinations, see `data-model.md`).
+- `map.html`: full-screen map (`height: calc(100vh - 66px - 36px)`, header height then footer height), centered on `[0, 0]`, initial zoom 2, one marker per entry of `_data/world-map.yml`.
+- `404.html`: same mechanism as `map.html`, but centered on a fictional oceanic point ("Nemo Point"), with a single marker leading to an external article (new tab).
 
-### Calendrier (`_layouts/calendar.html`)
+### Calendar (`_layouts/calendar.html`)
 
-- Grille de 12 tuiles mensuelles (voir "Portfolio" ci-dessus pour le style visuel des tuiles), chaque tuile ouvrant une modale Bootstrap listant les destinations dont la meilleure saison couvre ce mois.
+- Grid of 12 monthly tiles (see "Portfolio" above for the visual style of the tiles), each tile opening a Bootstrap modal listing the destinations whose best season covers that month.
 
-### Accordéon FAQ (`_layouts/faq.html`)
+### FAQ accordion (`_layouts/faq.html`)
 
-- Même structure `.card`/`.card-header`/`.collapse` que les autres accordéons du site, mais **toutes les questions sont fermées par défaut** (contrairement à `country-practical.html`, dont le premier volet est ouvert).
+- Same `.card`/`.card-header`/`.collapse` structure as the other accordions of the site, but **all questions are closed by default** (unlike `country-practical.html`, whose first panel is open).
 
 ### Bonus / Inspiration (`_layouts/bonus.html`, `_layouts/inspiration.html`)
 
-- Deux colonnes (`col-md-6`) : contenu Markdown d'un côté, illustration de l'autre.
-- `bonus.html` réutilise le même composant carousel + modale que les pages pays (`country-carousel.html`, sur `photos/bonus/`).
-- `inspiration.html` affiche une image statique unique (`/assets/img/inspiration.webp`, 2000×1500 px), pas de galerie.
+- Two columns (`col-md-6`): Markdown content on one side, illustration on the other.
+- `bonus.html` reuses the same carousel + modal component as the country pages (`country-carousel.html`, on `photos/bonus/`).
+- `inspiration.html` displays a single static image (`/assets/img/inspiration.webp`, 2000×1500 px), no gallery.
 
 ## Images
 
-| Image | Ratio / dimensions observées |
+| Image | Observed ratio / dimensions |
 |---|---|
-| Photo de galerie pays/bonus (originale) | Variable, jusqu'à ~2000 px sur le grand côté |
-| Vignette de galerie (`-th.webp`) | Grand côté ramené à 600 px (identique à l'original si celui-ci est déjà ≤ 600 px) |
-| Carousel d'accueil (`photos/home-carousel/`) | 1920×950 px |
-| Portfolio d'accueil (`photos/home-portfolio/`) | Variable (ex. 1000×750, 1004×564, 1024×576) |
-| Équipe (`photos/home-team/`) | 800×600 px uniforme |
-| Tuile calendrier (`photos/calendar/`) | 600×337 px uniforme |
-| Bannière de page (`assets/img/banner/*.webp`) | 1440×150 px exactement |
-| Logo (`assets/img/dive-flag.webp`) | 300×300 px (affiché 40×40 px) |
-| Illustration inspiration | 2000×1500 px |
-| Icônes de marqueur Leaflet | 50×83 px source (affichées 16×27 px) |
+| Country/bonus gallery photo (original) | Variable, up to ~2000 px on the long side |
+| Gallery thumbnail (`-th.webp`) | Long side reduced to 600 px (identical to the original if it is already ≤ 600 px) |
+| Home carousel (`photos/home-carousel/`) | 1920×950 px |
+| Home portfolio (`photos/home-portfolio/`) | Variable (e.g. 1000×750, 1004×564, 1024×576) |
+| Team (`photos/home-team/`) | 800×600 px uniform |
+| Calendar tile (`photos/calendar/`) | 600×337 px uniform |
+| Page banner (`assets/img/banner/*.webp`) | Exactly 1440×150 px |
+| Logo (`assets/img/dive-flag.webp`) | 300×300 px (displayed at 40×40 px) |
+| Inspiration illustration | 2000×1500 px |
+| Leaflet marker icons | 50×83 px source (displayed at 16×27 px) |
 
-## Iconographie
+## Iconography
 
-Font Awesome, chargé via Kit distant (voir `technical-specifications.md`), pas de version figée par CDN explicite. Usage mixte de préfixes `fa-`/`fas fa-` selon l'ancienneté du code ajouté.
+Font Awesome, loaded through a remote Kit (see `technical-specifications.md`), no version pinned through an explicit CDN. Mixed use of `fa-`/`fas fa-` prefixes depending on when the code was added.
 
-| Usage | Icône |
+| Usage | Icon |
 |---|---|
-| Compteur "pays visités" | `fa-paper-plane` |
-| Compteur "plongées" | `fa-flag` |
-| Compteur "croisières" | `fa-ship` |
-| Compteur "plongeurs heureux" | `fa-smile-o` |
-| Instagram (équipe) | `fa-instagram` |
-| Chevron d'accordéon (about / practical / FAQ) | `fa-angle-up` (classe `.control-icon`, pivote selon l'état) |
-| Flèches du carousel de galerie | `fa-angle-left` / `fa-angle-right` |
-| Fermeture de la modale photo | `fas fa-times` |
-| Flèches du carnet de plongée | `fas fa-chevron-circle-left` / `fas fa-chevron-circle-right` |
-| Température de l'eau | `fa-tint` |
-| Meilleure saison | `fas fa-sun` |
-| Faune/flore | `fa-eye` |
-| Club de plongée | `fa-ship` |
-| Hébergement | `fa-bed` |
-| À voir | `fa-binoculars` |
-| Manifeste (8 items) | `fa-flag-o`, `fa-eye`, `fa-paw`, `fa-anchor`, `fa-certificate`, `fa-globe`, `fa-heart`, `fa-camera-retro` |
-| FAQ (par question, front matter `I:`) | variable selon la question (ex. `fa-flag`, `fa-certificate`, `fa-adjust`, `fa-cog`, `fa-briefcase`, `fa-eye`, `fa-camera-retro`, `fa-binoculars`) |
-| Lien vers un document annexe (`docs/`) | `fa-mail-forward` (renvoi), `fa-map` ou `fa-file-pdf-o` selon le type de fichier |
-| Licence (pied de page) | `fab fa-creative-commons`, `fab fa-creative-commons-by`, `fab fa-creative-commons-nc-eu`, `fab fa-creative-commons-sa` |
+| "Countries visited" counter | `fa-paper-plane` |
+| "Dives" counter | `fa-flag` |
+| "Cruises" counter | `fa-ship` |
+| "Happy divers" counter | `fa-smile-o` |
+| Instagram (team) | `fa-instagram` |
+| Accordion chevron (about / practical / FAQ) | `fa-angle-up` (`.control-icon` class, rotates according to state) |
+| Gallery carousel arrows | `fa-angle-left` / `fa-angle-right` |
+| Photo modal close | `fas fa-times` |
+| Dive log arrows | `fas fa-chevron-circle-left` / `fas fa-chevron-circle-right` |
+| Water temperature | `fa-tint` |
+| Best season | `fas fa-sun` |
+| Fauna/flora | `fa-eye` |
+| Dive shop | `fa-ship` |
+| Accommodation | `fa-bed` |
+| To see | `fa-binoculars` |
+| Manifesto (8 items) | `fa-flag-o`, `fa-eye`, `fa-paw`, `fa-anchor`, `fa-certificate`, `fa-globe`, `fa-heart`, `fa-camera-retro` |
+| FAQ (per question, front matter `I:`) | varies by question (e.g. `fa-flag`, `fa-certificate`, `fa-adjust`, `fa-cog`, `fa-briefcase`, `fa-eye`, `fa-camera-retro`, `fa-binoculars`) |
+| Link to an attached document (`docs/`) | `fa-mail-forward` (pointer), `fa-map` or `fa-file-pdf-o` depending on the file type |
+| License (footer) | `fab fa-creative-commons`, `fab fa-creative-commons-by`, `fab fa-creative-commons-nc-eu`, `fab fa-creative-commons-sa` |
 
 | Usage | Emoji |
 |---|---|
-| Sélecteur de langue FR | 🇫🇷 |
-| Sélecteur de langue EN | 🇬🇧 |
-| Page 404 (bilingue) | 🇫🇷 🇬🇧 |
-| `h1` d'une page pays | Drapeau ISO du pays concerné (un par destination, ex. 🇲🇻 Maldives) |
+| FR language switcher | 🇫🇷 |
+| EN language switcher | 🇬🇧 |
+| 404 page (bilingual) | 🇫🇷 🇬🇧 |
+| Country page `h1` | ISO flag of the country concerned (one per destination, e.g. 🇲🇻 Maldives) |

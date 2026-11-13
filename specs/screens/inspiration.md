@@ -1,25 +1,25 @@
-# Écran : inspiration
+# Screen: inspiration
 
 `_layouts/inspiration.html`, pages `pages/inspiration.md` (FR, `/inspiration/`) / `-en.md` (EN, `/en/inspiration/`), `ref: inspiration`.
 
-## Objectif
+## Goal
 
-Partager des recommandations de livres et de vidéos ayant inspiré les auteurs pour leurs voyages de plongée.
+Share recommendations of books and videos that inspired the authors for their diving trips.
 
-## Contenu et structure
+## Content and structure
 
-- Bannière de page (`sea: inspiration`, voir `style-guide.md`).
-- Deux colonnes : illustration statique unique (`/assets/img/inspiration.webp`, 2000×1500 px, voir `style-guide.md`) à gauche, contenu Markdown libre à droite (`{{ content }}`, liste de recommandations avec icônes selon le type — livre, vidéo — et liens externes vers des sites tiers comme Babelio, YouTube, IMDb, Goodreads ou les sites d'éditeurs).
-- Contrairement à l'écran bonus, **pas de galerie photo** ici : l'illustration est fixe.
+- Page banner (`sea: inspiration`, see `style-guide.md`).
+- Two columns: a single static illustration (`/assets/img/inspiration.webp`, 2000×1500 px, see `style-guide.md`) on the left, free Markdown content on the right (`{{ content }}`, list of recommendations with icons by type (book, video) and external links to third-party sites such as Babelio, YouTube, IMDb, Goodreads or publishers' sites).
+- Unlike the bonus screen, **no photo gallery** here: the illustration is fixed.
 
 ## Interactions
 
-Aucune interaction spécifique à cet écran au-delà des liens externes du contenu Markdown (ouverture standard, comportement du navigateur).
+No interaction specific to this screen beyond the external links in the Markdown content (standard opening, browser behavior).
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-Aucun état particulier : contenu entièrement statique.
+No particular state: fully static content.
 
 ## Responsive
 
-Deux colonnes (`col-md-6`) qui repassent en une colonne sous le breakpoint `md`, comportement natif de la grille Bootstrap.
+Two columns (`col-md-6`) that collapse into a single column below the `md` breakpoint, native behavior of the Bootstrap grid.

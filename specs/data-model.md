@@ -1,18 +1,18 @@
-# Modèle de données
+# Data model
 
-## Vue d'ensemble
+## Overview
 
-Le site porte plusieurs familles de contenu, chacune avec son propre front matter et, pour certaines, son propre fichier `_data/*.yml` :
+The site carries several content families, each with its own front matter and, for some, its own `_data/*.yml` file:
 
-- **Page pays / destination** (voir `screens/country.md`) : une trentaine de pages, chacune combinant un front matter riche (texte éditorial) et un fichier `_data/countries/<ref>.yml` (données chiffrées et structurées).
-- **Page d'accueil**, **carte du monde**, **calendrier**, **FAQ**, **bonus**, **inspiration** : une page fonctionnelle chacune, pilotée par un ou plusieurs fichiers `_data/*.yml` dédiés.
-- **Page 404** : une seule page, sans équivalent par langue.
+- **Country / destination page** (see `screens/country.md`): about thirty pages, each combining a rich front matter (editorial text) and a `_data/countries/<ref>.yml` file (numeric and structured data).
+- **Home page**, **world map**, **calendar**, **FAQ**, **bonus**, **inspiration**: one functional page each, driven by one or more dedicated `_data/*.yml` files.
+- **404 page**: a single page, with no per-language counterpart.
 
-Toutes les pages (sauf la 404) existent en deux fichiers Markdown, un par langue, reliés par un champ `ref` commun (voir "Conventions générales" ci-dessous). Aucun script ne valide automatiquement la cohérence de ces données (voir "Conventions générales").
+Every page (except the 404) exists as two Markdown files, one per language, linked by a shared `ref` field (see "General conventions" below). No script automatically validates the consistency of this data (see "General conventions").
 
-## Page d'accueil (front matter)
+## Home page (front matter)
 
-`index.md` (français, `permalink: /`) et `index-en.md` (anglais, `permalink: /en/`), `layout: index`, `ref: home` :
+`index.md` (French, `permalink: /`) and `index-en.md` (English, `permalink: /en/`), `layout: index`, `ref: home`:
 
 ```yaml
 layout: index
@@ -28,24 +28,24 @@ h1: Sam & Tof | Plongée sous-marine
 h2: Des informations utiles pour préparer un voyage plongée&nbsp;!
 ```
 
-| Champ | Rôle |
+| Field | Role |
 |---|---|
-| `h1` | Titre affiché en surimpression sur le carousel d'accueil |
-| `h2` | Sous-titre affiché sous le `h1` |
+| `h1` | Title overlaid on the home carousel |
+| `h2` | Subtitle displayed below the `h1` |
 
-Le contenu Markdown après le front matter n'est pas utilisé (le layout `index.html` assemble uniquement des includes pilotés par `_data/*`, voir `screens/home.md`).
+The Markdown content after the front matter is not used (the `index.html` layout only assembles includes driven by `_data/*`, see `screens/home.md`).
 
-Le carousel plein écran de l'accueil n'a pas de fichier de données dédié : comme pour les galeries de pages pays (voir "Images" ci-dessous), sa liste de photos est un scan automatique de `site.static_files`, ici sur `photos/home-carousel/`. Convention de nommage différente de celle des galeries pays : `NNN.webp` (3 chiffres, ex. `001.webp` à `014.webp`), sans vignette `-th.`.
+The full-screen home carousel has no dedicated data file: as for the country page galleries (see "Images" below), its photo list is an automatic scan of `site.static_files`, here on `photos/home-carousel/`. Naming convention different from the country galleries: `NNN.webp` (3 digits, e.g. `001.webp` to `014.webp`), without a `-th.` thumbnail.
 
-### Données de l'accueil
+### Home page data
 
-| Fichier | Rôle |
+| File | Role |
 |---|---|
-| `_data/home-manifest.yml` | 8 items du bloc "manifeste" (`icon`, `fr-title`/`en-title`, `fr-text`/`en-text`), bilingue dans un seul fichier (voir "Conventions générales") |
-| `_data/home-team.yml` | Présentation de l'équipe, bilingue dans un seul fichier (voir ci-dessous) |
-| `_data/portfolio.yml` | Sélection de photos "dernières plongées", bilingue (voir ci-dessous) |
+| `_data/home-manifest.yml` | 8 items of the "manifesto" block (`icon`, `fr-title`/`en-title`, `fr-text`/`en-text`), bilingual in a single file (see "General conventions") |
+| `_data/home-team.yml` | Team presentation, bilingual in a single file (see below) |
+| `_data/portfolio.yml` | Selection of "latest dives" photos, bilingual (see below) |
 
-`_data/home-team.yml` :
+`_data/home-team.yml`:
 
 ```yaml
 - img: sam.jpg
@@ -57,32 +57,32 @@ Le carousel plein écran de l'accueil n'a pas de fichier de données dédié : c
   insta: christophe.uw
 ```
 
-| Champ | Description |
+| Field | Description |
 |---|---|
-| `img` | Nom de fichier dans `photos/home-team/`, écrit en `.jpg` dans le YAML mais servi en `.webp` via un filtre Liquid `\| replace: '.jpg', '.webp'` (vestige d'une ancienne convention, voir `technical-specifications.md`) |
-| `name` | Prénom affiché |
-| `likes` | Liste de centres d'intérêt, chacun avec `fr-label`/`en-label` et `grade` (0-100, affiché en barre de progression) |
-| `insta` | Optionnel : identifiant Instagram, absent pour Sam, présent pour Tof (`christophe.uw`) et Ti'Crab (`TiCrab_travels`) |
+| `img` | File name in `photos/home-team/`, written as `.jpg` in the YAML but served as `.webp` through a Liquid filter `\| replace: '.jpg', '.webp'` (leftover from an old convention, see `technical-specifications.md`) |
+| `name` | Displayed first name |
+| `likes` | List of interests, each with `fr-label`/`en-label` and `grade` (0-100, displayed as a progress bar) |
+| `insta` | Optional: Instagram handle, absent for Sam, present for Tof (`christophe.uw`) and Ti'Crab (`TiCrab_travels`) |
 
-`_data/portfolio.yml` :
+`_data/portfolio.yml`:
 
 ```yaml
 - img: marseille.webp
   page-ref: france
 ```
 
-| Champ | Description |
+| Field | Description |
 |---|---|
-| `img` | Nom de fichier dans `photos/home-portfolio/` |
-| `page-ref` | `ref` de la page pays associée ; le libellé et la date affichés (`visited-in`) sont lus sur cette page cible via `site.pages \| where: "ref", page-ref \| where: "lang", page.lang`, pas dupliqués dans `portfolio.yml` |
+| `img` | File name in `photos/home-portfolio/` |
+| `page-ref` | `ref` of the associated country page; the displayed label and date (`visited-in`) are read from that target page via `site.pages \| where: "ref", page-ref \| where: "lang", page.lang`, not duplicated in `portfolio.yml` |
 
-Un même `page-ref` peut apparaître plusieurs fois avec des `img` différentes (ex. `france` ×3, `philippines` ×2).
+The same `page-ref` can appear several times with different `img` values (e.g. `france` ×3, `philippines` ×2).
 
-## Page pays / destination
+## Country / destination page
 
 ### Front matter
 
-Un fichier par langue à la racine de `pages/<ocean>/` (français) et `pages/<ocean>/<slug>-en.md` (anglais), `layout: country` :
+One file per language at the root of `pages/<ocean>/` (French) and `pages/<ocean>/<slug>-en.md` (English), `layout: country`:
 
 ```yaml
 layout: country
@@ -101,48 +101,48 @@ visited-in: Décembre 2015
 h1: 🇲🇻 Maldives
 
 country-desc: |
-  Texte de présentation de la destination (Markdown).
+  Destination presentation text (Markdown).
 
-country-desc-sections:      # optionnel, voir ci-dessous
+country-desc-sections:      # optional, see below
   - title: Cerbère Banyuls
     text: |
-      Texte Markdown
+      Markdown text
 
 dive-shop: |
-  Texte Markdown sur le(s) club(s) de plongée fréquenté(s).
+  Markdown text about the dive shop(s) used.
 
 accommodation: |
-  Texte Markdown sur l'hébergement.
+  Markdown text about the accommodation.
 
 to-see: |
-  Texte Markdown sur les activités hors plongée.
+  Markdown text about non-diving activities.
 
 log-books:
   - author: Sam
     place: Guraidhoo Kandu - South Male Atoll
     date: 25/12/2015
     text: |
-      Récit Markdown d'une plongée précise.
+      Markdown account of a specific dive.
 ```
 
-| Champ | Rôle |
+| Field | Role |
 |---|---|
-| `ref` | Identifiant partagé entre les deux langues de cette page (voir "Conventions générales") ; aussi la clé vers `_data/countries/<ref>.yml` et vers le dossier `photos/<ref>/` |
-| `permalink` | Traduit indépendamment par langue, y compris le segment d'océan (voir "Conventions de nommage" dans `technical-specifications.md`) |
-| `sea` | Un des six océans (`atlantic`, `caribbean`, `indian`, `mediterranean`, `pacific`, `redsea`), pilote la variante visuelle de la bannière de page (voir `style-guide.md`) |
-| `menu` | Libellé court sans emoji, utilisé comme texte alternatif (`alt`) de la photo sur le portfolio d'accueil |
-| `visited-in` | Date(s) de visite en texte libre (ex. "Décembre 2015"), affichée en italique dans le bloc pratique |
-| `h1` | Nom de la destination précédé d'un emoji drapeau ISO du pays ; affiché en tête de la page pays (voir `style-guide.md`) et repris comme texte des liens vers cette page dans le sous-menu de navigation, le portfolio d'accueil et la carte du monde (repli par défaut, voir "Carte du monde" ci-dessous) |
-| `country-desc` | Texte de présentation (Markdown), peut contenir des liens vers des fichiers de `docs/` (voir ci-dessous) |
-| `country-desc-sections` | **Optionnel**, présent sur seulement 7 des 33 pages pays (`indonesia`, `france`, `italy`, `french-polynesia`, `philippines`, `mexico-baja-california`, `egypt`) : liste de sous-sections (`title`/`text`) affichées en accordéon sous `country-desc`, pour les destinations couvrant plusieurs sites géographiques distincts |
-| `dive-shop`, `accommodation`, `to-see` | Toujours présents (vérifié sans exception sur les pages existantes), affichés dans un accordéon à 3 volets même si le texte est court |
-| `log-books` | Toujours au moins une entrée (vérifié sans exception) ; `author`, `place`, `date` (texte libre, pas toujours au format JJ/MM/AAAA), `text` (Markdown) |
+| `ref` | Identifier shared between the two languages of this page (see "General conventions"); also the key to `_data/countries/<ref>.yml` and to the `photos/<ref>/` folder |
+| `permalink` | Translated independently per language, including the ocean segment (see "Naming conventions" in `technical-specifications.md`) |
+| `sea` | One of the six oceans (`atlantic`, `caribbean`, `indian`, `mediterranean`, `pacific`, `redsea`), drives the visual variant of the page banner (see `style-guide.md`) |
+| `menu` | Short label without emoji, used as the alternative text (`alt`) of the photo in the home portfolio |
+| `visited-in` | Visit date(s) as free text (e.g. "Décembre 2015"), displayed in italics in the practical block |
+| `h1` | Destination name preceded by the country's ISO flag emoji; displayed at the top of the country page (see `style-guide.md`) and reused as the text of the links to this page in the navigation submenu, the home portfolio and the world map (default fallback, see "World map (front matter and data)" below) |
+| `country-desc` | Presentation text (Markdown), may contain links to files in `docs/` (see below) |
+| `country-desc-sections` | **Optional**, present on only 7 of the 33 country pages (`indonesia`, `france`, `italy`, `french-polynesia`, `philippines`, `mexico-baja-california`, `egypt`): list of sub-sections (`title`/`text`) displayed as an accordion below `country-desc`, for destinations covering several distinct geographical sites |
+| `dive-shop`, `accommodation`, `to-see` | Always present (verified without exception on the existing pages), displayed in a 3-panel accordion even if the text is short |
+| `log-books` | Always at least one entry (verified without exception); `author`, `place`, `date` (free text, not always in DD/MM/YYYY format), `text` (Markdown) |
 
-Tous les autres champs (`layout`, `ref`, `permalink`, `lang`, `lang-flag`, `title`, `description`, `sea`, `menu`, `visited-in`, `h1`, `country-desc`, `dive-shop`, `accommodation`, `to-see`, `log-books`) sont présents sur les 33 pages pays sans exception.
+All the other fields (`layout`, `ref`, `permalink`, `lang`, `lang-flag`, `title`, `description`, `sea`, `menu`, `visited-in`, `h1`, `country-desc`, `dive-shop`, `accommodation`, `to-see`, `log-books`) are present on all 33 country pages without exception.
 
-### Données chiffrées (`_data/countries/<ref>.yml`)
+### Structured data (`_data/countries/<ref>.yml`)
 
-Un fichier par pays, nommé d'après `ref` (33 fichiers, correspondance 1:1 avec les pages pays) :
+One file per country, named after `ref` (33 files, 1:1 match with the country pages):
 
 ```yaml
 difficulty: 70
@@ -154,23 +154,23 @@ water-temperatures:
   - fr-water-temperature-period: En décembre
     en-water-temperature-period: In December
     water-temperature: 30
-    fr-water-temperature-comment: Tubbataha & Coron   # optionnel
-    en-water-temperature-comment: Tubbataha & Coron   # optionnel
+    fr-water-temperature-comment: Tubbataha & Coron   # optional
+    en-water-temperature-comment: Tubbataha & Coron   # optional
 
 best-seasons:
   - fr-best-season-from: décembre
     fr-best-season-to: avril
     en-best-season-from: December
     en-best-season-to: April
-    fr-best-season-comment:      # optionnel, parfois vide
+    fr-best-season-comment:      # optional, sometimes empty
     en-best-season-comment:
 
 fauna:
   - fr-name: Requins baleines
     en-name: Whale sharks
-    strong: true       # optionnel : met le nom en avant dans l'affichage
+    strong: true       # optional: highlights the name in the display
 
-maps:                   # optionnel, voir ci-dessous
+maps:                   # optional, see below
   - id: cerbere
     center-lat: 43.333578
     center-lng: 3.960239
@@ -182,46 +182,46 @@ maps:                   # optionnel, voir ci-dessous
         place: Canadelles
 ```
 
-| Champ | Description |
+| Field | Description |
 |---|---|
-| `difficulty`, `visibility`, `diversity`, `atmosphere` | Entiers 0-100, toujours présents sur les 33 fichiers, affichés en barres de progression "x/10" (voir `screens/country.md`) |
-| `water-temperatures` | Toujours présent, une entrée par période distincte (généralement une seule ; 8 destinations en ont plusieurs : `bonaire`, `egypt`, `france`, `french-polynesia`, `martinique`, `mexico-baja-california`, `philippines` (2 chacune), `indonesia` (3)). `water-temperature` est un entier dans la majorité des cas, mais treize destinations sur trente-trois ont au moins une plage textuelle (ex. `"17-20"`) : `azores`, `costa-rica-cocos`, `egypt`, `galapagos`, `iceland`, `italy`, `madagascar`, `mexico-baja-california`, `micronesia`, `palau`, `sao-tome`, `south-africa`, `spain` |
-| `best-seasons` | Toujours présent, même structure à entrées multiples possibles (une seule destination en a plusieurs : `indonesia`, 3 entrées) |
-| `fauna` | Toujours présent, liste de taille variable (2 à 42 entrées observées) |
-| `maps` | **Optionnel**, présent sur 21 des 33 fichiers (les 12 sans carte : belize, canary-islands, cape-verde, hawaii, japan, les-saintes, madagascar, maldives, mozambique, sao-tome, south-africa, tanzania). Une entrée par carte (une destination peut en avoir plusieurs, jusqu'à 4 pour les Philippines), chaque carte avec ses propres `points` (voir "Cartes interactives" dans `style-guide.md` pour l'affichage et la répartition en grille) |
+| `difficulty`, `visibility`, `diversity`, `atmosphere` | Integers 0-100, always present on all 33 files, displayed as "x/10" progress bars (see `screens/country.md`) |
+| `water-temperatures` | Always present, one entry per distinct period (usually a single one; 8 destinations have several: `bonaire`, `egypt`, `france`, `french-polynesia`, `martinique`, `mexico-baja-california`, `philippines` (2 each), `indonesia` (3)). `water-temperature` is an integer in most cases, but thirteen destinations out of thirty-three have at least one text range (e.g. `"17-20"`): `azores`, `costa-rica-cocos`, `egypt`, `galapagos`, `iceland`, `italy`, `madagascar`, `mexico-baja-california`, `micronesia`, `palau`, `sao-tome`, `south-africa`, `spain` |
+| `best-seasons` | Always present, same structure with possible multiple entries (only one destination has several: `indonesia`, 3 entries) |
+| `fauna` | Always present, list of variable length (2 to 42 entries observed) |
+| `maps` | **Optional**, present on 21 of the 33 files (the 12 without a map: belize, canary-islands, cape-verde, hawaii, japan, les-saintes, madagascar, maldives, mozambique, sao-tome, south-africa, tanzania). One entry per map (a destination can have several, up to 4 for the Philippines), each map with its own `points` (see "Interactive maps" in `style-guide.md` for the display and grid layout) |
 
-`maps[].points[].icon` vaut `diveFlagIcon` (site bien exploré) ou `diveFlagIconGrey` (site secondaire/moins exploré). Un point peut aussi porter un `ref` et des `fr-date`/`en-date` dans les données (ex. `_data/countries/france.yml`), mais `country-map.html` ne lit que `point.place` pour construire le popup : ces champs sont présents dans le YAML sans être exploités par le template actuel (voir "Cartes interactives" dans `style-guide.md`).
+`maps[].points[].icon` is either `diveFlagIcon` (well-explored site) or `diveFlagIconGrey` (secondary/less-explored site). A point can also carry a `ref` and `fr-date`/`en-date` in the data (e.g. `_data/countries/france.yml`), but `country-map.html` only reads `point.place` to build the popup: these fields are present in the YAML without being used by the current template (see "Interactive maps" in `style-guide.md`).
 
 ### Images (`photos/<ref>/`)
 
-Convention commune à toutes les galeries du site (pages pays et page bonus, voir ci-dessous) :
+Convention shared by all the galleries of the site (country pages and bonus page, see below):
 
-| Fichier | Rôle |
+| File | Role |
 |---|---|
-| `NNNN.webp` (4 chiffres) | Photo pleine résolution, affichée dans la modale plein écran |
-| `NNNN-th.webp` | Vignette utilisée dans le carousel de la page. Si la photo originale fait déjà ≤ 600 px de large, la vignette est un fichier identique à l'original (constaté sur `maldives/0001.webp`) ; sinon, plus grande dimension ramenée à 600 px |
+| `NNNN.webp` (4 digits) | Full-resolution photo, displayed in the full-screen modal |
+| `NNNN-th.webp` | Thumbnail used in the page carousel. If the original photo is already ≤ 600 px wide, the thumbnail is a file identical to the original (observed on `maldives/0001.webp`); otherwise, largest dimension reduced to 600 px |
 
-**Aucune liste explicite en front matter** : la galerie d'une page est construite par un scan automatique de `site.static_files` filtré sur `photos/<page.ref>/*.webp` (en excluant les fichiers `-th.` pour la liste principale). Ajouter une photo dans le bon dossier suffit, sans toucher au front matter (voir `screens/country.md`).
+**No explicit list in the front matter**: a page's gallery is built by an automatic scan of `site.static_files` filtered on `photos/<page.ref>/*.webp` (excluding the `-th.` files for the main list). Adding a photo to the right folder is enough, without touching the front matter (see `screens/country.md`).
 
-Le premier fichier `0001.webp` d'un dossier sert aussi d'image Open Graph par défaut de la page (voir "SEO" dans `technical-specifications.md`).
+The first file `0001.webp` of a folder is also the page's default Open Graph image (see "SEO" in `technical-specifications.md`).
 
-### Cartes et PDF annexes (`docs/`)
+### Maps and attached PDFs (`docs/`)
 
-`docs/` contient des cartes de plongée et un itinéraire au format image (`.webp`) ou PDF, référencés **uniquement depuis le texte Markdown** de `country-desc` (jamais en front matter structuré), avec le même fichier utilisé par les deux langues :
+`docs/` contains dive maps and an itinerary as images (`.webp`) or PDF, referenced **only from the Markdown text** of `country-desc` (never in structured front matter), with the same file used by both languages:
 
 ```markdown
 **<i class="fa fa-mail-forward"></i>**{: .accent-color} Voici la carte des sites de plongées : [<i class="fa fa-map"></i>](/docs/south-africa-alishoal-map.webp){: target="_blank"}.
 ```
 
-Convention de nommage : `<ref>-<description>.webp` (ou `.pdf`), avec une exception observée (`docs/lanzarote-guia-ideal.pdf`, référencé depuis la page `canary-islands`, nommé d'après la localité plutôt que le `ref` de la page).
+Naming convention: `<ref>-<description>.webp` (or `.pdf`), with one observed exception (`docs/lanzarote-guia-ideal.pdf`, referenced from the `canary-islands` page, named after the locality rather than the page's `ref`).
 
-## Page 404
+## 404 page
 
-`404.md`, `layout: "404"`, `ref: "404"`, `permalink: /404.html`, `sitemap: {exclude: 'yes'}`. Contrairement aux autres pages du site, il n'existe qu'**une seule page 404** pour les deux langues (`lang-flag: 🇫🇷 🇬🇧`, `lang: fr`), affichant une carte Leaflet centrée sur un point océanique fictif ("Nemo Point").
+`404.md`, `layout: "404"`, `ref: "404"`, `permalink: /404.html`, `sitemap: {exclude: 'yes'}`. Unlike the other pages of the site, there is **a single 404 page** for both languages (`lang-flag: 🇫🇷 🇬🇧`, `lang: fr`), displaying a Leaflet map centered on a fictional oceanic point ("Nemo Point").
 
-## Carte du monde (front matter et données)
+## World map (front matter and data)
 
-`pages/world-map.md` / `-en.md`, `layout: map`, `ref: world-map`, pas de champ `sea` (le layout n'inclut pas de bannière). Toutes les données viennent de `_data/world-map.yml` :
+`pages/world-map.md` / `-en.md`, `layout: map`, `ref: world-map`, no `sea` field (the layout does not include a banner). All the data comes from `_data/world-map.yml`:
 
 ```yaml
 - lat: -20.43522
@@ -233,22 +233,22 @@ Convention de nommage : `<ref>-<description>.webp` (ou `.pdf`), avec une excepti
   en-date: September 2013
 ```
 
-| Champ | Description |
+| Field | Description |
 |---|---|
-| `lat`, `lng` | Obligatoires |
-| `icon` | `diveFlagIcon` (destination de plongée) ou `homeIcon` (un seul point, "Home sweet home", Paris) |
-| `ref` | Optionnel : lie le point à une page pays existante. Si présent, le libellé du popup devient un lien vers cette page ; à défaut de `fr-country`/`en-country`, le libellé affiché est `h1` de la page cible, et à défaut de `fr-date`/`en-date`, la date affichée est `visited-in` de la page cible |
-| `place` | Optionnel, sous-titre libre ajouté après un tiret (utile pour les archipels avec plusieurs points, ex. Polynésie française ×11, Philippines ×4) |
-| `fr-country` / `en-country` | Optionnel : libellé affiché sans lien si `ref` est absent (lieux visités sans page dédiée, ex. Île Maurice, Vietnam), ou libellé de substitution si fourni en complément d'un `ref`. Une seule entrée n'a ni `ref` ni `fr-country`/`en-country` : le point "Home sweet home" (icône `homeIcon`), dont le popup n'affiche alors que `place` |
-| `fr-date` / `en-date` | Optionnel, voir `ref` ci-dessus |
+| `lat`, `lng` | Required |
+| `icon` | `diveFlagIcon` (diving destination) or `homeIcon` (a single point, "Home sweet home", Paris) |
+| `ref` | Optional: links the point to an existing country page. If present, the popup label becomes a link to that page; without `fr-country`/`en-country`, the displayed label is the target page's `h1`, and without `fr-date`/`en-date`, the displayed date is the target page's `visited-in` |
+| `place` | Optional, free subtitle appended after a dash (useful for archipelagos with several points, e.g. French Polynesia ×11, Philippines ×4) |
+| `fr-country` / `en-country` | Optional: label displayed without a link if `ref` is absent (places visited without a dedicated page, e.g. Mauritius, Vietnam), or substitute label if provided alongside a `ref`. A single entry has neither `ref` nor `fr-country`/`en-country`: the "Home sweet home" point (`homeIcon` icon), whose popup then only shows `place` |
+| `fr-date` / `en-date` | Optional, see `ref` above |
 
-Un même `ref` peut apparaître plusieurs fois (plusieurs sites dans le même pays).
+The same `ref` can appear several times (several sites in the same country).
 
-## Calendrier (front matter et données)
+## Calendar (front matter and data)
 
-`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (choisit la variante de bannière, voir `style-guide.md`). Pas de contenu propre au-delà du front matter commun : toute la donnée vient de `_data/calendar.yml` croisé avec `best-seasons` de chaque `_data/countries/<ref>.yml` (voir `screens/calendar.md`).
+`pages/calendar.md` / `-en.md`, `layout: calendar`, `ref: calendar`, `sea: next` (picks the banner variant, see `style-guide.md`). No content of its own beyond the common front matter: all the data comes from `_data/calendar.yml` crossed with the `best-seasons` of each `_data/countries/<ref>.yml` (see `screens/calendar.md`).
 
-`_data/calendar.yml` :
+`_data/calendar.yml`:
 
 ```yaml
 - num: 1
@@ -257,11 +257,11 @@ Un même `ref` peut apparaître plusieurs fois (plusieurs sites dans le même pa
   en-name: January
 ```
 
-12 entrées, une par mois. `img` référence `photos/calendar/<img>` (le filtre Liquid `\| replace: '.jpg','.webp'` appliqué à ce champ est un no-op ici, vestige de la même ancienne convention que `home-team.yml`).
+12 entries, one per month. `img` references `photos/calendar/<img>` (the Liquid filter `\| replace: '.jpg','.webp'` applied to this field is a no-op here, leftover from the same old convention as `home-team.yml`).
 
 ## FAQ (front matter)
 
-`pages/faq.md` / `-en.md`, `layout: faq`, `ref: faq`, `sea: faq` :
+`pages/faq.md` / `-en.md`, `layout: faq`, `ref: faq`, `sea: faq`:
 
 ```yaml
 qa:
@@ -269,22 +269,22 @@ qa:
     I: fa-flag
     Q: "Comment choisir un club de plongée ?"
     A: |
-      Réponse Markdown.
+      Markdown answer.
 ```
 
-`qa` : liste de 8 items. `N` (numéro/identifiant, chaîne), `I` (classe d'icône Font Awesome complète, préfixe `fa-` inclus, voir `style-guide.md`), `Q` (question), `A` (réponse Markdown). Structure identique FR/EN.
+`qa`: list of 8 items. `N` (number/identifier, string), `I` (full Font Awesome icon class, `fa-` prefix included, see `style-guide.md`), `Q` (question), `A` (Markdown answer). Same structure in FR and EN.
 
 ## Bonus (front matter)
 
-`pages/bonus.md` / `-en.md`, `layout: bonus`, `ref: bonus`, `sea: bonus`. Contenu Markdown libre après le front matter (`{{ content }}`, liste de sources d'eau chaude avec liens vers les pages pays correspondantes quand elles existent). Réutilise le même mécanisme de galerie que les pages pays (voir "Images" ci-dessus) sur `photos/bonus/`, puisque `page.ref == "bonus"`.
+`pages/bonus.md` / `-en.md`, `layout: bonus`, `ref: bonus`, `sea: bonus`. Free Markdown content after the front matter (`{{ content }}`, list of hot springs with links to the matching country pages when they exist). Reuses the same gallery mechanism as the country pages (see "Images" above) on `photos/bonus/`, since `page.ref == "bonus"`.
 
 ## Inspiration (front matter)
 
-`pages/inspiration.md` / `-en.md`, `layout: inspiration`, `ref: inspiration`, `sea: inspiration`. Contenu Markdown libre (liste de recommandations livres/vidéos avec liens externes). Pas de galerie photo : une image statique unique (`/assets/img/inspiration.webp`) sert d'illustration, voir `style-guide.md`.
+`pages/inspiration.md` / `-en.md`, `layout: inspiration`, `ref: inspiration`, `sea: inspiration`. Free Markdown content (list of book/video recommendations with external links). No photo gallery: a single static image (`/assets/img/inspiration.webp`) serves as illustration, see `style-guide.md`.
 
-## Conventions générales
+## General conventions
 
-- **Slugs** : minuscules ASCII et tirets (kebab-case) en anglais pour tout identifiant technique (`ref`, noms de fichiers `_data/countries/*.yml`, dossiers `photos/*/`), ex. `french-polynesia`, `mexico-baja-california`.
-- **`ref` commun aux deux langues d'une même page**, toujours identique entre le fichier FR et le fichier EN (vérifié sans exception) : c'est la clé qui relie les deux versions linguistiques (sélecteur de langue, alternates `hreflang`, sitemap, image Open Graph par défaut, voir `technical-specifications.md`). Le `permalink`, lui, est traduit indépendamment par langue (voir "Conventions de nommage" dans `technical-specifications.md`) — ne jamais utiliser le `permalink` pour retrouver l'équivalent d'une page dans l'autre langue, toujours passer par `ref`.
-- **Un contenu ajouté existe dans les deux langues** : chaque page `pages/*.md` a son pendant `-en.md` (vérifié systématiquement), et chaque fichier `_data/*.yml` (y compris `_data/countries/<ref>.yml`) sert les deux langues via des clés `fr-*`/`en-*` dans un seul fichier plutôt que des fichiers séparés par langue.
-- **Pas de script de validation des données** : aucune vérification automatique de l'unicité des `ref`, de la présence des deux fichiers de langue, ou de la correspondance entre une page pays et son fichier `_data/countries/<ref>.yml`. Ces règles sont respectées par convention, pas vérifiées mécaniquement (la CI ne fait qu'un `jekyll build` suivi d'un `html-proofer` non bloquant, voir `technical-specifications.md`).
+- **Slugs**: lowercase ASCII and hyphens (kebab-case) in English for every technical identifier (`ref`, `_data/countries/*.yml` file names, `photos/*/` folders), e.g. `french-polynesia`, `mexico-baja-california`.
+- **`ref` shared by both languages of a page**, always identical between the FR file and the EN file (verified without exception): it is the key linking the two language versions (language switcher, `hreflang` alternates, sitemap, default Open Graph image, see `technical-specifications.md`). The `permalink`, on the other hand, is translated independently per language (see "Naming conventions" in `technical-specifications.md`): never use the `permalink` to find a page's counterpart in the other language, always go through `ref`.
+- **Added content exists in both languages**: each `pages/*.md` page has its `-en.md` counterpart (systematically verified), and each `_data/*.yml` file (including `_data/countries/<ref>.yml`) serves both languages through `fr-*`/`en-*` keys in a single file rather than separate per-language files.
+- **No data validation script**: no automatic check of `ref` uniqueness, of the presence of both language files, or of the match between a country page and its `_data/countries/<ref>.yml` file. These rules are followed by convention, not mechanically enforced (CI only runs a `jekyll build` followed by a non-blocking `html-proofer`, see `technical-specifications.md`).

@@ -1,35 +1,35 @@
-# Écran : accueil
+# Screen: home
 
 `_layouts/index.html`, pages `index.md` (FR) / `index-en.md` (EN), `ref: home`.
 
-## Objectif
+## Goal
 
-Présenter les auteurs (Sam, Tof, Ti'Crab) et donner accès aux différentes sections du site, en mettant en avant les dernières plongées et l'ampleur des voyages effectués.
+Present the authors (Sam, Tof, Ti'Crab) and give access to the various sections of the site, highlighting the latest dives and the extent of the trips made.
 
-## Contenu et structure
+## Content and structure
 
-Cinq blocs assemblés dans cet ordre (pas de bannière de page, contrairement aux autres écrans, voir `page-banner.html` dans `style-guide.md`) :
+Five blocks assembled in this order (no page banner, unlike the other screens, see `page-banner.html` in `style-guide.md`):
 
-1. **Carousel** (`home-carousel.html`) : galerie plein écran des photos de `photos/home-carousel/` (voir "Images" dans `data-model.md` pour la construction dynamique de la liste). Légende en surimpression : `page.h1` / `page.h2` (front matter, voir `data-model.md`).
-2. **Manifeste** (`home-manifest.html`) : 8 blocs icône + titre + texte (`_data/home-manifest.yml`, voir `data-model.md`).
-3. **Portfolio** (`home-portfolio.html`) : grille de photos "dernières plongées" (`_data/portfolio.yml`), chaque tuile liant vers la page pays correspondante avec son libellé et sa date de visite.
-4. **Équipe** (`home-team.html`) : une colonne par membre (`_data/home-team.yml`), photo, centres d'intérêt en barres de progression, lien Instagram optionnel.
-5. **Compteurs** (`home-counters.html`) : 4 chiffres clés animés (pays visités, plongées, croisières, "plongeurs heureux").
+1. **Carousel** (`home-carousel.html`): full-screen gallery of the photos in `photos/home-carousel/` (see "Images" in `data-model.md` for how the list is built dynamically). Overlaid caption: `page.h1` / `page.h2` (front matter, see `data-model.md`).
+2. **Manifesto** (`home-manifest.html`): 8 blocks of icon + title + text (`_data/home-manifest.yml`, see `data-model.md`).
+3. **Portfolio** (`home-portfolio.html`): grid of "latest dives" photos (`_data/portfolio.yml`), each tile linking to the matching country page with its label and visit date.
+4. **Team** (`home-team.html`): one column per member (`_data/home-team.yml`), photo, interests as progress bars, optional Instagram link.
+5. **Counters** (`home-counters.html`): 4 animated key figures (countries visited, dives, cruises, "happy divers").
 
-Voir `style-guide.md` pour le détail visuel de chaque composant.
+See `style-guide.md` for the visual details of each component.
 
 ## Interactions
 
-- **Carousel** : autoplay, indicateurs cliquables, flèches Bootstrap standards (voir `style-guide.md`).
-- **Tuile de portfolio** : clic navigue vers la page de la destination correspondante ; survol déclenche un zoom de l'image et fait apparaître la légende (masquée par défaut, contrairement au calendrier où elle est toujours visible, voir `style-guide.md`).
-- **Compteurs** : l'animation d'incrémentation se déclenche dès le chargement de la page, puis une seconde fois au premier passage du bloc dans le viewport (scroll).
+- **Carousel**: autoplay, clickable indicators, standard Bootstrap arrows (see `style-guide.md`).
+- **Portfolio tile**: click navigates to the matching destination page; hover triggers an image zoom and reveals the caption (hidden by default, unlike the calendar where it is always visible, see `style-guide.md`).
+- **Counters**: the increment animation starts as soon as the page loads, then a second time the first time the block enters the viewport (scroll).
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-- Les valeurs des compteurs sont codées en dur dans `home-counters.html` (voir `style-guide.md`) : aucun état "vide" ou calculé possible.
-- Le carousel, le portfolio et l'équipe dépendent tous de données présentes en dur dans le dépôt (fichiers `_data/*` ou dossier `photos/home-carousel/`) : pas de comportement de repli documenté si l'un de ces fichiers était vide.
+- The counter values are hard-coded in `home-counters.html` (see `style-guide.md`): no "empty" or computed state is possible.
+- The carousel, the portfolio and the team all depend on data hard-coded in the repository (`_data/*` files or the `photos/home-carousel/` folder): no documented fallback behavior if one of these files were empty.
 
 ## Responsive
 
-- Pas de media query custom (voir "Espacements et grille" dans `style-guide.md`) : la mise en page dépend uniquement de la grille Bootstrap.
-- La légende du carousel (`h1`/`h2`) est masquée sous le breakpoint `md` (`d-none d-md-block`).
+- No custom media query (see "Spacing and grid" in `style-guide.md`): the layout depends solely on the Bootstrap grid.
+- The carousel caption (`h1`/`h2`) is hidden below the `md` breakpoint (`d-none d-md-block`).

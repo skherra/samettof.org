@@ -1,194 +1,194 @@
-# Spécifications techniques
+# Technical specifications
 
-## Stack technique
+## Technical stack
 
-### Génération de site
+### Site generation
 
-- **Jekyll 4.4.1** : layouts, includes, front matter, `_data/`, pages (pas de collections).
+- **Jekyll 4.4.1**: layouts, includes, front matter, `_data/`, pages (no collections).
 - **Ruby 3.3.12** (`.ruby-version`).
-- `webrick` (serveur de développement local), `html-proofer` (vérification de liens morts en CI, voir "Hébergement et déploiement"), `json`.
-- Aucun plugin Jekyll packagé en gem (le `Gemfile` ne déclare que `jekyll`, `webrick`, `json`, `html-proofer`) : la seule extension de build du site est un fichier local, `_plugins/less_compiler.rb`, chargé automatiquement par Jekyll.
-- Pas de section `plugins:` ni `collections:` dans `_config.yml`.
+- `webrick` (local development server), `html-proofer` (dead link check in CI, see "Hosting and deployment"), `json`.
+- No Jekyll plugin packaged as a gem (the `Gemfile` only declares `jekyll`, `webrick`, `json`, `html-proofer`): the site's only build extension is a local file, `_plugins/less_compiler.rb`, loaded automatically by Jekyll.
+- No `plugins:` or `collections:` section in `_config.yml`.
 
 ### CSS / UI
 
-- **LESS**, compilé en CSS par un hook Jekyll (`_plugins/less_compiler.rb`) plutôt qu'au moment du build : un seul fichier source, `assets/css/samettof.less`, compilé vers `assets/dist/css/samettof.css`.
-- **Bootstrap 4.6.2** (pas Bootstrap 5) : grille, navbar, carousel, modale, accordéon (`card`/`collapse`), barres de progression. Vendored dans `assets/dist/` (pas chargé depuis un CDN).
-- **jQuery 3.7.1 (build "slim")** vendored, requis par le bundle Bootstrap 4 (contrairement à Bootstrap 5, qui n'a pas de dépendance jQuery).
-- **Leaflet 1.9.3** vendored (`assets/dist/css/leaflet.min.css`, `assets/dist/js/leaflet.min.js` + icônes dans `assets/dist/images/`) : cartes interactives (voir "Architecture" ci-dessous).
-- **Font Awesome**, chargé via un Kit distant (`https://kit.fontawesome.com/7dfeb2d2f7.js`) — même identifiant de kit que sur un autre site de l'auteur, ce qui suggère un compte Font Awesome partagé entre plusieurs projets.
-- **Google Fonts** : Ubuntu uniquement, chargée via l'ancienne API `css?family=Ubuntu` (pas `css2`), sans graisse explicite dans l'URL — seul le poids 400 est donc effectivement chargé, alors que les titres utilisent `font-weight: bolder` (mot-clé CSS relatif) : le rendu "gras" des titres est donc probablement un gras synthétique du navigateur plutôt qu'une graisse Ubuntu réellement chargée. Voir `style-guide.md`.
-- Les valeurs de design (couleurs, typographie, espacements) sont définies dans `style-guide.md`, pas ici.
+- **LESS**, compiled to CSS by a Jekyll hook (`_plugins/less_compiler.rb`) rather than at build time: a single source file, `assets/css/samettof.less`, compiled to `assets/dist/css/samettof.css`.
+- **Bootstrap 4.6.2** (not Bootstrap 5): grid, navbar, carousel, modal, accordion (`card`/`collapse`), progress bars. Vendored in `assets/dist/` (not loaded from a CDN).
+- **jQuery 3.7.1 ("slim" build)** vendored, required by the Bootstrap 4 bundle (unlike Bootstrap 5, which has no jQuery dependency).
+- **Leaflet 1.9.3** vendored (`assets/dist/css/leaflet.min.css`, `assets/dist/js/leaflet.min.js` + icons in `assets/dist/images/`): interactive maps (see "Architecture" below).
+- **Font Awesome**, loaded through a remote Kit (`https://kit.fontawesome.com/7dfeb2d2f7.js`), with the same kit identifier as on another site of the author, which suggests a Font Awesome account shared across several projects.
+- **Google Fonts**: Ubuntu only, loaded through the old `css?family=Ubuntu` API (not `css2`), with no explicit weight in the URL. Only weight 400 is therefore actually loaded, whereas headings use `font-weight: bolder` (relative CSS keyword): the "bold" rendering of headings is therefore probably a browser-synthesized bold rather than an actually loaded Ubuntu weight. See `style-guide.md`.
+- Design values (colors, typography, spacing) are defined in `style-guide.md`, not here.
 
 ### JavaScript
 
-- **Vanilla JS + plugins jQuery** pour les interactions custom : `assets/js/jquery.appear.js` (plugin tiers, détecte l'entrée d'un élément dans le viewport) et `assets/js/counter.js` (plugin `$.fn.countTo` + code d'initialisation propre au site), tous deux utilisés uniquement pour les compteurs animés de l'accueil (voir `screens/home.md`).
-- Toutes les autres interactions (carousel, modale, accordéon, menu burger) sont déléguées aux composants Bootstrap 4 via attributs `data-*`, sans JS custom.
-- Pas de framework JS (React, Vue, Angular), pas de bundler.
-- Aucun script n'est chargé avec `defer` ou `async`.
+- **Vanilla JS + jQuery plugins** for the custom interactions: `assets/js/jquery.appear.js` (third-party plugin, detects when an element enters the viewport) and `assets/js/counter.js` (`$.fn.countTo` plugin + site-specific initialization code), both used only for the animated counters on the home page (see `screens/home.md`).
+- All the other interactions (carousel, modal, accordion, burger menu) are delegated to the Bootstrap 4 components through `data-*` attributes, without custom JS.
+- No JS framework (React, Vue, Angular), no bundler.
+- No script is loaded with `defer` or `async`.
 
-### Ce qu'on n'utilise pas
+### Not used
 
-- Node.js committé dans le dépôt (pas de `package.json`, `node_modules/`), bien que le hook LESS dépende du binaire `lessc` installé globalement via npm sur la machine de build (voir "Scripts de maintenance locaux" ci-dessous) — c'est un outil de développement local, pas une dépendance du dépôt.
-- Bundler JS, framework CSS custom au-delà de Bootstrap, SCSS/Sass (LESS uniquement, malgré `jekyll-sass-converter` présent comme dépendance transitive de Jekyll dans `Gemfile.lock` — cette gem n'est pas exploitée).
-- Base de données, backend ou API propre.
+- Node.js committed in the repository (no `package.json`, `node_modules/`), although the LESS hook depends on the `lessc` binary installed globally via npm on the build machine (see "Local maintenance scripts" below): it is a local development tool, not a dependency of the repository.
+- JS bundler, custom CSS framework beyond Bootstrap, SCSS/Sass (LESS only, despite `jekyll-sass-converter` being present as a transitive dependency of Jekyll in `Gemfile.lock`: this gem is not used).
+- Database, backend or own API.
 - Cookies, tracking, analytics.
-- Plugin `jekyll-sitemap` (le sitemap est une page Jekyll faite à la main, voir "SEO").
+- `jekyll-sitemap` plugin (the sitemap is a hand-made Jekyll page, see "SEO").
 - Content Security Policy, JSON-LD.
-- Script de validation des données (voir "Conventions générales" dans `data-model.md`).
+- Data validation script (see "General conventions" in `data-model.md`).
 
 ---
 
-## Hébergement et déploiement
+## Hosting and deployment
 
-- **Hébergeur :** GitHub Pages
-- **Domaine :** `www.samettof.org` (fichier `CNAME` à la racine, avec le sous-domaine `www`)
-- **Déploiement :** automatique, via GitHub Actions (`.github/workflows/jekyll.yml`), déclenché sur push sur la branche `master`, ou manuellement (`workflow_dispatch`)
-- **Build (job `build`, timeout 15 minutes) :**
+- **Host:** GitHub Pages
+- **Domain:** `www.samettof.org` (`CNAME` file at the root, with the `www` subdomain)
+- **Deployment:** automatic, via GitHub Actions (`.github/workflows/jekyll.yml`), triggered on push to the `master` branch, or manually (`workflow_dispatch`)
+- **Build (`build` job, 15-minute timeout):**
   - `actions/checkout@v7`
-  - `ruby/setup-ruby` (épinglé par SHA de commit, `bundler-cache: true`)
+  - `ruby/setup-ruby` (pinned by commit SHA, `bundler-cache: true`)
   - `actions/configure-pages@v6`
-  - `bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"`, variable d'environnement `JEKYLL_ENV: production`, exécuté explicitement plutôt que délégué à l'intégration native GitHub Pages
+  - `bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"`, environment variable `JEKYLL_ENV: production`, run explicitly rather than delegated to the native GitHub Pages integration
   - `actions/upload-pages-artifact@v5`
-- **Vérification des liens :** `html-proofer` tourne sur `_site/` après le build, en `continue-on-error: true` (rapporte les liens morts sans faire échouer le déploiement). Options : `--ignore-urls` (Google Fonts, et plusieurs domaines de partenaires de plongée cités dans le contenu éditorial), `--ignore-status-codes "429,403"`, `--no-check-external-hash`.
-- **Déploiement (job `deploy`) :** `actions/deploy-pages@v5`, environnement `github-pages`.
-- **Dependabot** (`.github/dependabot.yml`) : mises à jour hebdomadaires des GitHub Actions et des gems (`bundler`).
+- **Link check:** `html-proofer` runs on `_site/` after the build, with `continue-on-error: true` (reports dead links without failing the deployment). Options: `--ignore-urls` (Google Fonts, and several diving partner domains cited in the editorial content), `--ignore-status-codes "429,403"`, `--no-check-external-hash`.
+- **Deployment (`deploy` job):** `actions/deploy-pages@v5`, `github-pages` environment.
+- **Dependabot** (`.github/dependabot.yml`): weekly updates of GitHub Actions and gems (`bundler`).
 
 ---
 
-## Architecture (génération des pages, routage)
+## Architecture (page generation, routing)
 
-### Rendu
+### Rendering
 
-Le site est entièrement statique, généré au build par Jekyll. Aucun rendu dynamique côté serveur, aucune API propre.
+The site is fully static, generated at build time by Jekyll. No dynamic server-side rendering, no own API.
 
-### Génération des pages
+### Page generation
 
-Contrairement à un mécanisme à base de plugin `Jekyll::Generator`, **toutes les pages du site sont des fichiers Markdown committés** dans le dépôt (pages pays comprises) : il n'existe aucune page générée en mémoire au moment du build. Les galeries photo (pages pays et bonus) ne sont pas des pages individuelles par photo : ce sont des scans de `site.static_files` au moment du rendu d'une page existante (voir "Images" dans `data-model.md`), pas des pages séparées.
+Unlike a mechanism based on a `Jekyll::Generator` plugin, **every page of the site is a Markdown file committed** to the repository (country pages included): no page is generated in memory at build time. The photo galleries (country and bonus pages) are not individual pages per photo: they are scans of `site.static_files` when an existing page is rendered (see "Images" in `data-model.md`), not separate pages.
 
-### Structure des URLs
+### URL structure
 
-| Type de page | Layout | Exemple FR | Exemple EN |
+| Page type | Layout | FR example | EN example |
 |---|---|---|---|
-| Accueil | `index` | `/` | `/en/` |
-| Page pays | `country` | `/indien/maldives/` | `/en/indian/maldives/` |
-| Carte du monde | `map` | `/carte/` | `/en/map/` |
-| Calendrier | `calendar` | `/calendrier/` | `/en/calendar/` |
+| Home | `index` | `/` | `/en/` |
+| Country page | `country` | `/indien/maldives/` | `/en/indian/maldives/` |
+| World map | `map` | `/carte/` | `/en/map/` |
+| Calendar | `calendar` | `/calendrier/` | `/en/calendar/` |
 | FAQ | `faq` | `/faq/` | `/en/faq/` |
 | Bonus | `bonus` | `/bonus/` | `/en/bonus/` |
 | Inspiration | `inspiration` | `/inspiration/` | `/en/inspiration/` |
-| 404 | `404` | `/404.html` (page unique, bilingue) | — |
-| robots.txt | `null` | `/robots.txt` | — |
-| sitemap.xml | `null` | `/sitemap.xml` | — |
+| 404 | `404` | `/404.html` (single, bilingual page) | n/a |
+| robots.txt | `null` | `/robots.txt` | n/a |
+| sitemap.xml | `null` | `/sitemap.xml` | n/a |
 
-Les pages françaises n'ont pas de préfixe de langue (français = langue par défaut) ; les pages anglaises sont préfixées `/en/`. Pour les pages pays, le segment d'océan et le slug de la destination sont **traduits indépendamment par langue** dans le `permalink` (ex. `indien` → `indian`, `mer-rouge` → `redsea`, `hawai` FR → `hawaii` EN) : voir "Conventions de nommage" ci-dessous et "Conventions générales" dans `data-model.md` pour la mise en garde sur `ref` vs `permalink`.
+French pages have no language prefix (French = default language); English pages are prefixed with `/en/`. For country pages, the ocean segment and the destination slug are **translated independently per language** in the `permalink` (e.g. `indien` → `indian`, `mer-rouge` → `redsea`, `hawai` FR → `hawaii` EN): see "Naming conventions" below and "General conventions" in `data-model.md` for the warning about `ref` vs `permalink`.
 
-### Textes d'interface
+### Interface strings
 
-Pas de fichier centralisé de traductions : chaque libellé conditionnel est écrit directement dans les layouts et includes, sous la forme `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (répété dans la plupart des includes `country-*`, `home-*`, `page-banner.html`). Les autres contenus multilingues passent par des clés `fr-*`/`en-*` dans les fichiers `_data/*.yml` (voir "Conventions générales" dans `data-model.md`).
+No centralized translation file: each conditional label is written directly in the layouts and includes, in the form `{% if page.lang == "fr" %}...{% else %}...{% endif %}` (repeated in most of the `country-*`, `home-*` includes and `page-banner.html`). The other multilingual content goes through `fr-*`/`en-*` keys in the `_data/*.yml` files (see "General conventions" in `data-model.md`).
 
 ---
 
-## Scripts de maintenance locaux
+## Local maintenance scripts
 
-Un seul mécanisme de ce type sur ce site :
+Only one mechanism of this kind on this site:
 
-| Mécanisme | Fichier | Rôle | Déclenchement |
+| Mechanism | File | Role | Trigger |
 |---|---|---|---|
-| Compilation LESS → CSS | `_plugins/less_compiler.rb` | Recompile `assets/dist/css/samettof.css` depuis `assets/css/samettof.less` si la source est plus récente que le fichier compilé | Hook Jekyll (`pre_render`), à chaque `jekyll serve`/`jekyll build` local |
+| LESS → CSS compilation | `_plugins/less_compiler.rb` | Recompiles `assets/dist/css/samettof.css` from `assets/css/samettof.less` if the source is newer than the compiled file | Jekyll hook (`pre_render`), on every local `jekyll serve`/`jekyll build` |
 
-Pas de dossier `scripts/`, pas de `Rakefile`, pas de génération locale de vignettes ou de pages de détail au-delà de ce hook.
+No `scripts/` folder, no `Rakefile`, no local generation of thumbnails or detail pages beyond this hook.
 
 ---
 
 ## Performance
 
-- Lazy loading (`loading="lazy"`) sur certaines images : logo de l'en-tête, carousel d'accueil, portfolio d'accueil, équipe, vignettes des carousels de pages pays, images des modales mensuelles du calendrier. **Absent** sur les images de la modale plein écran des galeries et sur l'image statique de la page inspiration.
-- Toutes les photos sont au format WebP.
-- Aucun script n'est chargé avec `defer`/`async` (voir "JavaScript" ci-dessus).
-- Pas de cookies, pas de tracking, pas d'analytics.
+- Lazy loading (`loading="lazy"`) on some images: header logo, home carousel, home portfolio, team, country page carousel thumbnails, images of the calendar's monthly modals. **Absent** on the images of the galleries' full-screen modal and on the static image of the inspiration page.
+- All photos are in WebP format.
+- No script is loaded with `defer`/`async` (see "JavaScript" above).
+- No cookies, no tracking, no analytics.
 
 ---
 
-## Accessibilité
+## Accessibility
 
-- **Navigateurs cibles :** non explicitement documentés dans le code ; à défaut d'exigence connue, dernières versions stables des navigateurs évergreens (Chrome, Firefox, Safari, Edge).
-- `aria-label` présent sur les composants interactifs standards de Bootstrap (bouton de fermeture de modale, bouton "burger" de la navbar) ainsi que sur le lien de licence du pied de page (libellé localisé selon `page.lang`).
-- Texte alternatif sur les images : qualité inégale — descriptif sur certains blocs (équipe, portfolio d'accueil), mais souvent littéral ou vide sur les carousels de photos (galeries pays, carousel d'accueil) : limite d'accessibilité connue, pas corrigée à ce jour.
-- Navigation : composants Bootstrap 4 standards (modale, accordéon, dropdown), pas de gestion clavier custom au-delà de leur comportement natif.
-- `role="main"` sur l'élément `<main>` de chaque layout.
-- **Limite connue :** les cartes Leaflet (carte du monde, cartes de destination, page 404) reposent sur une interaction souris/tactile (popup au clic sur un marqueur) sans alternative textuelle listant les mêmes informations.
+- **Target browsers:** not explicitly documented in the code; in the absence of a known requirement, latest stable versions of evergreen browsers (Chrome, Firefox, Safari, Edge).
+- `aria-label` present on the standard Bootstrap interactive components (modal close button, navbar "burger" button) as well as on the footer license link (label localized according to `page.lang`).
+- Alternative text on images: uneven quality. Descriptive on some blocks (team, home portfolio), but often literal or empty on the photo carousels (country galleries, home carousel): known accessibility limitation, not fixed to date.
+- Navigation: standard Bootstrap 4 components (modal, accordion, dropdown), no custom keyboard handling beyond their native behavior.
+- `role="main"` on the `<main>` element of each layout.
+- **Known limitation:** the Leaflet maps (world map, destination maps, 404 page) rely on mouse/touch interaction (popup on marker click) without a textual alternative listing the same information.
 
 ---
 
 ## SEO
 
-- Rendu statique : chaque page existe indépendamment au moment du crawl.
-- Balises de base dans `_includes/head.html` : `<meta name="description">`, `<meta name="author">`, `<title>`, lien `canonical`.
-- **hreflang** généré manuellement en Liquid (pas de plugin) : `site.pages | where: "ref", page.ref`, trié par langue, une balise `<link rel="alternate" hreflang="...">` par version linguistique existante.
-- **Open Graph** complet : `og:type`, `og:site_name`, `og:title`, `og:description`, `og:url`, `og:locale` (`fr_FR`/`en_US` selon `page.lang`) et `og:image` — logique : cherche `/photos/<page.ref>/0001.webp` dans `site.static_files`, sinon retombe sur `/assets/img/dive-flag.webp`.
-- **Twitter Card** (`summary_large_image`, titre, description).
-- **Pas de JSON-LD**, **pas de balise CSP** (`Content-Security-Policy`) sur ce site.
-- `robots.txt` (page Jekyll, `layout: null`) : autorise l'indexation, référence `sitemap.xml`.
-- **`sitemap.xml`** : page Jekyll auto-générée (`layout: null`, boucle Liquid sur `site.pages`), pas le plugin `jekyll-sitemap`. Elle liste comme entrée `<url>` toutes les pages où `page.title` est renseigné, FR comme EN, à l'exclusion des pages marquées `sitemap.exclude: 'yes'` (mécanisme utilisé par `sitemap.xml` elle-même et par `404.md` pour s'auto-exclure). Chaque entrée reprend, via `site.pages | where: "ref", page.ref`, le jeu complet des alternates `hreflang` (y compris auto-référent), conformément à la pratique recommandée par Google pour les sitemaps multilingues. Inclut des extensions `image:image` pour les photos d'une page pays.
-- Un fichier de vérification de propriété (Google Search Console ou équivalent) n'a pas été identifié à la racine lors de cette recherche — à vérifier si un tel mécanisme est utilisé.
+- Static rendering: each page exists independently at crawl time.
+- Basic tags in `_includes/head.html`: `<meta name="description">`, `<meta name="author">`, `<title>`, `canonical` link.
+- **hreflang** generated manually in Liquid (no plugin): `site.pages | where: "ref", page.ref`, sorted by language, one `<link rel="alternate" hreflang="...">` tag per existing language version.
+- Full **Open Graph**: `og:type`, `og:site_name`, `og:title`, `og:description`, `og:url`, `og:locale` (`fr_FR`/`en_US` according to `page.lang`) and `og:image`. Logic: looks for `/photos/<page.ref>/0001.webp` in `site.static_files`, otherwise falls back to `/assets/img/dive-flag.webp`.
+- **Twitter Card** (`summary_large_image`, title, description).
+- **No JSON-LD**, **no CSP tag** (`Content-Security-Policy`) on this site.
+- `robots.txt` (Jekyll page, `layout: null`): allows indexing, references `sitemap.xml`.
+- **`sitemap.xml`**: auto-generated Jekyll page (`layout: null`, Liquid loop over `site.pages`), not the `jekyll-sitemap` plugin. It lists as a `<url>` entry every page where `page.title` is set, FR and EN alike, excluding the pages marked `sitemap.exclude: 'yes'` (mechanism used by `sitemap.xml` itself and by `404.md` to exclude themselves). Each entry includes, via `site.pages | where: "ref", page.ref`, the full set of `hreflang` alternates (self-referencing included), in line with Google's recommended practice for multilingual sitemaps. Includes `image:image` extensions for the photos of a country page.
+- No ownership verification file (Google Search Console or equivalent) was identified at the root during this investigation: to be checked if such a mechanism is used.
 
 ---
 
-## Structure des fichiers
+## File structure
 
 ```
 /
 ├── _config.yml
 ├── CNAME                            # www.samettof.org
-├── 404.md                           # page unique, bilingue
-├── index.md / index-en.md           # accueil (FR / EN)
-├── robots.txt / sitemap.xml         # pages Jekyll auto-générées, layout: null
+├── 404.md                           # single, bilingual page
+├── index.md / index-en.md           # home (FR / EN)
+├── robots.txt / sitemap.xml         # auto-generated Jekyll pages, layout: null
 │
 ├── _layouts/
-│   ├── index.html                   # accueil : carousel + manifeste + portfolio + équipe + compteurs
-│   ├── country.html                 # page pays : about + carousel + opinion + practical + logbook + good-to-know + map
-│   ├── map.html                     # carte du monde plein écran (Leaflet)
-│   ├── calendar.html                # grille des 12 mois + modale par mois
-│   ├── faq.html                     # accordéon
-│   ├── bonus.html                   # contenu + galerie
-│   ├── inspiration.html             # contenu + image statique
-│   ├── default.html                 # non utilisé : aucune page ni layout n'a `layout: default`
+│   ├── index.html                   # home: carousel + manifesto + portfolio + team + counters
+│   ├── country.html                 # country page: about + carousel + opinion + practical + logbook + good-to-know + map
+│   ├── map.html                     # full-screen world map (Leaflet)
+│   ├── calendar.html                # 12-month grid + per-month modal
+│   ├── faq.html                     # accordion
+│   ├── bonus.html                   # content + gallery
+│   ├── inspiration.html             # content + static image
+│   ├── default.html                 # unused: no page or layout has `layout: default`
 │   └── 404.html
 │
 ├── _includes/
-│   ├── head.html                    # <head> : meta, OG, hreflang, fonts, CSS, Leaflet conditionnel
-│   ├── header.html                  # navbar fixe (haut) : menu, sous-menus par océan
-│   ├── footer.html                  # navbar fixe (bas) : licence CC, sélecteur de langue
-│   ├── scripts.html                 # scripts JS en fin de <body>
-│   ├── page-banner.html             # bannière de page (hors accueil), variante par `sea`
+│   ├── head.html                    # <head>: meta, OG, hreflang, fonts, CSS, conditional Leaflet
+│   ├── header.html                  # fixed navbar (top): menu, per-ocean submenus
+│   ├── footer.html                  # fixed navbar (bottom): CC license, language switcher
+│   ├── scripts.html                 # JS scripts at the end of <body>
+│   ├── page-banner.html             # page banner (except home), variant per `sea`
 │   ├── home-carousel.html, home-manifest.html, home-portfolio.html, home-team.html, home-counters.html
 │   └── country-about.html, country-carousel.html, country-good-to-know.html, country-logbook.html,
 │       country-map.html, country-opinion.html, country-practical.html
 │
 ├── _plugins/
-│   └── less_compiler.rb             # recompile samettof.less -> samettof.css au build local
+│   └── less_compiler.rb             # recompiles samettof.less -> samettof.css on local build
 │
 ├── assets/
-│   ├── css/samettof.less            # source unique de styles custom
-│   ├── dist/                        # Bootstrap 4.6.2, jQuery slim, Leaflet 1.9.3, samettof.css (compilé)
-│   ├── js/                          # jquery.appear.js, counter.js (non vendored, voir "JavaScript")
-│   ├── img/                         # logo, bannières par océan, image inspiration, icônes de carte
-│   └── src/                         # sources .psd des icônes de carte
+│   ├── css/samettof.less            # single source of custom styles
+│   ├── dist/                        # Bootstrap 4.6.2, jQuery slim, Leaflet 1.9.3, samettof.css (compiled)
+│   ├── js/                          # jquery.appear.js, counter.js (not vendored, see "JavaScript")
+│   ├── img/                         # logo, per-ocean banners, inspiration image, map icons
+│   └── src/                         # .psd sources of the map icons
 │
-├── docs/                            # cartes de plongée et itinéraires (image/PDF), référencés depuis le contenu
+├── docs/                            # dive maps and itineraries (image/PDF), referenced from the content
 │
-├── pages/<ocean>/<slug>[-en].md     # pages pays, 6 dossiers par océan (atlantic, caribbean, indian,
+├── pages/<ocean>/<slug>[-en].md     # country pages, 6 per-ocean folders (atlantic, caribbean, indian,
 │                                     # mediterranean, pacific, redsea)
 ├── pages/{calendar,world-map,faq,bonus,inspiration}[-en].md
 │
 ├── _data/
-│   ├── countries/<ref>.yml          # un fichier par pays (33), données chiffrées bilingues
-│   └── calendar.yml, home-manifest.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingues, un seul fichier
+│   ├── countries/<ref>.yml          # one file per country (33), bilingual structured data
+│   └── calendar.yml, home-manifest.yml, home-team.yml, menu.yml, portfolio.yml, world-map.yml   # bilingual, single file
 │
 └── photos/
-    ├── <ref>/NNNN[-th].webp         # photos + vignettes par pays (et `bonus/`)
-    ├── home-carousel/, home-portfolio/, home-team/, calendar/   # images des blocs d'accueil / calendrier
+    ├── <ref>/NNNN[-th].webp         # photos + thumbnails per country (and `bonus/`)
+    ├── home-carousel/, home-portfolio/, home-team/, calendar/   # images of the home / calendar blocks
 ```
 
 ### Configuration (`_config.yml`)
@@ -217,17 +217,17 @@ exclude:
   - CLAUDE.md
 ```
 
-Aucun plugin déclaré (voir "Génération de site" ci-dessus). `exclude:` retire `specs/` et `CLAUDE.md` du build (voir plus bas) : ce sont des fichiers de travail du dépôt, pas du contenu du site, et Jekyll les publierait sinon tels quels sous `_site/`.
+No plugin declared (see "Site generation" above). `exclude:` removes `specs/` and `CLAUDE.md` from the build: they are working files of the repository, not site content, and Jekyll would otherwise publish them as-is under `_site/`.
 
 ---
 
-## Conventions de nommage
+## Naming conventions
 
-| Élément | Convention | Exemple |
+| Element | Convention | Example |
 |---|---|---|
-| `ref` (identifiant technique, commun aux deux langues) | kebab-case anglais | `french-polynesia`, `mexico-baja-california` |
-| `permalink` (URL publique) | traduit indépendamment par langue, y compris le segment d'océan pour les pages pays | `/indien/maldives/` (FR) vs `/en/indian/maldives/` (EN) |
-| Fichiers Markdown/YAML/LESS | kebab-case | `world-map.yml`, `samettof.less` |
-| Identifiants/classes CSS | noms sémantiques simples, pas de préfixe imposé | `#worldMap`, `.page-banner`, `.portfolio-item-content` |
-| Variables/fonctions JS | camelCase | `countTo()`, `diveFlagIcon` |
-| Images de galerie | `NNNN.webp` (4 chiffres) + `NNNN-th.webp` pour la vignette | `photos/maldives/0001.webp` / `0001-th.webp` |
+| `ref` (technical identifier, shared by both languages) | English kebab-case | `french-polynesia`, `mexico-baja-california` |
+| `permalink` (public URL) | translated independently per language, including the ocean segment for country pages | `/indien/maldives/` (FR) vs `/en/indian/maldives/` (EN) |
+| Markdown/YAML/LESS files | kebab-case | `world-map.yml`, `samettof.less` |
+| CSS identifiers/classes | simple semantic names, no enforced prefix | `#worldMap`, `.page-banner`, `.portfolio-item-content` |
+| JS variables/functions | camelCase | `countTo()`, `diveFlagIcon` |
+| Gallery images | `NNNN.webp` (4 digits) + `NNNN-th.webp` for the thumbnail | `photos/maldives/0001.webp` / `0001-th.webp` |

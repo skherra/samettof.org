@@ -1,25 +1,25 @@
-# Écran : FAQ
+# Screen: FAQ
 
 `_layouts/faq.html`, pages `pages/faq.md` (FR, `/faq/`) / `-en.md` (EN, `/en/faq/`), `ref: faq`.
 
-## Objectif
+## Goal
 
-Répondre aux questions pratiques les plus fréquentes sur la préparation d'un voyage de plongée (choix d'un club, certifications, matériel, budget...), indépendamment d'une destination précise.
+Answer the most frequent practical questions about preparing a diving trip (choosing a dive shop, certifications, gear, budget...), independently of any specific destination.
 
-## Contenu et structure
+## Content and structure
 
-- Bannière de page (`sea: faq`, voir `style-guide.md`).
-- Accordéon Bootstrap unique (`#faqAccordion`), une entrée par item de `page.qa` (front matter, voir `data-model.md`) : icône, question, réponse en Markdown.
+- Page banner (`sea: faq`, see `style-guide.md`).
+- Single Bootstrap accordion (`#faqAccordion`), one entry per item of `page.qa` (front matter, see `data-model.md`): icon, question, Markdown answer.
 
 ## Interactions
 
-- **Clic sur une question** : ouvre/ferme la réponse associée (accordéon Bootstrap standard, voir `style-guide.md`). Contrairement à l'accordéon "Informations pratiques" des pages destination, **toutes les questions sont fermées par défaut**, aucune n'est ouverte au chargement de la page.
-- Pas de lien direct (ancre) vers une question précise : l'accordéon ne modifie pas l'URL.
+- **Click on a question**: opens/closes the associated answer (standard Bootstrap accordion, see `style-guide.md`). Unlike the "Practical information" accordion of the destination pages, **all questions are closed by default**, none is open when the page loads.
+- No direct link (anchor) to a specific question: the accordion does not change the URL.
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-Aucun état particulier : les 8 questions sont fixées dans le front matter (voir `data-model.md`).
+No particular state: the 8 questions are fixed in the front matter (see `data-model.md`).
 
 ## Responsive
 
-Pas de media query custom : accordéon Bootstrap standard, pleine largeur quelle que soit la taille d'écran.
+No custom media query: standard Bootstrap accordion, full width regardless of screen size.

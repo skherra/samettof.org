@@ -1,68 +1,68 @@
-# Spécifications fonctionnelles générales
+# General functional specifications
 
-## Contexte et objectifs
+## Context and goals
 
-Le site présente les voyages de plongée sous-marine de Sam, Tof et Ti'Crab : une trentaine de destinations visitées à travers le monde (Atlantique, Caraïbes, océan Indien, Méditerranée, mer Rouge, Pacifique), chacune documentée par une description du site, du club de plongée fréquenté, de l'hébergement, un carnet de plongée (extraits vécus) et une carte des spots. Le site propose aussi une vue d'ensemble (carte du monde, calendrier des meilleures saisons par destination) et des pages de contenu éditorial (FAQ, bonus, inspirations).
+The site presents the scuba diving trips of Sam, Tof and Ti'Crab: about thirty destinations visited around the world (Atlantic, Caribbean, Indian Ocean, Mediterranean, Red Sea, Pacific), each documented with a description of the site, the dive shop used, the accommodation, a dive log (first-hand excerpts) and a map of the dive spots. The site also offers an overview (world map, best-season calendar per destination) and editorial content pages (FAQ, bonus, inspiration).
 
-L'objectif est d'aider un visiteur qui prépare un voyage de plongée à choisir une destination et une période, et à trouver des informations pratiques issues de l'expérience directe des auteurs.
+The goal is to help a visitor preparing a diving trip choose a destination and a period, and find practical information drawn from the authors' direct experience.
 
-## Périmètre du site
+## Site scope
 
-Dans le périmètre :
+In scope:
 
-- Page d'accueil présentant les auteurs et donnant accès aux différentes sections (voir `screens/home.md`).
-- Consultation de chaque destination visitée (une trentaine, réparties par océan) : description, club de plongée, hébergement, à voir, carnet de plongée, cartes des sites (voir `screens/country.md`).
-- Carte du monde interactive de l'ensemble des lieux visités (voir `screens/world-map.md`).
-- Calendrier des meilleures saisons de plongée par destination (voir `screens/calendar.md`).
-- FAQ pratique sur la préparation d'un voyage de plongée (voir `screens/faq.md`).
-- Page bonus (sources d'eau chaude visitées) (voir `screens/bonus.md`).
-- Page d'inspirations voyage (livres, vidéos) (voir `screens/inspiration.md`).
-- Page non trouvée (voir "Page non trouvée" ci-dessous).
-- Site multilingue (français, anglais).
+- Home page presenting the authors and giving access to the various sections (see `screens/home.md`).
+- Browsing each visited destination (about thirty, grouped by ocean): description, dive shop, accommodation, things to see, dive log, dive site maps (see `screens/country.md`).
+- Interactive world map of all the places visited (see `screens/world-map.md`).
+- Calendar of the best diving seasons per destination (see `screens/calendar.md`).
+- Practical FAQ on preparing a diving trip (see `screens/faq.md`).
+- Bonus page (hot springs visited) (see `screens/bonus.md`).
+- Travel inspiration page (books, videos) (see `screens/inspiration.md`).
+- Page not found (see "Page not found" below).
+- Multilingual site (French, English).
 
-Voir aussi "Hors périmètre" ci-dessous.
+See also "Out of scope" below.
 
-## Utilisateurs cibles
+## Target users
 
-Le site s'adresse à des visiteurs qui préparent ou envisagent un voyage de plongée sous-marine : famille, amis, plongeurs à la recherche de retours d'expérience, curieux arrivés depuis un moteur de recherche ou un réseau social. Il n'y a pas de distinction de rôle côté visiteur : pas de compte, pas d'espace personnel, pas de contenu personnalisé.
+The site is aimed at visitors preparing or considering a scuba diving trip: family, friends, divers looking for first-hand feedback, curious visitors coming from a search engine or a social network. There is no role distinction on the visitor side: no account, no personal space, no personalized content.
 
-Le contenu (descriptions, carnets de plongée, données de chaque destination) est produit par les auteurs directement dans les fichiers sources du dépôt (voir `data-model.md`), pas via une interface d'administration.
+The content (descriptions, dive logs, per-destination data) is written by the authors directly in the repository's source files (see `data-model.md`), not through an admin interface.
 
-## Parcours utilisateurs principaux
+## Main user journeys
 
-1. Un visiteur arrive sur la page d'accueil, découvre les auteurs (manifeste, portfolio des dernières plongées, présentation de l'équipe, compteurs de voyages) et accède aux sections via le menu de navigation.
-2. S'il cherche une destination précise, il la trouve dans le menu (classé par océan) ou sur la carte du monde, et arrive sur sa page dédiée : description du site de plongée, avis chiffrés (difficulté, visibilité, richesse, ambiance), informations pratiques (club, hébergement, à voir), carnet de plongée, galerie photo, et éventuellement des cartes détaillées des spots.
-3. S'il hésite entre plusieurs destinations selon la période de voyage, il consulte le calendrier, qui liste par mois les destinations dont c'est la meilleure saison.
-4. S'il a des questions pratiques génériques (matériel, certification, budget...), il consulte la FAQ.
-5. Depuis n'importe quelle page, il navigue vers une autre section via le menu, toujours visible en haut de page.
+1. A visitor lands on the home page, discovers the authors (manifesto, portfolio of the latest dives, team presentation, trip counters) and reaches the sections through the navigation menu.
+2. If they are looking for a specific destination, they find it in the menu (grouped by ocean) or on the world map, and land on its dedicated page: description of the dive site, ratings (difficulty, visibility, diversity, atmosphere), practical information (dive shop, accommodation, things to see), dive log, photo gallery, and possibly detailed maps of the dive spots.
+3. If they are hesitating between several destinations depending on the travel period, they check the calendar, which lists, per month, the destinations whose best season it is.
+4. If they have generic practical questions (gear, certification, budget...), they check the FAQ.
+5. From any page, they navigate to another section through the menu, always visible at the top of the page.
 
-## Règles transverses
+## Cross-cutting rules
 
-### Multilingue
+### Multilingual
 
-- Le site est disponible en français et en anglais.
-- Le français est la langue par défaut (`lang: "fr"` dans `_config.yml`) : ses pages sont servies à la racine du site, sans préfixe (`/`, `/faq/`...). L'anglais est préfixé par `/en/`.
-- Chaque page existe en deux fichiers sources distincts (un par langue), reliés entre eux par un identifiant commun (`ref`, voir `data-model.md`) plutôt que par une traduction dynamique.
-- Le sélecteur de langue (drapeaux emoji 🇫🇷/🇬🇧) vit dans le pied de page, toujours visible, à droite (voir "Pied de page" dans `style-guide.md`, commun à tout le site).
-- Il n'existe aucun mécanisme de détection automatique de la langue du navigateur ni de mémorisation d'un choix de langue : chaque page est statique et sert la langue de son URL.
-- Il n'y a pas de contenu partiellement traduit dans ce site : chaque destination et chaque page fonctionnelle existent systématiquement dans les deux langues (voir "Conventions générales" dans `data-model.md`), à l'exception de la page non trouvée (voir ci-dessous).
+- The site is available in French and English.
+- French is the default language (`lang: "fr"` in `_config.yml`): its pages are served at the root of the site, without prefix (`/`, `/faq/`...). English is prefixed with `/en/`.
+- Each page exists as two separate source files (one per language), linked to each other by a shared identifier (`ref`, see `data-model.md`) rather than by dynamic translation.
+- The language switcher (emoji flags 🇫🇷/🇬🇧) lives in the footer, always visible, on the right (see "Footer" in `style-guide.md`, shared by the whole site).
+- There is no mechanism for automatically detecting the browser language or remembering a language choice: each page is static and serves the language of its URL.
+- There is no partially translated content on this site: every destination and every functional page systematically exists in both languages (see "General conventions" in `data-model.md`), except the page not found (see below).
 
 ### Navigation
 
-- Menu de navigation unique, en en-tête, présent sur toutes les pages (`fixed-top`, toujours visible en scrollant) : un lien par page fonctionnelle simple (carte du monde, calendrier, inspiration, FAQ, bonus) et un sous-menu déroulant par océan listant ses destinations (voir `_data/menu.yml` dans `data-model.md`). L'ordre des entrées suit l'ordre éditorial du fichier de données, pas un tri alphabétique (ex. dans les Caraïbes, les Saintes apparaît après le Mexique-Yucatán).
-- **Pied de page fixe** (`fixed-bottom`, toujours visible en scrollant), présent sur toutes les pages : licence du contenu à gauche, sélecteur de langue à droite (voir "Multilingue" ci-dessus et "Pied de page" dans `style-guide.md`). Pas de réseaux sociaux ni d'autre information répétée en pied de page.
-- Aucun lien externe vers d'autres sites de l'auteur n'a été trouvé sur ce site (pas de "sites soeurs" au sens où d'autres projets de l'auteur le pratiquent) : les seuls liens externes identitaires sont les comptes Instagram individuels de Tof et Ti'Crab dans la présentation de l'équipe sur l'accueil (voir `screens/home.md`), Sam n'en ayant pas de renseigné.
+- Single navigation menu, in the header, present on every page (`fixed-top`, always visible while scrolling): one link per simple functional page (world map, calendar, inspiration, FAQ, bonus) and one dropdown submenu per ocean listing its destinations (see `_data/menu.yml` in `data-model.md`). The order of the entries follows the editorial order of the data file, not an alphabetical sort (e.g. in the Caribbean, Les Saintes comes after Mexico-Yucatán).
+- **Fixed footer** (`fixed-bottom`, always visible while scrolling), present on every page: content license on the left, language switcher on the right (see "Multilingual" above and "Footer" in `style-guide.md`). No social networks or other repeated information in the footer.
+- No external link to other sites of the author was found on this site (no "sister sites" in the sense practiced by other projects of the author): the only identity-related external links are the individual Instagram accounts of Tof and Ti'Crab in the team presentation on the home page (see `screens/home.md`), Sam having none set.
 
-### Page non trouvée
+### Page not found
 
-- Contrairement aux autres pages du site, il n'existe qu'**une seule page 404** pour les deux langues (`404.md`, `permalink: /404.html`), pas une paire FR/EN reliée par `ref` (voir "Conventions générales" dans `data-model.md`) : exception à la règle multilingue ci-dessus.
-- Elle affiche une carte interactive centrée sur un point océanique fictif ("Nemo Point"), avec un marqueur menant à un article externe, plutôt qu'un simple message d'erreur (voir "Cartes interactives" dans `style-guide.md`).
+- Unlike the other pages of the site, there is **a single 404 page** for both languages (`404.md`, `permalink: /404.html`), not a FR/EN pair linked by `ref` (see "General conventions" in `data-model.md`): an exception to the multilingual rule above.
+- It displays an interactive map centered on a fictional oceanic point ("Nemo Point"), with a marker leading to an external article, rather than a plain error message (see "Interactive maps" in `style-guide.md`).
 
-## Hors périmètre
+## Out of scope
 
-- Comptes utilisateurs, authentification.
-- Édition de contenu via une interface web : le contenu est créé et modifié directement dans les fichiers sources (voir `data-model.md`).
-- Contenu généré par les visiteurs (commentaires, notes, contributions).
-- Recherche ou filtrage libre des destinations : la seule vue filtrée est le calendrier par mois (voir `screens/calendar.md`), il n'existe pas de recherche texte ni de filtre par critère (région, difficulté...).
-- Détection ou mémorisation automatique de la langue du visiteur (voir "Multilingue" ci-dessus).
-- Cookies, tracking, analytics : aucun mécanisme de ce type sur le site (voir "Performance" dans `technical-specifications.md`).
+- User accounts, authentication.
+- Content editing through a web interface: content is created and modified directly in the source files (see `data-model.md`).
+- Visitor-generated content (comments, ratings, contributions).
+- Free search or filtering of destinations: the only filtered view is the calendar by month (see `screens/calendar.md`), there is no text search or filter by criterion (region, difficulty...).
+- Automatic detection or memorization of the visitor's language (see "Multilingual" above).
+- Cookies, tracking, analytics: no such mechanism on the site (see "Performance" in `technical-specifications.md`).

@@ -1,25 +1,25 @@
-# Écran : bonus
+# Screen: bonus
 
 `_layouts/bonus.html`, pages `pages/bonus.md` (FR, `/bonus/`) / `-en.md` (EN, `/en/bonus/`), `ref: bonus`.
 
-## Objectif
+## Goal
 
-Partager une sélection de sources d'eau chaude visitées par les auteurs, hors du périmètre strict de la plongée.
+Share a selection of hot springs visited by the authors, outside the strict scope of diving.
 
-## Contenu et structure
+## Content and structure
 
-- Bannière de page (`sea: bonus`, voir `style-guide.md`).
-- Deux colonnes : contenu Markdown libre à gauche (`{{ content }}`, liste de sources d'eau chaude avec liens vers les pages pays correspondantes quand elles existent, voir `data-model.md`), galerie photo à droite.
-- La galerie réutilise **exactement le même composant** que celui des pages destination (`country-carousel.html`, voir `screens/country.md` et `style-guide.md`), appliqué au dossier `photos/bonus/` puisque `page.ref == "bonus"` (voir "Images" dans `data-model.md`).
+- Page banner (`sea: bonus`, see `style-guide.md`).
+- Two columns: free Markdown content on the left (`{{ content }}`, list of hot springs with links to the matching country pages when they exist, see `data-model.md`), photo gallery on the right.
+- The gallery reuses **exactly the same component** as the destination pages (`country-carousel.html`, see `screens/country.md` and `style-guide.md`), applied to the `photos/bonus/` folder since `page.ref == "bonus"` (see "Images" in `data-model.md`).
 
 ## Interactions
 
-Identiques à la galerie photo d'une page destination : carousel de vignettes avec autoplay, clic pour ouvrir la modale plein écran positionnée sur la photo choisie (voir `screens/country.md`).
+Identical to the photo gallery of a destination page: thumbnail carousel with autoplay, click to open the full-screen modal positioned on the chosen photo (see `screens/country.md`).
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-Aucun état particulier documenté : la galerie dépend du contenu de `photos/bonus/`, ajouté manuellement au dépôt.
+No particular state documented: the gallery depends on the content of `photos/bonus/`, added manually to the repository.
 
 ## Responsive
 
-Deux colonnes (`col-md-6`) qui repassent en une colonne sous le breakpoint `md`, comportement natif de la grille Bootstrap.
+Two columns (`col-md-6`) that collapse into a single column below the `md` breakpoint, native behavior of the Bootstrap grid.

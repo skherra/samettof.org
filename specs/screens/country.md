@@ -1,36 +1,36 @@
-# Écran : page pays / destination
+# Screen: country / destination page
 
-`_layouts/country.html`, écran générique partagé par les 33 pages de destination du site (voir `data-model.md`) : ce document ne décrit pas une destination en particulier, mais le comportement commun à toutes, piloté par le front matter de la page et par `_data/countries/<ref>.yml`. Toute différence entre destinations se limite au contenu, jamais au comportement.
+`_layouts/country.html`, generic screen shared by the site's 33 destination pages (see `data-model.md`): this document does not describe a particular destination, but the behavior common to all of them, driven by the page's front matter and by `_data/countries/<ref>.yml`. Any difference between destinations is limited to content, never to behavior.
 
-## Objectif
+## Goal
 
-Donner au visiteur toutes les informations utiles pour évaluer et préparer une plongée dans cette destination : présentation, avis chiffrés, informations pratiques, retours d'expérience vécus, galerie photo et cartes des sites.
+Give the visitor all the useful information to assess and prepare a dive in this destination: presentation, ratings, practical information, first-hand accounts, photo gallery and dive site maps.
 
-## Contenu et structure
+## Content and structure
 
-- Bannière de page (`page-banner.html`, voir `style-guide.md`) : nom de l'océan + `page.h1` (nom de la destination précédé d'un drapeau).
-- Quatre blocs empilés, chacun sur deux colonnes (`container-fluid`, voir `style-guide.md` pour le détail visuel) :
-  1. **Présentation** (`country-about.html`, `page.country-desc` + accordéon optionnel `country-desc-sections`) + **galerie photo** (`country-carousel.html`).
-  2. **Avis chiffrés** (`country-opinion.html`, 4 barres de progression) + **informations pratiques** (`country-practical.html`, accordéon Club/Hébergement/À voir).
-  3. **Carnet de plongée** (`country-logbook.html`, `page.log-books`) + **bon à savoir** (`country-good-to-know.html`, température, saison, faune).
-  4. **Cartes des sites** (`country-map.html`), pleine largeur, **affiché uniquement si la destination a un champ `maps`** (21 des 33 destinations, voir `data-model.md`).
+- Page banner (`page-banner.html`, see `style-guide.md`): ocean name + `page.h1` (destination name preceded by a flag).
+- Four stacked blocks, each on two columns (`container-fluid`, see `style-guide.md` for the visual details):
+  1. **Presentation** (`country-about.html`, `page.country-desc` + optional accordion `country-desc-sections`) + **photo gallery** (`country-carousel.html`).
+  2. **Ratings** (`country-opinion.html`, 4 progress bars) + **practical information** (`country-practical.html`, Dive shop/Accommodation/To see accordion).
+  3. **Dive log** (`country-logbook.html`, `page.log-books`) + **good to know** (`country-good-to-know.html`, temperature, season, fauna).
+  4. **Dive site maps** (`country-map.html`), full width, **displayed only if the destination has a `maps` field** (21 of the 33 destinations, see `data-model.md`).
 
-Voir `data-model.md` pour le détail des champs front matter et `_data/countries/<ref>.yml` consommés par chacun de ces blocs.
+See `data-model.md` for the details of the front matter and `_data/countries/<ref>.yml` fields consumed by each of these blocks.
 
 ## Interactions
 
-- **Galerie photo** : le carousel principal affiche les vignettes ; un clic sur une vignette ouvre une modale plein écran positionnée sur la photo cliquée (`$('#modalCarousel').carousel(index)`), avec ses propres flèches, sans autoplay contrairement au carousel principal (voir `style-guide.md`).
-- **Accordéon "Présentation"** (si `country-desc-sections` est renseigné) et **accordéon "Informations pratiques"** : ouverture/fermeture au clic, comportement standard Bootstrap. Le premier volet de "Informations pratiques" est ouvert par défaut ; l'accordéon de "Présentation" est fermé par défaut (aucun volet initial imposé observé).
-- **Carnet de plongée** : autoplay (10s) entre les différents extraits si plusieurs entrées existent, navigation manuelle possible via les flèches custom.
-- **Cartes** : popup Leaflet standard au clic sur un marqueur, affichant uniquement le libellé `place` du point (voir `style-guide.md`). Contrairement à la carte du monde, un point de `maps` ne devient pas un lien même s'il porte un `ref` (voir `data-model.md`) : ce champ existe dans les données mais n'est pas exploité par cet écran.
+- **Photo gallery**: the main carousel displays the thumbnails; clicking a thumbnail opens a full-screen modal positioned on the clicked photo (`$('#modalCarousel').carousel(index)`), with its own arrows, without autoplay unlike the main carousel (see `style-guide.md`).
+- **"Presentation" accordion** (if `country-desc-sections` is set) and **"Practical information" accordion**: open/close on click, standard Bootstrap behavior. The first panel of "Practical information" is open by default; the "Presentation" accordion is closed by default (no initial panel enforced observed).
+- **Dive log**: autoplay (10s) between the excerpts if there are several entries, manual navigation possible through the custom arrows.
+- **Maps**: standard Leaflet popup on marker click, showing only the `place` label of the point (see `style-guide.md`). Unlike the world map, a `maps` point does not become a link even if it has a `ref` (see `data-model.md`): this field exists in the data but is not used by this screen.
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-- **`country-practical.html` n'a pas de garde conditionnelle** : les trois volets (Club, Hébergement, À voir) s'affichent toujours, même si le texte associé est très court. En pratique, `dive-shop`/`accommodation`/`to-see` sont toujours renseignés (voir `data-model.md`).
-- **`country-logbook.html` n'a pas de garde conditionnelle** sur `log-books` : si ce champ était vide, le titre "Log Book" et un carousel vide s'afficheraient quand même. Non observé en pratique (toutes les destinations ont au moins une entrée).
-- **`country-map.html` a une garde conditionnelle** (`{%- if mapList -%}`) : le bloc "Cartes des sites" ne s'affiche pas du tout pour les 12 destinations sans champ `maps` (voir `data-model.md`).
-- **`country-about.html`** : l'accordéon de sous-sections ne s'affiche que si `country-desc-sections` est renseigné (7 destinations sur 33, voir `data-model.md`).
+- **`country-practical.html` has no conditional guard**: the three panels (Dive shop, Accommodation, To see) are always displayed, even if the associated text is very short. In practice, `dive-shop`/`accommodation`/`to-see` are always filled in (see `data-model.md`).
+- **`country-logbook.html` has no conditional guard** on `log-books`: if this field were empty, the "Log Book" title and an empty carousel would still be displayed. Not observed in practice (every destination has at least one entry).
+- **`country-map.html` has a conditional guard** (`{%- if mapList -%}`): the "Dive site maps" block is not displayed at all for the 12 destinations without a `maps` field (see `data-model.md`).
+- **`country-about.html`**: the sub-section accordion is only displayed if `country-desc-sections` is set (7 destinations out of 33, see `data-model.md`).
 
 ## Responsive
 
-Pas de media query custom : mise en page à deux colonnes (`col-md-6`) qui repasse en une colonne en dessous du breakpoint `md`, comportement natif de la grille Bootstrap.
+No custom media query: two-column layout (`col-md-6`) that collapses into a single column below the `md` breakpoint, native behavior of the Bootstrap grid.
