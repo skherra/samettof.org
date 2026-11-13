@@ -1,42 +1,42 @@
 # samettof.org
 
-Site de voyages plongée sous-marine de Sam & Tof (et Ti'Crab) : une page par pays/destination visitée (description, club de plongée, hébergement, carnet de plongée, carte des sites), une carte du monde, un calendrier des meilleures saisons, une FAQ et une page bonus (sources d'eau chaude). Site statique, multilingue (français / anglais), généré avec Jekyll et hébergé sur GitHub Pages.
+Scuba diving travel site of Sam & Tof (and Ti'Crab): one page per country/destination visited (description, dive shop, accommodation, dive log, dive site map), a world map, a best-season calendar, an FAQ and a bonus page (hot springs). Static, multilingual site (French / English), built with Jekyll and hosted on GitHub Pages.
 
-## Rôle de `specs/`
+## Role of `specs/`
 
-`specs/` documente les choix de conception. `specs/` est la source de vérité pour toute évolution : avant d'écrire ou de modifier du code, lire les fichiers de specs concernés par la tâche.
+`specs/` documents the design decisions. `specs/` is the source of truth for any change: before writing or modifying code, read the spec files relevant to the task.
 
-## Structure de `specs/`
+## Structure of `specs/`
 
-- **`functional-specifications.md`** : périmètre du site, visiteurs cibles, parcours utilisateurs, règles transverses (multilingue, navigation, absence de pied de page).
-- **`data-model.md`** : les familles de contenu (page pays, page d'accueil, calendrier, carte du monde, FAQ, bonus, inspiration), leurs fichiers de données (`_data/*.yml`), le front matter des pages, les conventions de nommage (`ref`, permalinks traduits par langue).
-- **`technical-specifications.md`** : stack technique, hébergement/déploiement, architecture (génération des pages, routage), performance, accessibilité, SEO.
-- **`style-guide.md`** : charte graphique (couleurs, typographie, espacements), composants UI de base (en-tête, bannière de page, carousels, cartes Leaflet, barres de progression), iconographie.
-- **`screens/`** : une spécification fonctionnelle par écran (objectif, contenu, interactions, états, responsive) :
-  - `home.md` — accueil (carousel, manifeste, portfolio, équipe, compteurs)
-  - `country.md` — écran générique d'une page pays/destination (une trentaine de pages, un seul comportement)
-  - `world-map.md` — carte du monde interactive
-  - `calendar.md` — calendrier des meilleures saisons
-  - `faq.md` — foire aux questions
-  - `bonus.md` — sources d'eau chaude
-  - `inspiration.md` — inspirations voyage (livres, vidéos)
+- **`functional-specifications.md`**: site scope, target visitors, user journeys, cross-cutting rules (multilingual, navigation, header and footer).
+- **`data-model.md`**: the content families (country page, home page, calendar, world map, FAQ, bonus, inspiration), their data files (`_data/*.yml`), page front matter, naming conventions (`ref`, permalinks translated per language).
+- **`technical-specifications.md`**: technical stack, hosting/deployment, architecture (page generation, routing), performance, accessibility, SEO.
+- **`style-guide.md`**: visual identity (colors, typography, spacing), base UI components (header, page banner, carousels, Leaflet maps, progress bars), iconography.
+- **`screens/`**: one functional specification per screen (goal, content, interactions, states, responsive):
+  - `home.md`: home (carousel, manifesto, portfolio, team, counters)
+  - `country.md`: generic country/destination page screen (about thirty pages, a single behavior)
+  - `world-map.md`: interactive world map
+  - `calendar.md`: best-season calendar
+  - `faq.md`: frequently asked questions
+  - `bonus.md`: hot springs
+  - `inspiration.md`: travel inspiration (books, videos)
 
-## Quand et comment utiliser ces specs
+## When and how to use these specs
 
-- **Avant toute implémentation**, lire le ou les fichiers concernés par la tâche. Les quatre specs transverses (`functional-specifications.md`, `data-model.md`, `technical-specifications.md`, `style-guide.md`) s'appliquent à tout le site ; chaque fichier de `screens/` complète avec ce qui est propre à cet écran.
-- **Les fichiers se référencent constamment entre eux** ("voir `X.md`") plutôt que de dupliquer l'information. Suivre ces renvois plutôt que de deviner : si un écran mentionne une règle définie ailleurs (le comportement multilingue, une couleur de la charte...), la source de vérité est le fichier référencé, pas l'écran qui le cite.
-- **En cas de modification d'une spec**, chercher les autres fichiers qui la référencent (`grep` du nom de fichier dans `specs/`) et vérifier qu'ils restent cohérents avec le changement.
-- **En cas de doute ou de silence des specs** sur un point nécessaire à l'implémentation, demander plutôt que de supposer : ce sont des choix de conception, pas des détails d'implémentation libres.
-- **En cas d'écart entre le code existant et une spec** : ces specs ont été écrites après coup, à partir du code en place. Un écart repéré pendant une tâche a donc deux origines possibles, à distinguer avant d'agir : soit la spec décrit mal un comportement volontaire (corriger la spec), soit le code contient un oubli ou un bug que la rédaction des specs a mis en lumière (signaler à l'utilisateur, ne pas corriger silencieusement à l'occasion d'une tâche sans rapport). Une fois qu'une spec est confirmée correcte, elle fait foi : si une implémentation ultérieure doit s'en écarter, mettre à jour la spec et expliquer pourquoi plutôt que de diverger silencieusement dans le code.
+- **Before any implementation**, read the file(s) relevant to the task. The four cross-cutting specs (`functional-specifications.md`, `data-model.md`, `technical-specifications.md`, `style-guide.md`) apply to the whole site; each file in `screens/` adds what is specific to that screen.
+- **The files constantly reference each other** ("see `X.md`") rather than duplicating information. Follow these references rather than guessing: if a screen mentions a rule defined elsewhere (the multilingual behavior, a color from the style guide...), the source of truth is the referenced file, not the screen citing it.
+- **When modifying a spec**, search for the other files that reference it (`grep` the file name in `specs/`) and check that they remain consistent with the change.
+- **When in doubt, or when the specs are silent** on a point needed for the implementation, ask rather than assume: these are design decisions, not free implementation details.
+- **When the existing code and a spec diverge**: these specs were written after the fact, from the code in place. A divergence spotted during a task can therefore have two origins, to be told apart before acting: either the spec misdescribes an intentional behavior (fix the spec), or the code contains an oversight or a bug that writing the specs brought to light (report it to the user, do not silently fix it as part of an unrelated task). Once a spec is confirmed correct, it is authoritative: if a later implementation must depart from it, update the spec and explain why rather than silently diverging in the code.
 
-## Avant chaque commit
+## Before each commit
 
-- **Vérifier l'ensemble des fichiers de `specs/`** pour cohérence, pas seulement ceux directement modifiés par ce commit.
-- **Si une ou plusieurs specs doivent être ajustées**, bloquer le commit : proposer les mises à jour nécessaires et attendre validation avant de les appliquer, puis de committer.
+- **Check all files in `specs/`** for consistency, not only those directly modified by the commit.
+- **If one or more specs need to be adjusted**, block the commit: propose the necessary updates and wait for approval before applying them, then commit.
 
-## Conventions établies
+## Established conventions
 
-- Le contenu des specs (`specs/`, ce fichier) est en français : ce sont des documents de conception, pas de la documentation au sens des règles globales. Le code, les commentaires et les messages de commit restent en anglais, comme le reste du dépôt.
-- Les noms de fichiers, dossiers, slugs et identifiants techniques sont en anglais, en kebab-case (ex : `french-polynesia`, `home-carousel.html`), à l'exception des permalinks des pages françaises qui sont en français (voir "Conventions de nommage" dans `technical-specifications.md`).
-- Les couleurs et composants de la charte graphique sont définis une seule fois, dans `style-guide.md` : ne pas introduire de nouvelles valeurs de couleur ou de nouveaux styles de composants ailleurs sans les y ajouter d'abord.
-- `specs/` et ce fichier sont exclus du build Jekyll (voir `exclude:` dans `_config.yml`) : ce sont des fichiers de travail du dépôt, pas du contenu du site.
+- Everything in the repository is written in English: specs (`specs/`), this file, code, comments, commit messages. The only French text is the site content itself (French pages, `fr-*` keys in `_data/*.yml`) and the permalinks of French pages.
+- File names, folders, slugs and technical identifiers are in English, in kebab-case (e.g. `french-polynesia`, `home-carousel.html`), except the permalinks of French pages, which are in French (see "Naming conventions" in `technical-specifications.md`).
+- The colors and components of the visual identity are defined once, in `style-guide.md`: do not introduce new color values or new component styles elsewhere without adding them there first.
+- `specs/` and this file are excluded from the Jekyll build (see `exclude:` in `_config.yml`): they are working files of the repository, not site content.

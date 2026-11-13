@@ -1,26 +1,26 @@
-# Écran : calendrier
+# Screen: calendar
 
 `_layouts/calendar.html`, pages `pages/calendar.md` (FR, `/calendrier/`) / `-en.md` (EN, `/en/calendar/`), `ref: calendar`.
 
-## Objectif
+## Goal
 
-Aider le visiteur à choisir une période de voyage en listant, mois par mois, les destinations du site dont c'est la meilleure saison de plongée.
+Help the visitor choose a travel period by listing, month by month, the site's destinations whose best diving season it is.
 
-## Contenu et structure
+## Content and structure
 
-- Bannière de page (`sea: next` ; le premier `h1` de la bannière reste vide puisque `next` ne correspond à aucun des six océans, voir `style-guide.md`).
-- Grille de 12 tuiles, une par mois (`_data/calendar.yml`, voir `data-model.md`), même traitement visuel que le portfolio d'accueil (voir "Portfolio" dans `style-guide.md`) à la différence que la légende du mois reste toujours visible (pas seulement au survol).
+- Page banner (`sea: next`; the first `h1` of the banner stays empty since `next` matches none of the six oceans, see `style-guide.md`).
+- Grid of 12 tiles, one per month (`_data/calendar.yml`, see `data-model.md`), same visual treatment as the home portfolio (see "Portfolio" in `style-guide.md`), except that the month caption is always visible (not only on hover).
 
 ## Interactions
 
-- **Clic sur une tuile mois** : ouvre une modale Bootstrap listant, par ordre alphabétique, toutes les destinations dont au moins une entrée `best-seasons` (`_data/countries/<ref>.yml`, voir `data-model.md`) couvre ce mois, avec un lien vers chaque page pays. La logique gère le passage d'une saison à cheval sur deux années civiles (ex. décembre → avril). Une destination avec plusieurs entrées `best-seasons` correspondant au même mois n'apparaît qu'une seule fois dans la liste.
-- **Survol d'une tuile** : zoom léger de l'image de fond (voir `style-guide.md`).
+- **Click on a month tile**: opens a Bootstrap modal listing, in alphabetical order, every destination for which at least one `best-seasons` entry (`_data/countries/<ref>.yml`, see `data-model.md`) covers that month, with a link to each country page. The logic handles seasons spanning two calendar years (e.g. December → April). A destination with several `best-seasons` entries matching the same month appears only once in the list.
+- **Hover over a tile**: slight zoom of the background image (see `style-guide.md`).
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-- Toutes les entrées `best-seasons` de chaque destination sont prises en compte pour le classement mensuel (une seule destination en a plusieurs : `indonesia`, 3 entrées).
-- Un mois sans destination correspondante affiche une modale vide (comportement non vérifié explicitement).
+- All the `best-seasons` entries of each destination are taken into account for the monthly listing (only one destination has several: `indonesia`, 3 entries).
+- A month with no matching destination displays an empty modal (behavior not explicitly verified).
 
 ## Responsive
 
-Pas de media query custom : grille Bootstrap standard (`col-*`), modale Bootstrap standard.
+No custom media query: standard Bootstrap grid (`col-*`), standard Bootstrap modal.

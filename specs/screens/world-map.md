@@ -1,27 +1,27 @@
-# Écran : carte du monde
+# Screen: world map
 
 `_layouts/map.html`, pages `pages/world-map.md` (FR, `/carte/`) / `-en.md` (EN, `/en/map/`), `ref: world-map`.
 
-## Objectif
+## Goal
 
-Donner une vue d'ensemble géographique de tous les lieux visités par les auteurs, plongées comme escales sans page dédiée.
+Give a geographical overview of all the places visited by the authors, dives as well as stopovers without a dedicated page.
 
-## Contenu et structure
+## Content and structure
 
-- Pas de bannière de page (le layout n'inclut pas `page-banner.html`, contrairement aux autres écrans hors accueil).
-- Carte Leaflet plein écran (`#worldMap`, hauteur `calc(100vh - 66px - 36px)`, entre l'en-tête et le pied de page), centrée sur `[0, 0]`, zoom initial 2, fond de tuiles satellite Esri World Imagery (voir `style-guide.md`).
-- Un marqueur par entrée de `_data/world-map.yml` (voir `data-model.md` pour le détail des champs), plus un marqueur "Home sweet home" (icône dédiée `homeIcon`) à Paris.
+- No page banner (the layout does not include `page-banner.html`, unlike the other screens apart from the home page).
+- Full-screen Leaflet map (`#worldMap`, height `calc(100vh - 66px - 36px)`, between the header and the footer), centered on `[0, 0]`, initial zoom 2, Esri World Imagery satellite tile layer (see `style-guide.md`).
+- One marker per entry of `_data/world-map.yml` (see `data-model.md` for the field details), plus a "Home sweet home" marker (dedicated `homeIcon` icon) in Paris.
 
 ## Interactions
 
-- **Clic sur un marqueur** : ouvre un popup Leaflet standard (comportement natif de la librairie, pas de JS custom) affichant le libellé du lieu, éventuellement un lien vers sa page pays si le point porte un `ref` (voir `data-model.md`), et la date de visite.
-- Zoom/déplacement de la carte : interactions Leaflet standards (molette, glisser, boutons +/-).
-- Pas de filtre par océan, par saison ni par type de lieu : tous les marqueurs sont affichés simultanément.
+- **Click on a marker**: opens a standard Leaflet popup (native library behavior, no custom JS) showing the place label, possibly a link to its country page if the point has a `ref` (see `data-model.md`), and the visit date.
+- Map zoom/pan: standard Leaflet interactions (mouse wheel, drag, +/- buttons).
+- No filter by ocean, season or place type: all markers are displayed at once.
 
-## États (chargement, erreur, vide)
+## States (loading, error, empty)
 
-- Aucun état particulier : la liste de marqueurs vient intégralement de `_data/world-map.yml`, présente à chaque build.
+- No particular state: the list of markers comes entirely from `_data/world-map.yml`, present at every build.
 
 ## Responsive
 
-Pas de media query custom : la carte occupe systématiquement `calc(100vh - 66px - 36px)`, quelle que soit la taille d'écran ; le zoom/pan tactile est géré nativement par Leaflet sur mobile.
+No custom media query: the map always takes up `calc(100vh - 66px - 36px)`, regardless of screen size; touch zoom/pan is handled natively by Leaflet on mobile.
