@@ -8,7 +8,7 @@ Scuba diving travel site of Sam & Tof (and Ti'Crab): one page per country/destin
 
 ## Structure of `specs/`
 
-- **`functional-specifications.md`**: site scope, target visitors, user journeys, cross-cutting rules (multilingual, navigation, no footer).
+- **`functional-specifications.md`**: site scope, target visitors, user journeys, cross-cutting rules (multilingual, navigation, header and footer).
 - **`data-model.md`**: the content families (country page, home page, calendar, world map, FAQ, bonus, inspiration), their data files (`_data/*.yml`), page front matter, naming conventions (`ref`, permalinks translated per language).
 - **`technical-specifications.md`**: technical stack, hosting/deployment, architecture (page generation, routing), performance, accessibility, SEO.
 - **`style-guide.md`**: visual identity (colors, typography, spacing), base UI components (header, page banner, carousels, Leaflet maps, progress bars), iconography.
